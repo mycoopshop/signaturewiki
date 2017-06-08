@@ -27,5 +27,9 @@ Welcome to the signature wiki!
 
 * http://themaninblue.com/experiment/AnimationBenchmark/canvas/
 * http://www.craftymind.com/factory/guimark2/HTML5ChartingTest.html
+* http://jsfiddle.net/N8Zs5/18/
+* http://jsfiddle.net/trixta/Wvaca/
+* https://www.html5rocks.com/en/tutorials/casestudies/wordico/
+* http://help.adobe.com/en_US/air/html/dev/WS5b3ccc516d4fbf351e63e3d118666ade46-7d54.html
 
 * http://www.craftinginterpreters.com/parsing-expressions.html
