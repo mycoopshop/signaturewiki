@@ -12,3 +12,7 @@ Welcome to the signature wiki!
 * http://unitjs.com/guide/assert-node-js.html
 * https://github.com/defunctzombie/commonjs-assert/blob/master/test.js
 * https://github.com/commonjs/commonjs/blob/master/tests/unit-testing/1.0/program.js
+
+* https://earldouglas.com/posts/slfp.html
+* https://philipwalton.com/articles/side-effects-in-css/
+* http://www.craftinginterpreters.com/parsing-expressions.html
