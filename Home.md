@@ -15,4 +15,17 @@ Welcome to the signature wiki!
 
 * https://earldouglas.com/posts/slfp.html
 * https://philipwalton.com/articles/side-effects-in-css/
+
+* https://dev.opera.com/articles/opera-mini-and-javascript/
+* http://www.opera.com/docs/operafilesnix/
+* https://www.opera.com/developer/mobile-emulator
+* http://www.opera.com/docs/specs/presto22/security/
+* https://dev.opera.com/articles/installing-opera-mini-on-your-computer/
+* http://forums.opera.com/discussion/1845385/could-any-one-give-link-opera-mini-latest-jar-file-download-for-nokia-java-mobiles/p1
+
+* http://nvidia.custhelp.com/app/answers/detail/a_id/4110/~/known-issues-or-configuration-reasons%3A-opengl%2Fdirectx%2Fgpu-acceleration-not-used
+
+* http://themaninblue.com/experiment/AnimationBenchmark/canvas/
+* http://www.craftymind.com/factory/guimark2/HTML5ChartingTest.html
+
 * http://www.craftinginterpreters.com/parsing-expressions.html
