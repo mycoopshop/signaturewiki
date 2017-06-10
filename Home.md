@@ -39,3 +39,4 @@ Welcome to the signature wiki!
 * http://help.adobe.com/en_US/air/html/dev/WS5b3ccc516d4fbf351e63e3d118666ade46-7d54.html
 
 * http://www.craftinginterpreters.com/parsing-expressions.html
+* https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
