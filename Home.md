@@ -29,6 +29,12 @@ Welcome to the signature wiki!
 * http://www.craftymind.com/factory/guimark2/HTML5ChartingTest.html
 * http://jsfiddle.net/N8Zs5/18/
 * http://jsfiddle.net/trixta/Wvaca/
+
+* https://www.godaddy.com/help/software-versions-shared-hosting-897
+* https://trends.builtwith.com/cms/Google-Sites
+* https://trends.builtwith.com/javascript/Backbase
+* http://designingwebinterfaces.com/essential_controls
+* https://trends.builtwith.com/cms/Joomla!
 * https://www.html5rocks.com/en/tutorials/casestudies/wordico/
 * http://help.adobe.com/en_US/air/html/dev/WS5b3ccc516d4fbf351e63e3d118666ade46-7d54.html
 
