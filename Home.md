@@ -15,6 +15,8 @@ Welcome to the signature wiki!
 
 * https://earldouglas.com/posts/slfp.html
 * https://philipwalton.com/articles/side-effects-in-css/
+* https://facebook.github.io/react/docs/conditional-rendering.html
+* https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 * https://dev.opera.com/articles/opera-mini-and-javascript/
 * http://www.opera.com/docs/operafilesnix/
