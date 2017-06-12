@@ -89,3 +89,4 @@ Welcome to the signature wiki!
 
 * https://wiki.oasis-open.org/cmis/EndpointDocument
 * http://126kr.com/article/w4sguyfsl
+* https://dvcs.w3.org/hg/microxml/raw-file/tip/spec/microxml.html
