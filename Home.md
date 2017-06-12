@@ -41,3 +41,7 @@ Welcome to the signature wiki!
 * http://www.craftinginterpreters.com/parsing-expressions.html
 * https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
 * https://pages.github.com/themes/
+* https://semantic-ui.com/behaviors/api.html
+* https://www.w3.org/TR/appmanifest/
+* https://mimesniff.spec.whatwg.org/
+* https://www.addthis.com/plans
