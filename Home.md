@@ -82,3 +82,6 @@ Welcome to the signature wiki!
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm
 * http://www.adobe.com/devnet/digitalpublishingsuite/articles/integrating-dps-crm-systems-salesforce.html
 * https://developer.salesforce.com/page/Digging_Deeper_into_OAuth_2.0_on_Force.com
+
+* https://wiki.oasis-open.org/cmis/EndpointDocument
+* http://126kr.com/article/w4sguyfsl
