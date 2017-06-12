@@ -45,3 +45,38 @@ Welcome to the signature wiki!
 * https://www.w3.org/TR/appmanifest/
 * https://mimesniff.spec.whatwg.org/
 * https://www.addthis.com/plans
+
+* http://www.ibm.com/developerworks/library/j-5things7/
+* http://www.redbooks.ibm.com/redpapers/pdfs/redp5070.pdf
+* https://www.ibm.com/developerworks/library/j-jtp01274/
+* http://www.ibm.com/developerworks/java/jdk/aix/14_64/sdkguide.aix64.html
+* https://www.ibm.com/developerworks/library/j-dclp1/
+* https://www.ibm.com/support/knowledgecenter/SSEQTP_8.5.5/com.ibm.websphere.nd.multiplatform.doc/ae/tprf_tunejvm_v61.html
+* http://www.ibm.com/developerworks/library/j-jtp11253/
+* http://www.ibm.com/developerworks/library/j-memoryanalyzer/
+* https://www.ibm.com/developerworks/community/blogs/9999b4b2-2d56-4a95-a4ff-a4c2e55f5cc8/entry/tuning_java_virtual_machines?lang=en
+* https://www.ibm.com/developerworks/library/j-5things11/
+* http://www.ibm.com/developerworks/systems/library/es-JITDiag.html
+* https://www.ibm.com/developerworks/library/j-nativememory-linux/
+* https://www.ibm.com/developerworks/library/j-benchmark1/
+* http://www.oracle.com/technetwork/java/hotspotfaq-138619.html
+* http://docs.oracle.com/cd/E17904_01/web.1111/e13814/jvm_tuning.htm#PERFM158
+* http://www.oracle.com/technetwork/java/javase/tech/biasedlocking-oopsla2006-preso-150106.pdf
+* http://www.ibm.com/support/knowledgecenter/SSYKE2_7.0.0/com.ibm.java.win.70.doc/diag/appendixes/env_var/env_jvm.html
+* https://www.ibm.com/support/knowledgecenter/SSYKE2_7.0.0/com.ibm.java.win.70.doc/diag/appendixes/cmdline/cmdline_specifying.html
+* http://www.ibm.com/support/knowledgecenter/SSYKE2_7.1.0/com.ibm.java.aix.71.doc/user/specifying_options.html
+* http://www.ibm.com/support/knowledgecenter/SSYKE2_7.1.0/com.ibm.java.aix.71.doc/diag/appendixes/cmdline/Xoptionsfile.html
+* http://apmblog.dynatrace.com/2011/05/11/how-garbage-collection-differs-in-the-three-big-jvms/
+
+
+* https://www.filemaker.com/help/14/fmp/en/html/relational.12.10.html
+* https://technet.microsoft.com/en-us/library/ms177490(v=sql.105).aspx
+* http://www.cs.toronto.edu/~ryanjohn/teaching/cscc43-s13/tutorials/RA_inner_joins_self_joins_answers.pdf
+
+
+* https://developer.mozilla.org/en-US/docs/Web/Events/copy
+* https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
+* https://trailhead.salesforce.com/modules/lightning_design_system
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm
+* http://www.adobe.com/devnet/digitalpublishingsuite/articles/integrating-dps-crm-systems-salesforce.html
+* https://developer.salesforce.com/page/Digging_Deeper_into_OAuth_2.0_on_Force.com
