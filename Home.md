@@ -97,3 +97,4 @@ Welcome to the signature wiki!
 * https://en.wikipedia.org/wiki/Golden_ratio_base
 * http://rosettacode.org/wiki/Modulinos
 * https://rosettacode.org/wiki/Executable_library
+* http://www.phrenzy.org/blog/cache-invalidation-with-memcache
