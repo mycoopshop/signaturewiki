@@ -95,3 +95,4 @@ Welcome to the signature wiki!
 * https://www.techopedia.com/definition/21679/relational-calculus
 * http://wvsant.blogspot.com/2014/09/tuple-calculus-using-java-8-streams.html
 * https://en.wikipedia.org/wiki/Golden_ratio_base
+* http://rosettacode.org/wiki/Modulinos
