@@ -90,3 +90,8 @@ Welcome to the signature wiki!
 * https://wiki.oasis-open.org/cmis/EndpointDocument
 * http://126kr.com/article/w4sguyfsl
 * https://dvcs.w3.org/hg/microxml/raw-file/tip/spec/microxml.html
+* https://www.ysi.com/ysi-blog/water-blogged-blog/2015/02/why-is-the-ph-scale-logarithmic
+* http://www.nyu.edu/classes/jcf/CSCI-GA.2433-001/slides/session5/RelationalAlgebra-RelationalCalculus-SQL.pdf
+* https://www.techopedia.com/definition/21679/relational-calculus
+* http://wvsant.blogspot.com/2014/09/tuple-calculus-using-java-8-streams.html
+* https://en.wikipedia.org/wiki/Golden_ratio_base
