@@ -96,3 +96,4 @@ Welcome to the signature wiki!
 * http://wvsant.blogspot.com/2014/09/tuple-calculus-using-java-8-streams.html
 * https://en.wikipedia.org/wiki/Golden_ratio_base
 * http://rosettacode.org/wiki/Modulinos
+* https://rosettacode.org/wiki/Executable_library
