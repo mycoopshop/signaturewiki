@@ -98,3 +98,5 @@ Welcome to the signature wiki!
 * http://rosettacode.org/wiki/Modulinos
 * https://rosettacode.org/wiki/Executable_library
 * http://www.phrenzy.org/blog/cache-invalidation-with-memcache
+* https://github.com/tillkruss/redis-cache/issues/58
+* https://core.trac.wordpress.org/ticket/31245
