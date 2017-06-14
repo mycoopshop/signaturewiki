@@ -101,3 +101,4 @@ Welcome to the signature wiki!
 * https://github.com/tillkruss/redis-cache/issues/58
 * https://core.trac.wordpress.org/ticket/31245
 * https://metacpan.org/source/BDFOY/Modulino-Demo-1.001/lib/Modulino/Base.pm
+* https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js
