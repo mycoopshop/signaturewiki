@@ -1,5 +1,11 @@
 Welcome to the signature wiki!
 
+* http://cmsico.com/cms/view/Google+Sites/
+* https://sites.google.com/site/gsforschoolcsm/important-considerations/web-design
+* https://support.google.com/sites/answer/7176163?hl=en&ref_topic=6372873
+* https://support.google.com/sites/answer/6372864
+* https://support.google.com/sites/answer/6372865
+* https://support.google.com/sites/answer/97520
 * https://nodejs.org/en/docs/guides/backpressuring-in-streams/
 * https://stackoverflow.com/questions/tagged/walmart-electrode
 * https://facebook.github.io/react/docs/create-fragment.html
