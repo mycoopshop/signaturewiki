@@ -1,5 +1,10 @@
 Welcome to the signature wiki!
 
+* http://alvinalexander.com/blog/post/linux-unix/how-define-create-use-vi-vim-macros
+* http://wiki.c2.com/?GreatVimFeatures
+* http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
+* https://www.quora.com/What-are-the-most-amazing-features-of-Vi-Vim
+* https://superuser.com/questions/2099/what-vim-features-do-you-use
 * http://cmsico.com/cms/view/Google+Sites/
 * https://sites.google.com/site/gsforschoolcsm/important-considerations/web-design
 * https://support.google.com/sites/answer/7176163?hl=en&ref_topic=6372873
