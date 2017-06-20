@@ -1,5 +1,13 @@
 Welcome to the signature wiki!
 
+* http://www.steegle.com/google-sites/website-designs
+* https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube
+* https://sites.google.com/a/state.co.us/cdhs-leap/
+* http://www.appestry.biz/home
+* http://www.dist46.org/faculty
+* https://sites.google.com/site/scriptsexamples/home/announcements/new-template-gallery-in-awesome-table-website
+* https://sites.google.com/a/chromium.org/dev/developers/design-documents/http-authentication
+* https://sites.google.com/site/cldr/
 * https://orga.cat/posts/most-useful-git-commands
 * http://alvinalexander.com/blog/post/linux-unix/how-define-create-use-vi-vim-macros
 * http://wiki.c2.com/?GreatVimFeatures
