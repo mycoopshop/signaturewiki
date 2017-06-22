@@ -1,5 +1,7 @@
 Welcome to the signature wiki!
 
+* http://www.ipl.org/IPL/Finding?Key=xml&collection=gen
+* https://www.archives.gov/developer
 * http://www.steegle.com/google-sites/website-designs
 * https://sites.google.com/a/umich.edu/going-google/accessibility/google-keyboard-shortcuts---youtube
 * https://sites.google.com/a/state.co.us/cdhs-leap/
