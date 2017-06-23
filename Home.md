@@ -1,5 +1,7 @@
 Welcome to the signature wiki!
 
+* https://docs.microsoft.com/en-us/sql/t-sql/queries/select-examples-transact-sql
+* https://docs.microsoft.com/en-us/sql/ssma/mysql/mapping-mysql-databases-to-sql-server-schemas-mysqltosql
 * http://www.ipl.org/IPL/Finding?Key=xml&collection=gen
 * https://www.archives.gov/developer
 * http://www.steegle.com/google-sites/website-designs
