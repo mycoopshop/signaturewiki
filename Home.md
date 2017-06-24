@@ -1,5 +1,12 @@
 Welcome to the signature wiki!
 
+https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/ownership-and-user-schema-separation-in-sql-server
+https://technet.microsoft.com/en-us/library/dd283095
+https://technet.microsoft.com/en-us/library/ms190387
+https://docs.microsoft.com/en-us/sql/relational-databases/security/authentication-access/principals-database-engine
+https://social.technet.microsoft.com/wiki/contents/articles/32410.sql-server-users-explained-back-to-basics.aspx
+https://technet.microsoft.com/en-us/library/cc974525
+https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/SQL.sql-content/live/t-sql.pdf
 * https://docs.microsoft.com/en-us/sql/t-sql/queries/select-examples-transact-sql
 * https://docs.microsoft.com/en-us/sql/ssma/mysql/mapping-mysql-databases-to-sql-server-schemas-mysqltosql
 * http://www.ipl.org/IPL/Finding?Key=xml&collection=gen
