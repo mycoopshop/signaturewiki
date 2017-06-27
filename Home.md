@@ -1,5 +1,8 @@
 Welcome to the signature wiki!
 
+* http://www.cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lynx
+* https://en.wikipedia.org/wiki/MINIX_3
+* https://en.wikipedia.org/wiki/ReactOS
 * https://www.chromium.org/blink/serviceworker/service-worker-faq
 * https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/ownership-and-user-schema-separation-in-sql-server
 * https://technet.microsoft.com/en-us/library/dd283095
