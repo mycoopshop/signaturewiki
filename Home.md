@@ -1,5 +1,10 @@
 Welcome to the signature wiki!
-
+* https://www.census.gov/data/developers/data-sets.html
+* https://www.digitalgov.gov/resources/content-management-systems-used-by-government-agencies/
+* https://www.virec.research.va.gov/
+* https://www.salesforce.com/assets/pdf/industries/nucleus-city-of-elgin.pdf
+* https://trust.salesforce.com/en/#systemStatus
+* https://www.digitalgov.gov/resources/content-management-systems-used-by-government-agencies/
 * http://www.cve.mitre.org/cgi-bin/cvekey.cgi?keyword=lynx
 * https://en.wikipedia.org/wiki/MINIX_3
 * https://en.wikipedia.org/wiki/ReactOS
