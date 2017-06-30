@@ -1,4 +1,10 @@
 Welcome to the signature wiki!
+* https://kahimyang.com/kauswagan/code-blogs/1464/2-ways-to-setup-ssl-on-tomcat-7
+* https://dzone.com/articles/setting-ssl-tomcat-5-minutes
+* http://code.haleby.se/2016/01/22/enable-ssl-in-jenkins-in-docker/
+* http://www.fourproc.com/2010/06/23/create-a-ssl-keystore-for-a-tomcat-server-using-openssl-.html
+* https://maven.apache.org/guides/mini/guide-repository-ssl.html
+* https://cwiki.apache.org/confluence/display/solr/Enabling+SSL
 * https://www.sslshopper.com/tomcat-ssl-installation-instructions.html
 * https://www.godaddy.com/help/tomcat-generate-csrs-and-install-certificates-5239
 * http://security-24-7.com/hardening-guide-for-tomcat-8-on-redhat-6-5-64bit-edition/
