@@ -1,4 +1,13 @@
 Welcome to the signature wiki!
+* https://www.sslshopper.com/tomcat-ssl-installation-instructions.html
+* https://www.godaddy.com/help/tomcat-generate-csrs-and-install-certificates-5239
+* http://security-24-7.com/hardening-guide-for-tomcat-8-on-redhat-6-5-64bit-edition/
+* https://support.cloudbees.com/hc/en-us/articles/219001547-How-to-setup-HTTPS-within-Jetty
+* https://support.sonatype.com/hc/en-us/articles/225023368-Troubleshooting-Eclipse-Jetty-SSL-Certificates
+* https://wiki.opennms.org/wiki/Standalone_HTTPS_with_Jetty
+* https://melo.myds.me/wordpress/lets-encrypt-for-tomcat-7-on-ds/
+* https://mladenadamovic.wordpress.com/2016/09/06/configure-tomcat-with-ssl-on-ubuntu-minimal/
+* https://www.digitalocean.com/community/tutorials/how-to-encrypt-tomcat-8-connections-with-apache-or-nginx-on-ubuntu-16-04
 * https://www.census.gov/data/developers/data-sets.html
 * https://www.digitalgov.gov/resources/content-management-systems-used-by-government-agencies/
 * https://www.virec.research.va.gov/
