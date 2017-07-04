@@ -1,4 +1,5 @@
 Welcome to the signature wiki!
+* https://html.spec.whatwg.org/multipage/workers.html#navigator.hardwareconcurrency
 * https://doc.lagout.org/Others/O%27Reilly%20Tomcat%20The%20Definitive%20Guide%20%282nd%20Edition%29.pdf
 * https://tomcat.apache.org/presentations.html
 * http://marc.info/?l=tomcat-user&m=104951559722619&w=2
