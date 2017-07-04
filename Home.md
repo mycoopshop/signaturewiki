@@ -1,4 +1,8 @@
 Welcome to the signature wiki!
+* https://doc.lagout.org/Others/O%27Reilly%20Tomcat%20The%20Definitive%20Guide%20%282nd%20Edition%29.pdf
+* https://tomcat.apache.org/presentations.html
+* http://marc.info/?l=tomcat-user&m=104951559722619&w=2
+* https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html
 * https://kahimyang.com/kauswagan/code-blogs/1464/2-ways-to-setup-ssl-on-tomcat-7
 * https://dzone.com/articles/setting-ssl-tomcat-5-minutes
 * http://code.haleby.se/2016/01/22/enable-ssl-in-jenkins-in-docker/
