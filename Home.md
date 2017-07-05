@@ -1,4 +1,20 @@
 Welcome to the signature wiki!
+
+* https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/SecureNetworking/SecureNetworking.html
+* https://developer.apple.com/library/content/technotes/tn2326/_index.html
+* https://developer.apple.com/library/content/qa/qa1727/_index.html
+* https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Articles/OverridingSSLChainValidationCorrectly.html
+* https://forums.developer.apple.com/thread/67493
+* https://developer.gnome.org/gio/stable/gio-TLS-Overview.html
+* https://ruleoftech.com/2012/using-cacert-org-signed-certificates-for-tls
+* http://wiki.cacert.org/FAQ/ImportRootCert
+* https://curl.haxx.se/docs/sslcerts.html
+* https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm
+* http://www.opera.com/security/advisory/944
+* https://dev-blog.apollodata.com/will-graphql-replace-rest-documentation-f1a55092ef9d
+* http://swapi.co/
+* http://help.marketingcloud.com/en/technical_library/xml_api/xml_api_migration_guide/
+* https://technet.microsoft.com/library/cc766285(WS.10).aspx
 * https://html.spec.whatwg.org/multipage/workers.html#navigator.hardwareconcurrency
 * https://doc.lagout.org/Others/O%27Reilly%20Tomcat%20The%20Definitive%20Guide%20%282nd%20Edition%29.pdf
 * https://tomcat.apache.org/presentations.html
@@ -6,6 +22,8 @@ Welcome to the signature wiki!
 * https://tomcat.apache.org/connectors-doc/miscellaneous/changelog.html
 * https://kahimyang.com/kauswagan/code-blogs/1464/2-ways-to-setup-ssl-on-tomcat-7
 * https://dzone.com/articles/setting-ssl-tomcat-5-minutes
+* https://eclipse.org/mosquitto/man/mosquitto-tls-7.php
+* https://www.eclipse.org/jetty/documentation/9.4.x/configuring-ssl.html
 * http://code.haleby.se/2016/01/22/enable-ssl-in-jenkins-in-docker/
 * http://www.fourproc.com/2010/06/23/create-a-ssl-keystore-for-a-tomcat-server-using-openssl-.html
 * https://maven.apache.org/guides/mini/guide-repository-ssl.html
