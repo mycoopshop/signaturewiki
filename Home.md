@@ -1,5 +1,11 @@
 Welcome to the signature wiki!
 
+* https://docs.aws.amazon.com/artifact/latest/ug/artifact-ug.pdf
+* https://alas.aws.amazon.com/
+* https://quicksight.aws/faq/
+* https://docs.aws.amazon.com/Route53/latest/APIReference/route53-apiref.pdf
+* https://docs.aws.amazon.com/lumberyard/latest/developerguide/lumberyard-dg.pdf
+
 * https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
 * https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
 * https://docs.aws.amazon.com/AmazonS3/latest/API/SOAPErrorResponses.html
