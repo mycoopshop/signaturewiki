@@ -1,6 +1,35 @@
 Welcome to the signature wiki!
 
+* https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+* https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+* https://docs.aws.amazon.com/AmazonS3/latest/API/SOAPErrorResponses.html
+* https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
 * https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/SecureNetworking/SecureNetworking.html
+* https://docs.aws.amazon.com/AWSECommerceService/latest/DG/SchemaLocation.html
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingSOAPOperations.html
+* https://docs.aws.amazon.com/AWSECommerceService/latest/DG/SchemaLocation.html
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingSOAPOperations.html
+* https://docs.aws.amazon.com/AmazonS3/latest/API/RESTObjectOps.html
+* http://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html#api-gateway-overview-aws-backbone
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/compile-software.html
+* https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Invalidation.html
+* https://docs.aws.amazon.com/apigateway/api-reference/link-relation/
+* https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs_express.html
+* https://aws.amazon.com/architecture/icons/
+* https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+
+* http://pld.cs.luc.edu/database/sql2.html#nested2
+* http://storm.apache.org/releases/1.1.0/storm-sql-reference.html
+* http://cs.slu.edu/~goldwamh/class/slu/csci371/2005_Fall/lectures/sqlquery/#nested
+* https://msdn.microsoft.com/en-us/library/ff647793.aspx
+* https://calcite.apache.org/docs/reference.html
+* https://explainextended.com/2009/09/18/not-in-vs-not-exists-vs-left-join-is-null-mysql/
+* http://www.sqlservergeeks.com/sql-server-indexing-for-aggregates-in-sql-server/
+* https://docs.oracle.com/middleware/1213/odsi/OSDID/create_update_phys_data.htm#OSDID308
+* https://rosettacode.org/wiki/Assertions#Objective-C
+* https://en.wikipedia.org/wiki/SCOOP_(software)
+
 * https://developer.apple.com/library/content/technotes/tn2326/_index.html
 * https://developer.apple.com/library/content/qa/qa1727/_index.html
 * https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/NetworkingTopics/Articles/OverridingSSLChainValidationCorrectly.html
