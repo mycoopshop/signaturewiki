@@ -1,5 +1,9 @@
 Welcome to the signature wiki!
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-software.html
+https://docs.aws.amazon.com/silk/latest/developerguide/silk-dg.pdf
+http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
+
 * https://docs.aws.amazon.com/artifact/latest/ug/artifact-ug.pdf
 * https://alas.aws.amazon.com/
 * https://quicksight.aws/faq/
