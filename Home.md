@@ -1,8 +1,29 @@
 Welcome to the signature wiki!
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-software.html
-https://docs.aws.amazon.com/silk/latest/developerguide/silk-dg.pdf
-http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
+* https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-software.html
+* https://docs.aws.amazon.com/silk/latest/developerguide/silk-dg.pdf
+* http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
+
+* https://yandex.com/support/zen/publishers/rss.html
+* https://nutch.apache.org/apidocs/apidocs-1.9/org/apache/nutch/microformats/reltag/package-summary.html
+* http://amundsen.com/talks/2014-06-apicraft-nyc/index.pdf
+* https://developer.chrome.com/extensions/devtools
+* https://www.w3.org/TR/activitystreams-core/
+* https://getstream.io/blog/designing-activity-stream-newsfeed-w3c-spec-for-that/
+* https://www.tjson.org/
+* http://inessential.com/2017/05/17/json_feed
+* https://www.w3.org/TR/micropub/
+
+http://textart.io/sequence
+https://textik.com/#24e03389e3500c95
+http://asciiflow.com/#
+
+https://lldb.llvm.org/symbolication.html
+
+https://docs.oracle.com/middleware/1213/coherence/develop-applications/cache_rtwtwbra.htm#COHDG5179
+https://docs.oracle.com/middleware/jet210/jet/developer/GUID-6931761F-DFE8-44AA-A0C5-6ACFA1042A6E.htm#JETDG396
+
+https://modpagespeed.com/doc/config_filters
 
 * https://docs.aws.amazon.com/artifact/latest/ug/artifact-ug.pdf
 * https://alas.aws.amazon.com/
