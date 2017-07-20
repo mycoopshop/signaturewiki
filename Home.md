@@ -1,10 +1,17 @@
 Welcome to the signature wiki!
 
+* http://www.joningram.co.uk/article/svg-smil-frame-animation/
+* https://css-tricks.com/svg-use-external-source/
+* http://www.andrewconnell.com/blog/dynamically-loading-gulp-tasks-for-simplified-reuse-and-maintenance
+* http://lea.verou.me/2012/01/what-we-still-can%E2%80%99t-do-client-side/
+* https://github.com/rollup/rollup/wiki/Troubleshooting
+* https://yandex.com/support/zen/publishers/rss.html
+
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-software.html
 * https://docs.aws.amazon.com/silk/latest/developerguide/silk-dg.pdf
 * http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
 
-* https://yandex.com/support/zen/publishers/rss.html
+* http://doc.cat-v.org/inferno/4th_edition/styx
 * https://nutch.apache.org/apidocs/apidocs-1.9/org/apache/nutch/microformats/reltag/package-summary.html
 * http://amundsen.com/talks/2014-06-apicraft-nyc/index.pdf
 * https://developer.chrome.com/extensions/devtools
