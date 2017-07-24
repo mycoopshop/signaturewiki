@@ -1,5 +1,32 @@
 Welcome to the signature wiki!
 
+* https://www.codeproject.com/Tips/755203/Export-HTML-table-to-Excel-With-CSS
+* https://medium.com/@the_taqquikarim/a-technique-for-saving-content-from-a-data-text-html-uri-10f045a8876d
+* http://landenlabs.com/cs-inlinehtmlimages/inlinehtmlimages.html
+* http://lxml.de/api/lxml.html.clean-pysrc.html
+* https://html.spec.whatwg.org/multipage/introduction.html#fingerprint-postMessage
+* http://blogs.adobe.com/accessibility/files/2015/03/CSUN15_AEM_A11y.pdf
+* https://docs.adobe.com/content/ddc/en/gems/aem-architecture/_jcr_content/par/download_0/file.res/QuestionsAnswers_AEM56_Architecture.pdf
+* http://www.eclipse.org/atl/usecases/ODMImplementation/
+* http://semanticweb.org/wiki/Truth_table.html
+
+* https://arxiv.org/pdf/1307.4186.pdf
+* http://entrepreneurdex.com/profiles/blogs/inspired-by-nature-the-art-of-biomimicry
+* http://www.sciencedirect.com/science/article/pii/S1877050914001070
+* http://www.huffingtonpost.com/great-work-cultures/biohacking-the-organizati_b_11080022.html
+* https://www.treehugger.com/natural-sciences/constructal-theory-introduction-to-the-inverse-of-biomimicry.html
+* http://www.sciencedirect.com/science/article/pii/S1110016815001702
+* https://www.ted.com/talks/janine_benyus_biomimicry_in_action/transcript?language=en
+* http://iopscience.iop.org/journal/1751-8121/labtalk/article/48239
+* https://hardware.slashdot.org/story/11/08/19/1218219/13-year-old-uses-fibonacci-sequence-for-solar-power-breakthrough
+* http://www.amnh.org/learn-teach/young-naturalist-awards/winning-essays2/2011-winning-essays/the-secret-of-the-fibonacci-sequence-in-trees/
+* https://maryrosecook.com/blog/post/the-fibonacci-heap-ruins-my-life
+* http://www-inst.eecs.berkeley.edu/~cs61bl/r//cur/trees/fibonacci-tree.html?topic=lab15.topic&step=7&course=
+* http://jwilson.coe.uga.edu/emat6680/parveen/fib_nature.htm
+* http://www.growingwiththeweb.com/data-structures/fibonacci-heap/overview/
+
+* http://www.kevinmarks.com/microformatschema.html
+
 * http://www.joningram.co.uk/article/svg-smil-frame-animation/
 * https://css-tricks.com/svg-use-external-source/
 * http://www.andrewconnell.com/blog/dynamically-loading-gulp-tasks-for-simplified-reuse-and-maintenance
