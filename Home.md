@@ -296,6 +296,7 @@ https://modpagespeed.com/doc/config_filters
 * http://www.nyu.edu/classes/jcf/CSCI-GA.2433-001/slides/session5/RelationalAlgebra-RelationalCalculus-SQL.pdf
 * https://www.techopedia.com/definition/21679/relational-calculus
 * http://wvsant.blogspot.com/2014/09/tuple-calculus-using-java-8-streams.html
+* https://www.foreach.be/blog/java-and-net-comparing-streams-linq
 * https://en.wikipedia.org/wiki/Golden_ratio_base
 * http://rosettacode.org/wiki/Modulinos
 * https://rosettacode.org/wiki/Executable_library
