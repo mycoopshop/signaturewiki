@@ -39,6 +39,7 @@ http://www.journal.au.edu/au_techno/2008/jan08/journal113_howto.pdf
 https://www.modelint.com/how-to-build-articulate-uml-class-models/
 
 http://database-programmer.blogspot.com/search?q=%22less+code%22
+https://www.lightningdesignsystem.com/guidelines/overview/
 
 https://www.buildzoom.com/property-info/395-head-st-san-francisco-ca
 https://www2.cslb.ca.gov/onlineservices/checklicenseII/LicenseDetail.aspx?LicNum=843118
