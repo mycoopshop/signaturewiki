@@ -27,6 +27,33 @@ Welcome to the signature wiki!
 
 * http://www.kevinmarks.com/microformatschema.html
 
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/how-to-combine-linq-queries-with-regular-expressions
+https://dzone.com/articles/who-ever-said-linq-predicates-
+https://blogs.msdn.microsoft.com/madst/2007/05/11/recursive-lambda-expressions/
+https://yanniss.github.io/algebras-ecoop15.pdf
+https://patternsinfp.wordpress.com/2010/12/31/stream-monad/
+https://kseo.github.io/posts/2017-01-25-write-your-own-stream-processing-library-part1.html
+
+http://turingmachine.io/
+http://www.journal.au.edu/au_techno/2008/jan08/journal113_howto.pdf
+https://www.modelint.com/how-to-build-articulate-uml-class-models/
+
+http://database-programmer.blogspot.com/search?q=%22less+code%22
+
+https://www.buildzoom.com/property-info/395-head-st-san-francisco-ca
+https://www2.cslb.ca.gov/onlineservices/checklicenseII/LicenseDetail.aspx?LicNum=843118
+
+
+http://hitchtest.readthedocs.io/en/latest/faq/why_yaml.html
+https://about.sourcegraph.com/go/valuable-lessons-in-over-engineering-the-core-of-kubernetes-kops
+http://www.dehora.net/journal/2005/04/
+http://opensourceconnections.com/blog/2013/05/20/how-does-a-search-engine-work-an-educational-trek-through-a-lucene-postings-format/
+
+http://electric-cloud.com/wiki/display/releasemanagement/Atlassian+Bamboo
+
+https://agilescout.com/technical-user-stories-3-reasons-not-to-have-them
+https://www.infoq.com/articles/distributed-agile-8-ways
+
 * http://www.joningram.co.uk/article/svg-smil-frame-animation/
 * https://css-tricks.com/svg-use-external-source/
 * http://www.andrewconnell.com/blog/dynamically-loading-gulp-tasks-for-simplified-reuse-and-maintenance
