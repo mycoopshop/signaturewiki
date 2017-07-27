@@ -189,6 +189,7 @@ https://modpagespeed.com/doc/config_filters
 * https://sites.google.com/a/chromium.org/dev/developers/design-documents/http-authentication
 * https://sites.google.com/site/cldr/
 * https://orga.cat/posts/most-useful-git-commands
+* http://www.davehofmann.de/?p=169
 * http://alvinalexander.com/blog/post/linux-unix/how-define-create-use-vi-vim-macros
 * http://wiki.c2.com/?GreatVimFeatures
 * http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
