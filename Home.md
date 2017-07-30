@@ -37,6 +37,18 @@ https://kseo.github.io/posts/2017-01-25-write-your-own-stream-processing-library
 http://turingmachine.io/
 http://www.journal.au.edu/au_techno/2008/jan08/journal113_howto.pdf
 https://www.modelint.com/how-to-build-articulate-uml-class-models/
+http://www.geeksforgeeks.org/dynamic-programming-set-1/
+http://www.cs.cmu.edu/afs/cs/academic/class/15210-s15/www/lectures/dp-notes.pdf
+https://people.eecs.berkeley.edu/~vazirani/algorithms/chap6.pdf
+http://cs.lmu.edu/~ray/notes/algpatterns/
+https://www.quora.com/What-are-differences-between-dynamic-divide-and-conquer-and-greedy-programming
+https://cis.temple.edu/~wangp/9615-AA/Lecture/06-DynamicPro.htm
+http://web.eecs.utk.edu/~leparker/Courses/CS581-spring14/Lectures/4-Jan-21-Max-Subarray-Dyn-Pgmg-no-answers.pdf
+http://www.engineering-bachelors-degree.com/algorithm/uncategorized/dynamic-programming/
+https://www.codechef.com/wiki/tutorial-dynamic-programming
+
+https://www.topcoder.com/
+https://www.coursera.org/
 
 http://database-programmer.blogspot.com/search?q=%22less+code%22
 https://www.lightningdesignsystem.com/guidelines/overview/
