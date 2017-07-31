@@ -99,6 +99,28 @@ https://docs.oracle.com/middleware/jet210/jet/developer/GUID-6931761F-DFE8-44AA-
 
 https://modpagespeed.com/doc/config_filters
 
+https://www.jacobinmag.com/2013/02/wage-slavery-and-republican-liberty/
+
+https://www.quora.com/What-are-differences-between-dynamic-divide-and-conquer-and-greedy-programming
+https://medium.freecodecamp.org/three-ways-to-title-case-a-sentence-in-javascript-676a9175eb27
+http://www.w3resource.com/javascript-exercises/javascript-string-exercise-34.php
+https://codereview.stackexchange.com/questions/113497/title-case-a-sentence-function
+
+https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
+https://technet.microsoft.com/en-us/library/ms188270(v=sql.105).aspx
+http://www.dalnefre.com/wp/2011/09/finger-tree-a-functional-value-object/
+
+https://www.balisage.net/Proceedings/vol10/html/Novatchev01/BalisageVol10-Novatchev01.html
+http://www.tkachenko.com/blog/archives/000268.html
+http://www.gobosoft.com/eiffel/gobo/xslt/overview.html
+
+http://www.westword.com/music/how-to-succeed-in-businesswith-hip-hop-7445800
+http://eslint.org/docs/rules/complexity
+https://en.wikipedia.org/wiki/Counting_sort
+https://softwareengineering.stackexchange.com/questions/194433/is-this-a-proper-rule-for-identifying-the-big-o-notation-of-an-algorithm
+https://cs.stackexchange.com/questions/192/how-to-come-up-with-the-runtime-of-algorithms
+http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
+
 * https://docs.aws.amazon.com/artifact/latest/ug/artifact-ug.pdf
 * https://alas.aws.amazon.com/
 * https://quicksight.aws/faq/
