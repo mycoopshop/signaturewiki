@@ -370,3 +370,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/supe
 * https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js
 
 https://en.wikipedia.org/wiki/SAR_Records
+
+http://www.oracle.com/us/corporate/profit/p27anniv-timeline-151918.pdf
