@@ -1,5 +1,13 @@
 Welcome to the signature wiki!
 
+https://www.nanog.org/sites/default/files/tuesday.general.donley.ipv6performance.17.pdf
+https://tools.keycdn.com/speed
+https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/
+http://www.monitis.com/blog/25-apache-performance-tuning-tips/
+https://blogs.akamai.com/2017/04/the-state-of-mobile-app-performance.html
+https://medium.com/a-data-driven-guy/why-ipv6-matters-mobile-performance-4f9cab673dad
+https://blog.sucuri.net/2016/08/ipv4-vs-ipv6-performance-comparison.html
+
 * https://www.codeproject.com/Tips/755203/Export-HTML-table-to-Excel-With-CSS
 * https://medium.com/@the_taqquikarim/a-technique-for-saving-content-from-a-data-text-html-uri-10f045a8876d
 * http://landenlabs.com/cs-inlinehtmlimages/inlinehtmlimages.html
@@ -109,6 +117,7 @@ https://codereview.stackexchange.com/questions/113497/title-case-a-sentence-func
 https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
 https://technet.microsoft.com/en-us/library/ms188270(v=sql.105).aspx
 http://www.dalnefre.com/wp/2011/09/finger-tree-a-functional-value-object/
+http://scienceblogs.com/goodmath/2010/04/26/finger-trees-done-right-i-hope/
 
 https://www.balisage.net/Proceedings/vol10/html/Novatchev01/BalisageVol10-Novatchev01.html
 http://www.tkachenko.com/blog/archives/000268.html
@@ -156,6 +165,8 @@ http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
 * https://docs.oracle.com/middleware/1213/odsi/OSDID/create_update_phys_data.htm#OSDID308
 * https://rosettacode.org/wiki/Assertions#Objective-C
 * https://en.wikipedia.org/wiki/SCOOP_(software)
+https://blog.jooq.org/2013/08/24/mit-prof-michael-stonebraker-the-traditional-rdbms-wisdom-is-all-wrong/
+http://db.cs.berkeley.edu/papers/Informix/www.informix.com/informix/corpinfo/zines/whitpprs/illuswp/wave.htm
 
 * https://developer.apple.com/library/content/technotes/tn2326/_index.html
 * https://developer.apple.com/library/content/qa/qa1727/_index.html
@@ -247,6 +258,23 @@ http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
 * https://github.com/vuejs/vuejs.org/issues/769
 * https://github.com/pagekit/vue-resource/issues/208
 
+https://mithril.js.org/jsx.html
+https://dev.to/kayis/react-without-jsx-t7-to-the-rescue
+http://blog.brew.com.hk/build-a-react-application-from-first-principles-jsx/
+https://blogs.gnome.org/desrt/2016/08/17/a-quick-look-at-using-jsx-in-gnome/
+http://www.diva-portal.org/smash/get/diva2:1120350/FULLTEXT01.pdf
+
+http://httpd.apache.org/docs/current/caching.html
+https://httpd.apache.org/docs/2.4/mod/mod_cache_disk.html
+https://www.digitalocean.com/community/tutorials/how-to-configure-content-caching-using-apache-modules-on-a-vps
+https://httpd.apache.org/docs/2.4/socache.html
+https://www.ibm.com/support/knowledgecenter/en/SSEQTJ_9.0.0/com.ibm.websphere.ihs.doc/ihs/rihs_apachemods.html
+http://www.anujgakhar.com/2012/02/10/using-apache-mod_cache/
+http://mydailyjava.blogspot.com/2013/07/extending-guava-caches-to-overflow-to.html
+
+https://facebook.github.io/react/docs/update.html
+https://www.slideshare.net/ZhihaoLi1/react-reconciliation-and
+
 * https://nodejs.org/api/assert.html
 * https://nelsonic.gitbooks.io/node-js-by-example/content/core/assert/README.html
 * http://unitjs.com/guide/assert-node-js.html
@@ -318,6 +346,7 @@ http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
 
 * https://developer.mozilla.org/en-US/docs/Web/Events/copy
 * https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super
 * https://trailhead.salesforce.com/modules/lightning_design_system
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm
 * http://www.adobe.com/devnet/digitalpublishingsuite/articles/integrating-dps-crm-systems-salesforce.html
@@ -339,3 +368,5 @@ http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
 * https://core.trac.wordpress.org/ticket/31245
 * https://metacpan.org/source/BDFOY/Modulino-Demo-1.001/lib/Modulino/Base.pm
 * https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js
+
+https://en.wikipedia.org/wiki/SAR_Records
