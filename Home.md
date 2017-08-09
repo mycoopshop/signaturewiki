@@ -343,6 +343,13 @@ https://www.slideshare.net/ZhihaoLi1/react-reconciliation-and
 * https://technet.microsoft.com/en-us/library/ms177490(v=sql.105).aspx
 * http://www.cs.toronto.edu/~ryanjohn/teaching/cscc43-s13/tutorials/RA_inner_joins_self_joins_answers.pdf
 
+https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/
+https://hacks.mozilla.org/2017/05/debugger-html-call-stack-improvements/
+
+https://www.quora.com/What-are-the-best-songs-about-history
+
+https://jgomezb.github.io/presentations/nodejs-threading-model/#/22
+https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 
 * https://developer.mozilla.org/en-US/docs/Web/Events/copy
 * https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
@@ -372,3 +379,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/supe
 https://en.wikipedia.org/wiki/SAR_Records
 
 http://www.oracle.com/us/corporate/profit/p27anniv-timeline-151918.pdf
+
+https://westurner.github.io/tools/
