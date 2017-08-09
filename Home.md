@@ -234,6 +234,7 @@ http://db.cs.berkeley.edu/papers/Informix/www.informix.com/informix/corpinfo/zin
 * https://sites.google.com/a/chromium.org/dev/developers/design-documents/http-authentication
 * https://sites.google.com/site/cldr/
 * https://orga.cat/posts/most-useful-git-commands
+http://hyperpolyglot.org/version-control
 * http://www.davehofmann.de/?p=169
 * http://alvinalexander.com/blog/post/linux-unix/how-define-create-use-vi-vim-macros
 * http://wiki.c2.com/?GreatVimFeatures
@@ -250,13 +251,27 @@ http://db.cs.berkeley.edu/papers/Informix/www.informix.com/informix/corpinfo/zin
 * https://stackoverflow.com/questions/tagged/walmart-electrode
 * https://facebook.github.io/react/docs/create-fragment.html
 * http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/
+* https://andywalpole.me/blog/148637/stripping-react-redux-development-code-production-builds-using-webpack
+* https://www.fullstackreact.com/articles/better-redux-module-management/
+* http://jlongster.com/A-Simple-Way-to-Route-with-Redux
+* http://cmichel.io/using-actions-in-redux-the-correct-way/
+* https://news.ycombinator.com/item?id=10940845
+https://github.com/reactjs/redux/issues/606
 * https://facebook.github.io/react/contributing/implementation-notes.html
 * https://github.com/MithrilJS/mithril.js/issues/618
 * https://rynop.com/2017/04/20/howto-serve-angular2-app-from-s3-and-cloudfront-with-free-https/
+* http://eisenbergeffect.bluespire.com/on-angular-2-and-html/
 * https://yakovfain.com/2015/10/23/angular-typescript-systemjs-and-browser-cache/
 * http://vuejsdevelopers.com/2017/04/01/vue-js-prerendering-node-laravel/
 * https://github.com/vuejs/vuejs.org/issues/769
 * https://github.com/pagekit/vue-resource/issues/208
+
+https://www.toptal.com/react/navigating-the-react-ecosystem
+https://css-tricks.com/learning-react-redux/
+https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6
+http://christianalfoni.github.io/javascript/2014/09/26/using-flux-with-angular.html
+https://x-team.com/blog/performant-angular-with-redux-and-immutable/
+https://medium.com/@gerard.sans/angular-using-flux-6a835c9c0656
 
 https://mithril.js.org/jsx.html
 https://dev.to/kayis/react-without-jsx-t7-to-the-rescue
@@ -351,6 +366,11 @@ https://www.quora.com/What-are-the-best-songs-about-history
 https://jgomezb.github.io/presentations/nodejs-threading-model/#/22
 https://nodesource.com/blog/understanding-the-nodejs-event-loop/
 https://howtonode.org/understanding-process-next-tick
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+https://codequs.com/p/HyN8p0SK/what-s-reason-switch-from-node-js-to-golang/
+http://chimera.labs.oreilly.com/books/1234000001808/ch05.html#chap7_id35952592
+https://nodeaddons.com/streaming-data-from-c-to-node-js/
+https://www.zivtech.com/blog/nodejs-stream-dreams
 
 * https://developer.mozilla.org/en-US/docs/Web/Events/copy
 * https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
