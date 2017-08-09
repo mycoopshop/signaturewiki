@@ -350,6 +350,7 @@ https://www.quora.com/What-are-the-best-songs-about-history
 
 https://jgomezb.github.io/presentations/nodejs-threading-model/#/22
 https://nodesource.com/blog/understanding-the-nodejs-event-loop/
+https://howtonode.org/understanding-process-next-tick
 
 * https://developer.mozilla.org/en-US/docs/Web/Events/copy
 * https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
