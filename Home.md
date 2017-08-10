@@ -412,3 +412,6 @@ http://get-finch.com/2017/03/28/why_node_solved_the_wrong_problem.html
 
 http://www.aemcq5tutorials.com/interview-questions/tricky-cq5-interview-questions-for-beginners/
 http://experience-aem.blogspot.com/2016/04/aem-62-touch-ui-dialog-rte-rich-text-editor-color-picker-plugin.html
+
+https://www.maxcdn.com/blog/free-open-source-cdns/
+https://www.intel.com/content/www/us/en/homepage.html
