@@ -404,3 +404,11 @@ https://en.wikipedia.org/wiki/SAR_Records
 http://www.oracle.com/us/corporate/profit/p27anniv-timeline-151918.pdf
 
 https://westurner.github.io/tools/
+https://nodeaddons.com/how-not-to-access-node-js-from-c-worker-threads/
+http://www.andygup.net/node-js-moving-intensive-tasks-to-a-child-process/
+https://github.com/nodejs/roadmap/issues/54
+http://onilabs.com/blog/stratified-node-io-performance
+http://get-finch.com/2017/03/28/why_node_solved_the_wrong_problem.html
+
+http://www.aemcq5tutorials.com/interview-questions/tricky-cq5-interview-questions-for-beginners/
+http://experience-aem.blogspot.com/2016/04/aem-62-touch-ui-dialog-rte-rich-text-editor-color-picker-plugin.html
