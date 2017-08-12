@@ -1,0 +1,10 @@
+/*
+Array oriented development
+function foo(){ foo.model.length ? foo.model.map()) : foo.model.push() }
+Use stackMachine() to push/pop all data
+Use inline mock arrays for conditional logic
+Unit test mock AJAX via data: IRIs
+Use hashed array tree for indexing
+Use interceptors for push/pop to store logic
+Use Object.keys + Object.values, map/reduce/filter, sort/slice/splice, evaluation
+*/
