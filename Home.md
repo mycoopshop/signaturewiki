@@ -415,3 +415,10 @@ http://experience-aem.blogspot.com/2016/04/aem-62-touch-ui-dialog-rte-rich-text-
 
 https://www.maxcdn.com/blog/free-open-source-cdns/
 https://www.intel.com/content/www/us/en/homepage.html
+
+https://search.proquest.com/openview/b90d20ff7e291da43584bf04669db3e6/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+https://fetch.spec.whatwg.org/
+https://lisafc.github.io/grpc.github.io/docs/guides/wire.html
+https://www.ibm.com/developerworks/library/wa-http2-under-the-hood/
+https://developers.google.com/web/fundamentals/performance/http2/
