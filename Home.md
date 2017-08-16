@@ -487,3 +487,10 @@ https://svn.apache.org/repos/asf/webservices/archive/soap/site/faq/faq_chawke.ht
 
 Terminology
 https://www-01.ibm.com/software/globalization/terminology/c.html
+
+http://microxchg.io/2015/talk/fred_george_microservices_challenges.html
+https://news.ycombinator.com/item?id=9706189
+https://www.linkedin.com/pulse/introduction-microservice-architecture-moataz-nabil
+http://www.freenerd.de/modeling-dependencies-in-a-microservice-architure
+https://plainoldobjects.com/2015/09/02/does-each-microservice-really-need-its-own-database-2/
+https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497911.pdf
