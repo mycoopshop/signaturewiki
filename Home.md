@@ -473,3 +473,14 @@ https://www.joyent.com/blog/optimizing-docker-on-triton
 
 https://docs.joyent.com/public-cloud/instances/infrastructure/images/smartos/couchdb
 https://medium.com/ibm-watson-data-lab/moving-data-from-dynamodb-to-cloudant-or-couchdb-4a4110a4e2d9
+
+SOAP
+https://www.example-code.com/vbscript/soap_web_service.asp
+https://www.hanselman.com/blog/GettingABASE64edAdobeAcrobatPDFFileOutOfASoapEnvelopeWithClassicASP.aspx
+http://help.sagecrm.com/on_premise/en/7.3SP3/dev/Content/Developer/WS_EgSampleSOAPRequests.htm
+https://wikis.gsic.uva.es/juaase/images/b/b4/Wang04.pdf
+https://msdn.microsoft.com/en-us/library/aa480503.aspx
+https://docs.oracle.com/cd/E23943_01/doc.1111/e10807/c25_wsdl_and_soap.htm
+https://www.ibm.com/support/knowledgecenter/en/SSMKHH_9.0.0/com.ibm.etools.mft.doc/au16550_.htm
+https://msdn.microsoft.com/en-us/library/ms996486.aspx
+https://svn.apache.org/repos/asf/webservices/archive/soap/site/faq/faq_chawke.html
