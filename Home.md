@@ -451,3 +451,15 @@ CSV proto-NoSQL projects:
 * [Exploring CLI Best Practices | Hacker News](https://news.ycombinator.com/item?id=12687711)
 
 * [Log Everything as JSON. Make Your Life Easier. | Hacker News](https://news.ycombinator.com/item?id=3896833)
+
+http://status.salesforce.com/status
+
+https://designsprintkit.withgoogle.com/
+http://www.kingcounty.gov/~/media/depts/executive/performance-strategy-budget/lean/documents/Lean_Glossary.ashx?la=en
+https://mn.gov/admin/assets/measurement_calculations_tools_handout_tcm36-68670.pdf
+https://cloud.gov/updates/
+https://www.nd.gov/itd/sites/itd/files/NDHealthIt/Resources/CBG-%20Best%20Prac.pdf
+https://www.codot.gov/business/process-improvement/tools-and-techniques/process-improvement-glossary
+https://www.ncbi.nlm.nih.gov/pubmed/10311786
+http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=822708
+http://www.dtic.mil/dtic/tr/fulltext/u2/a603087.pdf
