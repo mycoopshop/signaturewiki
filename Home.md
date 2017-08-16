@@ -463,3 +463,13 @@ https://www.codot.gov/business/process-improvement/tools-and-techniques/process-
 https://www.ncbi.nlm.nih.gov/pubmed/10311786
 http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=822708
 http://www.dtic.mil/dtic/tr/fulltext/u2/a603087.pdf
+
+https://www.joyent.com/blog/applications-on-autopilot
+https://www.joyent.com/blog/on-brunos-concern-about-the-current-coupling-of-node-js-and-v8
+https://www.joyent.com/blog/virtualizing-nics
+https://www.joyent.com/containerpilot/docs/lifecycle
+https://www.joyent.com/blog/tcp-puzzlers
+https://www.joyent.com/blog/optimizing-docker-on-triton
+
+https://docs.joyent.com/public-cloud/instances/infrastructure/images/smartos/couchdb
+https://medium.com/ibm-watson-data-lab/moving-data-from-dynamodb-to-cloudant-or-couchdb-4a4110a4e2d9
