@@ -439,3 +439,15 @@ http://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-Unlocked.pdf
 
 https://devcenter.heroku.com/changelog
 https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/containers_and_images.html
+
+CSV proto-NoSQL projects:
+
+* https://stackoverflow.com/questions/930044/how-could-the-unix-sort-command-sort-a-very-large-file
+
+* [Command-line tools can be 235x faster than your Hadoop cluster : programming](https://www.reddit.com/r/programming/comments/2svijo/commandline_tools_can_be_235x_faster_than_your/)
+
+* [Command-line tools can be faster than your Hadoop cluster | Hacker News](https://news.ycombinator.com/item?id=8908462)
+
+* [Exploring CLI Best Practices | Hacker News](https://news.ycombinator.com/item?id=12687711)
+
+* [Log Everything as JSON. Make Your Life Easier. | Hacker News](https://news.ycombinator.com/item?id=3896833)
