@@ -484,3 +484,6 @@ https://docs.oracle.com/cd/E23943_01/doc.1111/e10807/c25_wsdl_and_soap.htm
 https://www.ibm.com/support/knowledgecenter/en/SSMKHH_9.0.0/com.ibm.etools.mft.doc/au16550_.htm
 https://msdn.microsoft.com/en-us/library/ms996486.aspx
 https://svn.apache.org/repos/asf/webservices/archive/soap/site/faq/faq_chawke.html
+
+Terminology
+https://www-01.ibm.com/software/globalization/terminology/c.html
