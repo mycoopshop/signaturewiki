@@ -236,7 +236,7 @@ http://db.cs.berkeley.edu/papers/Informix/www.informix.com/informix/corpinfo/zin
 * https://sites.google.com/a/chromium.org/dev/developers/design-documents/http-authentication
 * https://sites.google.com/site/cldr/
 * https://orga.cat/posts/most-useful-git-commands
-http://hyperpolyglot.org/version-control
+* http://hyperpolyglot.org/version-control
 * http://www.davehofmann.de/?p=169
 * http://alvinalexander.com/blog/post/linux-unix/how-define-create-use-vi-vim-macros
 * http://wiki.c2.com/?GreatVimFeatures
@@ -488,9 +488,27 @@ https://svn.apache.org/repos/asf/webservices/archive/soap/site/faq/faq_chawke.ht
 Terminology
 https://www-01.ibm.com/software/globalization/terminology/c.html
 
+GIT
+https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-protocol.txt
+
 http://microxchg.io/2015/talk/fred_george_microservices_challenges.html
 https://news.ycombinator.com/item?id=9706189
 https://www.linkedin.com/pulse/introduction-microservice-architecture-moataz-nabil
 http://www.freenerd.de/modeling-dependencies-in-a-microservice-architure
 https://plainoldobjects.com/2015/09/02/does-each-microservice-really-need-its-own-database-2/
 https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497911.pdf
+
+MUSIC
+http://www.allmusic.com/album/public-enemy-mw0000671392
+
+SECURITY
+https://www.slideshare.net/x00mario/es6-en
+
+I18N
+https://www.w3.org/International/multilingualweb/dublin/slides/08-labra.pdf
+
+ONTOLOGY
+https://www.w3.org/2008/WebVideo/Annotations/drafts/ontology10/CR/mappings_tested/XMP.htm
+
+AEM
+https://sinnerschrader.github.io/aem-react/
