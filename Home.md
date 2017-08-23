@@ -493,6 +493,7 @@ https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-pr
 https://strk.kbt.io/blog/2011/06/07/getting-just-the-tip-of-a-remote-git-branch/comment-page-1/
 https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/30701724#30701724
 https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git
+https://rhnh.net/2012/05/26/automatically-pushing-git-repositories-to-bitbucket/
 
 http://microxchg.io/2015/talk/fred_george_microservices_challenges.html
 https://news.ycombinator.com/item?id=9706189
@@ -518,3 +519,9 @@ https://sinnerschrader.github.io/aem-react/
 
 ODBC
 https://www.ibm.com/support/knowledgecenter/en/SSULQD_7.2.1/com.ibm.nz.datacon.doc/t_datacon_odbc_connect_val_unix_linux.html
+
+VIM
+http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
+
+CHROME
+https://www.quora.com/How-can-I-earn-money-from-the-Chrome-extension-if-I-published-the-extension-for-free
