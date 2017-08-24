@@ -532,3 +532,6 @@ https://dzone.com/articles/animating-with-react-redux-and-d3
 
 DOM4
 https://medium.com/@vojta/so-react-is-getting-slower-with-increasing-number-of-elements-8d0c322e6245
+
+Animation
+https://sparkbox.github.io/bouncy-ball/#web-animations-api
