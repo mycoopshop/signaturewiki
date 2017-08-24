@@ -525,3 +525,10 @@ http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
 
 CHROME
 https://www.quora.com/How-can-I-earn-money-from-the-Chrome-extension-if-I-published-the-extension-for-free
+
+HTML5 Canvas
+https://react.rocks/tag/RequestAnimationFrame
+https://dzone.com/articles/animating-with-react-redux-and-d3
+
+DOM4
+https://medium.com/@vojta/so-react-is-getting-slower-with-increasing-number-of-elements-8d0c322e6245
