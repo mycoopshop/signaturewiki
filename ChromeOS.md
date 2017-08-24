@@ -1,0 +1,10 @@
+https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
+https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
+https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
+https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
+https://www.chromium.org/chromium-os/developer-guide/chromium-os-sandboxing
+https://www.chromium.org/chromium-os/chromiumos-design-docs/recovery-mode
+https://www.chromium.org/chromium-os/chromiumos-design-docs/network-portal-detection
+https://support.google.com/chromebook/answer/1080595
+https://support.google.com/chromebook/answer/183101?hl=en
+https://support.google.com/chromebook/answer/6250945?hl=en
