@@ -535,3 +535,6 @@ https://medium.com/@vojta/so-react-is-getting-slower-with-increasing-number-of-e
 
 Animation
 https://sparkbox.github.io/bouncy-ball/#web-animations-api
+
+Docker
+https://www.joyent.com/blog/container-native-discovery
