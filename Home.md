@@ -525,6 +525,10 @@ http://www.yolinux.com/TUTORIALS/LinuxTutorialAdvanced_vi.html
 
 CHROME
 https://www.quora.com/How-can-I-earn-money-from-the-Chrome-extension-if-I-published-the-extension-for-free
+https://developer.chrome.com/webstore/overview#charging
+https://blog.mozilla.org/blog/2017/01/17/equal-rating-innovation-challenge-and-the-semifinalists-are/
+https://developer.mozilla.org/en-US/docs/Games/Publishing_games/Game_monetization
+https://www.paypal.com/us/selfhelp/article/how-do-i-exchange-a-gift-card-faq3600
 
 HTML5 Canvas
 https://react.rocks/tag/RequestAnimationFrame
