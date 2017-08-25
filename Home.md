@@ -536,6 +536,11 @@ https://dzone.com/articles/animating-with-react-redux-and-d3
 
 DOM4
 https://medium.com/@vojta/so-react-is-getting-slower-with-increasing-number-of-elements-8d0c322e6245
+http://andrewhfarmer.com/component-communication/
+https://andywalpole.me/blog/148844/mediator-pattern-refactored-es6
+https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96
+http://blog.revathskumar.com/2014/11/javascript-mediator-pattern.html
+https://docs.tibco.com/products/tibco-pagebus-2-0
 
 Animation
 https://sparkbox.github.io/bouncy-ball/#web-animations-api
