@@ -500,7 +500,12 @@ https://strk.kbt.io/blog/2011/06/07/getting-just-the-tip-of-a-remote-git-branch/
 https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/30701724#30701724
 https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git
 https://rhnh.net/2012/05/26/automatically-pushing-git-repositories-to-bitbucket/
+https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html
+https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html
+https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html
+https://confluence.atlassian.com/bitbucket/troubleshoot-ssh-issues-271943403.html
 
+Microservices
 http://microxchg.io/2015/talk/fred_george_microservices_challenges.html
 https://news.ycombinator.com/item?id=9706189
 https://www.linkedin.com/pulse/introduction-microservice-architecture-moataz-nabil
