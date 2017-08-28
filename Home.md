@@ -83,6 +83,11 @@ https://www.infoq.com/articles/distributed-agile-8-ways
 * http://lea.verou.me/2012/01/what-we-still-can%E2%80%99t-do-client-side/
 * https://github.com/rollup/rollup/wiki/Troubleshooting
 * https://yandex.com/support/zen/publishers/rss.html
+* https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7
+* https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/
+* http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/
+* https://news.ycombinator.com/item?id=2300836
+* http://coryschires.com/dynamic-css3-buttons-with-less/
 
 * https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-software.html
 * https://docs.aws.amazon.com/silk/latest/developerguide/silk-dg.pdf
