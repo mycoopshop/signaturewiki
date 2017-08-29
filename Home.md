@@ -566,3 +566,8 @@ http://blog.scottlogic.com/2016/05/23/an-animated-chart-with-html5-canvas.html
 Docker
 https://www.joyent.com/blog/container-native-discovery
 https://developer.ibm.com/datapower/docker/
+
+Kerberos/NTLM
+https://blogs.msdn.microsoft.com/chiranth/2013/09/20/ntlm-want-to-know-how-it-works/
+https://blogs.msdn.microsoft.com/ieinternals/2011/07/06/integrated-windows-authentication/
+https://blogs.msdn.microsoft.com/david.wang/2005/07/15/howto-diagnose-401-x-http-errors-on-iis/
