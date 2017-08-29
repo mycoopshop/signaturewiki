@@ -495,18 +495,20 @@ Terminology
 https://www-01.ibm.com/software/globalization/terminology/c.html
 
 GIT 
-https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-protocol.txt
-https://strk.kbt.io/blog/2011/06/07/getting-just-the-tip-of-a-remote-git-branch/comment-page-1/
-https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/30701724#30701724
-https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git
-https://rhnh.net/2012/05/26/automatically-pushing-git-repositories-to-bitbucket/
-https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html
-https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html
-https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html
-https://confluence.atlassian.com/bitbucket/troubleshoot-ssh-issues-271943403.html
-https://community.atlassian.com/t5/Bitbucket-questions/Import-git-repositoy-using-git-or-ssh/qaq-p/106526
-https://git-scm.com/docs/git-update-server-info
-https://git-scm.com/docs/git-upload-pack
+* https://stackoverflow.com/questions/449541/how-do-you-merge-selective-files-with-git-merge
+* https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/30701724#30701724
+* https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-protocol.txt
+* https://strk.kbt.io/blog/2011/06/07/getting-just-the-tip-of-a-remote-git-branch/comment-page-1/
+* https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/30701724#30701724
+* https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git
+* https://rhnh.net/2012/05/26/automatically-pushing-git-repositories-to-bitbucket/
+* https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html
+* https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html
+* https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html
+* https://confluence.atlassian.com/bitbucket/troubleshoot-ssh-issues-271943403.html
+* https://community.atlassian.com/t5/Bitbucket-questions/Import-git-repositoy-using-git-or-ssh/qaq-p/106526
+* https://git-scm.com/docs/git-update-server-info
+* https://git-scm.com/docs/git-upload-pack
 
 
 Microservices
