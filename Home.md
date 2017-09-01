@@ -497,6 +497,7 @@ https://www-01.ibm.com/software/globalization/terminology/c.html
 GIT 
 * https://stackoverflow.com/questions/449541/how-do-you-merge-selective-files-with-git-merge
 * https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/
+* https://stackoverflow.com/questions/36820084/how-to-force-a-merge-to-succeed-when-there-are-conflicts
 * https://softwarecave.org/2014/03/03/git-how-to-resolve-merge-conflicts/
 * https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
 * https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-protocol.txt
