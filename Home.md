@@ -10,6 +10,9 @@ https://blogs.akamai.com/2017/04/the-state-of-mobile-app-performance.html
 https://medium.com/a-data-driven-guy/why-ipv6-matters-mobile-performance-4f9cab673dad
 https://blog.sucuri.net/2016/08/ipv4-vs-ipv6-performance-comparison.html
 
+Perl 
+https://perlmaven.com/how-to-change-inc-to-find-perl-modules-in-non-standard-locations
+
 * https://www.codeproject.com/Tips/755203/Export-HTML-table-to-Excel-With-CSS
 * https://medium.com/@the_taqquikarim/a-technique-for-saving-content-from-a-data-text-html-uri-10f045a8876d
 * http://landenlabs.com/cs-inlinehtmlimages/inlinehtmlimages.html
@@ -111,6 +114,7 @@ https://lldb.llvm.org/symbolication.html
 
 https://docs.oracle.com/middleware/1213/coherence/develop-applications/cache_rtwtwbra.htm#COHDG5179
 https://docs.oracle.com/middleware/jet210/jet/developer/GUID-6931761F-DFE8-44AA-A0C5-6ACFA1042A6E.htm#JETDG396
+https://homes.cs.washington.edu/~tom/pubs/webfs.html
 
 https://modpagespeed.com/doc/config_filters
 
@@ -161,6 +165,13 @@ http://www.cs.vu.nl/~x/rmsc/rmsc.pdf
 * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs_express.html
 * https://aws.amazon.com/architecture/icons/
 * https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+
+Python 
+* https://trac.edgewall.org/wiki/TracDev/PluginDevelopment
+* https://leemendelowitz.github.io/blog/how-does-python-find-packages.html
+* https://www.jetbrains.com/help/pycharm/run-debug-configuration-python-remote-debug.html
+* http://docs.enthought.com/edm/user/cli.html
+* http://setuptools.readthedocs.io/en/latest/formats.html
 
 * http://pld.cs.luc.edu/database/sql2.html#nested2
 * http://storm.apache.org/releases/1.1.0/storm-sql-reference.html
@@ -304,6 +315,13 @@ https://www.slideshare.net/ZhihaoLi1/react-reconciliation-and
 * https://github.com/defunctzombie/commonjs-assert/blob/master/test.js
 * https://github.com/commonjs/commonjs/blob/master/tests/unit-testing/1.0/program.js
 
+NPM 
+https://docs.npmjs.com/how-npm-works/npm3-dupe
+
+Mozilla 
+* https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM/Index
+* http://www.mozdev.org/projects/applications/
+
 * https://earldouglas.com/posts/slfp.html
 * https://philipwalton.com/articles/side-effects-in-css/
 * https://facebook.github.io/react/docs/conditional-rendering.html
@@ -371,14 +389,17 @@ https://hacks.mozilla.org/2017/05/debugger-html-call-stack-improvements/
 
 https://www.quora.com/What-are-the-best-songs-about-history
 
-https://jgomezb.github.io/presentations/nodejs-threading-model/#/22
-https://nodesource.com/blog/understanding-the-nodejs-event-loop/
-https://howtonode.org/understanding-process-next-tick
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
-https://codequs.com/p/HyN8p0SK/what-s-reason-switch-from-node-js-to-golang/
-http://chimera.labs.oreilly.com/books/1234000001808/ch05.html#chap7_id35952592
-https://nodeaddons.com/streaming-data-from-c-to-node-js/
-https://www.zivtech.com/blog/nodejs-stream-dreams
+* https://acemood.github.io/2016/02/01/event-loop-in-javascript/
+* https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
+* https://nodesource.com/blog/understanding-the-nodejs-event-loop/
+* https://jgomezb.github.io/presentations/nodejs-threading-model/#/22
+* https://nodesource.com/blog/understanding-the-nodejs-event-loop/
+* https://howtonode.org/understanding-process-next-tick
+* https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+* https://codequs.com/p/HyN8p0SK/what-s-reason-switch-from-node-js-to-golang/
+* http://chimera.labs.oreilly.com/books/1234000001808/ch05.html#chap7_id35952592
+* https://nodeaddons.com/streaming-data-from-c-to-node-js/
+* https://www.zivtech.com/blog/nodejs-stream-dreams
 
 * https://developer.mozilla.org/en-US/docs/Web/Events/copy
 * https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Creating_and_triggering_events
@@ -439,12 +460,17 @@ https://webdesign.tutsplus.com/tutorials/html5-mastery-fragments--cms-24842
 
 https://react-server.io/docs/intro/why-react-server
 
-https://www.ag-grid.com/change-log/changeLogIndex.php
-http://jimfrenette.com/tag/javascript/
-http://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-Unlocked.pdf
+* https://www.ag-grid.com/change-log/changeLogIndex.php
+* http://jimfrenette.com/tag/javascript/
+* http://pepa.holla.cz/wp-content/uploads/2016/08/JavaScript-Unlocked.pdf
 
-https://devcenter.heroku.com/changelog
-https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/containers_and_images.html
+Heroku /OpenShift 
+* https://12factor.net/
+* https://devcenter.heroku.com/changelog
+* https://docs.openshift.com/enterprise/3.0/architecture/core_concepts/containers_and_images.html
+* https://www.phusionpassenger.com/library/indepth/environment_variables.html
+* https://paasfinder.org/compare/heroku-vs-openshift%20online
+* https://access.redhat.com/documentation/en-US/Red_Hat_Software_Collections/2/html/Packaging_Guide/sect-Commonly_Used_Path_Redefinitions.html
 
 CSV proto-NoSQL projects:
 
@@ -499,6 +525,7 @@ GIT
 * https://stackoverflow.com/questions/14872486/retrieve-specific-commit-from-a-remote-git-repository/
 * https://stackoverflow.com/questions/36820084/how-to-force-a-merge-to-succeed-when-there-are-conflicts
 * https://stackoverflow.com/questions/10037356/how-to-merge-branches-in-git-by-hunk
+* http://chimera.labs.oreilly.com/books/1230000000561/ch07.html
 * https://softwarecave.org/2014/03/03/git-how-to-resolve-merge-conflicts/
 * https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
 * https://raw.githubusercontent.com/git/git/master/Documentation/technical/pack-protocol.txt
@@ -527,6 +554,7 @@ http://www.allmusic.com/album/public-enemy-mw0000671392
 
 SECURITY
 https://www.slideshare.net/x00mario/es6-en
+http://blog.honeybadger.io/securing-environment-variables/
 
 I18N
 https://www.w3.org/International/multilingualweb/dublin/slides/08-labra.pdf
