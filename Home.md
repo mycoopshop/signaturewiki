@@ -383,9 +383,12 @@ Mozilla
 * https://www.filemaker.com/help/14/fmp/en/html/relational.12.10.html
 * https://technet.microsoft.com/en-us/library/ms177490(v=sql.105).aspx
 * http://www.cs.toronto.edu/~ryanjohn/teaching/cscc43-s13/tutorials/RA_inner_joins_self_joins_answers.pdf
+* http://www-01.ibm.com/support/docview.wss?uid=swg21434177
+* https://www.ibm.com/developerworks/data/library/techarticle/dm-1512-ssl-data-server-driver-odbc-cli-trs/
+* https://developer.jboss.org/wiki/JDBCODBCSSLConnectionUsingSelf-signedSSLCertificatesWithTeiid
 
-https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/
-https://hacks.mozilla.org/2017/05/debugger-html-call-stack-improvements/
+* https://hacks.mozilla.org/2017/06/introducing-filterbubbler-a-webextension-built-using-reactredux/
+* https://hacks.mozilla.org/2017/05/debugger-html-call-stack-improvements/
 
 https://www.quora.com/What-are-the-best-songs-about-history
 
