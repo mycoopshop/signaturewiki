@@ -270,6 +270,7 @@ http://db.cs.berkeley.edu/papers/Informix/www.informix.com/informix/corpinfo/zin
 * https://facebook.github.io/react/docs/create-fragment.html
 * http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/
 * https://andywalpole.me/blog/148637/stripping-react-redux-development-code-production-builds-using-webpack
+* https://survivejs.com/webpack/appendices/comparison/
 * https://www.fullstackreact.com/articles/better-redux-module-management/
 * http://jlongster.com/A-Simple-Way-to-Route-with-Redux
 * http://cmichel.io/using-actions-in-redux-the-correct-way/
@@ -605,3 +606,11 @@ Kerberos/NTLM
 https://blogs.msdn.microsoft.com/chiranth/2013/09/20/ntlm-want-to-know-how-it-works/
 https://blogs.msdn.microsoft.com/ieinternals/2011/07/06/integrated-windows-authentication/
 https://blogs.msdn.microsoft.com/david.wang/2005/07/15/howto-diagnose-401-x-http-errors-on-iis/
+
+SSL
+http://www.freesoft.org/CIE/Topics/ssl-draft/3-SPEC.HTM
+https://www.schneier.com/academic/paperfiles/paper-ssl-revised.pdf
+
+Quotes
+https://www.coverfire.com/files/quotes.txt
+http://karlton.hamilton.com/mercury.html
