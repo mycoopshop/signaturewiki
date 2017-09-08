@@ -11,3 +11,6 @@
 * https://www.ibm.com/developerworks/data/library/techarticle/dm-0807deng/
 * https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.5.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFExtractingdata.html
 * https://developers.google.com/gdata/articles/salesforce
+
+Adobe 
+* https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
