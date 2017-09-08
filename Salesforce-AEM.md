@@ -7,3 +7,7 @@
 * https://www.lynda.com/Adobe-Experience-Design-tutorials/What-AEM/503884/552802-4.html
 * https://tekslate.com/category/salesforce-crm/
 * http://blogatsalesforce.blogspot.com/
+* http://www.informit.com/articles/article.aspx?p=2164576&seqNum=4
+* https://www.ibm.com/developerworks/data/library/techarticle/dm-0807deng/
+* https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.5.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFExtractingdata.html
+* https://developers.google.com/gdata/articles/salesforce
