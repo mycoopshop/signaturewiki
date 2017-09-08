@@ -5,3 +5,5 @@
 * https://www.lynda.com/Web-Development-tutorials/Understand-YAML/560344/590558-4.html
 * https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html
 * https://www.lynda.com/Adobe-Experience-Design-tutorials/What-AEM/503884/552802-4.html
+* https://tekslate.com/category/salesforce-crm/
+* http://blogatsalesforce.blogspot.com/
