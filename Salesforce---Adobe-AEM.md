@@ -11,6 +11,12 @@
 * https://www.ibm.com/developerworks/data/library/techarticle/dm-0807deng/
 * https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.5.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFExtractingdata.html
 * https://developers.google.com/gdata/articles/salesforce
+* https://developer.salesforce.com/page/Multi_Tenant_Architecture
+* https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
+* https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
+* http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
+* https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
+* https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
