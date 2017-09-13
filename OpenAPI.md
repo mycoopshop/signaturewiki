@@ -1,0 +1,10 @@
+http://apisjson.org/
+https://apis.guru/
+https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D/%7Brepo_slug%7D
+https://www.ibm.com/support/knowledgecenter/en/SS4SVW_beta/com.ibm.zosconnect.doc/designing/api_install_cert.html
+https://swagger.io/open-source-integrations/
+http://docs.oasis-open.org/odata/odata-openapi/v1.0/cnprd01/odata-openapi-v1.0-cnprd01.html
+https://www.npmjs.com/package/odata2openapi
+https://www.w3.org/2017/05/wot-f2f/slides/OCF_Overview_for_W3C_F2F_McCool.pdf
+https://nordicapis.com/api-discovery-15-ways-to-find-apis/
+https://developer.ibm.com/mainframe/docs/what-makes-a-good-api/whats-best-practice-for-http-verbs-with-apis/why-the-open-api-initiative-is-important-to-zos-connect-and-you/
