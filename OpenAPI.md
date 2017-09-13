@@ -1,5 +1,6 @@
 * http://apisjson.org/
 * https://apis.guru/
+* https://www.ibm.com/developerworks/library/wa-use-swagger-to-document-and-define-restful-apis/
 * https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D/%7Brepo_slug%7D
 * https://www.ibm.com/support/knowledgecenter/en/SS4SVW_beta/com.ibm.zosconnect.doc/designing/api_install_cert.html
 * https://swagger.io/open-source-integrations/
