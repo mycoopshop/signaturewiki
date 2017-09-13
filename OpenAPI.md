@@ -9,3 +9,4 @@
 * https://nordicapis.com/api-discovery-15-ways-to-find-apis/
 * https://developer.ibm.com/mainframe/docs/what-makes-a-good-api/whats-best-practice-for-http-verbs-with-apis/why-the-open-api-initiative-is-important-to-zos-connect-and-you/
 * https://www.ibm.com/developerworks/library/wa-use-swagger-to-document-and-define-restful-apis/
+* https://devcenter.heroku.com/articles/json-schema-for-platform-api
