@@ -4,3 +4,9 @@ https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-de
 https://aws.amazon.com/blogs/devops/building-continuous-deployment-on-aws-with-aws-codepipeline-jenkins-and-aws-elastic-beanstalk/
 http://docplayer.net/12506405-Developing-applications-using-continuous-integration-12c-12-2-1.html
 https://www.3pillarglobal.com/insights/testing-challenges-for-implementing-continuous-delivery
+https://azure.microsoft.com/mediahandler/files/resourcefiles/4626e9a1-ecd9-4ffb-ba61-169dd7dd7594/Enterprise_Cloud_Strategy_2nd_Edition_ebook.pdf
+https://cloud.google.com/docs/platform-launch-checklist
+https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/pipelines
+https://blog.openshift.com/multiple-deployment-methods-openshift/
