@@ -10,3 +10,6 @@ https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-co
 https://devcenter.heroku.com/articles/heroku-ci
 https://devcenter.heroku.com/articles/pipelines
 https://blog.openshift.com/multiple-deployment-methods-openshift/
+https://blog.openshift.com/cicd-with-openshift/
+https://blog.openshift.com/openshift-3-3-pipelines-deep-dive/
+https://blog.openshift.com/improving-build-time-java-builds-openshift/
