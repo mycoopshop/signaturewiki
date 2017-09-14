@@ -1,15 +1,16 @@
-http://www.methodsandtools.com/archive/archive.php?id=121
-http://docs.ansible.com/ansible/latest/guide_rolling_upgrade.html
-https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-deployments-of-cloudstack-to-production/
-https://aws.amazon.com/blogs/devops/building-continuous-deployment-on-aws-with-aws-codepipeline-jenkins-and-aws-elastic-beanstalk/
-http://docplayer.net/12506405-Developing-applications-using-continuous-integration-12c-12-2-1.html
-https://www.3pillarglobal.com/insights/testing-challenges-for-implementing-continuous-delivery
-https://azure.microsoft.com/mediahandler/files/resourcefiles/4626e9a1-ecd9-4ffb-ba61-169dd7dd7594/Enterprise_Cloud_Strategy_2nd_Edition_ebook.pdf
-https://cloud.google.com/docs/platform-launch-checklist
-https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/pipelines
-https://blog.openshift.com/multiple-deployment-methods-openshift/
-https://blog.openshift.com/cicd-with-openshift/
-https://blog.openshift.com/openshift-3-3-pipelines-deep-dive/
-https://blog.openshift.com/improving-build-time-java-builds-openshift/
+* http://www.methodsandtools.com/archive/archive.php?id=121
+* http://docs.ansible.com/ansible/latest/guide_rolling_upgrade.html
+* https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-deployments-of-cloudstack-to-production/
+* https://aws.amazon.com/blogs/devops/building-continuous-deployment-on-aws-with-aws-codepipeline-jenkins-and-aws-elastic-beanstalk/
+* http://docplayer.net/12506405-Developing-applications-using-continuous-integration-12c-12-2-1.html
+* https://www.3pillarglobal.com/insights/testing-challenges-for-implementing-continuous-delivery
+* https://azure.microsoft.com/mediahandler/files/resourcefiles/4626e9a1-ecd9-4ffb-ba61-169dd7dd7594/Enterprise_Cloud_Strategy_2nd_Edition_ebook.pdf
+* https://cloud.google.com/docs/platform-launch-checklist
+* https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html
+* https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+* https://devcenter.heroku.com/articles/heroku-ci
+* https://devcenter.heroku.com/articles/pipelines
+* https://blog.openshift.com/multiple-deployment-methods-openshift/
+* https://blog.openshift.com/cicd-with-openshift/
+* https://blog.openshift.com/openshift-3-3-pipelines-deep-dive/
+* https://blog.openshift.com/improving-build-time-java-builds-openshift/
