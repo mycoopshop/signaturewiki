@@ -4,6 +4,7 @@
 * https://aws.amazon.com/blogs/devops/building-continuous-deployment-on-aws-with-aws-codepipeline-jenkins-and-aws-elastic-beanstalk/
 * http://docplayer.net/12506405-Developing-applications-using-continuous-integration-12c-12-2-1.html
 * https://www.3pillarglobal.com/insights/testing-challenges-for-implementing-continuous-delivery
+* https://azure.microsoft.com/en-us/blog/using-app-service-web-apps-continuous-deployment-with-github-organizations/
 * https://azure.microsoft.com/mediahandler/files/resourcefiles/4626e9a1-ecd9-4ffb-ba61-169dd7dd7594/Enterprise_Cloud_Strategy_2nd_Edition_ebook.pdf
 * https://cloud.google.com/docs/platform-launch-checklist
 * https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-four-stage-pipeline.html
