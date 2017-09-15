@@ -1,18 +1,19 @@
-https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
-https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
-https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
-https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
-https://www.chromium.org/chromium-os/developer-guide/chromium-os-sandboxing
-https://www.chromium.org/chromium-os/chromiumos-design-docs/recovery-mode
-https://www.chromium.org/chromium-os/chromiumos-design-docs/network-portal-detection
-https://support.google.com/chromebook/answer/1080595
-https://support.google.com/chromebook/answer/183101?hl=en
-https://support.google.com/chromebook/answer/6250945?hl=en
-http://www.scentral.k12.in.us/technology/2096-chromebook-q-a-s/file
-https://www.technibble.com/how-to-gain-computer-repair-customers-through-volunteer-work/
-http://towncountrynews.com/2017/06/05/hands-on-learning-milaca-man-teaches-braham-students-to-repair-school-issued-devices/
-http://www.pocketables.com/2013/03/how-to-use-change-the-dns-settings-on-your-chromebook-and-use-googles.html
-https://support.opendns.com/hc/en-us/articles/228006847-Configuration-for-Chromebook-OS
-https://github.com/dnschneid/crouton/wiki/How-to-mount-network-shares-on-Chromebook-(sshfs,-cifs,-nfs-etc)
-https://qualityshepherd.com/2013/02/chromebook-advanced-shell-commands/
-https://www.quora.com/How-is-Chrome-OS-built-on-top-of-Linux
+* https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
+* https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
+* https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
+* https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
+* https://www.chromium.org/chromium-os/developer-guide/chromium-os-sandboxing
+* https://www.chromium.org/chromium-os/chromiumos-design-docs/recovery-mode
+* https://www.chromium.org/chromium-os/chromiumos-design-docs/network-portal-detection
+* https://support.google.com/chromebook/answer/1080595
+* https://support.google.com/chromebook/answer/183101?hl=en
+* https://support.google.com/chromebook/answer/6250945?hl=en
+* http://www.scentral.k12.in.us/technology/2096-chromebook-q-a-s/file
+* https://www.technibble.com/how-to-gain-computer-repair-customers-through-volunteer-work/
+* http://towncountrynews.com/2017/06/05/hands-on-learning-milaca-man-teaches-braham-students-to-repair-school-issued-devices/
+* http://www.pocketables.com/2013/03/how-to-use-change-the-dns-settings-on-your-chromebook-and-use-googles.html
+* https://support.opendns.com/hc/en-us/articles/228006847-Configuration-for-Chromebook-OS
+* https://github.com/dnschneid/crouton/wiki/How-to-mount-network-shares-on-Chromebook-(sshfs,-cifs,-nfs-etc)
+* https://qualityshepherd.com/2013/02/chromebook-advanced-shell-commands/
+* https://www.quora.com/How-is-Chrome-OS-built-on-top-of-Linux
+* https://www.bettercloud.com/monitor/the-academy/15-free-google-apps-training-sessions/
