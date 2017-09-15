@@ -17,6 +17,7 @@
 * http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
+* https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
