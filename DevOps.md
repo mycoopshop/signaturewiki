@@ -1,3 +1,18 @@
+Use the following process:
+
+* Setup a hosts file to map the hostname to localhost
+* Use a [hosts module](https://www.npmjs.com/package/hostile) for programmatic access to the hosts file
+* Use a [proxy module](https://www.npmjs.com/package/local-ssl-proxy) to emulate SSL
+
+**References**
+
+* [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
+* [DNS | Node.js Documentation](https://nodejs.org/api/dns.html)
+
+* [TLS (SSL) | Node.js Documentation](https://nodejs.org/api/tls.html)
+
+
 * http://www.methodsandtools.com/archive/archive.php?id=121
 * http://docs.ansible.com/ansible/latest/guide_rolling_upgrade.html
 * https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-deployments-of-cloudstack-to-production/
