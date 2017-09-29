@@ -23,6 +23,8 @@
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
+* https://salesforce.stackexchange.com/questions/159866/any-way-to-include-keyframes-in-lightning-component-css-file
+
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
