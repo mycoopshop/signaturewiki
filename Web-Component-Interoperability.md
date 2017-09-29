@@ -3,3 +3,9 @@
 * http://vuetips.com/vue-web-components
 * https://www.webcomponents.org/specs
 * https://developers.google.com/web/updates/2017/01/webcomponents-org
+* https://onsen.io/blog/create-reusable-future-proof-ui-components-with-custom-elements-v1-web-components/
+* https://skatejs.gitbooks.io/skatejs/content/docs/api/Component.html#connectedcallback---supersedes-static-attached
+* http://robdodson.me/interoperable-custom-elements/
+* https://webkit.org/blog/7027/introducing-custom-elements/
+* https://steele.blue/custom-elements-angularjs/
+* https://material.io/components/web/docs/framework-integration/
