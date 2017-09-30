@@ -9,3 +9,4 @@
 * https://webkit.org/blog/7027/introducing-custom-elements/
 * https://steele.blue/custom-elements-angularjs/
 * https://material.io/components/web/docs/framework-integration/
+* https://daveceddia.com/angular-directives-mapped-to-react/
