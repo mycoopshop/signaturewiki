@@ -46,6 +46,7 @@ Use different languages for each level, such as:
 * [Encoding Dublin Core Metadata in HTML](https://www.ietf.org/rfc/rfc2731.txt)
 * [DBI recipes](http://www.perlmonks.org/?node_id=284436)
 * [Ots Labs: Ots Media Query Language (OMQL) Documentation](http://www.otslabs.com/omql-docs/)
+* [js.html - Haxe API](http://api.haxe.org/js/html/)
 * https://stackoverflow.com/questions/804751/1113772
 * https://stackoverflow.com/questions/16435711/1113772
 * https://stackoverflow.com/questions/19618767/1113772
