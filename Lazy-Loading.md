@@ -3,6 +3,7 @@ https://www.stevesouders.com/blog/2012/10/11/cache-is-king/
 https://www.stevesouders.com/blog/2014/11/25/serious-confusion-with-resource-timing/
 https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
 http://askesian.net/2013/04/23/require-js-conditional-load/
+https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
 http://remarkablemark.org/blog/2016/09/24/react-requirejs-amd/
 http://requirejs.readthedocs.io/en/1.0.1/
 https://dojotoolkit.org/reference-guide/1.10/loader/amd.html
