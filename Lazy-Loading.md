@@ -1,6 +1,7 @@
 https://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/
 https://www.stevesouders.com/blog/2012/10/11/cache-is-king/
 https://www.stevesouders.com/blog/2014/11/25/serious-confusion-with-resource-timing/
+http://ternjs.net/doc/manual.html
 https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
 http://askesian.net/2013/04/23/require-js-conditional-load/
 https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
