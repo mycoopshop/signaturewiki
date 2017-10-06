@@ -2,3 +2,5 @@
 * http://mdworld.nl/blog/webdevelopment/2015/04/15/fronteers-2014-a-glossary/
 * http://animejs.com/documentation/
 * https://thimble.mozilla.org/en-US/
+* https://torbjornzetterlund.com/chrome-extensions-web-developers/
+* https://www.quora.com/topic/Chrome-Web-Store
