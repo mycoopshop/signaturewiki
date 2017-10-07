@@ -1,0 +1,1 @@
+* https://www.afrihost.com/landing/mobile/apn/
