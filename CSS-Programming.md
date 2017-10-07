@@ -9,3 +9,4 @@
 * http://vanseodesign.com/css/custom-properties-and-javascript/
 * https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/
 * https://www.automationfuel.com/5-ways-to-style-react-components/
+* https://modernizr.com/docs
