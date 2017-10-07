@@ -1,0 +1,1 @@
+* https://www.truth-out.org/donate-now/#top
