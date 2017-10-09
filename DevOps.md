@@ -30,3 +30,7 @@ Use the following process:
 * https://blog.openshift.com/cicd-with-openshift/
 * https://blog.openshift.com/openshift-3-3-pipelines-deep-dive/
 * https://blog.openshift.com/improving-build-time-java-builds-openshift/
+* https://docs.docker.com/engine/security/certificates/#understanding-the-configuration
+* https://docs.docker.com/engine/security/https/
+* http://tech.paulcz.net/2016/01/secure-docker-with-tls/
+* https://blog.dahanne.net/2015/08/17/easily-generate-ssl-certificates-and-htpasswd-files-with-docker/
