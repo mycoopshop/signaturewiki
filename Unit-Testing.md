@@ -6,13 +6,12 @@ Running Jasmine locally
 
 1. Run Jasmine in the browser by downloading the zip file, extracting it, the referencing the files as follows:
 
+`    <link rel="shortcut icon" type="image/png" href="jasmine/lib/jasmine-2.0.0/jasmine_favicon.png">`
+    `<link rel="stylesheet" type="text/css" href="jasmine/lib/jasmine-2.0.0/jasmine.css">`
 
-    <link rel="shortcut icon" type="image/png" href="jasmine/lib/jasmine-2.0.0/jasmine_favicon.png">
-    <link rel="stylesheet" type="text/css" href="jasmine/lib/jasmine-2.0.0/jasmine.css">
-
-    <script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/jasmine.js"></script>
-    <script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/jasmine-html.js"></script>
-    <script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/boot.js"></script>
+    `<script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/jasmine.js"></script>`
+    `<script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/jasmine-html.js"></script>`
+    `<script type="text/javascript" src="jasmine/lib/jasmine-2.0.0/boot.js"></script>`
      
 Installing Jasmine using npm ([Node Package Manager][2])
 
