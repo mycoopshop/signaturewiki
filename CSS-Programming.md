@@ -1,3 +1,15 @@
+To add a background-image rule via the CSSOM, first get a reference to the rules of the first stylesheet:
+
+    var stylesheet = document.styleSheets[0].cssRules;
+
+Then, get a reference to the end of the stylesheet:
+
+    var end = stylesheet.length - 1;
+
+Finally, insert a background-image rule for the body element at the end of the stylesheet:
+
+    stylesheet.insertRule("body { background-image: url('http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico'); }", end);
+
 * http://csslint.net/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 * https://robots.thoughtbot.com/css-animation-for-beginners
