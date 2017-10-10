@@ -9,4 +9,13 @@
 * https://webkit.org/blog/7027/introducing-custom-elements/
 * https://steele.blue/custom-elements-angularjs/
 * https://material.io/components/web/docs/framework-integration/
+* http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
+* http://vuetips.com/global-event-bus
+* https://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html
+* https://reactjs.org/docs/uncontrolled-components.html 
 * https://daveceddia.com/angular-directives-mapped-to-react/
+* https://docs.microsoft.com/en-us/sharepoint/dev/general-development/build-reusable-components-for-sharepoint
+* http://josdejong.com/blog/2015/01/06/code-reuse/
+* https://circleci.com/blog/why-we-broke-our-philosophical-vows-to-bring-you-circleci-2-0/
+* http://dehora.net/journal/2008/06/24/plugin-pros-and-cons/
+* https://gcc.gnu.org/wiki/GCC_Plugins
