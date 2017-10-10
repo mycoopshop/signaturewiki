@@ -1,5 +1,6 @@
 Syntax
 
+<pre>
 aria-live
 aria-relevant
 aria-autocomplete
@@ -35,3 +36,4 @@ aria-labelledby
 aria-owns
 aria-posinset
 aria-setsize
+</pre>
