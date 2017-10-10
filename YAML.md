@@ -1,3 +1,39 @@
+YAML is a text based format allowing to store structured data in a hierarchy. YAML is designed to be human and machine readable with a minimum of overhead. The YAML specification can be found at [yaml.org](http://yaml.org/spec/1.2/spec.html). There is also a [reference card](http://www.yaml.org/refcard.html)
+
+Comments start with `#` and go till newline, comments must be separated from other tokens by whitespace. Whitespace isn't free, indentation must be spaces, not tabs. YAML will consider that lines prefixed with more spaces than the parent key are contained inside it. Moreover, all lines must be prefixed with the same amount of spaces to belong to the same map.
+
+YAML has sequences and mappings as collection types, both can be represented in flow and block style.
+
+An sequence of scalar strings in YAML looks like:
+
+    [ one, two, three ]   # flow style
+
+    # or block style
+
+    - one
+    - two
+    - three
+    
+A mapping consists of key/value pairs:
+
+    index: 4  # block style
+    name: nali
+
+    # or 
+
+    { index: 4, name: nali }   # flow style
+
+    # or nested (equivalent of { level: { one: { two: fun } } }):
+
+    level:
+
+      one:
+
+        two: fun
+
+
+
+
 Splitting text strings over multiple lines
 ```
 - Without quotes:
