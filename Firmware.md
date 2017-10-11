@@ -1,0 +1,1 @@
+https://android.stackexchange.com/questions/17152/where-can-i-find-stock-or-custom-roms-for-my-android-device
