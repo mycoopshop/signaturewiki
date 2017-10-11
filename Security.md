@@ -2,3 +2,6 @@
 * http://bofh.nikhef.nl/events/HitB/hitb-2014-amsterdam/praatjes/D2T2-Exploring-and-Exploiting-iOS-Web-Browsers.pdf
 * http://obem.be/2014/07/28/oauth-2-on-android.html
 * http://nvlpubs.nist.gov/nistpubs/ir/2013/NIST.IR.7970.pdf
+* https://www.owasp.org/index.php/Unvalidated_Redirects_and_Forwards_Cheat_Sheet
+* https://www.owasp.org/index.php/Comprehensive_list_of_Threats_to_Authentication_Procedures_and_Data
+* https://www.owasp.org/index.php/Phishing
