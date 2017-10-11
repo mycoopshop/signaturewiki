@@ -5,3 +5,5 @@
 * https://www.owasp.org/index.php/Unvalidated_Redirects_and_Forwards_Cheat_Sheet
 * https://www.owasp.org/index.php/Comprehensive_list_of_Threats_to_Authentication_Procedures_and_Data
 * https://www.owasp.org/index.php/Phishing
+* https://ethereum.stackexchange.com/questions/8565/lost-ethers-in-google-ad-phishing-scam
+* https://webmasters.stackexchange.com/questions/85411/unable-to-locate-phishing-url-in-cpanel-file-manager
