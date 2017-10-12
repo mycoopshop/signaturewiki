@@ -1,9 +1,9 @@
-partial-responsive => prospect 
+div.partial-responsive => div.prospect|customer|android| 
 
-etContainer => container 
+div#etContainer => container 
 
-nav-wrapper => row +col-xs-12 + header
+nav-wrapper => div.row + div.col-xs-12 + header
 
 div#questionTop => form
 
-page-wrapper => row + col-xs-12 col-sm-12 col-md-6 col-md-offset-3
+div.page-wrapper => div.row + div.col-xs-12 col-sm-12 col-md-6 col-md-offset-3
