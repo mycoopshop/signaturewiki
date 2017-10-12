@@ -1,0 +1,3 @@
+https://www.kernel.org/pub/software/scm/git/docs/git-checkout.html
+https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/
+http://www-cs-students.stanford.edu/~blynn/gitmagic/ch07.html
