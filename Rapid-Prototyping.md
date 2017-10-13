@@ -195,6 +195,7 @@ doctype: omit
 new-blocklevel-tags: main
 newline: LF
 output-html: yes
+show-body-only: yes
 trim-empty-elements: no
 drop-empty-paras: no
 wrap: 148
