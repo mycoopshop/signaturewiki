@@ -1,4 +1,5 @@
-Living Without Sessions
+# Living Without Sessions
+
 When we talk about sessions in Web app development, we're usually talking about server stored data about a particular client. Some Web frameworks use session state to track and hold information about the user throughout their journey through the site, however they go against the RESTful principles and should really be treated as a bug.
 
 Developers became used to having sessions available to them, so when systems grew, became more complex, and started spreading over multiple servers, more and more hacks had to be introduced to keep the session support working, when in reality, sessions should never have been introduced in the first place.
