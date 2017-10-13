@@ -1,0 +1,9 @@
+https://www.mediawiki.org/wiki/OAuth/For_Developers
+https://developer.mozilla.org/en-US/docs/Mozilla/Security/x509_Certificates
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance.html
+https://blogs.msdn.microsoft.com/mlserver/2017/08/21/encrypting-communication-between-web-node-and-compute-node-in-linux/
+https://blogs.technet.microsoft.com/pki/2009/08/05/how-to-create-a-web-server-ssl-certificate-manually/
+https://developers.google.com/web/fundamentals/security/encrypt-in-transit/enable-https
+https://support.google.com/a/answer/6342198?hl=en
+https://www.gnu.org/software/libmicrohttpd/tutorial.pdf
+https://developer.mozilla.org/en-US/docs/Mozilla/Security/x509_Certificates
