@@ -186,6 +186,7 @@ Run it on a file
 cd html
 jtidy foo.html
 Create a config file
+
 indent: auto
 indent-spaces: 2
 quiet: yes
@@ -194,14 +195,20 @@ doctype: omit
 new-blocklevel-tags: main
 newline: LF
 output-html: yes
-drop-empty-elements: no
 trim-empty-elements: no
+drop-empty-paras: no
+wrap: 148
 input-encoding: UTF-8
 output-encoding: UTF-8
 char-encoding: UTF-8
+
 Save it as config.txt
+
 Run with a config file:
+
 jtidy.jar -config config.txt foo.html
+
+
 References:
 http://api.html-tidy.org/tidy/tidylib_api_5.2.0/tidy_config.html
 http://jtidy.sourceforge.net/howto.html
