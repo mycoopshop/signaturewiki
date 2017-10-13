@@ -1,5 +1,8 @@
 * https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
 * https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
+* https://help.salesforce.com/articleView?id=security_networkaccess.htm&type=0
+* https://help.salesforce.com/articleView?id=siteforce_ip_set.htm&type=0
+* https://help.salesforce.com/articleView?id=sites_public_access_settings.htm&type=0
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_lifecycle.htm
 * http://cloudyworlds.blogspot.com/2016/03/taking-your-lightning-components.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/lightning-visualforce-communication.html
