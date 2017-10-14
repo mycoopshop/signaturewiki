@@ -57,20 +57,21 @@ Create filters to replace directives
 
 2b.
 
-    <div class="progress progress-segmented">`
-	`<div class="progress-segment active">`
-		`<span class="progress-label">Account Selection</span>	</div>`
-	`<div class="progress-segment active">`
-		`<span class="progress-label">Personal Information</span>`
-	`</div>`
-	`<div class="progress-segment">`
-		`<span class="progress-label">Verify Identity</span>`
-	`</div>`
-	`<div class="progress-segment">`
-		`<span class="progress-label">Investment Profile</span>`
-	`</div>`
-	`<div class="progress-segment">`
-		`<span class="progress-label">Account Setup</span>`
+    <div class="progress progress-segmented">
+	<div class="progress-segment active">
+		<span class="progress-label">Account Selection</span>
+        </div>
+	<div class="progress-segment active">
+		<span class="progress-label">Personal Information</span>
+	</div>
+	<div class="progress-segment">
+		<span class="progress-label">Verify Identity</span>
+	</div>
+	<div class="progress-segment">
+		<span class="progress-label">Investment Profile</span>
+	</div>
+	<div class="progress-segment">
+		<span class="progress-label">Account Setup</span>
 	</div>
     </div>
 ## Container Markup Mapping Table
