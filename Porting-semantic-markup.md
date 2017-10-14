@@ -76,6 +76,7 @@ Create filters to replace directives
     </div>
 
 3. Contact Section
+
 3a.
 
         <div class="contact">
@@ -90,7 +91,18 @@ Create filters to replace directives
 
 3b.
 
+        <div class="contact">
+            <a href="/frequently-asked-questions#tab_t1" id="faq-link" class=
+            "et-icon-question before faq-icon" aria-label=
+            "Select to open Frequently Asked Questions page" tabindex=
+            "01"><span>FAQ</span></a> <a href="tel:866-484-3658" class="icon-call" alt=
+            "Call us 866-484-3658" tabindex="01"><span>Call Us 866-484-3658</span></a>
+            <button role="link" class="icon-chat no-style" ng-click="openChat()"
+            aria-label="Chat online" tabindex="01"><span>Chat Online</span></button>
+        </div>
+
 4. Spinner
+
 4a.
 
     <div class="cards clearfix calc ng-scope">
