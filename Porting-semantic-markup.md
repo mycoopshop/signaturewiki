@@ -74,6 +74,56 @@ Create filters to replace directives
 		<span class="progress-label">Account Setup</span>
 	</div>
     </div>
+
+3. Contact Section
+3a.
+
+        <div class="contact">
+            <a href="/frequently-asked-questions#tab_t1" target="_blank" class=
+            "et-icon-question before faq-icon" aria-label=
+            "Select to open Frequently Asked Questions page" tabindex=
+            "01"><span>FAQ</span></a> <a href="tel:866-484-3658" class="icon-call" alt=
+            "Call us 866-484-3658" tabindex="01"><span>Call Us 866-484-3658</span></a>
+            <button role="link" class="icon-chat no-style" ng-click="openChat()"
+            aria-label="Chat online" tabindex="01"><span>Chat Online</span></button>
+        </div>
+
+3b.
+
+4. Spinner
+4a.
+
+    <div class="cards clearfix calc ng-scope">
+        <div class="calc-wrapper clearfix">
+            <div class="hex">
+                <div class="triangle-wrapper">
+                    <div class="triangle t1"></div>
+
+                    <div class="triangle t2"></div>
+
+                    <div class="triangle t3"></div>
+
+                    <div class="triangle t4"></div>
+
+                    <div class="triangle t5"></div>
+
+                    <div class="triangle t6"></div>
+                </div>
+            </div>
+
+            <h1>Calculating Your <span>Risk Profile</span></h1>
+        </div>
+    </div>
+
+4b.
+
+    <div class="spinner">
+      <svg class="circular" viewBox="25 25 50 50">
+        <circle class="background" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+        <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+      </svg>
+    </div>
+
 ## Container Markup Mapping Table
 `div.partial-responsive => div.prospect|customer|android| `
 
