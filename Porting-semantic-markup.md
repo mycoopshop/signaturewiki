@@ -136,7 +136,7 @@ Create filters to replace directives
       </svg>
     </div>
 
-5. Questions
+5. Question 1
 
 5a. 
  
@@ -168,6 +168,38 @@ Create filters to replace directives
                 Sit amet
             </option>
         </select>
+    </div>
+
+6. Tax-Sensitive Radio Buttons
+
+6a.
+
+    <div ng-if="config.state === 'conversion'" class="ng-scope">
+        <p class="voffset4"><input type="radio" class="form-control tax-selection" name=
+        "reduce_taxes" id="reduce_taxes" aria-label="Click to select Yes." value="1"
+        ng-click="config.questionData.kycProfile.questionAnswers['6'].answerId = '1'"
+        tabindex="0"><label id="sensitive_help" for="reduce_taxes">Yes. Provide me with a
+        tax-sensitive portfolio that helps reduce the impact of taxes on ETF
+        returns.</label></p>
+
+        <p class="voffset4"><input type="radio" class="form-control tax-selection" name=
+        "reduce_taxes" id="normal_taxes" aria-label="Click to select No." value="2"
+        ng-click="config.questionData.kycProfile.questionAnswers['6'].answerId = '2'"
+        tabindex="0"><label id="non-sensitive_help" for="normal_taxes">No. I do not want
+        a tax-sensitive portfolio.</label></p>
+    </div>
+
+6b.
+
+    <div class="col-xs-12 col-sm-6">
+              <div class="radio">
+                <input type="radio" name="radioA" id="radio1-not-selected" value="option0">
+                <label for="radio1-not-selected">Radio button not selected</label>
+              </div>
+              <div class="radio">
+                <input type="radio" name="radioA" id="radio1-selected" value="option1" checked="">
+                <label for="radio1-selected">Radio button pre-selected</label>
+              </div>
     </div>
 
 ## Container Markup Mapping Table
