@@ -6,6 +6,8 @@ Replace closures with global functions using JSLint
 
 Create a new sample page in JSFiddle
 
+Create filters to replace directives
+
 div.partial-responsive => div.prospect|customer|android| 
 
 div#etContainer => container 
