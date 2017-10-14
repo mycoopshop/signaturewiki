@@ -136,6 +136,40 @@ Create filters to replace directives
       </svg>
     </div>
 
+5. Questions
+
+5a. 
+ 
+    <div ng-class="config.questionClass[1].classArray[0]" role="radio" tabindex="20"
+    ng-click="setAnswer(1,0)" aria-checked="false" aria-label=
+    "Click to select less than 2 years option" class="option">
+        <div class="circ">
+            <p>&lt; 2<span>Less than</span><span>2 years</span></p>
+        </div>
+
+        <p aria-hidden="true" role="presentation">Less than <span>2 years</span></p>
+    </div>
+
+5b.
+
+    <label for="select1">Select input field</label>
+
+    <div class="select-wrapper">
+        <select class="form-control" name="select1">
+            <option>
+                Lorem ipsum
+            </option>
+
+            <option>
+                Dolor
+            </option>
+
+            <option>
+                Sit amet
+            </option>
+        </select>
+    </div>
+
 ## Container Markup Mapping Table
 `div.partial-responsive => div.prospect|customer|android| `
 
