@@ -8,12 +8,21 @@ Create a new sample page in JSFiddle
 
 Create filters to replace directives
 
-div.partial-responsive => div.prospect|customer|android| 
+## Directive Mapping Table
+1. Logo Link
+1a.
+<a ng-href="https://us.etrade.com/what-we-offer/our-accounts/adaptive-portfolio" class="logo" tabindex="01" href="https://us.etrade.com/what-we-offer/our-accounts/adaptive-portfolio">Select to open E*Trade Adaptive Portfolio home</a>
 
-div#etContainer => container 
+1b.
+<a href="https://us.etrade.com/what-we-offer/our-accounts/adaptive-portfolio | siteFilter" class="logo" tabindex="01" href="https://us.etrade.com/what-we-offer/our-accounts/adaptive-portfolio | siteFilter">Select to open E*Trade Adaptive Portfolio home</a>
 
-nav-wrapper => div.row + div.col-xs-12 + header
+## Container Markup Mapping Table
+`div.partial-responsive => div.prospect|customer|android| `
 
-div#questionTop => form
+`div#etContainer => container `
 
-div.page-wrapper => div.row + div.col-xs-12 col-sm-12 col-md-6 col-md-offset-3
+`nav-wrapper => div.row + div.col-xs-12 + header`
+
+`div#questionTop => form`
+
+`div.page-wrapper => div.row + div.col-xs-12 col-sm-12 col-md-6 col-md-offset-3`
