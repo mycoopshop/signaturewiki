@@ -136,7 +136,7 @@ Create filters to replace directives
       </svg>
     </div>
 
-5. Question 1
+5. Question 1 (RTQ and KYC)
 
 5a. 
  
@@ -151,6 +151,11 @@ Create filters to replace directives
     </div>
 
 5b.
+
+    <div class="et-select-wrapper voffset3"><!-- ngInclude: 'account_list' | filterAccountsList:config.acctData.CIOEligibleAccounts.accounts -->
+      <select name="account_list" ng-model="config.conversionData.selectedAcct" ng-init="config.conversionData.selectedAcct = config.conversionData.selectedAcct || config.acctData.CIOEligibleAccounts.accounts[0].acctNo" id="account_list" ng-include="'account_list' | filterAccountsList:config.acctData.CIOEligibleAccounts.accounts" ng-change="config.conversionData.changeAcct($event)" class="ng-pristine ng-valid ng-scope ng-touched" tabindex="0" aria-invalid="false"><option aria-label="Click to select account INDIVIDUAL" name="INDIVIDUAL" value="GEN" class="ng-scope">INDIVIDUAL</option><option aria-label="Click to select account JN" name="JN" value="GEN3" class="ng-scope">JN</option><option aria-label="Click to select account KD" name="KD" value="GEN4" class="ng-scope">KD</option></select></div>
+
+5c.
 
     <label for="select1">Select input field</label>
 
@@ -169,6 +174,8 @@ Create filters to replace directives
             </option>
         </select>
     </div>
+
+5c.
 
 6. Tax-Sensitive Radio Buttons
 
@@ -200,6 +207,19 @@ Create filters to replace directives
                 <input type="radio" name="radioA" id="radio1-selected" value="option1" checked="">
                 <label for="radio1-selected">Radio button pre-selected</label>
               </div>
+    </div>
+
+7. Checkboxes
+
+7a.
+
+    <input id="i_accept" class="form-control ng-pristine ng-untouched ng-valid" type="checkbox" ng-model="config.conversionData.agreementChecked" ng-disabled="config.conversionData.submitted" ng-click="config.conversionData.agreementStatus()" aria-label="Click to select" aria-describedby="accept_text" aria-controls="approve_sell" aria-required="true" aria-checked="" tabindex="0" aria-invalid="false">
+
+7b.
+
+    <div class="checkbox">
+      <input type="checkbox" name="checkbox1" value="checkbox1-A">
+      <label for="checkbox1-A">Checkbox not selected</label>
     </div>
 
 ## Container Markup Mapping Table
