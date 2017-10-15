@@ -232,3 +232,9 @@ Create filters to replace directives
 `div#questionTop => form`
 
 `div.page-wrapper => div.row + div.col-xs-12 col-sm-12 col-md-6 col-md-offset-3`
+
+
+http://demo.bootstraptor.com/blocks.html
+https://webdesign.tutsplus.com/tutorials/bootstrap-3-succinctly-migrating-from-version-2-to-version-3--cms-23132
+http://upgrade-bootstrap.bootply.com
+https://webmuch.com/upgrade-bootstrap-2-twitter-bootstrap3-build/
