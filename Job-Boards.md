@@ -2,6 +2,8 @@ https://www.fremont.k12.ca.us/Page/325
 
 http://www.slzusd.org/cms/page_view?d=x&piid=&vpid=1241915537618
 
+https://stackoverflow.com/jobs/feed?dr=FrontendDeveloper&tl=javascript+sql+angularjs+node.js+reactjs
+
 http://www.escape.technology/
 
 https://sites.google.com/a/edtechteam.com/www/
