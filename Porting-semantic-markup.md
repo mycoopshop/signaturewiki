@@ -6,6 +6,7 @@ Cross reference all class names and attributes in the JavaScript source using Fi
 
 Create new templates to replace old templates
 
+Find all references to the existing templates using a recursive search for the html file names through the project
 Replace old file references with new file references
 
 Replace closures with global functions using JSLint
