@@ -1,6 +1,12 @@
 Create a table mapping the old DOM to the new DOM using Emmet
 
+Copy code from the new baseline site to new files
+
 Cross reference all class names and attributes in the JavaScript source using Firefox
+
+Create new templates to replace old templates
+
+Replace old file references with new file references
 
 Replace closures with global functions using JSLint
 
