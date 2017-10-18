@@ -36,3 +36,5 @@
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
+* https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
+* https://helpx.adobe.com/experience-manager/using/creating-htl-component.html
