@@ -17,3 +17,7 @@
 * https://qualityshepherd.com/2013/02/chromebook-advanced-shell-commands/
 * https://www.quora.com/How-is-Chrome-OS-built-on-top-of-Linux
 * https://www.bettercloud.com/monitor/the-academy/15-free-google-apps-training-sessions/
+* https://turbofuture.com/internet/How-to-Host-a-Podcast-on-Blogger
+* https://hubpages.com/business/How-to-Create-a-Strong-RSS-Feed-for-Facebook-or-Twitter
+* https://gsuiteupdates.googleblog.com
+* https://v8project.blogspot.com
