@@ -4,6 +4,11 @@
 * https://help.salesforce.com/articleView?id=siteforce_ip_set.htm&type=0
 * https://help.salesforce.com/articleView?id=sites_public_access_settings.htm&type=0
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_lifecycle.htm
+* http://developer.force.com/cookbook/recipe/using-jquery-in-a-visualforce-page
+* https://developer.salesforce.com/page/Developing_Apps_with_jQuery
+* https://developer.salesforce.com/blogs/developer-relations/2015/08/creating-jquery-application-using-rest-api.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/11/pk-chunking-techniques-massive-orgs.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/06/styling-css-component-bundle.html
 * http://cloudyworlds.blogspot.com/2016/03/taking-your-lightning-components.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/lightning-visualforce-communication.html
 * http://gopaldas.org/salesforce/lightning-console-limitations/
