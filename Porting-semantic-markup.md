@@ -229,6 +229,35 @@ Create filters to replace directives
       <label for="checkbox1-A">Checkbox not selected</label>
     </div>
 
+8. Spinner
+
+8a.
+
+    <div class="cards clearfix calc ng-scope">
+      <div class="calc-wrapper clearfix">
+        <div class="hex">
+          <div class="triangle-wrapper">
+           <div class="triangle t1"></div>
+           <div class="triangle t2"></div>
+           <div class="triangle t3"></div>
+           <div class="triangle t4"></div>
+           <div class="triangle t5"></div>
+           <div class="triangle t6"></div>
+          </div>
+        </div>
+        <h1>Calculating Your <span>Risk Profile</span></h1>
+      </div>
+    </div>
+
+8b.
+
+    <div class="spinner">
+      <svg class="circular" viewBox="25 25 50 50">
+        <circle class="background" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+        <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"></circle>
+      </svg>
+    </div>
+
 ## Container Markup Mapping Table
 `div.partial-responsive => div.prospect|customer|android| `
 
