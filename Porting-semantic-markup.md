@@ -258,6 +258,36 @@ Create filters to replace directives
       </svg>
     </div>
 
+9. Error
+
+9a.
+
+    <div class="result-err-box ng-scope" ng-if="showerr &amp;&amp; type==='result'">
+      <div class="panel-warning panel clearfix">
+        <div class="col-xs-2 col-sm-1 col-lg-1">
+          <span class="et-icon-exclamation-tri warning-size-small" aria-label="Warning"></span>
+        </div>
+        <div class="col-xs-10 col-sm-11 col-lg-11">
+          <p class="voffset ng-binding" ng-bind="message">
+            Due to chart display issue, we were unable to proceed. Please re-start the application
+          </p>
+        </div>
+      </div>
+    </div>
+
+9b.
+
+    <div class="universal-message universal-message-danger" role="alert">
+      <div class="universal-message-content">
+        <h4 class="universal-message-heading">Action Required</h4>
+        <p>
+        We would like to ensure that we have the most up-to-date records for your account. 
+        Please take a moment to confirm or update your contact information. 
+        <a href="">Click here</a> to review.
+        </p>
+      </div>
+    </div>
+
 ## Container Markup Mapping Table
 `div.partial-responsive => div.prospect|customer|android| `
 
