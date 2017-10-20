@@ -17,3 +17,11 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * [NSAccessibility - AppKit | Apple Developer Documentation](https://developer.apple.com/reference/appkit/nsaccessibility)
 
 * [Introducing ATK, AT-SPI, GAIL and GTK+](https://developer.gnome.org/accessibility-devel-guide/stable/dev-start-5.html.en)
+
+* https://www.w3.org/TR/wai-aria-practices-1.1/#Listbox
+
+* https://github.com/filipelinhares/WAI-ARIA-cheatsheet
+
+* https://wicg.github.io/aom/spec/
+
+* https://blog.webix.com/accessible-web-components-for-the-web-with-modern-javascript-frameworks/
