@@ -1,5 +1,15 @@
 Create a table mapping the old DOM to the new DOM using Emmet
 
+Copy routes from the old table to the new table
+
+Copy AJAX key/value pairs from a single controller to view models (angular filters, function properties, indexeddb)
+
+Comment on all assignment statements and setter functions in existing single controllers
+
+Comment on all if/else conditions in existing single controllers
+
+Normalize AJAX requests to only happen in callbacks of button click event handlers
+
 Copy code from the new baseline site to new files
 
 Cross reference all class names and attributes in the JavaScript source using Firefox
@@ -304,3 +314,6 @@ http://demo.bootstraptor.com/blocks.html
 https://webdesign.tutsplus.com/tutorials/bootstrap-3-succinctly-migrating-from-version-2-to-version-3--cms-23132
 http://upgrade-bootstrap.bootply.com
 https://webmuch.com/upgrade-bootstrap-2-twitter-bootstrap3-build/
+https://github.com/angular/angular.js/issues/15484
+https://hackernoon.com/bye-2k16-and-bye-angular-ca627861839
+http://blog.adamcameron.me/2017/04/cfml-lucee-13-v-4-14-v-6-coldfusion-we.html
