@@ -1,0 +1,12 @@
+In case you're dealing with plain JavaScript:
+
+var cartoon = {"george jetson":{"son":"elroy","daughter":"judy"} }
+Use the Object constructor to convert a string to an object:
+
+cartoon["george jetson"].son = Object(cartoon["george jetson"].son)
+Then bind the sibling value:
+
+cartoon["george jetson"].son.sister = cartoon["george jetson"].daughter
+And use toString to get the original value:
+
+cartoon["george jetson"].son.toString()
