@@ -4,3 +4,4 @@
 * https://feed.press/blog/
 * https://www.bing.com/webmaster/help/media-rss-mrss-video-feed-specification-350cfabf
 * http://www.adotas.com/2016/02/vast-4-0-what-does-iabs-recent-video-ad-serving-template-mean-for-publishers-and-advertisers/
+* http://testautomation.applitools.com/post/165542466707/how-applitools-changed-product-development-at
