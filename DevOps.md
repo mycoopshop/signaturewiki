@@ -34,3 +34,11 @@ Use the following process:
 * https://docs.docker.com/engine/security/https/
 * http://tech.paulcz.net/2016/01/secure-docker-with-tls/
 * https://blog.dahanne.net/2015/08/17/easily-generate-ssl-certificates-and-htpasswd-files-with-docker/
+* https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/microservices
+* http://www.tjmaher.com/2016/07/setting-up-docker-easy-way-on-mac-or.html
+* https://www.codeproject.com/Articles/1136496/Getting-started-on-Docker-with-Windows-and-hosting
+* http://blog.carl.pro/2016/06/building-an-ethereum-environment-with-docker/
+* http://www.fabiangwilliams.com/2017/06/05/building-a-docker-backend-for-xamarin-mobile-development-series/
+* http://geekyplatypus.com/packaging-and-serving-your-java-application-with-docker/
+* https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
+* https://www.slideshare.net/quentinadam/the-end-of-server-management-hosting-have-to-become-a-commodity-keynote-devoxx-fr-2015
