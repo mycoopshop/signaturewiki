@@ -5,3 +5,9 @@
 * https://www.bing.com/webmaster/help/media-rss-mrss-video-feed-specification-350cfabf
 * http://www.adotas.com/2016/02/vast-4-0-what-does-iabs-recent-video-ad-serving-template-mean-for-publishers-and-advertisers/
 * http://testautomation.applitools.com/post/165542466707/how-applitools-changed-product-development-at
+* https://ralucasuditu-softwaretesting.blogspot.com/search/label/sikuli
+* https://www.quora.com/What-are-the-pros-and-cons-of-using-Sikuli-as-a-functional-automation-tool-instead-of-using-those-enterprise-software-for-example-RFT-SilkTest-WinRunner
+* https://news.ycombinator.com/item?id=13586904
+* https://learn.techbeacon.com/units/guide-mobile-testing-automation-tool-types
+* http://blogs.thinksys.com/our-favorite-test-automation-tools-and-technologies/
+* https://saucelabs.com/blog/review-of-visual-vs-functional-testing-with-pdiff-and-applitools
