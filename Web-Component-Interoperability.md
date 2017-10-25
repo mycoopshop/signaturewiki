@@ -19,3 +19,8 @@
 * https://circleci.com/blog/why-we-broke-our-philosophical-vows-to-bring-you-circleci-2-0/
 * http://dehora.net/journal/2008/06/24/plugin-pros-and-cons/
 * https://gcc.gnu.org/wiki/GCC_Plugins
+https://thorsten-hans.com/i18n-in-angular-apps-c0ed022c8a02
+
+https://yiochen.github.io/blog/post/state-aware-pipe/
+
+https://stackoverflow.com/questions/40788115/reactjs-how-to-know-when-a-component-is-removed-from-dom
