@@ -1,6 +1,8 @@
 Create a table mapping the old DOM to the new DOM using Emmet
 
-Copy routes from the old table to the new table
+Skip routes using redirects rather than mapping old routes to new templates
+
+Compare outerHTML of existing sections (nav, content, footer) to new skeleton
 
 Copy AJAX key/value pairs from a single controller to view models (angular filters, function properties, indexeddb)
 
