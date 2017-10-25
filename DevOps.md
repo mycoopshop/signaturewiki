@@ -42,3 +42,6 @@ Use the following process:
 * http://geekyplatypus.com/packaging-and-serving-your-java-application-with-docker/
 * https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
 * https://www.slideshare.net/quentinadam/the-end-of-server-management-hosting-have-to-become-a-commodity-keynote-devoxx-fr-2015
+https://blog.semicolonsoftware.de/building-minimal-docker-containers-for-rust-applications/
+https://stackoverflow.com/questions/40555215/using-docker-to-build-rust-executable-for-a-separate-environment
+https://users.rust-lang.org/t/psa-rust-documentation-is-now-optional-and-opt-in-when-installing-via-rustup/8072/24
