@@ -8,3 +8,4 @@
 * https://ethereum.stackexchange.com/questions/8565/lost-ethers-in-google-ad-phishing-scam
 * https://webmasters.stackexchange.com/questions/85411/unable-to-locate-phishing-url-in-cpanel-file-manager
 * https://www.owasp.org/images/a/ae/OWASP_Switzerland_Meeting_2015-06-17_XSLT_SSRF_ENG.pdf
+* https://msdn.microsoft.com/en-us/library/ms537122
