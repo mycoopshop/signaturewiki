@@ -11,3 +11,4 @@
 * https://learn.techbeacon.com/units/guide-mobile-testing-automation-tool-types
 * http://blogs.thinksys.com/our-favorite-test-automation-tools-and-technologies/
 * https://saucelabs.com/blog/review-of-visual-vs-functional-testing-with-pdiff-and-applitools
+* https://www.mediawiki.org/wiki/Selenium/Node.js/Stack
