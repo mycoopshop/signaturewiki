@@ -55,3 +55,4 @@ https://stackoverflow.com/questions/45169212/create-qt-builds-with-jenkins-on-do
 https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-within-build-directory
 http://blogs.perl.org/users/martin_barth/2017/08/bailador-tests-and-docker.html
 http://blogs.perl.org/users/ivan_bessarabov/2015/02/using-perl-dancer-and-docker-to-create-simple-monitoring-system.html
+https://hub.docker.com/_/mediawiki/
