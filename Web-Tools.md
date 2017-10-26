@@ -4,3 +4,6 @@
 * https://thimble.mozilla.org/en-US/
 * https://torbjornzetterlund.com/chrome-extensions-web-developers/
 * https://www.quora.com/topic/Chrome-Web-Store
+* https://www.npmjs.com/package/react-js-diagrams
+* https://vuejs.org/v2/guide/reactivity.html
+* https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
