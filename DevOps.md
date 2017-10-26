@@ -45,3 +45,13 @@ Use the following process:
 https://blog.semicolonsoftware.de/building-minimal-docker-containers-for-rust-applications/
 https://stackoverflow.com/questions/40555215/using-docker-to-build-rust-executable-for-a-separate-environment
 https://users.rust-lang.org/t/psa-rust-documentation-is-now-optional-and-opt-in-when-installing-via-rustup/8072/24
+https://news.ycombinator.com/item?id=13628714
+http://code.rawlinson.us/2014/08/create-a-coldfusion-docker-container.html
+http://getawesomeness.herokuapp.com/get/docker
+http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/
+https://stackoverflow.com/questions/39034864/i-cant-run-swift-in-docker-using-ubuntu14-04
+https://stackoverflow.com/questions/34517439/building-a-compiled-application-with-docker
+https://stackoverflow.com/questions/45169212/create-qt-builds-with-jenkins-on-docker
+https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-within-build-directory
+http://blogs.perl.org/users/martin_barth/2017/08/bailador-tests-and-docker.html
+http://blogs.perl.org/users/ivan_bessarabov/2015/02/using-perl-dancer-and-docker-to-create-simple-monitoring-system.html
