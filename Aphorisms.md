@@ -1,5 +1,7 @@
 A tree that is unbending is easily broken
 
+He produced manuals on botany, describing every kind of plant, from the cedars of Lebanon to the hyssop that grows on walls. He also produced manuals on biology, describing animals, birds, insects, and fish.
+
 * https://en.wikiquote.org/wiki/Niccolò_Machiavelli
 * https://en.wikiquote.org/wiki/Sigmund_Freud
 * https://en.wikiquote.org/wiki/G._I._Gurdjieff
