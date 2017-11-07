@@ -33,7 +33,11 @@
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://salesforce.stackexchange.com/questions/159866/any-way-to-include-keyframes-in-lightning-component-css-file
-
+* https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm
+* https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=0
+* https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
+* https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html
+* https://www.lightningdesignsystem.com/release-notes/
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
