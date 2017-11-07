@@ -43,3 +43,11 @@ Adobe
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
 * https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
 * https://helpx.adobe.com/experience-manager/using/creating-htl-component.html
+* https://helpx.adobe.com/digital-publishing-solution/help/content-producer-service-sdk.html
+* https://helpx.adobe.com/experience-manager/kt/forms/using/calvin-sdk-test-adaptive-forms-article-use.html
+* https://helpx.adobe.com/experience-manager/kb/saml-demo.html
+* https://helpx.adobe.com/digital-publishing-solution/help/identity-providers.html
+* https://helpx.adobe.com/digital-publishing-solution/help/direct-entitlement.html
+* https://helpx.adobe.com/enterprise/help/configure-sso.html
+* https://docs.adobe.com/content/ddc/en/gems/oauth-server-functionality-in-aem---embrace-federation-and-unlea/_jcr_content/par/download/file.res/OAuth_Server_functionality_in_AEM%207%2023%2014.pdf
+* http://wwwimages.adobe.com/content/dam/acom/en/security/pdfs/adobe-aem-managed-services-security.pdf
