@@ -9,3 +9,9 @@
 * https://webmasters.stackexchange.com/questions/85411/unable-to-locate-phishing-url-in-cpanel-file-manager
 * https://www.owasp.org/images/a/ae/OWASP_Switzerland_Meeting_2015-06-17_XSLT_SSRF_ENG.pdf
 * https://msdn.microsoft.com/en-us/library/ms537122
+* https://www.linkedin.com/pulse/identity-bridge-how-api-gateway-bridges-oauth-jwt-saml-mark-o-neill/
+* http://www.stearns.org/toolscd/current/ethereal/ethereal-user-guide.pdf
+* https://www.oasis-open.org/committees/download.php/8958/sstc-saml-implementation-guidelines-draft-01.pdf
+* http://canonical.org/~kragen/sw/netbook-misc-devel/wordlist
+* https://www.iana.org/assignments/sip-parameters/sip-parameters.xhtml
+* https://www.usenix.org/system/files/login/issues/usenix_dec11_login.pdf
