@@ -6,3 +6,12 @@
 5. Use wikimedia commons for placeholder images. For example: homes site:commons.wikimedia.org
 6. Use wikimedia commons for SVG letters to splice into logos. For example: svg "letter w" site:commons.wikimedia.org
 7. Use bootstrap components for rapid prototyping
+
+
+**References**
+
+* http://nshipster.com/nsregularexpression/
+
+* https://foundation.zurb.com/sites/docs/forms.html
+
+* https://www.juptr.io/juptrblogs/_e67b0d1e-98f8-44fb-b431-845005f36129.html
