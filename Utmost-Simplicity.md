@@ -25,3 +25,5 @@ Debugging - Greasemonkey / eval
 Coding - Emmet / JSLint / XHTML5
 
 Documenting - Markdown
+
+Visualizing - HTML5 Canvas 
