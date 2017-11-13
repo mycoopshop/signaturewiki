@@ -38,6 +38,9 @@
 * https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 * https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html
 * https://www.lightningdesignsystem.com/release-notes/
+* http://peterknolle.com/file-upload-lightning-component/
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_lightning_fileUpload.htm
+
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
