@@ -15,3 +15,7 @@ https://edtechmagazine.com/k12/article/2016/12/chromebooks-and-g-suite-education
 http://www.wusd.k12.ca.us/Departments/Human-Resources/Employment/index.html
 
 https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=269541&src=JB-10145
+
+https://trends.builtwith.com/framework/node.js
+
+https://trends.builtwith.com/framework/PHP-7
