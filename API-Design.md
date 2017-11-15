@@ -91,3 +91,4 @@ Avoiding sessions is a bit of a purest stance, but it does lead to a more scalab
 If you do find you need to store transitory client data on the server, think about re-working that data or the way your app. works so that the data has meaning, give it a URL and turn it into a resource the user can manipulate.
 
 http://help.micro.blog/2017/api-posting/
+https://www.xml.com/articles/2017/06/03/simplifying-xml-microxml/
