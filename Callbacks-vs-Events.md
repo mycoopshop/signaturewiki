@@ -154,3 +154,11 @@ Update
 Some commenters have suggested using setTimeout. Here is my response to that:
 
 For this particular example, a timer will work fine. This is just an example to illustrate the technique. The real usefulness of this is for other custom events. Most libraries implement custom events using a callback system. As I illustrated, callback systems are brittle. Dispatching events with timers will work to a degree but it is not how a real event system works. In a real system, events are dispatched sequentially. There are other concerns, like cancelling an event and stopping the event from bubbling. This would be impossible with timers.
+
+https://developers.redhat.com/blog/2016/08/16/why-should-i-use-node-js-the-non-blocking-event-io-framework/
+https://docs.mongodb.com/v3.0/faq/concurrency/
+https://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/
+https://www.dunebook.com/how-to-increase-performance-of-nodejs-application/
+https://nodeaddons.com/how-not-to-access-node-js-from-c-worker-threads/
+https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/
+https://www.fpcomplete.com/blog/2016/12/concurrency-and-node
