@@ -15,3 +15,4 @@
 * http://canonical.org/~kragen/sw/netbook-misc-devel/wordlist
 * https://www.iana.org/assignments/sip-parameters/sip-parameters.xhtml
 * https://www.usenix.org/system/files/login/issues/usenix_dec11_login.pdf
+* https://www.adobe.com/devnet-docs/acrobatetk/tools/AppSec/xdomain.html
