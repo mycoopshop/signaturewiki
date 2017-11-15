@@ -1,1 +1,9 @@
 https://en.wikipedia.org/wiki/Unicode_equivalence
+
+https://www.w3.org/International/questions/qa-html-encoding-declarations
+
+https://stackoverflow.com/questions/8169278/firefox-and-utf-16-encoding
+
+https://lists.w3.org/Archives/Public/public-html/2010Jul/0193.html
+
+http://benlynn.blogspot.com/2011/02/utf-8-good-utf-16-bad_07.html
