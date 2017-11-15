@@ -89,3 +89,5 @@ Conclusion
 Avoiding sessions is a bit of a purest stance, but it does lead to a more scalable and usable Web app. Keeping the clients state on the client is always a good idea, you can't scale better than by utilising someone elses computer, of course depending on your application and the technologies you are using your mileage may vary.
 
 If you do find you need to store transitory client data on the server, think about re-working that data or the way your app. works so that the data has meaning, give it a URL and turn it into a resource the user can manipulate.
+
+http://help.micro.blog/2017/api-posting/
