@@ -40,7 +40,8 @@
 * https://www.lightningdesignsystem.com/release-notes/
 * http://peterknolle.com/file-upload-lightning-component/
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_lightning_fileUpload.htm
-
+* https://help.salesforce.com/articleView?id=search_configure_query_solr_federated_search.htm&type=0
+* https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
