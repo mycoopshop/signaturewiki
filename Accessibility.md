@@ -27,3 +27,7 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://blog.webix.com/accessible-web-components-for-the-web-with-modern-javascript-frameworks/
 
 * http://jsfiddle.net/gh/get/jquery/1.7.2/highcharts/highcharts/tree/master/samples/highcharts/accessibility/accessible-line/
+
+* https://material.io/guidelines/usability/accessibility.html#accessibility-sound-motion
+
+* https://material.io/guidelines/style/imagery.html#imagery-ui-integration
