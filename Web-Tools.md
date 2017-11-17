@@ -9,3 +9,5 @@
 * https://vuejs.org/v2/guide/reactivity.html
 * https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 * https://testdrive-archive.azurewebsites.net/Views/SiteMap/
+* https://trends.builtwith.com/widgets/Qualtrics-Site-Intercept
+* https://trends.builtwith.com/ssl/LetsEncrypt
