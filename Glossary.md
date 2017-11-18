@@ -1,3 +1,5 @@
+Values are raw data. Times, dates, money, tuples, tags, URLs, files, email addresses, strings, tuples, coordinate pairs, and base64 encoded strings are values.
+
 Values and words are grouped together in blocks. 
 
 A variable can be used to hold any type of value. Variables only have meaning within the context where they are defined. A context can span the entire program or be restricted to a particular block, object, or function. 
