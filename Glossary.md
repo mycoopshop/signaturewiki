@@ -1,0 +1,7 @@
+Values and words are grouped together in blocks. 
+
+A variable can be used to hold any type of value. Variables only have meaning within the context where they are defined. A context can span the entire program or be restricted to a particular block, object, or function. 
+
+An object is a group of variables which have values in a specific context. Objects are used for managing data structures which have more complex behavior. For instance, a bank account can benefit from using an object to specify its attributes and functions
+
+A function is a block which has local variables that are given new values each time the block is evaluated. The local variables are the arguments of the function. Functions can be created in several ways. 
