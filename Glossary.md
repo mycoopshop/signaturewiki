@@ -1,4 +1,4 @@
-Values are raw data. Times, dates, money, tuples, tags, URLs, files, email addresses, strings, tuples, coordinate pairs, and base64 encoded strings are values.
+Values are raw data. Times, dates, money, tuples, tags, URLs, files, email addresses, strings, arrays, numbers, coordinate pairs, and base64 encoded strings are values.
 
 Values and words are grouped together in blocks. 
 
