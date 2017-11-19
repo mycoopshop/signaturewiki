@@ -92,3 +92,12 @@ If you do find you need to store transitory client data on the server, think abo
 
 http://help.micro.blog/2017/api-posting/
 https://www.xml.com/articles/2017/06/03/simplifying-xml-microxml/
+http://ajaxian.com/archives/canvas-color-cycling
+http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
+https://code.google.com/archive/p/canto-js/
+http://vertx.io/docs/
+http://ajaxian.com/archives/shim-uses-node-js-to-test-sites-on-multiple-browsers
+http://ajaxian.com/archives/a-simple-random-bit-on-var-selector
+http://ajaxian.com/archives/best-practices-for-test-revisited
+http://ajaxian.com/archives/jdrop-json-in-the-cloud
+http://ajaxian.com/archives/normal-mapped-lighting-for-photos-using-canvas
