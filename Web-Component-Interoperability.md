@@ -1,6 +1,7 @@
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
 * http://vuetips.com/vue-web-components
+* https://marketing.adobe.com/resources/help/en_US/sc/implement/accelerated-mobile-pages.html
 * https://www.webcomponents.org/specs
 * https://developers.google.com/web/updates/2017/01/webcomponents-org
 * https://onsen.io/blog/create-reusable-future-proof-ui-components-with-custom-elements-v1-web-components/
