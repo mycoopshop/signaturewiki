@@ -44,7 +44,15 @@
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=0
 * https://help.salesforce.com/articleView?id=remoteaccess_using_userinfo_endpoint.htm&type=5
-
+* https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/glossary_master.htm
+* https://help.salesforce.com/articleView?id=glossary.htm&type=0
+* https://help.salesforce.com/articleView?id=bi_glossary.htm&type=0
+* https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_platform_glossary.pdf
+* https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/visualforce_glossary.htm
+* https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/glossary_meta.htm
+* https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/glossary_api.htm
+* https://developer.salesforce.com/docs/atlas.en-us.ajax.meta/ajax/glossary_ajax.htm
+* https://developer.salesforce.com/blogs/engineering/2015/06/solved-acronym-overload-5-easy-steps.html
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
