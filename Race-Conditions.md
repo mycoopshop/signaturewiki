@@ -5,3 +5,6 @@ Shared nothing multitasking means that processes are isolated from one another, 
 http://onsmalltalk.com/smalltalk-concurrency-playing-with-futures
 http://pillarhub.pharocloud.com/hub/Uko/concurrentProgrammingInPharo
 https://www.eiffel.org/doc/solutions/Concurrent%20programming%20with%20SCOOP
+https://www.w3.org/XML/Processing/
+http://www.devx.com/xml/Article/38037/0/page/2
+http://tests.xproc.org
