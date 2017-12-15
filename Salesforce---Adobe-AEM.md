@@ -1,3 +1,4 @@
+* https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
 * https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
 * http://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sfdx_th_doc.htm
