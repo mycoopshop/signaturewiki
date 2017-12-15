@@ -56,3 +56,8 @@ https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-wit
 http://blogs.perl.org/users/martin_barth/2017/08/bailador-tests-and-docker.html
 http://blogs.perl.org/users/ivan_bessarabov/2015/02/using-perl-dancer-and-docker-to-create-simple-monitoring-system.html
 https://hub.docker.com/_/mediawiki/
+https://support.sonatype.com/hc/en-us/articles/213464518-Troubleshooting-Artifact-Download-Failures
+https://github.com/sonatype/nexus-ant-tasks/blob/master/nexus-staging-ant-tasks/build.xml
+http://forum.spring.io/forum/spring-projects/container/23617-how-to-enable-verbose-logging-in-a-web-app-with-log4j
+http://forum.spring.io/forum/spring-projects/container/94210-how-to-verbose-log-spring-problems-like-unable-to-build-entitymanagerfactory
+https://www.safaribooksonline.com/library/view/java-servlet/0596005725/ch04s05.html
