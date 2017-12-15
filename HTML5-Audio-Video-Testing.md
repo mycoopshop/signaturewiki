@@ -19,3 +19,5 @@ https://www.keycdn.com/blog/cdn-cache/
 http://iieta.org/sites/default/files/Journals/AMA/AMA_B/60.01_10.pdf
 
 https://www.slideshare.net/Fastly/http2-what-no-one-is-telling-you
+
+http://www.apacheweek.com/features/http11
