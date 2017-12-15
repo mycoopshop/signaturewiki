@@ -16,6 +16,10 @@ sns codecommit codepipeline ses
 * https://aws.amazon.com/codedeploy/faqs/
 * https://aws.amazon.com/codepipeline/faqs/
 
+**Google** Google Cloud Storage | Google Cloud Pub/Sub | BigQuery | Cloud Launcher
+
+**Heroku** PostGres | PHP | Node.js
+
 **References**
 
 * [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
