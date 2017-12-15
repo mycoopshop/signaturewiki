@@ -105,3 +105,4 @@ http://ajaxian.com/archives/a-simple-random-bit-on-var-selector
 http://ajaxian.com/archives/best-practices-for-test-revisited
 http://ajaxian.com/archives/jdrop-json-in-the-cloud
 http://ajaxian.com/archives/normal-mapped-lighting-for-photos-using-canvas
+https://www.iab.com/wp-content/uploads/2016/04/VAST4.0_Updated_April_2016.pdf
