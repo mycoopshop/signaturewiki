@@ -73,3 +73,11 @@ If being used with karma, install `karma-jasmine`
   [1]: https://github.com/jasmine/jasmine/releases
 
   [2]: https://www.npmjs.com/
+
+
+**References**
+
+* https://sites.google.com/site/unclebobconsultingllc/ant-jspc-and-other-horrors
+https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/JspC.html
+
+* https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/JspC.html
