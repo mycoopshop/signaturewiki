@@ -13,6 +13,18 @@ Use the following process:
 * [TLS (SSL) | Node.js Documentation](https://nodejs.org/api/tls.html)
 
 
+**Amazon**
+sns codecommit codepipeline ses
+
+* https://aws.amazon.com/sns/faqs/
+* https://aws.amazon.com/sns/faqs/
+* https://aws.amazon.com/ses/faqs/
+* https://aws.amazon.com/codebuild/faqs/
+* https://aws.amazon.com/codecommit/faqs/
+* https://aws.amazon.com/codedeploy/faqs/
+* https://aws.amazon.com/codepipeline/faqs/
+
+
 * http://www.methodsandtools.com/archive/archive.php?id=121
 * http://docs.ansible.com/ansible/latest/guide_rolling_upgrade.html
 * https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-deployments-of-cloudstack-to-production/
