@@ -17,3 +17,10 @@ The bottom line is this is a social contract, and [EAch](https://venturebeat.com
 
   [1]: https://i.stack.imgur.com/GShyR.png
   [2]: https://i.stack.imgur.com/WVrn9.jpg
+
+
+**References**
+
+https://delimiter.com.au/2013/11/19/ibm-accenture-risk-factors-disasters-claims-techone/
+
+https://www.texastribune.org/2015/02/01/cost-overruns-and-bungles-state-contracting/
