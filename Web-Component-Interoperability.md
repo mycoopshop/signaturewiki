@@ -1,3 +1,17 @@
+COMMON COMPONENTS
+<base> decorator 
+<href> proxy
+<form> validation
+<canvas> throttling
+<pre> escaping
+<iframe> cors
+bookmarklet csp
+<img> srcset
+<svg> transclusion
+wai-aria
+i18n
+
+REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
 * http://vuetips.com/vue-web-components
