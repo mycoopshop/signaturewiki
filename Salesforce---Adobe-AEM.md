@@ -1,3 +1,32 @@
+https://developer.salesforce.com/page/Protecting_Your_Data_in_the_Cloud
+https://help.salesforce.com/articleView?id=000003652&type=1
+https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli_firewall.htm
+https://developer.salesforce.com/blogs/developer-relations/2014/11/salesforce-integration-architecture.html
+https://help.salesforce.com/articleView?id=000126966&type=1
+https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
+https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/salesforce_security_guide.htm
+https://developer.salesforce.com/page/Security_Review
+https://developer.salesforce.com/devcenter/security
+https://developer.salesforce.com/page/Security?language=en
+https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging_security.htm
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_security_sharing_chapter.htm
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_security.htm
+https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
+https://developer.salesforce.com/page/An_Overview_of_Force.com_Security
+https://developer.salesforce.com/docs/atlas.en-us.salesforce_platform_portal_implementation_guide.meta/salesforce_platform_portal_implementation_guide/sites_security.htm
+https://partners.salesforce.com/s/education/appinnovators/Security_Review
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_csp.htm
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/apex_crud_fls.htm
+https://developer.salesforce.com/page/Security_Design_Resources
+https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
+https://help.salesforce.com/articleView?id=000206497&type=1
+https://help.salesforce.com/articleView?id=pages_page_level_security.htm&type=5
+https://help.salesforce.com/articleView?id=code_package_security.htm&type=5
+https://help.salesforce.com/articleView?id=security_transactions_creating_classic.htm&type=5
+https://help.salesforce.com/articleView?id=user_security_token.htm&type=5
+https://help.salesforce.com/articleView?id=networks_security.htm&type=5
+https://help.salesforce.com/articleView?id=bi_security_datasets_row_level.htm&type=5
+https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_considerations.htm&type=5
 * https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
 * https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
