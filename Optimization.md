@@ -1,0 +1,1 @@
+https://mimesniff.spec.whatwg.org
