@@ -83,6 +83,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/glossary_api.htm
 * https://developer.salesforce.com/docs/atlas.en-us.ajax.meta/ajax/glossary_ajax.htm
 * https://developer.salesforce.com/blogs/engineering/2015/06/solved-acronym-overload-5-easy-steps.html
+* https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-apis.meta/mc-apis/triggeredsenddefinition.htm
+* https://salesforce.stackexchange.com/questions/101862/marketing-cloud-email-attachment-via-salesforce
+* https://support.desk.com/customer/portal/articles/982116-smtp-relay-errors
 
 Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
