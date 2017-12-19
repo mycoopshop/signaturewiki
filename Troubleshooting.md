@@ -13,3 +13,27 @@ https://www.developer.com/java/data/what-is-maven.html
 http://maven.apache.org/plugins/index.html
 
 https://www.eclipse.org/jetty/documentation/9.3.x/session-clustering-gcloud-datastore.html
+
+http://www.dlighthouse.co/2013/06/using-maven-just-for-dependency.html
+
+https://archive.org/stream/jenkins/jenkins_djvu.txt
+
+https://docs.gradle.org/current/userguide/userguide.pdf
+
+https://stackoverflow.com/questions/14725197/reading-properties-file-from-pom-file-in-maven/14727072#14727072
+
+http://www.mojohaus.org/properties-maven-plugin/usage.html
+
+http://datum-bits.blogspot.com/2011/08/using-buildproperties-file-in-maven.html
+
+https://balamaci.ro/maven-lifecycles-explained/
+
+http://people.apache.org/~ltheussl/maven-stage-site/guides/plugin/guide-java-plugin-development.html
+
+http://tool.oschina.net/uploads/apidocs/maven-3.0.4/release-notes-3.x.html
+
+https://git-wip-us.apache.org/repos/asf?p=maven.git;a=blob;f=maven-core/src/main/resources/META-INF/plexus/default-bindings.xml
+
+https://maven.apache.org/ref/3.5.2/maven-core/default-bindings.html
+
+http://www.mojohaus.org/properties-maven-plugin/
