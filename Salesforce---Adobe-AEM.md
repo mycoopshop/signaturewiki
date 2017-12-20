@@ -87,7 +87,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://salesforce.stackexchange.com/questions/101862/marketing-cloud-email-attachment-via-salesforce
 * https://support.desk.com/customer/portal/articles/982116-smtp-relay-errors
 
-Adobe 
+
+## Lightning
+* https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
+* https://developerforce.github.io/lightning-app-builder-tutorial/
+* https://www.lynda.com/Salesforce-tutorials/Lightning-App-Builder/647654/673070-4.html
+* http://developerforce.github.io/lightning-components-tutorial/
+# Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
 * https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
 * https://helpx.adobe.com/experience-manager/using/creating-htl-component.html
