@@ -2,9 +2,13 @@ Contact Us: https://aws.amazon.com/contact-us/?nc1=f_m
 
 Blog: https://developer.amazon.com/blogs/appstore/tag/Appstore
 
-Gallery: https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+Gallery: https://www.google.com/search?q=flux+redux&tbm=isch
 
-Search: https://www.apple.com/us/search
+Tables: https://en.wikipedia.org/wiki/Comparison_of_programming_languages
+
+Simple Search: https://www.apple.com/us/search
+
+Advanced Search: https://www.amazon.com/Advanced-Search-Books/b/?node=241582011
 
 Forum: https://forums.developer.apple.com/welcome
 
