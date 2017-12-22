@@ -90,6 +90,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2017/10/salesforce-economy-idc-study-2022.html
 * https://www.salesforce.com/company/careers/pathfinders/
 * http://bobbuzzard.blogspot.co.uk/2017/07/not-hotdog-salesforce-einstein-edition.html
+* https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
+* https://help.salesforce.com/articleView?id=dashboards_components.htm&type=5
+* https://help.salesforce.com/articleView?id=getstart_browser_recommendations.htm&type=5
+* https://help.salesforce.com/articleView?id=bi_embed.htm&type=5
+* https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
+* https://help.salesforce.com/articleView?id=creating_web_tabs.htm&type=5
+* https://help.salesforce.com/articleView?id=fields_using_html_editor.htm&type=5
+* https://help.salesforce.com/articleView?id=lightning_page_components.htm&type=5
+* https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
+* https://help.salesforce.com/articleView?id=siteforce_clickjacking_enable.htm&type=5
+* https://help.salesforce.com/articleView?id=admin_sessions.htm&type=0
+* https://help.salesforce.com/articleView?id=import_prepare.htm&type=5
 * 
 
 ## AppExchange API
