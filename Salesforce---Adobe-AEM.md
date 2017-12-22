@@ -86,7 +86,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-apis.meta/mc-apis/triggeredsenddefinition.htm
 * https://salesforce.stackexchange.com/questions/101862/marketing-cloud-email-attachment-via-salesforce
 * https://support.desk.com/customer/portal/articles/982116-smtp-relay-errors
+* http://www.salesforce.org/wish-knew-getting-started-salesforce/
+* https://www.salesforce.com/blog/2017/10/salesforce-economy-idc-study-2022.html
+* https://www.salesforce.com/company/careers/pathfinders/
+* http://bobbuzzard.blogspot.co.uk/2017/07/not-hotdog-salesforce-einstein-edition.html
+* 
 
+## AppExchange API
+* https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 
 ## Lightning
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
