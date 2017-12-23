@@ -1,4 +1,24 @@
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+https://success.salesforce.com/issues_index?tag=Performance
+https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
+https://developer.salesforce.com/page/Sample_SOAP_Messages
+https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
+https://help.salesforce.com/articleView?id=data_sandbox_implementation_tips.htm&type=5
+https://help.salesforce.com/articleView?id=field_audit_trail.htm&type=5
+https://help.salesforce.com/articleView?id=working_with_global_publisher_layouts.htm&type=5
+https://help.salesforce.com/articleView?id=cs_about.htm&type=5
+https://help.salesforce.com/articleView?id=000198725&type=1
+https://help.salesforce.com/articleView?id=code_define_trigger.htm&type=5
+https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
+https://help.salesforce.com/articleView?id=admin_monitorsetup.htm&type=5
+https://help.salesforce.com/articleView?id=deploy_special_behavior.htm&type=5
+https://help.salesforce.com/articleView?id=data_sandbox_environments.htm&type=5
+https://help.salesforce.com/articleView?id=create_test_instance.htm&type=5
+https://help.salesforce.com/articleView?id=Updating-Hard-Coded-References-FAQ&type=1
+https://help.salesforce.com/articleView?id=changesets_about_components.htm&type=5
+https://help.salesforce.com/articleView?id=bi_limitations.htm&type=5
+https://help.salesforce.com/articleView?id=odata_reference.htm&type=5
+https://help.salesforce.com/articleView?id=bi_integrate_tranformation_overview.htm&type=5
 https://developer.salesforce.com/page/Protecting_Your_Data_in_the_Cloud
 https://developer.salesforce.com/page/Force.com_for_Google_App_Engine_User_Guide
 https://help.salesforce.com/articleView?id=000003652&type=1
@@ -57,6 +77,16 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.ibm.com/developerworks/data/library/techarticle/dm-0807deng/
 * https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.5.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFExtractingdata.html
 * https://developers.google.com/gdata/articles/salesforce
+* https://helpx.adobe.com/sign/help/adobe_sign_for_salesforce_developer_guide.html
+* https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
+* https://www.sec.gov/Archives/edgar/data/1108524/000119312510004443/dex992.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
+* http://file.lacounty.gov/SDSInter/bos/supdocs/117363.pdf
+* https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
+* https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
+* https://www.linkedin.com/pulse/salesforce-security-review-my-3x-failure-dave-rasmussen/
+* https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
+* 
 * https://developer.salesforce.com/page/Multi_Tenant_Architecture
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
