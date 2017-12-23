@@ -102,7 +102,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=siteforce_clickjacking_enable.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_sessions.htm&type=0
 * https://help.salesforce.com/articleView?id=import_prepare.htm&type=5
-* 
+* https://developer.salesforce.com/docs/atlas.en-us.identityImplGuide.meta/identityImplGuide/identity_overview.htm
+* https://developer.salesforce.com/blogs/developer-relations/2014/07/a-beginners-guide-salesforce1.html
+* https://developer.salesforce.com/dreamforce/2015-recap
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
