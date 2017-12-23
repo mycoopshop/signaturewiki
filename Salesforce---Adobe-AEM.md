@@ -105,7 +105,23 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.identityImplGuide.meta/identityImplGuide/identity_overview.htm
 * https://developer.salesforce.com/blogs/developer-relations/2014/07/a-beginners-guide-salesforce1.html
 * https://developer.salesforce.com/dreamforce/2015-recap
-
+* https://developer.salesforce.com/blogs/developer-relations/2014/11/salesforce-integration-architecture.html
+* https://www.salesforce.com/assets/pdf/misc/Platform_Encryption_Architecture_White_Paper.pdf
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=01530000003SIm9AAG
+* http://content.trust.salesforce.com/trust/uk/learn/protection/
+* https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
+* https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/tracking_field_history.htm
+* https://www.salesforce.com/form/pdf/platform-field-audit.jsp
+* https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=installing_the_data_loader.htm&type=5
+* https://help.salesforce.com/articleView?id=000192840&type=1
+* https://developer.salesforce.com/page/Multi_Tenant_Architecture
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_compliance_docs.htm
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L28rQAC
+* https://help.salesforce.com/articleView?id=Site-Switching-Overview&language=en_US&type=1
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003KjpEQAS
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
+*
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 
