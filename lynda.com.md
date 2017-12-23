@@ -11,3 +11,9 @@ Efficient Time Management
 Migrating to Angular 2 
 Sales Negotiation 
 Negotiation Skills
+Discovering Your Strengths 
+Unconscious Bias 
+Building Your Professional Network
+Influencing Others 
+Mindfulness 
+Data Visualization Tips and Tricks 
