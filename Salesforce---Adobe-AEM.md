@@ -1,4 +1,6 @@
+http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
 https://developer.salesforce.com/page/Protecting_Your_Data_in_the_Cloud
+https://developer.salesforce.com/page/Force.com_for_Google_App_Engine_User_Guide
 https://help.salesforce.com/articleView?id=000003652&type=1
 https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli_firewall.htm
 https://developer.salesforce.com/blogs/developer-relations/2014/11/salesforce-integration-architecture.html
