@@ -3,6 +3,13 @@ https://success.salesforce.com/issues_index?tag=Performance
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
+https://research.trust.salesforce.com/vulns/
+https://research.trust.salesforce.com
+https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
+https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_single_sign_on.pdf
+https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
+https://developer.salesforce.com/blogs/developer-relations/2011/04/calling-the-rest-api-from-javascript-from-anywhere.html
+https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 https://help.salesforce.com/articleView?id=data_sandbox_implementation_tips.htm&type=5
 https://help.salesforce.com/articleView?id=field_audit_trail.htm&type=5
 https://help.salesforce.com/articleView?id=working_with_global_publisher_layouts.htm&type=5
@@ -86,7 +93,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
 * https://www.linkedin.com/pulse/salesforce-security-review-my-3x-failure-dave-rasmussen/
 * https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
-* 
+* https://trailhead.salesforce.com/modules/
 * https://developer.salesforce.com/page/Multi_Tenant_Architecture
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
