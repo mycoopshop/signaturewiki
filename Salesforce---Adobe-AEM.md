@@ -185,6 +185,26 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_chatter_api_general.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
+* https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
+* https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
+
+## BI
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
+* 
+
+## Mobile SDK
+* https://github.com/forcedotcom/SalesforceMobileSDK-Samples
+* https://developer.salesforce.com/mobile/services/mobile-templates/templates-faq
+
+## Watson
+*  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
+
+## Testing
+* https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
+* https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
+ 
+## Authentication
+* https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_refresh_token_oauth.htm
 
 # Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
