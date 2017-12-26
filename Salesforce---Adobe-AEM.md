@@ -161,7 +161,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=Site-Switching-Overview&language=en_US&type=1
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003KjpEQAS
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
-*
+
+##CLI
+* https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
+
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 
