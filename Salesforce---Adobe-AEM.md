@@ -165,11 +165,27 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 
+## VisualForce
+* https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
 ## Lightning
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
 * https://developerforce.github.io/lightning-app-builder-tutorial/
 * https://www.lynda.com/Salesforce-tutorials/Lightning-App-Builder/647654/673070-4.html
 * http://developerforce.github.io/lightning-components-tutorial/
+* https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
+* https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_lightning_stricter_csp.htm
+
+## Rest API
+* http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
+* https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
+* http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
+* https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_chatter_api_general.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
+
 # Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
 * https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
