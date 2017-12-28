@@ -1,6 +1,9 @@
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
 https://success.salesforce.com/issues_index?tag=Performance
+https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
+https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/intro_api_tooling.htm
+https://developer.salesforce.com/index.php?title=Data_Driven_Menu_with_jQuery
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
@@ -171,6 +174,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## VisualForce
 * https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
+* https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_output_pdf_considerations.htm
+
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
@@ -190,10 +195,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
 * https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
 * https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
+* https://help.salesforce.com/articleView?id=000126966&type=1
+* https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging.htm
 
 ## BI
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
-* 
+
+## Porting
+* https://developer.salesforce.com/page/Apex_Data_Loader
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
@@ -205,9 +214,23 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Testing
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
 * https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
+* https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000187503&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=dev_wsdl.htm&type=5
+* https://help.salesforce.com/articleView?id=code_manage_packages.htm&type=5
  
 ## Authentication
+* https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=remoteaccess_asset_token_using_validating.htm&type=5
+* https://help.salesforce.com/articleView?id=000193647&type=1
+* https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_refresh_token_oauth.htm
+* https://help.salesforce.com/articleView?id=sso_delauthentication_configuring.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_networks_cms_connect.htm
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_networks.htm
+* https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
+* https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
+* https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
 
 # Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
