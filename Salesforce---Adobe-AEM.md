@@ -13,6 +13,8 @@ https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_single_sign_on.pdf
 https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
 https://developer.salesforce.com/blogs/developer-relations/2011/04/calling-the-rest-api-from-javascript-from-anywhere.html
+https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/attachfile.htm
+https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 https://help.salesforce.com/articleView?id=data_sandbox_implementation_tips.htm&type=5
 https://help.salesforce.com/articleView?id=field_audit_trail.htm&type=5
