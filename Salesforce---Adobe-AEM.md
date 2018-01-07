@@ -6,6 +6,8 @@ https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/i
 https://developer.salesforce.com/index.php?title=Data_Driven_Menu_with_jQuery
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
+https://developer.salesforce.com/blogs/developer-relations/2015/06/running-aura-app-heroku.html
+https://developer.salesforce.com/blogs/developer-relations/2016/12/salesforce-dx-source-driven-development.html
 https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
 https://research.trust.salesforce.com/vulns/
 https://research.trust.salesforce.com
