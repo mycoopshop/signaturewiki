@@ -6,3 +6,7 @@
 * https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose/Sr-Web-Application-Engineer_R0024602?source=JobBoardIndeed-Organic
 * http://jobs.jobvite.com/careers/sunlink/job/oWHu5fwW?__jvst=Job%20Board&__jvsd=IndeedSponsored
 * https://recruit.ap.uci.edu/apply/JPF04373
+* https://resources.sei.cmu.edu/asset_files/Presentation/2017_017_001_497517.pdf
+* http://grammarware.net/text/2017/grammar-smells.pdf
+* http://ccis2k.org/iajit/PDF/vol.9,no.6/3056-6.pdf
+* http://www.indiana.edu/~pcl/papers/hansencode2013.pdf
