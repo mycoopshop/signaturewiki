@@ -1,8 +1,13 @@
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
+https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
+https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
 https://success.salesforce.com/issues_index?tag=Performance
 https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
 https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/intro_api_tooling.htm
+https://developer.salesforce.com/page/Alert!_Salesforce_Event_Notification_Designs_for_Force.com_Apps
+https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
 https://developer.salesforce.com/index.php?title=Data_Driven_Menu_with_jQuery
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
