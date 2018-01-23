@@ -191,6 +191,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
+* https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_api_lightning.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_ls_api_version_mix.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_force_recordView.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/data_service.htm
 * https://developerforce.github.io/lightning-app-builder-tutorial/
 * https://www.lynda.com/Salesforce-tutorials/Lightning-App-Builder/647654/673070-4.html
 * http://developerforce.github.io/lightning-components-tutorial/
@@ -213,6 +217,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/bi_dev_guide_rest.pdf
 * https://api.status.salesforce.com/v1/docs/
 
+## Interface API
+* https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_api_ui.htm
+
 ## BI
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
 * https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
@@ -226,6 +233,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Watson
 *  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
+
+## Integration
+* https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
 
 ## Testing
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
