@@ -108,8 +108,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
 * https://trailhead.salesforce.com/modules/
 * https://developer.salesforce.com/page/Multi_Tenant_Architecture
-* https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
-* https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
 * http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
@@ -185,6 +183,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_output_pdf_considerations.htm
 
+## SOQL
+* https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
+* https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
+* https://developer.salesforce.com/page/From_SQL_to_SOQL
+
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
@@ -207,9 +210,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000126966&type=1
 * https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging.htm
 * https://developer.salesforce.com/page/Webinar:_Apex_REST_API_FAQ
+* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/bi_dev_guide_rest.pdf
+* https://api.status.salesforce.com/v1/docs/
 
 ## BI
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
+* https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
 
 ## Porting
 * https://developer.salesforce.com/page/Apex_Data_Loader
