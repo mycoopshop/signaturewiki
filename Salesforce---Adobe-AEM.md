@@ -178,6 +178,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 
+## Live Agent API
+* https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
+
 ## VisualForce
 * https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
@@ -206,6 +209,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
+* https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_chatter_api_general.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
