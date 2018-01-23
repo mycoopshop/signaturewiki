@@ -30,6 +30,10 @@ https://git-scm.com/docs/merge-strategies
 
 https://ariya.io/2013/09/fast-forward-git-merge
 
+https://git-scm.com/docs/git-merge-file
+
+http://blog.ezyang.com/2011/07/synthetic-git-merges/
+
 http://www-cs-students.stanford.edu/~blynn/gitmagic/ch07.html
 
 https://stackoverflow.com/questions/26157114/some-choices-in-interactive-mode-dont-work-on-git
