@@ -270,3 +270,5 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/enterprise/help/configure-sso.html
 * https://docs.adobe.com/content/ddc/en/gems/oauth-server-functionality-in-aem---embrace-federation-and-unlea/_jcr_content/par/download/file.res/OAuth_Server_functionality_in_AEM%207%2023%2014.pdf
 * http://wwwimages.adobe.com/content/dam/acom/en/security/pdfs/adobe-aem-managed-services-security.pdf
+* https://helpx.adobe.com/experience-manager/6-3/assets/using/media-handlers.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/constant-values.html
