@@ -111,4 +111,7 @@ http://www-01.ibm.com/support/docview.wss?uid=swg21633648
 https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/json_jsontransformationexample3.html
 https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/xquery_functions.html
 https://developer.ibm.com/answers/questions/379755/how-to-convert-json-to-soap-in-datapower.html
+https://toddysm.com/2017/02/02/are-enterprises-building-incomplete-cicd-pipelines/
+https://creately.com/diagram/example/i7c02ojz1/DevOps%20-%20Infrastructure%20Architecture
+http://rundeck.org/stories/john_desposito.html
 http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
