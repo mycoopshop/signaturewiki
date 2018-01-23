@@ -40,3 +40,4 @@ REFERENCES
 * https://stackoverflow.com/questions/40788115/reactjs-how-to-know-when-a-component-is-removed-from-dom
 * https://marcysutton.github.io/react-a11y-presentation/#/8
 * https://medium.com/@StartXLabs/how-to-get-react-js-to-work-with-fullcalendar-js-9d4c1270b4b
+* https://moz.com/blog/accelerated-mobile-pages-whiteboard-friday
