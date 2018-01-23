@@ -7,3 +7,9 @@
 * https://cloud.google.com/appengine/docs/standard/java/javadoc/constant-values
 * https://www.discogs.com/developers/#page:home,header:home-general-information
 * https://meta.wikimedia.org/wiki/Data_dumps
+* https://confluence.atlassian.com/bitbucketserver0414/search-for-code-in-bitbucket-server-895367763.html
+* https://github.com/koajs/koa/wiki
+* https://medium.com/@tkh44/setting-up-your-front-end-dev-environment-with-webpack-with-hapi-b352ab8b2f9c
+* https://docs.oracle.com/cd/E35215_01/apirefs.11222/e35071/objects.htm#CIHHIGEB
+* https://tika.apache.org/1.6/formats.html
+* https://developers.google.com/drive/v3/web/integrate-open
