@@ -41,3 +41,4 @@ REFERENCES
 * https://marcysutton.github.io/react-a11y-presentation/#/8
 * https://medium.com/@StartXLabs/how-to-get-react-js-to-work-with-fullcalendar-js-9d4c1270b4b
 * https://moz.com/blog/accelerated-mobile-pages-whiteboard-friday
+* https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html
