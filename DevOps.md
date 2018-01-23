@@ -78,3 +78,4 @@ http://forum.spring.io/forum/spring-projects/container/23617-how-to-enable-verbo
 http://forum.spring.io/forum/spring-projects/container/94210-how-to-verbose-log-spring-problems-like-unable-to-build-entitymanagerfactory
 https://www.safaribooksonline.com/library/view/java-servlet/0596005725/ch04s05.html
 https://www.usenix.org/system/files/conference/atc17/atc17-tak.pdf
+https://www.denimgroup.com/resources/blog/2016/12/effective-application-security-testing-in-devops-pipelines/
