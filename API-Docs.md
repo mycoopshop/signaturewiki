@@ -15,3 +15,6 @@
 * https://tika.apache.org/1.6/formats.html
 * https://developers.google.com/drive/v3/web/integrate-open
 * http://docs.readthedocs.io/en/latest/yaml-config.html
+* https://cloud.google.com/appengine/docs/standard/go/config/appref
+* https://www.mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/
+* https://brooklyn.apache.org/v/latest/blueprints/yaml-reference.html
