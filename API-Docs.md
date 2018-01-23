@@ -13,3 +13,4 @@
 * https://docs.oracle.com/cd/E35215_01/apirefs.11222/e35071/objects.htm#CIHHIGEB
 * https://tika.apache.org/1.6/formats.html
 * https://developers.google.com/drive/v3/web/integrate-open
+* http://docs.readthedocs.io/en/latest/yaml-config.html
