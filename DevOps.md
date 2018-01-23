@@ -20,6 +20,8 @@ sns codecommit codepipeline ses
 
 **Heroku** PostGres | PHP | Node.js
 
+Develop on Heroku, store on Google, deploy on AWS
+
 **References**
 
 * [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
@@ -75,3 +77,4 @@ https://github.com/sonatype/nexus-ant-tasks/blob/master/nexus-staging-ant-tasks/
 http://forum.spring.io/forum/spring-projects/container/23617-how-to-enable-verbose-logging-in-a-web-app-with-log4j
 http://forum.spring.io/forum/spring-projects/container/94210-how-to-verbose-log-spring-problems-like-unable-to-build-entitymanagerfactory
 https://www.safaribooksonline.com/library/view/java-servlet/0596005725/ch04s05.html
+https://www.usenix.org/system/files/conference/atc17/atc17-tak.pdf
