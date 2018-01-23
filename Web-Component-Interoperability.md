@@ -14,6 +14,7 @@ i18n
 REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
+* https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293
 * http://vuetips.com/vue-web-components
 * https://marketing.adobe.com/resources/help/en_US/sc/implement/accelerated-mobile-pages.html
 * https://www.webcomponents.org/specs
