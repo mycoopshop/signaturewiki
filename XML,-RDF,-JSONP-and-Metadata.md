@@ -27,3 +27,9 @@
 * http://ws680.nist.gov/publication/get_pdf.cfm?pub_id=902989
 
 * http://www.oracle.com/technetwork/database-features/xmldb/s311516-optimizingindustry-standard-133588.pdf
+
+* https://reference.niem.gov/niem/specification/code-lists/1.0/niem-code-lists-1.0-2016-06-20.html
+
+* http://xml.coverpages.org/namesAndAddresses.html
+
+* http://xml.coverpages.org/ubl.html
