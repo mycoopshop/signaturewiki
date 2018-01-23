@@ -16,6 +16,20 @@ https://www.kernel.org/pub/software/scm/git/docs/git-apply.html
 
 http://www.olitreadwell.com/2014/12/27/git-commit-interactivity/
 
+https://git-scm.com/docs/diff-generate-patch
+
+https://www.kernel.org/pub/software/scm/git/docs/git-rerere.html
+
+https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd
+
+http://legacy.python.org/dev/peps/pep-0103/
+
+https://www.quora.com/In-a-git-merge-conflict-how-do-I-tell-git-that-for-files-X-Y-and-Z-I-want-it-to-screw-the-local-changes-and-simply-overwrite-with-the-version-being-pulled-in
+
+https://git-scm.com/docs/merge-strategies
+
+https://ariya.io/2013/09/fast-forward-git-merge
+
 http://www-cs-students.stanford.edu/~blynn/gitmagic/ch07.html
 
 https://stackoverflow.com/questions/26157114/some-choices-in-interactive-mode-dont-work-on-git
