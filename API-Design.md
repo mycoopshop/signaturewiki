@@ -106,3 +106,9 @@ http://ajaxian.com/archives/best-practices-for-test-revisited
 http://ajaxian.com/archives/jdrop-json-in-the-cloud
 http://ajaxian.com/archives/normal-mapped-lighting-for-photos-using-canvas
 https://www.iab.com/wp-content/uploads/2016/04/VAST4.0_Updated_April_2016.pdf
+https://www.codeproject.com/Articles/474905/Using-BizTalk
+http://www-01.ibm.com/support/docview.wss?uid=swg21633648
+https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/json_jsontransformationexample3.html
+https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/xquery_functions.html
+https://developer.ibm.com/answers/questions/379755/how-to-convert-json-to-soap-in-datapower.html
+http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
