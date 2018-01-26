@@ -1,3 +1,6 @@
+"To get portable data, you need to pick a representation that is usable in most programming languages"
+"To get portable behavior, you need a maintainable program standard that runs on most computer systems"
+
 Imperative
 
 if (x == 7 && y == 7)
