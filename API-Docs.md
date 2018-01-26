@@ -18,3 +18,4 @@
 * https://cloud.google.com/appengine/docs/standard/go/config/appref
 * https://www.mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/
 * https://brooklyn.apache.org/v/latest/blueprints/yaml-reference.html
+* https://www.redbooks.ibm.com/redbooks/pdfs/sg247011.pdf
