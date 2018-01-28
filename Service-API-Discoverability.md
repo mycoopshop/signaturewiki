@@ -42,6 +42,12 @@ or a discovery metadata such as MediaWiki:
 
 >Since r75621, we have RSD discovery for the endpoint: look for the link rel="EditURI" in the HTML source of any page and extract the api.php URL; the actual link contains additional info.
 
+or a HTTP header response, as per RFC 7231:
+
+>How about serving the Swagger JSON in an HTTP response body, in response to an OPTIONS request for the URL / ?
+
+>The OPTIONS method requests information about the communication options available for the target resource, at either the origin server or an intervening intermediary.  This method allows a client to determine the options and/or requirements associated with a resource, or the capabilities of a server, without implying a resource action.
+
 **References**
 
 * [Service Discovery in a Microservices Architecture - NGINX](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
