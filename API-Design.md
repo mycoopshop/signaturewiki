@@ -118,3 +118,5 @@ http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
 https://www.w3.org/TR/activitystreams-vocabulary/
 https://www.w3.org/TR/social-web-protocols/#bib-Micropub
 https://www.w3.org/TR/pwp-ucr/
+https://www.w3.org/TR/SVG2/Overview.html
+https://playbook.cio.gov/
