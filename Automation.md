@@ -12,3 +12,7 @@
 * http://blogs.thinksys.com/our-favorite-test-automation-tools-and-technologies/
 * https://saucelabs.com/blog/review-of-visual-vs-functional-testing-with-pdiff-and-applitools
 * https://www.mediawiki.org/wiki/Selenium/Node.js/Stack
+* http://beanvalidation.org/latest-draft/spec/
+* https://wiki.jenkins.io/display/JENKINS/Plugin+Structure
+* https://ant.apache.org/manual/Tasks/war.html
+* https://wiki.scn.sap.com/wiki/display/SM/Executable+library
