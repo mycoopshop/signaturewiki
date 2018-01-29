@@ -55,3 +55,13 @@ http://gitpython.readthedocs.io/en/stable/reference.html
 https://dyerlab.ces.vcu.edu/2016/06/22/google-drive-git/
 
 https://en.wikibooks.org/wiki/Git/Internal_structure
+
+https://git-scm.com/docs/git-config/1.7.0
+
+https://git-scm.com/book/en/v1/Git-and-Other-Systems-Git-and-Subversion
+
+https://blog.ostermiller.org/git-remove-from-history
+
+https://en.wikibooks.org/wiki/Commit_Often,_Perfect_Later,_Publish_Once:_Git_Best_Practices
+
+https://sethrobertson.github.io/GitBestPractices/
