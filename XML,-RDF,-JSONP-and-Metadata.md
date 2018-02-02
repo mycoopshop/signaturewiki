@@ -33,3 +33,11 @@
 * http://xml.coverpages.org/namesAndAddresses.html
 
 * http://xml.coverpages.org/ubl.html
+
+* http://www.oxygenxml.com/xml_web_author.html
+
+* http://idratherbewriting.com/2015/03/26/misconception-markdown-is-more-limiting-than-dita-jekyll-versus-dita/
+
+* http://www.xmlmind.com/tutorials/DITA/
+
+* https://xmetal.com/whitepapers/
