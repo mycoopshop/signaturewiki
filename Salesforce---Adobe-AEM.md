@@ -1,5 +1,6 @@
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+http://documentation.auraframework.org/
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
