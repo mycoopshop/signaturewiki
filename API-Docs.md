@@ -1,4 +1,5 @@
 * http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/constant-values.html
+* https://leanpub.com/D3-Tips-and-Tricks
 * https://tomcat.apache.org/tomcat-8.0-doc/servletapi/index.html?constant-values.html
 * https://jmeter.apache.org/api/constant-values.html
 * https://docs.oracle.com/javase/7/docs/api/constant-values.html
