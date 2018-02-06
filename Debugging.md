@@ -16,3 +16,5 @@ Set breakpoints on all:
 * http://matteogobbi.github.io/blog/2014/09/28/autorelease-under-the-hood/
 * https://opensource.apple.com/source/objc4/objc4-493.9/runtime/objc-arr.mm
 * https://www.mediawiki.org/wiki/Node.js_debugging
+* https://nodejs.org/api/errors.html
+* https://nodejs.org/en/blog/npm/peer-dependencies/
