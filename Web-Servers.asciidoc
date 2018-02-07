@@ -1,0 +1,7 @@
+https://www.slideshare.net/RomanTeresch/jetty-tls-troubleshooting
+https://www.codeproject.com/Articles/1223459/Using-Jetty-to-Serve-Static-Web-Content
+https://www.codeproject.com/Tips/1001570/Log-J-for-Jetty
+https://www.megadix.it/blog/create-react-app-servlet/
+https://www.wouterdanes.net/2014/04/11/continuous-integration-using-docker-maven-and-jenkins.html
+https://www.eclipse.org/hudson/the-hudson-book/book-hudson.html
+https://jansipke.nl/websocket-tutorial-with-java-server-jetty-and-javascript-client/
