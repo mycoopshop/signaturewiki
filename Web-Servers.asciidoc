@@ -5,3 +5,6 @@ https://www.megadix.it/blog/create-react-app-servlet/
 https://www.wouterdanes.net/2014/04/11/continuous-integration-using-docker-maven-and-jenkins.html
 https://www.eclipse.org/hudson/the-hudson-book/book-hudson.html
 https://jansipke.nl/websocket-tutorial-with-java-server-jetty-and-javascript-client/
+http://support.rundeck.com/customer/en/portal/articles/2894840-enable-cgi-script-on-jetty
+http://zetcode.com/java/jetty/introduction/
+http://www.codingpedia.org/ama/run-java-web-apps-in-embedded-containers-with-maven-jetty-and-tomcat/
