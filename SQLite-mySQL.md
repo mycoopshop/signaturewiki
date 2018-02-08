@@ -1,0 +1,12 @@
+https://jugad2.blogspot.com/2014/03/database-to-json-in-python.html
+https://www.phparch.com/2011/11/full-text-search-with-sqlite/
+https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
+https://www.ibm.com/developerworks/library/ws-simplelogin/
+http://xmodulo.com/access-sqlite-database-perl.html
+http://blogs.perl.org/users/joel_berger/2014/09/mojolicious-do-it-for-the-candy.html
+https://www.slideshare.net/ldami/sq-lite-virtualtables
+http://www.ruddwire.com/1049/tech/perl-script-make-mysql-query-binds-variables-outputs-json/
+https://www.domoticz.com/wiki/Perl_for_Domoticz
+http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
+https://androidjson.com/save-store-php-mysql-json-parsing-data-sqlite/
+https://fedora-java.github.io/howto/latest/
