@@ -1,3 +1,41 @@
+The Chromium developer how-tos and Group Policy presentations outline all of these:
+
+ * [Chrome Group Policy](http://www.scribd.com/doc/163766676)
+ * [Getting Around the Chromium Source Code Directory Structure](http://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code)
+ * [Chrome Windows Build](https://chromium.googlesource.com/chromium/reference_builds/chrome_win/+/master)
+ * [Troublesome DLLS](https://code.google.com/p/chromium/codesearch#chromium/src/content/common/sandbox_win.cc&q=ktroublesome&sq=package:chromium&type=cs&l=43)
+ * [Inappropriate DLL load addresses](https://code.google.com/p/chromium/issues/detail?id=321626)
+
+
+Here's a partial rundown:
+
+<pre>
+
+:: All Chrome processes.
+chrome.exe      	
+icudt.dll               
+
+:: Browser processes only.
+chrome.dll            
+
+:: Renderer processes.
+ffmpegsumo.dll
+
+:: GPU process only.
+libegl.dll
+libglesv2.dll
+d3dcompiler_43.dll  
+d3dcompiler_46.dll  
+
+:: PLugins.
+ppgooglenaclpluginchrome.dll
+
+:: Chrome frame.
+chrome_frame_helper.dll
+npchrome_frame.dll
+</pre>
+
+
 * https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
 * https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
 * https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
