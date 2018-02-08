@@ -8,3 +8,6 @@
 . http://support.rundeck.com/customer/en/portal/articles/2894840-enable-cgi-script-on-jetty
 . http://zetcode.com/java/jetty/introduction/
 . http://www.codingpedia.org/ama/run-java-web-apps-in-embedded-containers-with-maven-jetty-and-tomcat/
+https://fedora-java.github.io/howto/latest/
+https://dzone.com/articles/spring-boot-with-jsps-in-executable-jars-1
+https://hostpresto.com/community/tutorials/how-to-install-jetty-9-on-ubuntu-14-04/
