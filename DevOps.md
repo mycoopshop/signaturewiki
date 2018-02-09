@@ -58,24 +58,31 @@ Develop on Heroku, store on Google, deploy on AWS
 * http://geekyplatypus.com/packaging-and-serving-your-java-application-with-docker/
 * https://dantehranian.wordpress.com/2015/03/25/how-should-i-get-application-configuration-into-my-docker-containers/
 * https://www.slideshare.net/quentinadam/the-end-of-server-management-hosting-have-to-become-a-commodity-keynote-devoxx-fr-2015
-https://blog.semicolonsoftware.de/building-minimal-docker-containers-for-rust-applications/
-https://stackoverflow.com/questions/40555215/using-docker-to-build-rust-executable-for-a-separate-environment
-https://users.rust-lang.org/t/psa-rust-documentation-is-now-optional-and-opt-in-when-installing-via-rustup/8072/24
-https://news.ycombinator.com/item?id=13628714
-http://code.rawlinson.us/2014/08/create-a-coldfusion-docker-container.html
-http://getawesomeness.herokuapp.com/get/docker
-http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/
-https://stackoverflow.com/questions/39034864/i-cant-run-swift-in-docker-using-ubuntu14-04
-https://stackoverflow.com/questions/34517439/building-a-compiled-application-with-docker
-https://stackoverflow.com/questions/45169212/create-qt-builds-with-jenkins-on-docker
-https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-within-build-directory
-http://blogs.perl.org/users/martin_barth/2017/08/bailador-tests-and-docker.html
-http://blogs.perl.org/users/ivan_bessarabov/2015/02/using-perl-dancer-and-docker-to-create-simple-monitoring-system.html
-https://hub.docker.com/_/mediawiki/
-https://support.sonatype.com/hc/en-us/articles/213464518-Troubleshooting-Artifact-Download-Failures
-https://github.com/sonatype/nexus-ant-tasks/blob/master/nexus-staging-ant-tasks/build.xml
-http://forum.spring.io/forum/spring-projects/container/23617-how-to-enable-verbose-logging-in-a-web-app-with-log4j
-http://forum.spring.io/forum/spring-projects/container/94210-how-to-verbose-log-spring-problems-like-unable-to-build-entitymanagerfactory
-https://www.safaribooksonline.com/library/view/java-servlet/0596005725/ch04s05.html
-https://www.usenix.org/system/files/conference/atc17/atc17-tak.pdf
-https://www.denimgroup.com/resources/blog/2016/12/effective-application-security-testing-in-devops-pipelines/
+* https://blog.semicolonsoftware.de/building-minimal-docker-containers-for-rust-applications/
+* https://stackoverflow.com/questions/40555215/using-docker-to-build-rust-executable-for-a-separate-environment
+* https://users.rust-lang.org/t/psa-rust-documentation-is-now-optional-and-opt-in-when-installing-via-rustup/8072/24
+* https://news.ycombinator.com/item?id=13628714
+* http://code.rawlinson.us/2014/08/create-a-coldfusion-docker-container.html
+* http://getawesomeness.herokuapp.com/get/docker
+* http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/
+* https://stackoverflow.com/questions/39034864/i-cant-run-swift-in-docker-using-ubuntu14-04
+* https://stackoverflow.com/questions/34517439/building-a-compiled-application-with-docker
+* https://stackoverflow.com/questions/45169212/create-qt-builds-with-jenkins-on-docker
+* https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-within-build-directory
+* http://blogs.perl.org/users/martin_barth/2017/08/bailador-tests-and-docker.html
+* http://blogs.perl.org/users/ivan_bessarabov/2015/02/using-perl-dancer-and-docker-to-create-simple-monitoring-system.html
+* https://hub.docker.com/_/mediawiki/
+* https://support.sonatype.com/hc/en-us/articles/213464518-Troubleshooting-Artifact-Download-Failures
+* https://github.com/sonatype/nexus-ant-tasks/blob/master/nexus-staging-ant-tasks/build.xml
+* http://forum.spring.io/forum/spring-projects/container/23617-how-to-enable-verbose-logging-in-a-web-app-with-log4j
+* http://forum.spring.io/forum/spring-projects/container/94210-how-to-verbose-log-spring-problems-like-unable-to-build-entitymanagerfactory
+* https://www.safaribooksonline.com/library/view/java-servlet/0596005725/ch04s05.html
+* https://www.usenix.org/system/files/conference/atc17/atc17-tak.pdf
+* https://www.denimgroup.com/resources/blog/2016/12/effective-application-security-testing-in-devops-pipelines/
+* http://khmarbaise.github.io/maven-site/fluido/guides/mini/guide-m1-m2.html
+* http://books.sonatype.com/mvnref-book/reference/writing-plugins-sect-plugins-lifecycle.html
+* http://takari.io/2015/03/19/polyglot-maven.html
+* https://www.ibm.com/support/knowledgecenter/en/SSHR6W/com.ibm.websphere.wdt.doc/topics/key_concepts.htm
+* https://carlosmchica.github.io/maven-demystified/
+* http://maven.apache.org/ref/3.0.4/maven-model-builder/super-pom.html
+* https://help.sonatype.com/display/NXRM3/Repository+Manager+2+to+3+Feature+Equivalency
