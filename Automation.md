@@ -16,3 +16,8 @@
 * https://wiki.jenkins.io/display/JENKINS/Plugin+Structure
 * https://ant.apache.org/manual/Tasks/war.html
 * https://wiki.scn.sap.com/wiki/display/SM/Executable+library
+* https://www.packtpub.com/mapt/book/networking_and_servers/9781784396879/11/ch11lvl1sec69/double-fork-and-setsid
+* http://www.enseignement.polytechnique.fr/informatique/INF583/INF583_5.pdf
+* http://man7.org/linux/man-pages/man2/setsid.2.html
+* https://ss64.com/osx/disown.html
+* http://blog.n01se.net/blog-n01se-net-p-145.html
