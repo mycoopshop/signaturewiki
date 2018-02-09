@@ -86,3 +86,14 @@ Develop on Heroku, store on Google, deploy on AWS
 * https://carlosmchica.github.io/maven-demystified/
 * http://maven.apache.org/ref/3.0.4/maven-model-builder/super-pom.html
 * https://help.sonatype.com/display/NXRM3/Repository+Manager+2+to+3+Feature+Equivalency
+http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art005
+
+http://javasampleapproach.com/tool/maven/maven-introduction-part-4-maven-build-lifecycle
+https://www.ibm.com/developerworks/java/tutorials/j-mavenv2/
+https://cloud.google.com/appengine/docs/standard/java/tools/maven
+http://archive.apachecon.com/eu2012/presentations/08-Thursday/L1L-Apache_Daily/aceu-2012-unit-and-integration-testing-with-maven.pdf
+http://blog.ciplogic.com/index.php/blog/117-maven-for-noobs-beginners
+https://www.slideshare.net/javaonkar/maven-41088192
+http://www.vogella.com/tutorials/ApacheMaven/article.html
+https://www.adobe.com/devnet/flex/articles/flex-maven-flexmojos-pt1.html
+http://www.bogotobogo.com/Java/tutorials/Maven/Apache_Maven3_compile_build_install.php
