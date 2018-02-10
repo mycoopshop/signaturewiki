@@ -97,3 +97,6 @@ https://www.slideshare.net/javaonkar/maven-41088192
 http://www.vogella.com/tutorials/ApacheMaven/article.html
 https://www.adobe.com/devnet/flex/articles/flex-maven-flexmojos-pt1.html
 http://www.bogotobogo.com/Java/tutorials/Maven/Apache_Maven3_compile_build_install.php
+https://dzone.com/refcardz/getting-started-repository?chapter=1
+https://maxrohde.com/2010/05/29/setting-up-a-maven-repository-using-nexus-and-artifactory/
+http://maven.apache.org/ref/3.5.0/maven-core/lifecycles.html
