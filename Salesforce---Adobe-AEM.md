@@ -241,17 +241,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Integration
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
-https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90690_.htm
-https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90710_.htm
-https://www.ibm.com/support/knowledgecenter/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFQueryStatusBulkLoad.html
-https://www.ibm.com/support/knowledgecenter/en/SSWU4L/Integrations/imc_Integrations/002_FAQs143.html
-https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.5.0/com.ibm.swg.im.mdmhs.sdfcintegration.doc/topics/c_mdmandsfdc_integration.html
-https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
-https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SalesforcePackOverview.html
-https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90730_.htm
-https://www.ibm.com/support/knowledgecenter/en/SSGR73_7.5.0/com.ibm.wci.doc/toc_salesforceactivities.html
-https://www.ibm.com/support/knowledgecenter/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFConfigSSLConnectionToSalesforce.html
-
+* https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90690_.htm
+* https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90710_.htm
+* https://www.ibm.com/support/knowledgecenter/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFQueryStatusBulkLoad.html
+* https://www.ibm.com/support/knowledgecenter/en/SSWU4L/Integrations/imc_Integrations/002_FAQs143.html
+* https://www.ibm.com/support/knowledgecenter/en/SSWSR9_11.5.0/com.ibm.swg.im.mdmhs.sdfcintegration.doc/topics/c_mdmandsfdc_integration.html
+* https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
+* https://www.ibm.com/support/knowledgecenter/en/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SalesforcePackOverview.html
+* https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90730_.htm
+* https://www.ibm.com/support/knowledgecenter/en/SSGR73_7.5.0/com.ibm.wci.doc/toc_salesforceactivities.html
+* https://www.ibm.com/support/knowledgecenter/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFConfigSSLConnectionToSalesforce.html
+* https://www.codeproject.com/Tips/1000517/Integrating-Salesforce-com-over-REST-API-using-IBM
+* https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
 ## Testing
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
