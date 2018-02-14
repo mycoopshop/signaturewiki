@@ -15,7 +15,12 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
  * [Drawing inferences on the basis of markup](http://conferences.idealliance.org/extreme/html/2002/CMSMcQ01/EML2002CMSMcQ01.html)
  * [Rabbit/duck grammars: a validation method for overlapping structures](http://conferences.idealliance.org/extreme/html/2006/SperbergMcQueen01/EML2006SperbergMcQueen01.html)
  * [Markup Languages and (Non-) Hierarchies](http://xml.coverpages.org/hierarchies.html)
-
+* https://varnish-cache.org/docs/3.0/tutorial/esi.html
+* https://symfony.com/doc/current/http_cache/esi.html
+* https://www.fastly.com/blog/using-esi-part-1-simple-edge-side-include/
+* https://www.w3.org/TR/esi-invp
+* https://www.w3.org/TR/edge-arch/
+* 
 
 Markup and typesetting languages are the earliest examples of templating. Here is the Wikipedia definition:
 >A markup language is a modern system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the "marking up" of manuscripts, i.e., the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts. Examples are typesetting instructions such as those found in troff and LaTeX, or structural markers such as XML tags.
