@@ -43,3 +43,9 @@ REFERENCES
 * https://medium.com/@StartXLabs/how-to-get-react-js-to-work-with-fullcalendar-js-9d4c1270b4b
 * https://moz.com/blog/accelerated-mobile-pages-whiteboard-friday
 * https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html
+* http://lucybain.com/blog/2018/react-js-pure-component/
+* https://60devs.com/pure-component-in-react.html
+* https://github.com/facebook/react/issues/7778
+* https://www.youtube.com/watch?v=dRo_egw7tBc
+* https://github.com/facebook/react/issues/3657
+* http://cheng.logdown.com/posts/2016/03/23/672523
