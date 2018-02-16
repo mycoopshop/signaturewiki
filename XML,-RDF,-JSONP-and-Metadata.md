@@ -41,3 +41,9 @@
 * http://www.xmlmind.com/tutorials/DITA/
 
 * https://xmetal.com/whitepapers/
+
+* http://xml.coverpages.org/xmtp.html
+
+* http://www.openhealth.org/www.openhealth.org/documents/xmtp.htm
+
+* https://www.ibm.com/support/knowledgecenter/en/SS3JSW_5.2.0/com.ibm.help.svcs_adpts_m_z.doc/MIME_svc.html
