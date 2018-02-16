@@ -20,3 +20,11 @@
 * https://www.mkyong.com/spring-boot/spring-boot-profile-based-properties-and-yaml-example/
 * https://brooklyn.apache.org/v/latest/blueprints/yaml-reference.html
 * https://www.redbooks.ibm.com/redbooks/pdfs/sg247011.pdf
+* https://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-6448a9d5-c9ca-440a-932f-36c9070c19ff/c/janik-AJVM.pdf
+* http://newandroidbook.com/AIvI-M-RL1.pdf
+* http://www.pawlan.com/monica/books/AdvBk.pdf
+* https://opus4.kobv.de/opus4-bamberg/files/216/schoeneopusoptA2e.pdf
+* http://openjdk.java.net/groups/hotspot/docs/RuntimeOverview.html
+* https://www.ibm.com/support/knowledgecenter/SSYKE2/earlier_releases/1.4.2/diag142J9.pdf
+* https://jakubstransky.com/tag/java-memory-model/
+* https://www.cubrid.org/blog/understanding-jvm-internals/
