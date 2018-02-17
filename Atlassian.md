@@ -3,3 +3,4 @@
 1. https://confluence.atlassian.com/jiracoreserver072/advanced-searching-fields-reference-829092671.html
 1. https://community.atlassian.com/t5/Jira-articles/Becoming-a-JIRA-Search-Ninja-History-searches-in-JIRA/ba-p/461943
 1. https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-24
+1. https://docs.atlassian.com/software/jira/docs/api/7.6.1/constant-values.html
