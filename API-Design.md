@@ -122,3 +122,4 @@ https://www.w3.org/TR/SVG2/Overview.html
 https://playbook.cio.gov/
 http://www.brising.com/slamdunk2.html
 https://www.microsoft.com/en-us/research/wp-content/uploads/2013/01/posix-emulation-submitted.pdf
+https://devcenter.heroku.com/articles/architecting-apps
