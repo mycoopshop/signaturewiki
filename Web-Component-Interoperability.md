@@ -49,3 +49,4 @@ REFERENCES
 * https://www.youtube.com/watch?v=dRo_egw7tBc
 * https://github.com/facebook/react/issues/3657
 * http://cheng.logdown.com/posts/2016/03/23/672523
+* https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f
