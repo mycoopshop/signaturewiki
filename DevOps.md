@@ -100,3 +100,6 @@ http://www.bogotobogo.com/Java/tutorials/Maven/Apache_Maven3_compile_build_insta
 https://dzone.com/refcardz/getting-started-repository?chapter=1
 https://maxrohde.com/2010/05/29/setting-up-a-maven-repository-using-nexus-and-artifactory/
 http://maven.apache.org/ref/3.5.0/maven-core/lifecycles.html
+http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art064
+https://dzone.com/articles/reverse-engineering-of-production-web-application
+https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
