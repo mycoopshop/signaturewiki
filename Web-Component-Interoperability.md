@@ -50,3 +50,7 @@ REFERENCES
 * https://github.com/facebook/react/issues/3657
 * http://cheng.logdown.com/posts/2016/03/23/672523
 * https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f
+* https://material.io/guidelines/components/widgets.html#widgets-behavior
+* https://www.w3.org/blog/wai-components-gallery/
+* https://spin.atomicobject.com/2016/04/05/single-page-app-components/
+* https://www.frontendhandbook.com/tools/ui.html
