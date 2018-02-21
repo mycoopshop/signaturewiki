@@ -103,3 +103,4 @@ http://maven.apache.org/ref/3.5.0/maven-core/lifecycles.html
 http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art064
 https://dzone.com/articles/reverse-engineering-of-production-web-application
 https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
+https://www.ibm.com/support/knowledgecenter/was_beta/com.ibm.websphere.wdt.doc/topics/cwebprojects.htm
