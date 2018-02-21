@@ -1,6 +1,7 @@
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
 http://documentation.auraframework.org/
+https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
