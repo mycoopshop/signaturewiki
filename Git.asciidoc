@@ -22,6 +22,8 @@ https://www.kernel.org/pub/software/scm/git/docs/git-rerere.html
 
 https://www.codementor.io/citizen428/git-tutorial-10-common-git-problems-and-how-to-fix-them-aajv0katd
 
+https://confluence.atlassian.com/bitbucketserverkb/pushing-to-bitbucket-server-reports-there-are-too-many-unreachable-loose-objects-825788622.html
+
 http://legacy.python.org/dev/peps/pep-0103/
 
 https://www.quora.com/In-a-git-merge-conflict-how-do-I-tell-git-that-for-files-X-Y-and-Z-I-want-it-to-screw-the-local-changes-and-simply-overwrite-with-the-version-being-pulled-in
