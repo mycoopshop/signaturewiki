@@ -58,3 +58,10 @@ Use different languages for each level, such as:
 * https://stackoverflow.com/questions/6209157/1113772
 * https://stackoverflow.com/questions/12288820/1113772
 * https://stackoverflow.com/questions/12710122/1113772
+
+https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd
+http://react.tips/how-to-use-react-component-lifecycle-methods/
+https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca
+https://reactjs.org/docs/integrating-with-other-libraries.html
+https://hackernoon.com/one-major-reason-vuejs-gt-react-4edcb400e383
+https://medium.com/engineering-housing/javascript-memory-profiling-for-backbone-and-react-5bffd5d6e6f
