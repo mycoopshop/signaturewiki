@@ -17,3 +17,9 @@
 * https://www.iana.org/assignments/sip-parameters/sip-parameters.xhtml
 * https://www.usenix.org/system/files/login/issues/usenix_dec11_login.pdf
 * https://www.adobe.com/devnet-docs/acrobatetk/tools/AppSec/xdomain.html
+* http://www.dtic.mil/docs/citations/ADA545053
+* http://www.dtic.mil/docs/citations/ADA453238
+* http://www.dtic.mil/docs/citations/AD1000434
+* http://www.dtic.mil/docs/citations/AD1014839
+* http://www.dtic.mil/docs/citations/AD1006391
+* http://www.dtic.mil/docs/citations/AD1046295
