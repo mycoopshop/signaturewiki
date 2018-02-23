@@ -4,3 +4,4 @@ https://www.interactivebrokers.com/cgi-pub/stock_search.pl?symbol=?&NYSE.html=Su
 https://svn.apache.org/repos/asf/perl/
 http://www.dqsd.net/tools/dqsdtoc/searchtoc.pl
 http://www.computinghistory.org.uk/cgi/archive.pl?type=Books
+http://tycho.usno.navy.mil/timer.pl
