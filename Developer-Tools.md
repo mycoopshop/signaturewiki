@@ -8,3 +8,5 @@ References:
 1. https://developers.google.com/web/updates/2016/12/position-sticky
 1. https://developers.google.com/web/shows/rss.xml
 1. https://chromedevtools.github.io/devtools-protocol/
+1. https://developer.chrome.com/extensions/devtools
+1. https://sites.google.com/a/chromium.org/chromedriver/help/devtools-window-keeps-closing
