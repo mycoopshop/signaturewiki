@@ -18,9 +18,18 @@ sns codecommit codepipeline ses
 
 **Google** Google Cloud Storage | Google Cloud Pub/Sub | BigQuery | Cloud Launcher
 
-**Heroku** PostGres | PHP | Node.js
+**Heroku** 
+
+PostGres | PHP | Node.js
 
 Develop on Heroku, store on Google, deploy on AWS
+
+**OpenShift**
+
+Perl Jenkins Redis
+
+* https://hub.openshift.com/quickstarts/100-perl-5-10
+
 
 **References**
 
