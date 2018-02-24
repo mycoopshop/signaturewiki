@@ -1,2 +1,8 @@
 https://medium.com/@gigobyte/enhancing-react-components-with-decorators-441320e8606a
 https://docs.angularjs.org/api/ng/directive/script
+https://www.ironin.it/blog/react-developers-may-like-vue.js-more.html
+https://github.com/facebook/react/issues/6436
+https://devhub.io/repos/mozilla-services-react-jsonschema-form
+http://bl.ocks.org/biovisualize/8187844
+https://marcysutton.github.io/react-a11y-presentation/#/
+http://www.24a11y.com/2017/reacts-accessibility-code-linter/
