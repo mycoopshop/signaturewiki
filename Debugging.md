@@ -3,6 +3,11 @@ newserializedata
 fnOnCancel
 fnOnSave
 
+Check:
+Are if/else symmetric
+if foo = true
+else foo = false
+
 Cross Reference all:
 * CSS class names
 * CSS IDs
