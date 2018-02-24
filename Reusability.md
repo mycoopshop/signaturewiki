@@ -6,3 +6,5 @@ https://devhub.io/repos/mozilla-services-react-jsonschema-form
 http://bl.ocks.org/biovisualize/8187844
 https://marcysutton.github.io/react-a11y-presentation/#/
 http://www.24a11y.com/2017/reacts-accessibility-code-linter/
+https://reactjs.org/docs/composition-vs-inheritance.html
+https://joecritchley.svbtle.com/transclusion-in-react
