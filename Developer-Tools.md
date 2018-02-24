@@ -4,6 +4,12 @@ Cross-reference:
 1. AJAX callback functions to Event handler functions
 1. Event handler functions to HTML DOM event bindings
 
+Copy/Paste
+1. HAR files
+1. HTTP Headers
+1. Cookies 
+
+
 References:
 1. https://developers.google.com/web/updates/2016/12/position-sticky
 1. https://developers.google.com/web/shows/rss.xml
