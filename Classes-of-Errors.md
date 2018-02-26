@@ -24,3 +24,10 @@ Invalid arguments     Stack Machine                       PostScript
 Heisenbug             Message Passing Concurrency         Erlang
 </pre>
 
+
+**References**
+
+https://blog.sentry.io/2017/09/28/react-16-error-boundaries
+https://github.com/substack/tape/issues/59
+https://thefullstack.xyz/debug-exceptions-react-native
+https://blog.sentry.io/2017/09/28/react-16-error-boundaries
