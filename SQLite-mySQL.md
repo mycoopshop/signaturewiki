@@ -10,3 +10,14 @@ https://www.domoticz.com/wiki/Perl_for_Domoticz
 http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
 https://androidjson.com/save-store-php-mysql-json-parsing-data-sqlite/
 https://fedora-java.github.io/howto/latest/
+http://www.pererikstrandberg.se/blog/index.cgi?page=DataAnalysisWithPython
+http://proc-x.com/2014/08/translate-sass-sas7bdat-format-to-sqlite-and-pandas/
+https://simply-python.com/2015/03/04/storing-and-retrieving-stock-data-from-sqlite-database/
+https://www.fullstackpython.com/sqlite.html
+https://news.ycombinator.com/item?id=15605669
+https://www.reddit.com/r/Python/comments/6y1ud9/writing_a_sqlite_clone_from_scratch_in_c/
+https://medium.com/@williamkoehrsen/data-wrangling-with-python-and-sqlite-900d21bc5a53
+http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/
+http://www.evanjones.ca/sqlite-for-data-analysis.html
+https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite/
+https://pythonspot.com/sqlite-database-with-pandas/
