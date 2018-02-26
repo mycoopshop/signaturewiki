@@ -47,4 +47,4 @@ ES6 Template Literals:
 * https://reactjs.org/docs/composition-vs-inheritance.html
 * https://joecritchley.svbtle.com/transclusion-in-react
 * https://basarat.gitbooks.io/typescript/docs/template-strings.html
-* 
+* https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/
