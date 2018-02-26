@@ -1,12 +1,11 @@
 ES6 Template Literals:
 
-`
-define(function(require) {
+      define(function(require) {
 
-    var React   = require('react');
-    var jsx     = require('lib/jsxquasi');
+      var React   = require('react');
+      var jsx     = require('lib/jsxquasi');
 
-    var EchoComponent = React.createClass({
+      var EchoComponent = React.createClass({
         getInitialState: function() {
             return { value: '' };
         },
@@ -26,15 +25,15 @@ define(function(require) {
                 </div>
             `;
         }
-    })
+      })
 
-    return function() {
+      return function() {
         var comp = jsx`<${EchoComponent} />`;
         React.renderComponent(comp, document.body);
-    };
-});
+      };
+    });
 
-`
+
 
 **References**
 * https://medium.com/@gigobyte/enhancing-react-components-with-decorators-441320e8606a
