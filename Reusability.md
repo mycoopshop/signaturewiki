@@ -52,3 +52,4 @@ ES6 Template Literals:
 * https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
 * https://v1.dhruvkumarjha.com/articles/building-a-static-website-using-react-js-part-2-creating-and-hosting-the-website
 * http://voidcanvas.com/polymer-web-components-polyfills/
+* http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/
