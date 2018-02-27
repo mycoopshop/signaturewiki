@@ -82,6 +82,8 @@ Object.defineProperty
 
 WHO CAN COME AFTER HIM?
 
+Variables - RegExp / XPath (Every variable is a query result)
+
 Templating - SSI/ESI
 
 Data Binding - Excel / URI Templating
