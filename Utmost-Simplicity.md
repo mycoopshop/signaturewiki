@@ -82,7 +82,13 @@ Object.defineProperty
 
 WHO CAN COME AFTER HIM?
 
-Variables - RegExp / XPath (Every variable is a query result)
+Variables - RegExp / XPath /xsl:variable (Every variable is a query result)
+      $scope.href = function(){
+        if(/1/.test($scope.template.name) === true)
+          {return 'http://example.com';}
+        else
+          {return 'http://ietf.org';}
+      };  
 
 Templating - SSI/ESI
 
