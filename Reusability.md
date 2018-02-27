@@ -48,3 +48,7 @@ ES6 Template Literals:
 * https://joecritchley.svbtle.com/transclusion-in-react
 * https://basarat.gitbooks.io/typescript/docs/template-strings.html
 * https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/
+* https://book.klipse.tech/how-to-create-interactive-reactjs-snippets.html
+* https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
+* https://v1.dhruvkumarjha.com/articles/building-a-static-website-using-react-js-part-2-creating-and-hosting-the-website
+* http://voidcanvas.com/polymer-web-components-polyfills/
