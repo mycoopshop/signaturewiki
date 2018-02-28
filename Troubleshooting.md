@@ -37,3 +37,5 @@ https://git-wip-us.apache.org/repos/asf?p=maven.git;a=blob;f=maven-core/src/main
 https://maven.apache.org/ref/3.5.2/maven-core/default-bindings.html
 
 http://www.mojohaus.org/properties-maven-plugin/
+
+https://github.com/sass/node-sass/blob/master/TROUBLESHOOTING.md
