@@ -31,3 +31,5 @@ https://blog.sentry.io/2017/09/28/react-16-error-boundaries
 https://github.com/substack/tape/issues/59
 https://thefullstack.xyz/debug-exceptions-react-native
 https://blog.sentry.io/2017/09/28/react-16-error-boundaries
+https://www.w3.org/TR/qaframe-spec/
+https://www.w3.org/MarkUp/Test/HTML401/current/assertions/assertions_toc.html
