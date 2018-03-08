@@ -61,3 +61,7 @@ npchrome_frame.dll
 * https://v8project.blogspot.com
 https://stackoverflow.com/questions/46452365/how-can-i-get-system-uptime-programmatically-on-the-chrome-os-platform
 https://developer.chrome.com/native-client/migration
+https://code.visualstudio.com/docs/languages/csharp
+https://groups.google.com/forum/#!forum/crouton-central
+https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/
+https://www.asp.net/get-started
