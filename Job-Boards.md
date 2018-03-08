@@ -62,6 +62,8 @@ https://oracle.taleo.net/careersection/2/jobdetail.ftl?job=269541&src=JB-10145
 
 https://www.indeed.com/viewjob?jk=75984fc46978b975&from=serp&vjs=3
 
+http://www.ohlone.edu/org/commed/docs/proposaltoteachnewclassworkshop.pdf
+
 https://trends.builtwith.com/framework/node.js
 
 https://trends.builtwith.com/framework/PHP-7
