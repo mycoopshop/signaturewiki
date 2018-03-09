@@ -21,6 +21,7 @@ https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.
 https://developer.salesforce.com/page/Apex_Code_Best_Practices
 https://help.salesforce.com/articleView?id=000004186&type=1
 https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
+https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
 https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
