@@ -32,6 +32,7 @@ https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOA
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+https://admin.salesforce.com/preparing-certification-exam
 http://documentation.auraframework.org/
 https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
 https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
