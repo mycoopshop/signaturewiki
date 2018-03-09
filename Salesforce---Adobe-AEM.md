@@ -17,6 +17,7 @@ http://www.dreamhouseapp.io
 https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
 https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
+https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
 https://developer.salesforce.com/page/Apex_Code_Best_Practices
 https://help.salesforce.com/articleView?id=000004186&type=1
 https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
