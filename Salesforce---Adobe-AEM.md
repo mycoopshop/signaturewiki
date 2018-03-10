@@ -13,22 +13,23 @@ Creativity & Critical Thinking
 Excellent verbal and written communication skills
 
 **Best Practices**
-http://www.dreamhouseapp.io
-https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
-https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
-https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
-https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
-https://developer.salesforce.com/page/Apex_Code_Best_Practices
-https://help.salesforce.com/articleView?id=000004186&type=1
-https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
-https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
-https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
-https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
-https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
-https://developer.salesforce.com/page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
-https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
-https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
-https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
+* http://www.dreamhouseapp.io
+* https://developer.salesforce.com/page/Wiki
+* https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
+* https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
+* https://developer.salesforce.com/page/Apex_Code_Best_Practices
+* https://help.salesforce.com/articleView?id=000004186&type=1
+* https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
+* https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
+* https://developer.salesforce.com/page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
+* https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
+* https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
+* https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
