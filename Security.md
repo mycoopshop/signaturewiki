@@ -1,4 +1,5 @@
 * https://arxiv.org/ftp/arxiv/papers/1304/1304.7451.pdf
+* https://www.us-cert.gov/bsi/articles/best-practices/assembly-integration-and-evolution--security-concept-challenge-and-design-considerations-web-services-integration
 * http://bofh.nikhef.nl/events/HitB/hitb-2014-amsterdam/praatjes/D2T2-Exploring-and-Exploiting-iOS-Web-Browsers.pdf
 * http://obem.be/2014/07/28/oauth-2-on-android.html
 * https://docs.oracle.com/cd/E17952_01/mysql-utilities-1.6-en/utils-task-using-ssl.html
