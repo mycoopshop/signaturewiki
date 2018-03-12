@@ -10,6 +10,8 @@ https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/
 
 https://robots.thoughtbot.com/send-a-patch-to-someone-using-git-format-patch
 
+http://gitster.livejournal.com/28309.html
+
 https://davidwalsh.name/git-export-patch
 
 http://nithinbekal.com/posts/git-patch/
