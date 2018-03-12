@@ -1,3 +1,8 @@
+HTML5 Interactive Elements
+<menu> element 
+jpeg-xr
+requestidlecallback
+
 COMMON COMPONENTS
 <base> decorator 
 <href> proxy
