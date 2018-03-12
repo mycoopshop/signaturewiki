@@ -38,6 +38,7 @@ Perl Jenkins Redis
 * [DNS | Node.js Documentation](https://nodejs.org/api/dns.html)
 
 * [TLS (SSL) | Node.js Documentation](https://nodejs.org/api/tls.html)
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5335972/
 * http://www.methodsandtools.com/archive/archive.php?id=121
 * http://docs.ansible.com/ansible/latest/guide_rolling_upgrade.html
 * https://blog.remibergsma.com/2016/03/02/how-tomcat-war-drops-drive-continuous-deployments-of-cloudstack-to-production/
