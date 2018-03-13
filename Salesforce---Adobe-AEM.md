@@ -34,6 +34,7 @@ Excellent verbal and written communication skills
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/misc/SalesforceIQ-Open-Source.pdf
 https://admin.salesforce.com/preparing-certification-exam
 http://documentation.auraframework.org/
 https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
@@ -235,6 +236,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sfdx_setup.pdf
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
 * https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_api_lightning.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_ls_api_version_mix.htm
@@ -276,9 +279,15 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
 * https://developer.salesforce.com/mobile/services/mobile-templates/templates-faq
+* https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/gs_whatsnew.htm
+* https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/react_native_new_project.htm
+* https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/install_npmjs.htm
 
 ## Watson
 *  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
+
+## Alexa
+* https://engineering.salesforce.com/open-sourcing-violet-a-voice-application-framework-744f7c660655
 
 ## Integration
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
@@ -315,6 +324,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 * https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
+* https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/decode-jwt.htm
 
 # Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
