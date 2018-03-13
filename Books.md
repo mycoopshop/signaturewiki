@@ -16,3 +16,15 @@ https://edisciplinas.usp.br/pluginfile.php/1734370/mod_resource/content/1/Stewar
 https://www.amazon.com/This-Future-FATBACK-BAND/dp/B000001ZX1/
 
 http://www.gutenberg.org/cache/epub/9880/pg9880.txt
+
+https://leanpub.com/javascript-allonge/read
+
+https://leanpub.com/understandinges6/read
+
+https://leanpub.com/purescript/read
+
+https://leanpub.com/combinators/read
+
+https://leanpub.com/D3-Tips-and-Tricks
+
+http://caml.inria.fr/pub/docs/oreilly-book/html/book-ora066.html
