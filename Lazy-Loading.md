@@ -2,6 +2,7 @@ Lazy production is reactive
 Lazy consuming is streaming
 
 https://michelkraemer.com/actson-reactive-json-parser/
+https://matthias.benkard.de/journal/131
 https://programmerpayback.com/2010/03/22/reactive-xmlreader-for-sax-like-parsing/
 https://www.codeproject.com/Articles/646361/Reactive-Programming-for-NET-and-Csharp-Developers
 https://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/
