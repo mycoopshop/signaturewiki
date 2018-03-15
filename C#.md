@@ -1,0 +1,1 @@
+https://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html
