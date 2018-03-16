@@ -314,6 +314,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
  
 ## Authentication
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
 * https://help.salesforce.com/articleView?id=remoteaccess_asset_token_using_validating.htm&type=5
 * https://help.salesforce.com/articleView?id=000193647&type=1
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=5
