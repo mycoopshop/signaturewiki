@@ -23,3 +23,8 @@ https://damienbod.com/2017/01/14/angular-2-lazy-loading-with-webpack-2/
 https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
 https://github.com/angular/angular/issues/21498
 https://scotch.io/tutorials/lazy-loading-routes-in-react
+https://news.ycombinator.com/item?id=14870550
+http://lambda-the-ultimate.org/node/3560
+http://lambda-the-ultimate.org/node/4140
+http://lambda-the-ultimate.org/node/4099
+http://elm-lang.org/blog/farewell-to-frp
