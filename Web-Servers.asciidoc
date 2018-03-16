@@ -13,3 +13,5 @@
 . https://hostpresto.com/community/tutorials/how-to-install-jetty-9-on-ubuntu-14-04/
 . https://docs.oracle.com/cd/E13222_01/wls/docs/classdocs/API_servlet.html
 . http://www.peoi.org/Courses/Coursesen/web/web4.html
+* https://www.eclipse.org/jetty/javadoc/current/org/eclipse/jetty/server/package-tree.html
+* https://www.eclipse.org/jetty/javadoc/current/org/eclipse/jetty/util/package-tree.html
