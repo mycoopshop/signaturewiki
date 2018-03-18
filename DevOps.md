@@ -31,6 +31,18 @@ Perl Jenkins Redis
 * https://hub.openshift.com/quickstarts/100-perl-5-10
 
 
+**Containers**
+* https://community.oracle.com/docs/DOC-1017486
+* https://www.gnu.org/software/guix/blog/2017/creating-bundles-with-guix-pack/
+* https://blog.mozilla.org/webqa/2016/06/28/dockerized-owasp-zap-security-scanning-in-jenkins-part-two/
+* https://blog.mozilla.org/webqa/2016/06/28/dockerized-owasp-zap-security-scanning-in-jenkins-part-two/
+* https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Red_Hat_Linux
+* https://www.cyberciti.biz/faq/install-use-setup-docker-on-rhel7-centos7-linux/
+* https://docs.docker.com/install/linux/docker-ee/centos/#upgrade-docker-ee-1
+* https://community.kde.org/Android/Environment_via_Container
+* http://blogs.cornell.edu/cloudification/category/docker/
+
+
 **References**
 
 * [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
