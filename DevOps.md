@@ -32,6 +32,7 @@ Perl Jenkins Redis
 
 
 **Containers**
+* https://www.infoq.com/articles/docker-containers
 * https://insights.sei.cmu.edu/devops/2015/07/fabric-ansible-docker-and-chaos-monkey-the-devops-mid-year-review.html
 * https://community.oracle.com/docs/DOC-1017486
 * https://www.gnu.org/software/guix/blog/2017/creating-bundles-with-guix-pack/
@@ -42,7 +43,8 @@ Perl Jenkins Redis
 * https://docs.docker.com/install/linux/docker-ee/centos/#upgrade-docker-ee-1
 * https://community.kde.org/Android/Environment_via_Container
 * http://blogs.cornell.edu/cloudification/category/docker/
-
+* http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
+* http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
 
 **References**
 
