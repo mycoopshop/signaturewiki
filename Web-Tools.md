@@ -12,3 +12,4 @@
 * https://testdrive-archive.azurewebsites.net/Views/SiteMap/
 * https://trends.builtwith.com/widgets/Qualtrics-Site-Intercept
 * https://trends.builtwith.com/ssl/LetsEncrypt
+* https://labs.adobe.com/technologies/swfinvestigator/
