@@ -32,6 +32,7 @@ Perl Jenkins Redis
 
 
 **Containers**
+* https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
 * https://www.infoq.com/articles/docker-containers
 * https://insights.sei.cmu.edu/devops/2015/07/fabric-ansible-docker-and-chaos-monkey-the-devops-mid-year-review.html
 * https://community.oracle.com/docs/DOC-1017486
