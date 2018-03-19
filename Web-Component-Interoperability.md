@@ -58,6 +58,7 @@ REFERENCES
 * https://material.io/guidelines/components/widgets.html#widgets-behavior
 * https://www.w3.org/blog/wai-components-gallery/
 * https://spin.atomicobject.com/2016/04/05/single-page-app-components/
+* https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776
 * https://www.frontendhandbook.com/tools/ui.html
 * https://www.w3.org/TR/xhtml11/xhtml11_schema.html#a_xhtml11_schema
 * https://www.w3.org/TR/xml-events/
