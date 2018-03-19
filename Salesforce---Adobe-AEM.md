@@ -366,3 +366,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://wwwimages.adobe.com/content/dam/acom/en/security/pdfs/adobe-aem-managed-services-security.pdf
 * https://helpx.adobe.com/experience-manager/6-3/assets/using/media-handlers.html
 * https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/constant-values.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/day/cq/dam/core/process/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/day/cq/commons/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/adobe/cq/mcm/salesforce/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/day/cq/wcm/foundation/package-tree.html
+* https://helpx.adobe.com/aem-forms/6-1/javadocs/com/adobe/aemds/guide/common/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/day/cq/commons/predicate/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/javadoc/com/adobe/granite/ui/components/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/javadoc/com/adobe/cq/commerce/common/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/adobe/cq/wcm/core/components/models/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/adobe/granite/translation/api/package-tree.html
+* https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/javadoc/com/adobe/cq/commerce/api/package-tree.html
