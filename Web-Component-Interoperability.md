@@ -59,3 +59,5 @@ REFERENCES
 * https://www.w3.org/blog/wai-components-gallery/
 * https://spin.atomicobject.com/2016/04/05/single-page-app-components/
 * https://www.frontendhandbook.com/tools/ui.html
+* https://www.w3.org/TR/xhtml11/xhtml11_schema.html#a_xhtml11_schema
+* https://www.w3.org/TR/xml-events/
