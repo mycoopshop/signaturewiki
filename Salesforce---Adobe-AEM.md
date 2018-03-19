@@ -20,6 +20,8 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
+* https://developer.salesforce.com/page/Apex_Design_Patterns
+* https://developer.salesforce.com/page/Apex_Code:_The_Basics
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
@@ -250,6 +252,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_lightning_stricter_csp.htm
 
+## Automation
+* http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
+
+## Formula Fields
+* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
+
 ## Rest API
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
@@ -275,6 +283,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Porting
 * https://developer.salesforce.com/page/Apex_Data_Loader
+
+## Analytics
+* https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
+
+## Field Validation
+* https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
@@ -304,7 +318,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.codeproject.com/Tips/1000517/Integrating-Salesforce-com-over-REST-API-using-IBM
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
+## Logging
+* https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
+
 ## Testing
+* https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
 * https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
 * https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
@@ -326,6 +344,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 * https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
 * https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/decode-jwt.htm
+
+## Packaging
+* https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
+* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
+
+## Server-side JavaScript
+* https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
 
 # Adobe 
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
