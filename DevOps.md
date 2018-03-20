@@ -31,6 +31,11 @@ Perl Jenkins Redis
 * https://hub.openshift.com/quickstarts/100-perl-5-10
 
 
+**HyperVisors**
+* https://developer.apple.com/documentation/hypervisor
+* http://www.gnu.org/software/pexec/pexec.1.html
+* https://www.gnu.org/software/hurd/microkernel/mach/gnumach/ports/xen.html
+
 **Containers**
 * https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
 * https://www.infoq.com/articles/docker-containers
