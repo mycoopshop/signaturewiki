@@ -31,3 +31,7 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://material.io/guidelines/usability/accessibility.html#accessibility-sound-motion
 
 * https://material.io/guidelines/style/imagery.html#imagery-ui-integration
+
+* https://blogs.opentext.com/interview-with-media-access-australia-what-is-pdfua-and-why-it-is-important/
+
+* https://pdfaccessibilityblog.wordpress.com
