@@ -1,0 +1,1 @@
+https://www.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-7.2.pdf
