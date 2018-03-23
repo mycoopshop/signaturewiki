@@ -8,3 +8,5 @@
 * https://help.salesforce.com/articleView?id=search_configure_solr_federated_search.htm&type=5
 * http://docs.alfresco.com/5.2/concepts/solr-home.html
 * https://releasenotes.docs.salesforce.com/en-us/summer14/release-notes/rn_knowledge_solr_search_pilot.htm
+* https://www.codeproject.com/Tips/691234/Tutorial-Lucene-SOLR-on-Azure-in-Minutes
+* https://www.slideshare.net/LucidImagination/rapid-prototyping-search-applications-with-solr
