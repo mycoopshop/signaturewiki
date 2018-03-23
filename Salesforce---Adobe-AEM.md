@@ -239,6 +239,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
+* https://help.salesforce.com/articleView?id=search_fields_lex.htm
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sfdx_setup.pdf
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
 * https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_api_lightning.htm
