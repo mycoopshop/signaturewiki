@@ -2,3 +2,9 @@ https://cwiki.apache.org/confluence/display/COUCHDB/Apache+as+a+proxy
 https://ibm-watson-data-lab.github.io/shopping-list-demo
 https://medium.com/@BradleyHolt/from-mobile-first-to-offline-first-3d9968c000f8
 https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities
+https://wiki.apache.org/couchdb/Getting_started_with_C%23
+https://wiki.apache.org/couchdb/CouchIn15Minutes
+https://wiki.apache.org/couchdb/Installing_on_RHEL5
+https://wiki.apache.org/couchdb/Installing_on_Ubuntu
+https://wiki.apache.org/couchdb/Installation
+https://svn.apache.org/repos/asf/couchdb/trunk/
