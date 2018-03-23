@@ -1,0 +1,9 @@
+* https://www.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-7.2.pdf
+* http://lucene.apache.org/solr/7_0_0/changes/Changes.html
+* https://git-wip-us.apache.org/repos/asf?p=lucene-solr.git;a=tree;f=solr;
+* https://lucene.apache.org/solr/guide/7_2/uploading-data-with-index-handlers.html#UploadingDatawithIndexHandlers-CSVFormattedIndexUpdates
+* http://lifelongprogrammer.blogspot.com/2014/01/solr-export-millions-data-to-csv-file.html
+* https://developer.salesforce.com/blogs/engineering/2014/07/open-source-at-salesforce-com.html
+* https://help.salesforce.com/articleView?id=security_pe_search_encryption_process.htm&type=5
+* https://help.salesforce.com/articleView?id=search_configure_solr_federated_search.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/summer14/release-notes/rn_knowledge_solr_search_pilot.htm
