@@ -6,4 +6,5 @@
 * https://developer.salesforce.com/blogs/engineering/2014/07/open-source-at-salesforce-com.html
 * https://help.salesforce.com/articleView?id=security_pe_search_encryption_process.htm&type=5
 * https://help.salesforce.com/articleView?id=search_configure_solr_federated_search.htm&type=5
+* http://docs.alfresco.com/5.2/concepts/solr-home.html
 * https://releasenotes.docs.salesforce.com/en-us/summer14/release-notes/rn_knowledge_solr_search_pilot.htm
