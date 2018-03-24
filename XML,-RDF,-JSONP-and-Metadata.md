@@ -4,6 +4,10 @@
 
 * https://www.ibm.com/support/knowledgecenter/en/SSMKHH_9.0.0/com.ibm.etools.mft.doc/bc40080_.htm
 
+* http://www.bbc.co.uk/blogs/internet/entries/63841314-c3c6-33d2-a7b8-f58ca040a65b
+
+* http://jenit.github.io/linked-csv/
+
 * https://developers.google.com/apps-script/guides/content
 
 * http://www.oracle.com/technetwork/articles/javaee/mashup-2-140412.html
