@@ -35,3 +35,7 @@
 * http://perldoc.perl.org/TAP/Harness.html
 * https://www.saltycrane.com/blog/2007/11/migrating-excel-to-sqlite-using-python/
 * https://www.reddit.com/r/Python/comments/2tcopo/how_to_export_sqlite3_db_files_to_excel/
+* http://php.net/manual/en/imagick.morphology.php#example-3762
+* http://www.fmwconcepts.com/imagemagick/shadows/index.php
+* https://unix.stackexchange.com/questions/38066/use-imagemagick-to-convert-opaque-color-to-alpha/59812
+* https://unix.stackexchange.com/questions/282561/silhouette-from-an-image
