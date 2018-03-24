@@ -14,4 +14,4 @@
 * https://www.slideshare.net/LucidImagination/rapid-prototyping-search-applications-with-solr
 * https://wiki.apache.org/solr/ShawnHeisey
 * http://www.baeldung.com/apache-solrj
-* 
+* http://www.solrtutorial.com/solr-in-5-minutes.html
