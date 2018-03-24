@@ -33,3 +33,5 @@
 * https://andrew.stwrt.ca/posts/ruby-rss-parsing/
 * https://metacpan.org/pod/distribution/Test-Simple/lib/Test/Tutorial.pod
 * http://perldoc.perl.org/TAP/Harness.html
+* https://www.saltycrane.com/blog/2007/11/migrating-excel-to-sqlite-using-python/
+* https://www.reddit.com/r/Python/comments/2tcopo/how_to_export_sqlite3_db_files_to_excel/
