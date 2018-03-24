@@ -7,3 +7,5 @@ https://dev.opera.com/articles/introduction-to-indexeddb/
 https://code.msdn.microsoft.com/windowsapps/IndexedDB-sample-eb1e95af
 
 https://girliemac.com/stickies/
+
+https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee
