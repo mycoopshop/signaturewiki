@@ -13,3 +13,5 @@ http://bitvbit.blogspot.com/2016/08/react-native-firebase-tutorial-list.html
 https://medium.com/react-native-training/building-chatty-part-7-authentication-in-graphql-cd37770e5ab3
 
 https://microsoft.github.io/reactxp/blog/
+
+https://developerlife.com/2017/04/15/navigation-and-styling-with-react-native/
