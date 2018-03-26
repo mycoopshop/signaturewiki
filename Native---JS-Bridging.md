@@ -15,3 +15,7 @@ https://medium.com/react-native-training/building-chatty-part-7-authentication-i
 https://microsoft.github.io/reactxp/blog/
 
 https://developerlife.com/2017/04/15/navigation-and-styling-with-react-native/
+
+https://developers.google.com/web/fundamentals/native-hardware/fullscreen/
+
+https://developer.android.com/things/hardware/index.html
