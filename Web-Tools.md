@@ -13,3 +13,5 @@
 * https://trends.builtwith.com/widgets/Qualtrics-Site-Intercept
 * https://trends.builtwith.com/ssl/LetsEncrypt
 * https://labs.adobe.com/technologies/swfinvestigator/
+* https://github.com/brainly/html-sketchapp
+* https://airbnb.design/painting-with-code/
