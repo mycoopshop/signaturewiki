@@ -63,3 +63,8 @@ or a HTTP header response, as per RFC 7231:
 * [MediaWiki API Help](https://www.mediawiki.org/w/api.php)
 
 * [API:Main page - MediaWiki](https://www.mediawiki.org/wiki/API:Main_page)
+
+* [Evaluation of UDDI as a Provider of Resource
+Discovery Services for OGSA-based Grids](http://www.cs.virginia.edu/~gsw2c/research/UDDI_Grids.pdf)
+
+* [Importing the Semantic Web in UDDI](http://www.cs.cmu.edu/~terryp/Pubs/Paolucci-WSeBT2002.pdf)
