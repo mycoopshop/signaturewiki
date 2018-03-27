@@ -21,3 +21,7 @@ https://developerlife.com/2017/04/15/navigation-and-styling-with-react-native/
 https://developers.google.com/web/fundamentals/native-hardware/fullscreen/
 
 https://developer.android.com/things/hardware/index.html
+
+https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2
+
+https://medium.com/the-node-js-collection/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06
