@@ -23,6 +23,9 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Apex_Design_Patterns
 * https://developer.salesforce.com/page/Apex_Code:_The_Basics
 * https://help.salesforce.com/articleView?id=000004186&type=1
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
