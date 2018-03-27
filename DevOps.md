@@ -37,6 +37,7 @@ Perl Jenkins Redis
 * https://www.gnu.org/software/hurd/microkernel/mach/gnumach/ports/xen.html
 
 **Containers**
+* https://medium.com/@lojorider/docker-with-cgi-perl-a4558ab6a329
 * https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
 * https://www.infoq.com/articles/docker-containers
 * https://insights.sei.cmu.edu/devops/2015/07/fabric-ansible-docker-and-chaos-monkey-the-devops-mid-year-review.html
