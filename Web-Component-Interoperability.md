@@ -62,3 +62,4 @@ REFERENCES
 * https://www.frontendhandbook.com/tools/ui.html
 * https://www.w3.org/TR/xhtml11/xhtml11_schema.html#a_xhtml11_schema
 * https://www.w3.org/TR/xml-events/
+* https://medium.com/@samerbuna/you-dont-know-node-6515a658a1ed
