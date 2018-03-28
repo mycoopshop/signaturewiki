@@ -5,6 +5,10 @@ Simplest Controllers
 1. RegExp
 2. RewriteRule
 3. CSSOM
+4. SMIL
+5. toJSON
+6. WPAD
+7. XML Processing Instruction
 
 Imperative
 
