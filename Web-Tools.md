@@ -15,3 +15,7 @@
 * https://labs.adobe.com/technologies/swfinvestigator/
 * https://github.com/brainly/html-sketchapp
 * https://airbnb.design/painting-with-code/
+* https://gtmetrix.com/blog/pagespeed-and-yslow-are-half-the-battle/
+* http://computerperformancebydesign.com/analyzing-http-network-traffic-why-is-this-web-app-running-slowly-part-7/
+* https://intensetesting.wordpress.com/2014/04/08/web-performance-report-using-y-slow-showslow-along-with-selenium-tool/
+* https://calendar.perfplanet.com/2013/measure-web-performance-with-jenkins/
