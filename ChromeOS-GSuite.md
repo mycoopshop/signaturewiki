@@ -5,7 +5,8 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
  * [Chrome Windows Build](https://chromium.googlesource.com/chromium/reference_builds/chrome_win/+/master)
  * [Troublesome DLLS](https://code.google.com/p/chromium/codesearch#chromium/src/content/common/sandbox_win.cc&q=ktroublesome&sq=package:chromium&type=cs&l=43)
  * [Inappropriate DLL load addresses](https://code.google.com/p/chromium/issues/detail?id=321626)
-
+* https://www.chromium.org/chromium-os/developer-guide/using-sdk-standalone
+* https://www.chromium.org/chromium-os/developing-apps-on-your-chromium-os-device
 
 Here's a partial rundown:
 
