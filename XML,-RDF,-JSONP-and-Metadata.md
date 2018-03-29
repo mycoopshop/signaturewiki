@@ -55,3 +55,9 @@
 * https://www.xml.com/articles/2017/04/29/epischemas/
 
 * https://www.w3.org/TR/ldp/#fig-ldpc-types
+
+* https://www.w3.org/TR/xml-model/
+
+* http://www.xmlplease.com/xml/pi/
+
+* http://www.gnu.org/software/kawa/XML-literals.html
