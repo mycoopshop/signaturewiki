@@ -1,12 +1,16 @@
 SQLite
-https://kailaspatil.blogspot.com/2013/07/python-script-to-convert-json-file-into.html
-https://www.phparch.com/2011/11/full-text-search-with-sqlite/
-https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
-http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
-http://xmodulo.com/access-sqlite-database-perl.html
-https://www.slideshare.net/ldami/sq-lite-virtualtables
-http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
-https://androidjson.com/save-store-php-mysql-json-parsing-data-sqlite/
+* https://kailaspatil.blogspot.com/2013/07/python-script-to-convert-json-file-into.html
+* https://www.phparch.com/2011/11/full-text-search-with-sqlite/
+* https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
+* http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
+* http://xmodulo.com/access-sqlite-database-perl.html
+* https://www.slideshare.net/ldami/sq-lite-virtualtables
+* http://adamantine.me/2017/05/22/how-to-write-data-to-a-sqlite-database-in-python/
+* https://androidjson.com/save-store-php-mysql-json-parsing-data-sqlite/
+* https://coderwall.com/p/byoycg/export-all-tables-in-a-sqlite3-db-to-csv-files
+* http://www.seanbehan.com/how-to-import-csv-into-sqlite3/
+* https://www.sqlite.org/cvstrac/wiki?p=ImportingFiles
+
 
 https://jugad2.blogspot.com/2014/03/database-to-json-in-python.html
 https://www.ibm.com/developerworks/library/ws-simplelogin/
