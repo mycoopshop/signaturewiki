@@ -71,3 +71,5 @@ https://trends.builtwith.com/framework/PHP-7
 https://www.flexjobs.com/search?location=&search=&tele_level%5B%5D=All+Telecommuting&title%5B%5D=Technical+Writer
 
 https://www.flexjobs.com/search?location=&search=apex&tele_level%5B%5D=All+Telecommuting
+
+https://www.flexjobs.com/search?location=&search=npm&tele_level%5B%5D=All+Telecommuting
