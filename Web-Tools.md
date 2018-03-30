@@ -20,5 +20,5 @@
 * https://intensetesting.wordpress.com/2014/04/08/web-performance-report-using-y-slow-showslow-along-with-selenium-tool/
 * https://calendar.perfplanet.com/2013/measure-web-performance-with-jenkins/
 * https://jqplay.org
-* https://www.csvjson.com/csv2json
 * https://www.bennadel.com/blog/1504-ask-ben-parsing-csv-strings-with-javascript-exec-regular-expression-command.htm
+* http://shancarter.github.io/mr-data-converter/
