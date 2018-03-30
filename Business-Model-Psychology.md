@@ -10,3 +10,4 @@
 * http://grammarware.net/text/2017/grammar-smells.pdf
 * http://ccis2k.org/iajit/PDF/vol.9,no.6/3056-6.pdf
 * http://www.indiana.edu/~pcl/papers/hansencode2013.pdf
+* https://www.patreon.com/economicupdate
