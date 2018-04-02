@@ -11,3 +11,5 @@
 * http://ccis2k.org/iajit/PDF/vol.9,no.6/3056-6.pdf
 * http://www.indiana.edu/~pcl/papers/hansencode2013.pdf
 * https://www.patreon.com/economicupdate
+* https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
+* https://www.insidesource.com/blog/youre-never-too-young-to-make-a-difference/
