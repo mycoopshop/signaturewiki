@@ -1,4 +1,6 @@
-https://www.slideshare.net/alanmcsweeney/conways-law-cognitive-diversity-organisation-transformation-and-solution-design-66522207
-https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/conway-s-law
-https://skeltonthatcher.com/wp-content/uploads/2017/12/How-to-choose-tools-for-DevOps-and-CD-2017.pdf
-https://www.thoughtworks.com/insights/blog/demystifying-conways-law
+* https://www.slideshare.net/alanmcsweeney/conways-law-cognitive-diversity-organisation-transformation-and-solution-design-66522207
+* https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/conway-s-law
+* https://skeltonthatcher.com/wp-content/uploads/2017/12/How-to-choose-tools-for-DevOps-and-CD-2017.pdf
+* https://www.thoughtworks.com/insights/blog/demystifying-conways-law
+* http://dau.dodlive.mil/2015/09/21/requirements-engineering-in-an-agile-software-development-environment/
+* https://www.directives.doe.gov/draft/0415.1-EGuide-2-draft/@@images/file
