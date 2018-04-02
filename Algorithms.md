@@ -6,3 +6,4 @@
 * http://btechsmartclass.com/DS/U1_T5.html
 * https://www.quora.com/How-can-we-calculate-the-logarithms-by-hand-without-using-any-calculator
 * https://en.wikiversity.org/wiki/Homemade_log_table
+* https://reactjs.org/docs/reconciliation.html
