@@ -56,3 +56,4 @@ ES6 Template Literals:
 * http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
 * http://buildwithreact.com/article/stateless-functional-components
 * https://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp
+* https://medium.com/@albertogasparin/forcing-state-reset-on-a-react-component-by-using-the-key-prop-14b36cd7448e
