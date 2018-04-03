@@ -1,1 +1,0 @@
-Changelog: https://github.com/facebook/react/blob/master/CHANGELOG.md
