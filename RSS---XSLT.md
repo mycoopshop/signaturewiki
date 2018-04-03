@@ -1,2 +1,8 @@
 * http://rssfeeds.packersnews.com/packersnews/home&x=1
 * http://feeds.bbci.co.uk/news/rss.xml
+* https://dzone.com/articles/transforming-xml-message-using-xslt-with-apache-ca
+* https://dzone.com/articles/service-call-from-xslt-inside-a-mule-application
+* https://docs.mulesoft.com/mule-user-guide/v/3.7/xslt-transformer
+* https://docs.microsoft.com/en-us/biztalk/core/how-to-specify-xslt-output-settings
+* https://www.codit.eu/blog/2016/10/03/the-case-for-xslt/
+* https://blogs.msdn.microsoft.com/apimanagement/2016/09/14/new-xslt-policy/
