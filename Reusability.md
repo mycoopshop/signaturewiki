@@ -53,3 +53,6 @@ ES6 Template Literals:
 * https://v1.dhruvkumarjha.com/articles/building-a-static-website-using-react-js-part-2-creating-and-hosting-the-website
 * http://voidcanvas.com/polymer-web-components-polyfills/
 * http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/
+* http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
+* http://buildwithreact.com/article/stateless-functional-components
+* https://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp
