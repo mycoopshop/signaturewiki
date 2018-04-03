@@ -13,3 +13,4 @@
 * https://www.patreon.com/economicupdate
 * https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
 * https://www.insidesource.com/blog/youre-never-too-young-to-make-a-difference/
+* https://www.theregister.co.uk/2018/02/15/elop_and_the_fall_of_nokia_revisited/
