@@ -24,3 +24,4 @@
 * http://www.dtic.mil/docs/citations/AD1014839
 * http://www.dtic.mil/docs/citations/AD1006391
 * http://www.dtic.mil/docs/citations/AD1046295
+* https://documentation.cpanel.net/display/CKB/OWASP+ModSecurity+CRS
