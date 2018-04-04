@@ -1,0 +1,1 @@
+https://documentation.cpanel.net/display/68Docs/Configurations+Values+of+PHP-FPM
