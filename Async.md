@@ -2,3 +2,10 @@ https://leanpub.com/javascriptallongesix/read
 http://richardartoul.github.io/javascript/2015/07/16/promises-generators.html
 http://blog.tabforacause.org/post/115245771331/using-reactjs-and-application-cache-for-a-fast
 https://bytearcher.com/articles/not-everything-goes-to-worker-threads/
+https://github.com/facebook/react/issues/11508
+https://github.com/facebook/react/issues/1159
+https://github.com/facebook/react/issues/11911
+https://github.com/facebook/react/issues/12441
+https://github.com/facebook/react/issues/7415
+https://github.com/facebook/react/pull/12078
+https://github.com/facebook/react/issues/11401
