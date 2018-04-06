@@ -1,3 +1,4 @@
+<pre>
 /*
 Store this in the JS folder, then lazy load in via a bookmarklet
 It will lazy load QUnit, then run itself
@@ -105,3 +106,4 @@ void(function foo()
   qUnitJS.onload = runner;
  
   }())
+</pre>
