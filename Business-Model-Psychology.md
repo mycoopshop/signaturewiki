@@ -15,3 +15,5 @@
 * https://www.insidesource.com/blog/youre-never-too-young-to-make-a-difference/
 * https://www.theregister.co.uk/2018/02/15/elop_and_the_fall_of_nokia_revisited/
 * https://www.recode.net/2018/4/2/17189624/spotify-daniel-ek-ipo-silicon-valley-wall-street-relationship
+* https://www.chetu.com/perl.php
+* https://www.neocities.org
