@@ -111,6 +111,7 @@ https://developer.salesforce.com/page/Security_Design_Resources
 https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
 https://help.salesforce.com/articleView?id=000206497&type=1
 https://help.salesforce.com/articleView?id=pages_page_level_security.htm&type=5
+https://help.salesforce.com/articleView?id=000004410&language=en_US&type=1
 https://help.salesforce.com/articleView?id=code_package_security.htm&type=5
 https://help.salesforce.com/articleView?id=security_transactions_creating_classic.htm&type=5
 https://help.salesforce.com/articleView?id=user_security_token.htm&type=5
@@ -238,6 +239,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
 * https://developer.salesforce.com/page/From_SQL_to_SOQL
+
+## SQL
+* https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
+* https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 
 ## Lightning
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
