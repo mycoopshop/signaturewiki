@@ -22,3 +22,4 @@ Finally, insert a background-image rule for the body element at the end of the s
 * https://www.triplet.fi/blog/practical-guide-to-react-and-css-modules/
 * https://www.automationfuel.com/5-ways-to-style-react-components/
 * https://modernizr.com/docs
+* http://kizu.ru/en/blog/variable-order/
