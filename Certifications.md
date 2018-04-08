@@ -1,3 +1,13 @@
 * https://www.neowin.net/news/microsoft-offering-two-free-courses-on-windows-server-2016-security
 * https://www.linuxfestnorthwest.org/2017/training/free-certification-exam-suse-certified-administrator-sca-enterprise-linux
 * https://debian-handbook.info/2013/major-update-of-the-debian-administrators-handbook-for-debian-7-wheezy/
+* https://www.udacity.com/course/intro-to-point-click-app-development--ud162
+* https://www.udacity.com/course/interactive-3d-graphics--cs291
+* https://www.udacity.com/course/offline-web-applications--ud899
+* https://www.udacity.com/course/browser-rendering-optimization--ud860
+* https://www.udacity.com/course/web-accessibility--ud891
+* https://www.udacity.com/course/deploying-applications-with-heroku--ud272
+* https://www.udacity.com/course/intro-to-relational-databases--ud197
+* https://www.udacity.com/course/visualizing-algebra--ma006
+* https://www.udacity.com/course/http-web-servers--ud303
+* https://www.udacity.com/course/data-visualization-and-d3js--ud507
