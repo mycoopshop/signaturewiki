@@ -23,3 +23,7 @@
 * https://jqplay.org
 * https://www.bennadel.com/blog/1504-ask-ben-parsing-csv-strings-with-javascript-exec-regular-expression-command.htm
 * http://shancarter.github.io/mr-data-converter/
+* http://wiki.twit.tv/wiki/OPML_Feeds
+* http://fileformats.wikia.com/wiki/Outline_Processor_Markup_Language
+* http://www.walidator.com
+* https://blog.udacity.com/2016/03/12-best-charting-libraries-for-web-developers.html
