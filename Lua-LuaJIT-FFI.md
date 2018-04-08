@@ -7,6 +7,12 @@ Lua for SVG Math:
 https://css-tricks.com/tight-fitting-svg-shapes/
 
 
+Lua Interop:
+
+https://blog.roblox.com/2012/02/an-optimization-for-lua-scripts/
+
+https://blog.roblox.com/2017/05/optimizing-lua-c-interoperability/
+
 Lua for floating point Math:
 
 https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/2.7.html
