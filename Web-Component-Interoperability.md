@@ -66,3 +66,5 @@ REFERENCES
 * https://medium.com/the-node-js-collection/node-js-and-the-web-tooling-benchmark-c982a88cf5b6
 * https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc
 * https://javascriptplayground.com/functional-stateless-components-react/
+* https://github.com/facebook/react/issues/11896
+* https://stackoverflow.com/questions/43922508/clear-and-reset-form-input-fields
