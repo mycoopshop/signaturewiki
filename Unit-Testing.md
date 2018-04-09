@@ -630,3 +630,5 @@ expect() defines the number of assertions we should be triggered once start() is
 https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/JspC.html
 
 * https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/JspC.html
+
+* https://stackoverflow.com/questions/2425721/unit-testing-datetime-now
