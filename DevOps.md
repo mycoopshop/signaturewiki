@@ -40,6 +40,9 @@ Perl Jenkins Redis
 * https://medium.com/@lojorider/docker-with-cgi-perl-a4558ab6a329
 * https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
 * https://www.infoq.com/articles/docker-containers
+* https://docs.docker.com/compose/compose-file/#compose-documentation
+* https://github.com/IcaliaLabs/guides/wiki/Creating-a-new-Rails-application-project-with-Docker
+* https://github.com/SouthGreenPlatform/tutorials/wiki/Docker-practical
 * https://insights.sei.cmu.edu/devops/2015/07/fabric-ansible-docker-and-chaos-monkey-the-devops-mid-year-review.html
 * https://community.oracle.com/docs/DOC-1017486
 * https://www.gnu.org/software/guix/blog/2017/creating-bundles-with-guix-pack/
