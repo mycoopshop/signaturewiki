@@ -1,6 +1,8 @@
 Lazy production is reactive
 Lazy consuming is streaming
 
+https://webpack.js.org/guides/lazy-loading/
+https://webpack.js.org/guides/code-splitting/
 https://michelkraemer.com/actson-reactive-json-parser/
 https://matthias.benkard.de/journal/131
 https://programmerpayback.com/2010/03/22/reactive-xmlreader-for-sax-like-parsing/
