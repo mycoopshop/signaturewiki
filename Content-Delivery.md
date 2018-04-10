@@ -1,0 +1,1 @@
+https://engineering.salesforce.com/why-is-edns-important-for-content-delivery-85f5690744ba
