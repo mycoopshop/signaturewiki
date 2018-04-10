@@ -5,3 +5,5 @@ https://morningstar.engineering/the-case-for-vue-components-5b8ac6f5fabe
 https://github.com/facebook/react/issues/4533
 https://reactjs.org/docs/refs-and-the-dom.html
 https://reactjs.org/docs/faq-functions.html
+https://github.com/facebook/react/issues/10382
+https://github.com/facebook/react/issues/3218
