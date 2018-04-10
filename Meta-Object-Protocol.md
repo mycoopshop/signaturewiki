@@ -10,3 +10,4 @@
 * https://www.javascripture.com/Reflect
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
 * https://www.htmlgoodies.com/tutorials/web_graphics/object-reflection-in-javascript.html
+* https://chrisrng.svbtle.com/es6-reflect-api
