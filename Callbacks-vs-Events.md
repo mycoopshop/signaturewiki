@@ -162,3 +162,5 @@ https://www.dunebook.com/how-to-increase-performance-of-nodejs-application/
 https://nodeaddons.com/how-not-to-access-node-js-from-c-worker-threads/
 https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/
 https://www.fpcomplete.com/blog/2016/12/concurrency-and-node
+https://mcculloughwebservices.com/2016/10/30/possible-eventemitter-memory-leak-detected/
+https://reactjs.org/docs/faq-functions.html
