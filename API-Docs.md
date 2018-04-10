@@ -39,3 +39,4 @@
 * http://www.fmwconcepts.com/imagemagick/shadows/index.php
 * https://unix.stackexchange.com/questions/38066/use-imagemagick-to-convert-opaque-color-to-alpha/59812
 * https://unix.stackexchange.com/questions/282561/silhouette-from-an-image
+* https://sunlightlabs.github.io/congress/
