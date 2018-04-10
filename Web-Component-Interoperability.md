@@ -68,3 +68,4 @@ REFERENCES
 * https://javascriptplayground.com/functional-stateless-components-react/
 * https://github.com/facebook/react/issues/11896
 * https://stackoverflow.com/questions/43922508/clear-and-reset-form-input-fields
+* https://www.lullabot.com/articles/processing-forms-in-react
