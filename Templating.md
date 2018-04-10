@@ -25,6 +25,8 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
 * https://www.balisage.net/Proceedings/vol19/html/Lumley01/BalisageVol19-Lumley01.html
 * http://www.saxonica.com/papers/xmlprague-2018mhk.pdf
 * https://doc-snapshots.qt.io/qtivi/template-syntax.html
+* https://shripadk.github.io/react/docs/jsx-gotchas.html
+
 
 Markup and typesetting languages are the earliest examples of templating. Here is the Wikipedia definition:
 >A markup language is a modern system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the "marking up" of manuscripts, i.e., the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts. Examples are typesetting instructions such as those found in troff and LaTeX, or structural markers such as XML tags.
