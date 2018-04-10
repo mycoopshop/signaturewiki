@@ -6,3 +6,7 @@
 * http://metamodel.apache.org
 * https://docs.perl6.org/language/mop
 * http://doc.qt.io/qt-5/metaobjects.html
+* https://ponyfoo.com/articles/es6-reflection-in-depth
+* https://www.javascripture.com/Reflect
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
+* https://www.htmlgoodies.com/tutorials/web_graphics/object-reflection-in-javascript.html
