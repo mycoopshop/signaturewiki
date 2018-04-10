@@ -632,3 +632,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/JspC.html
 
 * https://stackoverflow.com/questions/2425721/unit-testing-datetime-now
+
+* https://github.com/facebook/react/blob/94f44aeba72eacb04443974c2c6c91a050d61b1c/fixtures/dom/src/components/fixtures/date-inputs/index.js
