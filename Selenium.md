@@ -5,3 +5,5 @@
 * http://yizeng.me/2014/04/08/get-text-from-hidden-elements-using-selenium-webdriver/
 * https://stackoverflow.com/questions/45692603/selenium-and-react-js
 * https://moduscreate.com/blog/automated-tests-for-react-js-web-apps-using-webdriverio/
+* https://marmelab.com/blog/2016/04/19/e2e-testing-with-node-and-es6.html
+* https://www.slideshare.net/horrorgr/isomorphic-react-apps-testing
