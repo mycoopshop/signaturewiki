@@ -33,6 +33,7 @@ https://thefullstack.xyz/debug-exceptions-react-native
 https://blog.sentry.io/2017/09/28/react-16-error-boundaries
 https://www.w3.org/TR/qaframe-spec/
 https://www.w3.org/MarkUp/Test/HTML401/current/assertions/assertions_toc.html
+https://www.infoq.com/news/2016/08/v8-ignition-javascript-inteprete
 
 **React**
 Events:https://github.com/facebook/react/blob/master/packages/react-dom/src/events/ReactBrowserEventEmitter.js
