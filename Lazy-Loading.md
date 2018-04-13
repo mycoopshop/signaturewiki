@@ -1,32 +1,33 @@
 Lazy production is reactive
 Lazy consuming is streaming
 
-https://webpack.js.org/guides/lazy-loading/
-https://webpack.js.org/guides/code-splitting/
-https://michelkraemer.com/actson-reactive-json-parser/
-https://matthias.benkard.de/journal/131
-https://programmerpayback.com/2010/03/22/reactive-xmlreader-for-sax-like-parsing/
-https://www.codeproject.com/Articles/646361/Reactive-Programming-for-NET-and-Csharp-Developers
-https://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/
-https://www.stevesouders.com/blog/2012/10/11/cache-is-king/
-https://www.stevesouders.com/blog/2014/11/25/serious-confusion-with-resource-timing/
-http://ternjs.net/doc/manual.html
-https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
-http://askesian.net/2013/04/23/require-js-conditional-load/
-https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
-http://remarkablemark.org/blog/2016/09/24/react-requirejs-amd/
-http://requirejs.readthedocs.io/en/1.0.1/
-https://dojotoolkit.org/reference-guide/1.10/loader/amd.html
-https://medium.com/@rolfvandekrol/lazy-loading-react-components-using-requirejs-and-flux-d1f5b01e501f
-https://medium.com/front-end-hacking/lazy-loading-with-react-and-webpack-2-8e9e586cf442
-https://github.com/facebook/react/issues/10909
-http://codetheory.in/babel-6-and-above-in-browser/
-https://damienbod.com/2017/01/14/angular-2-lazy-loading-with-webpack-2/
-https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
-https://github.com/angular/angular/issues/21498
-https://scotch.io/tutorials/lazy-loading-routes-in-react
-https://news.ycombinator.com/item?id=14870550
-http://lambda-the-ultimate.org/node/3560
-http://lambda-the-ultimate.org/node/4140
-http://lambda-the-ultimate.org/node/4099
-http://elm-lang.org/blog/farewell-to-frp
+* https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+* https://webpack.js.org/guides/lazy-loading/
+* https://webpack.js.org/guides/code-splitting/
+* https://michelkraemer.com/actson-reactive-json-parser/
+* https://matthias.benkard.de/journal/131
+* https://programmerpayback.com/2010/03/22/reactive-xmlreader-for-sax-like-parsing/
+* https://www.codeproject.com/Articles/646361/Reactive-Programming-for-NET-and-Csharp-Developers
+* https://www.stevesouders.com/blog/2015/08/07/dominteractive-is-it-really/
+* https://www.stevesouders.com/blog/2012/10/11/cache-is-king/
+* https://www.stevesouders.com/blog/2014/11/25/serious-confusion-with-resource-timing/
+* http://ternjs.net/doc/manual.html
+* https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
+* http://askesian.net/2013/04/23/require-js-conditional-load/
+* https://developers.arcgis.com/javascript/3/jshelp/inside_bower_custom_builds.html
+* http://remarkablemark.org/blog/2016/09/24/react-requirejs-amd/
+* http://requirejs.readthedocs.io/en/1.0.1/
+* https://dojotoolkit.org/reference-guide/1.10/loader/amd.html
+* https://medium.com/@rolfvandekrol/lazy-loading-react-components-using-requirejs-and-flux-d1f5b01e501f
+* https://medium.com/front-end-hacking/lazy-loading-with-react-and-webpack-2-8e9e586cf442
+* https://github.com/facebook/react/issues/10909
+* http://codetheory.in/babel-6-and-above-in-browser/
+* https://damienbod.com/2017/01/14/angular-2-lazy-loading-with-webpack-2/
+* https://toddmotto.com/lazy-loading-angular-code-splitting-webpack
+* https://github.com/angular/angular/issues/21498
+* https://scotch.io/tutorials/lazy-loading-routes-in-react
+* https://news.ycombinator.com/item?id=14870550
+* http://lambda-the-ultimate.org/node/3560
+* http://lambda-the-ultimate.org/node/4140
+* http://lambda-the-ultimate.org/node/4099
+* http://elm-lang.org/blog/farewell-to-frp
