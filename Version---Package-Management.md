@@ -1,14 +1,14 @@
-https://www.nearform.com/blog/nodejs-sudo-free/
-https://stackoverflow.com/questions/5786433/how-to-install-a-node-js-module-without-using-npm
-https://auth0.com/blog/five-things-you-can-do-with-yarn/
-https://github.com/nodejs/node-gyp/issues/1154
-https://jaketrent.com/post/npm-install-local-files/
-https://github.com/yarnpkg/yarn/issues/393
-https://docs.npmjs.com/cli/pack
-https://docs.npmjs.com/cli/publish
-https://remysharp.com/2016/12/06/auto-detect-node-version-in-npm-start
-https://remysharp.com/2018/03/03/last-minute-node-debugging
-https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/
-https://www.kochan.io/nodejs/why-should-we-use-pnpm.html
-https://hackernoon.com/using-yarn-with-docker-c116ad289d56
-http://webiks.com/working-offline-with-angular-cli/
+* https://www.nearform.com/blog/nodejs-sudo-free/
+* https://stackoverflow.com/questions/5786433/how-to-install-a-node-js-module-without-using-npm
+* https://auth0.com/blog/five-things-you-can-do-with-yarn/
+* https://github.com/nodejs/node-gyp/issues/1154
+* https://jaketrent.com/post/npm-install-local-files/
+* https://github.com/yarnpkg/yarn/issues/393
+* https://docs.npmjs.com/cli/pack
+* https://docs.npmjs.com/cli/publish
+* https://remysharp.com/2016/12/06/auto-detect-node-version-in-npm-start
+* https://remysharp.com/2018/03/03/last-minute-node-debugging
+* https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/
+* https://www.kochan.io/nodejs/why-should-we-use-pnpm.html
+* https://hackernoon.com/using-yarn-with-docker-c116ad289d56
+* http://webiks.com/working-offline-with-angular-cli/
