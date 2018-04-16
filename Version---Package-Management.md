@@ -46,3 +46,8 @@
 * https://www.slideshare.net/k88hudson/advanced-frontend-automation-with-npm-scripts
 * https://james-forbes.com/?/posts/alternative-to-npm-scripts
 * http://clarkie.io/nodejs/2015/06/25/npm-scripts-on-elastic-beanstalk.html
+
+**JSON Config Files**
+* https://stackoverflow.com/questions/43619644/i-am-getting-an-invalid-host-header-message-when-running-my-react-app-in-a-we
+* https://developer.ibm.com/recipes/tutorials/nodered-exception-handling-framework/
+* https://hacks.mozilla.org/2013/03/taming-configurations-with-node-convict-a-node-js-holiday-season-part-7/
