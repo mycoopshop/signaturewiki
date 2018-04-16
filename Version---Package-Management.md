@@ -1,4 +1,5 @@
-==NPM/Yarn==
+**NPM/Yarn**
+
 * https://www.nearform.com/blog/nodejs-sudo-free/
 * https://stackoverflow.com/questions/5786433/how-to-install-a-node-js-module-without-using-npm
 * https://auth0.com/blog/five-things-you-can-do-with-yarn/
@@ -14,7 +15,8 @@
 * https://hackernoon.com/using-yarn-with-docker-c116ad289d56
 * http://webiks.com/working-offline-with-angular-cli/
 
-==Webpack==
+**Webpack**
+
 * http://steveholgado.com/posts/rxjs-socketio-chat-app/
 * https://www.codeproject.com/Articles/1119961/Build-Component-Based-Website
 * https://spinspire.com/article/creating-expressjs-environment-webpack-react-and-babel-configurations
@@ -26,20 +28,21 @@
 * https://vijayt.com/post/scaffolding-react-web-app-webpack-2/
 * https://vijayt.com/post/minimal-scaffolding-react-webpack/
 
-==NPM Scripts==
-http://corgibytes.com/blog/2017/04/18/npm-tips/
-https://deliciousbrains.com/npm-build-script/
-http://fuzzytolerance.info/blog/2016/10/28/From-Gulp-to-NPM-Scripts/
-http://xabikos.com/2015/11/11/Execute-multiple-npm-scripts-through-VS-Code-task-runner/
-http://clarify.dovetailsoftware.com/cjennings/2016/01/05/npm-scripts-vs-task-runners/
-https://webdesignledger.com/build-with-better-with-npm-and-quit-grunting-and-gulping/
-https://alligator.io/nodejs/utilizing-npm-scripts-during-development/
-https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
-https://anasshekhamis.com/2017/09/28/npm-scripts/
-https://michaljanaszek.com/blog/state-of-npm-scripts
-http://elijahmanor.com/npm-precommit-scripts/
-http://opendirective.net/blog/2016/03/more-on-portable-npm-scripts/
-http://www.codereadability.com/documenting-build-commands-with-npm-scripts/
-https://www.slideshare.net/k88hudson/advanced-frontend-automation-with-npm-scripts
-https://james-forbes.com/?/posts/alternative-to-npm-scripts
-http://clarkie.io/nodejs/2015/06/25/npm-scripts-on-elastic-beanstalk.html
+**NPM Scripts**
+
+* http://corgibytes.com/blog/2017/04/18/npm-tips/
+* https://deliciousbrains.com/npm-build-script/
+* http://fuzzytolerance.info/blog/2016/10/28/From-Gulp-to-NPM-Scripts/
+* http://xabikos.com/2015/11/11/Execute-multiple-npm-scripts-through-VS-Code-task-runner/
+* http://clarify.dovetailsoftware.com/cjennings/2016/01/05/npm-scripts-vs-task-runners/
+* https://webdesignledger.com/build-with-better-with-npm-and-quit-grunting-and-gulping/
+* https://alligator.io/nodejs/utilizing-npm-scripts-during-development/
+* https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html
+* https://anasshekhamis.com/2017/09/28/npm-scripts/
+* https://michaljanaszek.com/blog/state-of-npm-scripts
+* http://elijahmanor.com/npm-precommit-scripts/
+* http://opendirective.net/blog/2016/03/more-on-portable-npm-scripts/
+* http://www.codereadability.com/documenting-build-commands-with-npm-scripts/
+* https://www.slideshare.net/k88hudson/advanced-frontend-automation-with-npm-scripts
+* https://james-forbes.com/?/posts/alternative-to-npm-scripts
+* http://clarkie.io/nodejs/2015/06/25/npm-scripts-on-elastic-beanstalk.html
