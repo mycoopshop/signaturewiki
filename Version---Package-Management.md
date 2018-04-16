@@ -12,3 +12,15 @@
 * https://www.kochan.io/nodejs/why-should-we-use-pnpm.html
 * https://hackernoon.com/using-yarn-with-docker-c116ad289d56
 * http://webiks.com/working-offline-with-angular-cli/
+
+==Webpack==
+* http://steveholgado.com/posts/rxjs-socketio-chat-app/
+* https://www.codeproject.com/Articles/1119961/Build-Component-Based-Website
+* https://spinspire.com/article/creating-expressjs-environment-webpack-react-and-babel-configurations
+* https://codeburst.io/react-ecosystem-setup-step-by-step-walkthrough-721ff45a7fc1
+* https://alejandronapoles.com/2016/03/12/the-simplest-webpack-and-express-setup/
+* https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663
+* http://www.knowstack.com/scaffolding-vue-projects-webpack-template/
+* https://medium.com/@luis.antunes/project-scaffolding-webpack-2-react-postcss-step-by-step-1-2-f74be26159ef
+* https://vijayt.com/post/scaffolding-react-web-app-webpack-2/
+* https://vijayt.com/post/minimal-scaffolding-react-webpack/
