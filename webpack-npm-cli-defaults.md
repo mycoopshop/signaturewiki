@@ -1,5 +1,4 @@
-`
-const path = require('path');
+`const path = require('path');
 
 module.exports = {
   entry: './src/index.js',
@@ -7,9 +6,10 @@ module.exports = {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist')
   }
-};
-`
+};`
+
 **Troubleshooting**
+
 1. Run the scaffold project A
 1. Run the real project B
 1. Compare the directory structure of project A to project B 
