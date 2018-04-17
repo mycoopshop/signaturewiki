@@ -18,3 +18,4 @@
 . https://wiki.wocommunity.org/display/WEB/Home
 . http://www.cs.unc.edu/~jbs/resources/perl/perl-cgi/step5.html
 . https://help.crossbrowsertesting.com/faqs/testing/invalid-host-header-error/
+. https://www.npmjs.com/package/get-next-port
