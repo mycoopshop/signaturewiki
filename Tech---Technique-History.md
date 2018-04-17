@@ -1,0 +1,15 @@
+https://techbridgegirls.org/index.php?id=231
+
+http://www.africa.upenn.edu/Articles_Gen/Role_Women.html
+
+https://jazzdagama.com/imperatives/cheikh-anta-diop-the-african-origin-of-civilization-myth-or-reality/5/
+
+https://www.geni.com/projects/Queens-Women-Warriors-of-Africa/14190
+
+https://www.nytimes.com/1989/04/16/sports/sports-of-the-times-why-nobody-steals-home-anymore.html
+
+https://www.si.com/more-sports/2009/06/29/stealing-home-0
+
+http://www.nj.com/education/2017/12/the_surprising_jersey_roots_of_its_a_wonderful_lif.html
+
+https://www.nytimes.com/2013/09/30/education/jean-anyon-dies-at-72-wrote-ghetto-schooling.html
