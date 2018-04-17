@@ -9,3 +9,8 @@ module.exports = {
   }
 };
 `
+
+**References**
+
+* https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
+* https://docs.npmjs.com/cli/run-script
