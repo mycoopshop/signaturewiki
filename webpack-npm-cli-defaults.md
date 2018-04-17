@@ -21,3 +21,15 @@
 
 * https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
 * https://docs.npmjs.com/cli/run-script
+* https://stackoverflow.com/questions/38153857/bundle-angular-2-app-using-umd-bundles-not-building-vendor-bundle
+* https://viblo.asia/p/tuning-webpack-production-environment-bWrZneYQKxw
+* https://github.com/webpack/webpack/tree/master/examples
+* https://github.com/webpack/docs/wiki/configuration
+* https://css-tricks.com/introduction-webpack-entry-output-loaders-plugins/
+* https://vegibit.com/vue-cli-webpack-simple-tutorial/
+* https://developers.google.com/web/tools/workbox/modules/workbox-webpack-plugin
+* https://auth0.com/blog/webpack-4-release-what-is-new/
+* https://legacy.gitbook.com/book/wohugb/webpack/details
+* https://what-problem-does-it-solve.com/webpack/production.html
+* https://engineering.wingify.com/posts/migrating-towards-yarn-webpack/
+* https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
