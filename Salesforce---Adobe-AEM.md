@@ -277,6 +277,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
 * https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
 * https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
+* https://developer.salesforce.com/page/Integrating_an_AngularJS_App_on_Heroku_with_Force.com
 * https://help.salesforce.com/articleView?id=000126966&type=1
 * https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging.htm
 * https://developer.salesforce.com/page/Webinar:_Apex_REST_API_FAQ
