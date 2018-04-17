@@ -33,3 +33,5 @@
 * https://what-problem-does-it-solve.com/webpack/production.html
 * https://engineering.wingify.com/posts/migrating-towards-yarn-webpack/
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
+* https://codeburst.io/maybe-dont-globally-install-that-node-js-package-f1ea20f94a00
+* https://firstdoit.com/no-need-for-globals-using-npm-dependencies-in-npm-scripts-3dfb478908
