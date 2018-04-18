@@ -13,3 +13,5 @@ https://www.si.com/more-sports/2009/06/29/stealing-home-0
 http://www.nj.com/education/2017/12/the_surprising_jersey_roots_of_its_a_wonderful_lif.html
 
 https://www.nytimes.com/2013/09/30/education/jean-anyon-dies-at-72-wrote-ghetto-schooling.html
+
+https://en.wikipedia.org/wiki/Self-Taught
