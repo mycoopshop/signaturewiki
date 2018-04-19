@@ -287,6 +287,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Interface API
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_api_ui.htm
 
+## Static Content
+* https://help.salesforce.com/articleView?id=pages_static_resources_manage.htm&type=5
+
 ## BI
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
 * https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
