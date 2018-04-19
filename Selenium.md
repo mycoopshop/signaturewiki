@@ -7,3 +7,9 @@
 * https://moduscreate.com/blog/automated-tests-for-react-js-web-apps-using-webdriverio/
 * https://marmelab.com/blog/2016/04/19/e2e-testing-with-node-and-es6.html
 * https://www.slideshare.net/horrorgr/isomorphic-react-apps-testing
+* https://medium.com/the-mission/end-to-end-e2e-testing-react-apps-with-selenium-webdriver-and-node-js-is-easier-than-you-think-bfa71f289786
+* https://codeburst.io/composable-end-to-end-tests-for-react-apps-2ec82170af62
+* https://medium.com/the-mission/end-to-end-e2e-testing-react-apps-with-selenium-webdriver-and-node-js-is-easier-than-you-think-bfa71f289786
+* https://www.reddit.com/r/selenium/comments/3py4u7/anybody_testing_against_reactjs_we_are_having/
+* https://blog.syncano.io/testing-syncano/
+* https://marmelab.com/blog/2016/04/19/e2e-testing-with-node-and-es6.html
