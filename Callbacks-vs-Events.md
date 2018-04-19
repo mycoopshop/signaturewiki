@@ -165,3 +165,4 @@ https://www.fpcomplete.com/blog/2016/12/concurrency-and-node
 https://mcculloughwebservices.com/2016/10/30/possible-eventemitter-memory-leak-detected/
 https://reactjs.org/docs/faq-functions.html
 https://www.webreflection.co.uk/blog/2015/10/22/how-to-add-dom-events-listeners
+https://github.com/facebook/react/issues/6901
