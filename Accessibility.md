@@ -35,3 +35,7 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://blogs.opentext.com/interview-with-media-access-australia-what-is-pdfua-and-why-it-is-important/
 
 * https://pdfaccessibilityblog.wordpress.com
+
+* https://medium.com/@andreasmcd/creating-an-accessible-tab-component-with-react-24ed30fde86a
+
+* https://simplyaccessible.com/article/react-a11y/
