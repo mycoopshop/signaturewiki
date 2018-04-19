@@ -35,3 +35,6 @@
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
 * https://codeburst.io/maybe-dont-globally-install-that-node-js-package-f1ea20f94a00
 * https://firstdoit.com/no-need-for-globals-using-npm-dependencies-in-npm-scripts-3dfb478908
+* https://blog.angularindepth.com/this-will-make-you-more-efficient-at-debugging-wepback-unspecified-build-errors-6392850caed9
+* https://www.slideshare.net/trueter/how-to-make-your-webpack-builds-10x-faster
+* https://medium.com/@vasylstashuk/optimizing-webpack-build-performance-73f2cf0bb176
