@@ -5,3 +5,4 @@
 * https://hackernoon.com/the-fundamental-principles-behind-mobx-7a725f71f3e8
 * https://stackoverflow.com/questions/41670725/react-ref-syntax-and-components-as-pure-functions
 * https://stackoverflow.com/questions/47740017/manage-focus-on-stateless-components-react
+* https://docs.bugsnag.com/platforms/browsers/react/#advanced-configuration
