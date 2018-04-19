@@ -41,3 +41,5 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://simplyaccessible.com/article/react-a11y/
 
 * https://blog.usejournal.com/getting-started-with-web-accessibility-in-react-9e591fdb0d52
+
+* https://medium.com/@svinkle/creating-accessible-react-apps-38dc1c2775cf
