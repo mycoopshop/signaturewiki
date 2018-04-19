@@ -6,3 +6,5 @@
 * https://egghead.io/lessons/react-stop-memory-leaks-with-componentwillunmount-lifecycle-method-in-react
 * https://alexhisen.gitbooks.io/mobx-recipes/content/observable-based-routing.html
 * https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140
+* https://stackoverflow.com/questions/35369957/in-react-how-to-find-out-if-a-component-is-mounted-at-a-node?rq=1
+* https://github.com/sgml/react-context-tabs
