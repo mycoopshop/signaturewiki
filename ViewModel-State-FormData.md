@@ -16,3 +16,5 @@ Use $templateCache to perform loops, and $cacheFactory to pass data between filt
 * [Understanding Angular's $templateCache](https://thinkster.io/templatecache-tutorial)
 
 * [AngularJS: API: script](https://docs.angularjs.org/api/ng/directive/script)							
+
+* https://stackoverflow.com/questions/26430757/invariant-violation-in-react-render-or-the-proper-way-to-iterate-and-return-in-r
