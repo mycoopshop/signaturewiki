@@ -40,3 +40,5 @@
 * https://unix.stackexchange.com/questions/38066/use-imagemagick-to-convert-opaque-color-to-alpha/59812
 * https://unix.stackexchange.com/questions/282561/silhouette-from-an-image
 * https://sunlightlabs.github.io/congress/
+* https://developer.atlassian.com/server/jira/platform/jira-rest-api-tutorials-6291593/
+* https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
