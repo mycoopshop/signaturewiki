@@ -702,3 +702,13 @@ Stop sending email for report blockers
 [edit]Ubiquity
 
 [edit]Points of References
+
+**References**
+
+https://medium.com/@jordan_mohi/adding-react-to-an-existing-page-fb128fed94ee
+
+https://medium.com/dailyjs/running-mocha-tests-as-native-es6-modules-in-a-browser-882373f2ecb0
+
+https://medium.com/@andy.neale/learning-react-setting-up-a-minimal-react-development-environment-fcd17fc7dee1
+
+https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe
