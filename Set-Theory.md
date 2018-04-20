@@ -2,3 +2,9 @@
 * http://www.geeksforgeeks.org/sets-in-javascript/
 * http://exploringjs.com/es6/ch_maps-sets.html
 * http://2ality.com/2015/01/es6-set-operations.html
+* https://uxdesign.cc/understanding-boolean-operations-in-sketch-2928eea0c7d0
+* https://medium.com/@larissafeng/checklist-for-learning-a-new-programming-language-4a2e41daeffd
+* https://medium.com/@johnsundell/the-power-of-sets-in-swift-57be8b223da0
+* https://codeburst.io/optimizing-array-analytics-in-javascript-part-two-search-intersection-and-cross-products-79b4a6d68da0
+* https://medium.com/front-end-hacking/es6-set-vs-array-what-and-when-efc055655e1a
+* https://medium.com/@benoitvallon/the-set-data-structure-3919f4f1a189
