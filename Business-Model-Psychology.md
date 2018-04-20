@@ -18,3 +18,8 @@
 * https://www.chetu.com/perl.php
 * https://www.neocities.org
 * https://uxplanet.org/the-empire-of-technical-aesthetics-a3d1f4e3ad4f
+* http://www.pacom.mil/Media/News/News-Article-View/Article/1492019/us-participation-in-defexpo-2018-demonstrates-commitment-to-us-india-major-defe/
+* http://www.iwr.usace.army.mil/Portals/70/docs/iwrreports/2014-R-01_Mobile_Applications_for_Planning.pdf
+* https://www.ustranscom.mil/cmd/associated/dteb/files/refdata/V_AIS.htm
+* http://www.esd.whs.mil/Portals/54/NARA%20Social%20Media%20Capture.pdf
+* http://www.dla.mil/Portals/104/Documents/LandAndMaritime/V/VA/PSMC/Spring%2017/LM_SWISS%20-%20What%20do%20you%20Hire%20A%20Standard%20to%20do_Spring%202017%20PSMC170526.pdf
