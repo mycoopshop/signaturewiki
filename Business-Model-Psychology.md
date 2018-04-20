@@ -17,3 +17,4 @@
 * https://www.recode.net/2018/4/2/17189624/spotify-daniel-ek-ipo-silicon-valley-wall-street-relationship
 * https://www.chetu.com/perl.php
 * https://www.neocities.org
+* https://uxplanet.org/the-empire-of-technical-aesthetics-a3d1f4e3ad4f
