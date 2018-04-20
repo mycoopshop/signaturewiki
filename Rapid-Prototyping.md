@@ -712,3 +712,5 @@ https://medium.com/dailyjs/running-mocha-tests-as-native-es6-modules-in-a-browse
 https://medium.com/@andy.neale/learning-react-setting-up-a-minimal-react-development-environment-fcd17fc7dee1
 
 https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe
+
+https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185f8
