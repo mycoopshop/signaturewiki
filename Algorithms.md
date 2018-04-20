@@ -7,3 +7,12 @@
 * https://www.quora.com/How-can-we-calculate-the-logarithms-by-hand-without-using-any-calculator
 * https://en.wikiversity.org/wiki/Homemade_log_table
 * https://reactjs.org/docs/reconciliation.html
+
+**CSS3**
+
+* https://dzone.com/articles/css3-games-collection
+* https://rupl.github.io/fun-games-css/
+* http://minocernota.com/articles/pure_css_game/
+* https://codepen.io/chaofix/full/VrWZga/
+* https://codepen.io/chaofix/full/oegBEJ/
+* http://bolknote.ru/files/ttt/#OOOXX--X-
