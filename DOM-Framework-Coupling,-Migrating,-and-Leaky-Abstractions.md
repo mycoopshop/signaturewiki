@@ -9,4 +9,6 @@
 * https://blogs.oracle.com/geertjan/from-knockout-to-vue-in-oracle-jet
 * https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e
 * https://msdn.microsoft.com/en-us/library/bg142799
+* https://medium.com/unbabel-dev/progressively-migrating-from-angularjs-to-vue-js-at-unbabel-581eb4ae022d
+* http://jasonsteinshouer.com/javascript/2016/11/03/vuejs-migration.html
 * 
