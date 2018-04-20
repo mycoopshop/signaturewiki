@@ -1,6 +1,8 @@
 Lazy production is reactive
 Lazy consuming is streaming
 
+* https://blogs.oracle.com/geertjan/reactjs-and-oracle-jet-part-1
+* https://blogs.oracle.com/geertjan/beyond-mobile-app-vs-mobile-browser
 * https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 * https://webpack.js.org/guides/lazy-loading/
 * https://webpack.js.org/guides/code-splitting/
