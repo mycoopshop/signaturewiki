@@ -5,3 +5,4 @@
 * https://www.telerik.com/blogs/developer-digest-bootstrap-4-build-2018-and-killer-robots
 * https://www.slideshare.net/e2m/react-example-bootstrap
 * https://blog.stvmlbrn.com/2017/01/16/form-validation-with-react.html
+* https://github.com/facebook/react/blob/master/packages/react-art/src/ReactART.js
