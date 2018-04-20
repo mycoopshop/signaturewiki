@@ -12,3 +12,4 @@
 * https://medium.com/unbabel-dev/progressively-migrating-from-angularjs-to-vue-js-at-unbabel-581eb4ae022d
 * http://jasonsteinshouer.com/javascript/2016/11/03/vuejs-migration.html
 * https://medium.com/js-dojo/switching-from-react-to-vue-js-badf34565a2d
+* https://blog.kollegorna.se/3-years-of-ember-6-months-of-react-34ce909a5ce1
