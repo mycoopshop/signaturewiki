@@ -8,7 +8,7 @@
 * https://en.wikiversity.org/wiki/Homemade_log_table
 * https://reactjs.org/docs/reconciliation.html
 * https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/
-
+* https://www.slideshare.net/polyvore/mturk-machine-learning-8417481
 
 **CSS3**
 
