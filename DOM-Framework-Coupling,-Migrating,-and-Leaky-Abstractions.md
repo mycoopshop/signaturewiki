@@ -6,3 +6,7 @@
 * https://www.slideshare.net/e2m/react-example-bootstrap
 * https://blog.stvmlbrn.com/2017/01/16/form-validation-with-react.html
 * https://github.com/facebook/react/blob/master/packages/react-art/src/ReactART.js
+* https://blogs.oracle.com/geertjan/from-knockout-to-vue-in-oracle-jet
+* https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e
+* https://msdn.microsoft.com/en-us/library/bg142799
+* 
