@@ -1,0 +1,10 @@
+http://www.oracle.com/technetwork/java/javase/tech/stax-1-0-150030.pdf
+http://www.xmlpull.org/history/
+https://www.extreme.indiana.edu/xgws/papers/xml_push_pull/node3.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000094
+http://tutorials.jenkov.com/java-xml/sax-vs-stax.html
+https://www.xml.com/pub/a/2003/09/17/stax.html
+https://www.ibm.com/developerworks/xml/library/x-tipstx2/
+https://www.ibm.com/developerworks/library/x-stax1/
+https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/SJSXP2.html
+https://docs.oracle.com/cd/E24329_01/web.1211/e24993/best.htm#XMLPG213
