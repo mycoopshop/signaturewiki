@@ -634,3 +634,7 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://stackoverflow.com/questions/2425721/unit-testing-datetime-now
 
 * https://github.com/facebook/react/blob/94f44aeba72eacb04443974c2c6c91a050d61b1c/fixtures/dom/src/components/fixtures/date-inputs/index.js
+
+* https://medium.com/@skidding/testing-react-components-30516bc6a1b3
+
+* https://dev.to/elaziziyoussouf/tools-you-need-to-use-in-your-react-components-development--13a7
