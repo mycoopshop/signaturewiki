@@ -26,6 +26,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
@@ -152,7 +153,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * http://file.lacounty.gov/SDSInter/bos/supdocs/117363.pdf
 * https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
-* https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
 * https://www.linkedin.com/pulse/salesforce-security-review-my-3x-failure-dave-rasmussen/
 * https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
 * https://trailhead.salesforce.com/modules/
@@ -178,7 +178,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=bi_glossary.htm&type=0
 * https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_platform_glossary.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/visualforce_glossary.htm
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_soql_sosl.pdf
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_bulk_v2.pdf
+* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/glossary_meta.htm
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_meta.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/glossary_api.htm
 * https://developer.salesforce.com/docs/atlas.en-us.ajax.meta/ajax/glossary_ajax.htm
 * https://developer.salesforce.com/blogs/engineering/2015/06/solved-acronym-overload-5-easy-steps.html
@@ -226,6 +230,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
+
+## ISV
+* https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
+* https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
 
 ## Live Agent API
 * https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
@@ -342,7 +350,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000187503&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=dev_wsdl.htm&type=5
 * https://help.salesforce.com/articleView?id=code_manage_packages.htm&type=5
- 
+* https://help.salesforce.com/articleView?id=faq_apex_callout_validation.htm&type=0
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm
+* 
 ## Authentication
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
@@ -392,3 +402,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/javadoc/com/adobe/cq/commerce/api/package-tree.html
 * https://help.adobe.com/en_US/flex/using/WS460ee381960520ad-2811830c121e9107ecb-7fff.html
 * https://helpx.adobe.com/experience-manager/using/osgi_getting_started.html
+
+#Drupal
+
+* https://www.drupal.org/blog/three-ways-we-can-improve-drupals-evaluator-experience
+* https://www.drupal.org/node/2365547
