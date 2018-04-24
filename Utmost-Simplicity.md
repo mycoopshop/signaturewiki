@@ -112,3 +112,11 @@ Coding - Emmet / JSLint / XHTML5
 Documenting - Markdown
 
 Visualizing - HTML5 Canvas 
+
+# State
+http://etutorials.org/Macromedia/Fash+remoting.+the+definitive+guide/Part+III+Advanced+Flash+Remoting/Chapter+15.+Flash+Remoting+API/DataGlue+Object/
+http://www.tomkitta.com/guides/flashMX2004.cfm
+https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/binding/utils/BindingUtils.html
+https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/rpc/remoting/RemoteObject.html
+https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/utils/ObjectProxy.html
+https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/fl/data/DataProvider.html
