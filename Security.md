@@ -1,6 +1,7 @@
 * https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities
 * https://arxiv.org/pdf/1704.03356.pdf
 * https://cwe.mitre.org/data/index.html
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4090456/
 * https://arxiv.org/ftp/arxiv/papers/1304/1304.7451.pdf
 * https://www.websand.eu
 * https://www.us-cert.gov/bsi/articles/best-practices/assembly-integration-and-evolution--security-concept-challenge-and-design-considerations-web-services-integration
