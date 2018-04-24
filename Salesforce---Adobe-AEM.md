@@ -218,7 +218,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=installing_the_data_loader.htm&type=5
 * https://help.salesforce.com/articleView?id=000192840&type=1
-* https://developer.salesforce.com/page/Multi_Tenant_Architecture
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_compliance_docs.htm
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L28rQAC
 * https://help.salesforce.com/articleView?id=Site-Switching-Overview&language=en_US&type=1
@@ -226,7 +225,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
 
 ##CLI
+* https://developer.salesforce.com/page/Tools
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
+* https://www.jitendrazaa.com/blog/salesforce/automate-command-line-dataloader-using-ant-with-dynamic-arguments-and-query/
+* https://www.slideshare.net/developerforce/scripted-data-loads-with-salesforce-dataloader-and-ant
+* https://force201.wordpress.com/2010/10/15/scripting-the-apex-data-loader-via-ant/
+* http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
+* https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
+* https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
@@ -247,6 +253,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
 * https://developer.salesforce.com/page/From_SQL_to_SOQL
+* https://www.linkedin.com/pulse/first-month-salesforce-apex-c-developer-sean-hunter
 
 ## SQL
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
