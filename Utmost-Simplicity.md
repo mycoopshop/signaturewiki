@@ -120,3 +120,6 @@ https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/binding/u
 https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/rpc/remoting/RemoteObject.html
 https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/utils/ObjectProxy.html
 https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/fl/data/DataProvider.html
+
+# Events
+http://backbonejs.org/#Events-stopListening
