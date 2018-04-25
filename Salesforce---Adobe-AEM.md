@@ -237,6 +237,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
+* https://schemalister.herokuapp.com
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
@@ -369,7 +370,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=code_manage_packages.htm&type=5
 * https://help.salesforce.com/articleView?id=faq_apex_callout_validation.htm&type=0
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm
-* 
+
+## XSD/WSDL Transformation
+* http://crism.maden.org/consulting/pub/xsl/xsd2html.xsl
+* https://github.com/sgml/xsd2html2xml/blob/master/xsd2html.xsl
+* http://www.crimulus.com/2012/04/13/xsl-template-for-converting-xsd-to-complete-xml-prototype-with-inline-specifications/
+* https://github.com/sgml/inetmanet/blob/master/_scripts/xsd2html/xsd2html.xsl
+
 ## Authentication
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
