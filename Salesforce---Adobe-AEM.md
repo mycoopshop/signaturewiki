@@ -233,6 +233,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
 * https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
 * https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=code_system_log.htm&type=0
+* https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
+* https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
+* https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
@@ -248,6 +252,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_output_pdf_considerations.htm
+
+## Custom Extensions
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/extend_code.pdf
+* https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
+* https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
+* https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
 
 ## SOQL
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
@@ -414,3 +424,4 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 * https://www.drupal.org/blog/three-ways-we-can-improve-drupals-evaluator-experience
 * https://www.drupal.org/node/2365547
+* https://builtwith.com/ancestry.com
