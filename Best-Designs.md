@@ -7,3 +7,9 @@
 * https://dev.opera.com/articles/pwa-nigeria-kenya-interview/
 
 * https://material.io/guidelines/style/color.html#color-themes
+
+* https://nodejs.org/en/docs/meta/topics/dependencies/
+
+* https://reactjs.org/docs/codebase-overview.html
+
+* https://reactjs.org/docs/design-principles.html
