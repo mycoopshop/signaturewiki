@@ -1,3 +1,4 @@
+* http://jamesknelson.com/state-react-1-stateless-react-app/
 * https://github.com/mobxjs/mobx/issues/48
 * https://github.com/mobxjs/mobx-utils
 * https://github.com/mobxjs/mobx/issues/681
