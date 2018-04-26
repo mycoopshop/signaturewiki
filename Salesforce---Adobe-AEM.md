@@ -429,6 +429,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/reference-materials/javadoc/com/adobe/cq/commerce/api/package-tree.html
 * https://help.adobe.com/en_US/flex/using/WS460ee381960520ad-2811830c121e9107ecb-7fff.html
 * https://helpx.adobe.com/experience-manager/using/osgi_getting_started.html
+* https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/troubleshoot-rep.html
+* https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.ui.commons/5.5.60/com.adobe.granite.ui.commons-5.5.60.pom
+* https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.workflow.console/1.0.0/com.adobe.granite.workflow.console-1.0.0.pom
+
 
 #Drupal
 
