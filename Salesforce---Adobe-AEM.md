@@ -26,6 +26,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
@@ -226,6 +227,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ##CLI
 * https://developer.salesforce.com/page/Tools
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_api_lightning_console.htm
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
 * https://www.jitendrazaa.com/blog/salesforce/automate-command-line-dataloader-using-ant-with-dynamic-arguments-and-query/
 * https://www.slideshare.net/developerforce/scripted-data-loads-with-salesforce-dataloader-and-ant
@@ -265,6 +267,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
 * https://developer.salesforce.com/page/From_SQL_to_SOQL
 * https://www.linkedin.com/pulse/first-month-salesforce-apex-c-developer-sean-hunter
+* https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Domain_Layer
 
 ## SQL
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
