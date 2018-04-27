@@ -26,3 +26,18 @@
 
 # Profile Bias
 * http://claudiawagner.info/publications/cscw_bias_olm.pdf
+
+# Gender Bias
+* https://www.self.com/story/sevyn-streeter-depression-mental-health
+* https://www.huffingtonpost.com/lauren-bacon/women-in-tech-and-empathy_b_2573434.html
+
+# Language Bias
+* https://archive.org/details/aliteraltransla00unkngoog
+* http://self.gutenberg.org/articles/eng/Jah
+* http://aramaicnt.com/Research/Peshitta%20History.pdf
+
+# Class Bias
+* https://www.ituc-csi.org/IMG/pdf/samsung_web_en.pdf
+* https://news.ycombinator.com/item?id=16874015
+* https://corporate.findlaw.com/human-resources/employer-alert-amp-130-amp-133-negotiating-the-hidden.html
+* http://www.forensicglobal.org/whitepapers/tackling-employee-misclassification-106193.pdf
