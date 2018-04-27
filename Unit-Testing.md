@@ -640,3 +640,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://dev.to/elaziziyoussouf/tools-you-need-to-use-in-your-react-components-development--13a7
 
 * https://github.com/tb/redux/tree/react-testing/examples/todomvc/src/components/__tests__
+
+* https://medium.com/@eric_lum/cheatsheet-to-jest-testing-in-javascript-c4415b56cacb?source=---------3----------------
