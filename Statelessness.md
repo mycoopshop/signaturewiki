@@ -1,4 +1,5 @@
 * http://jamesknelson.com/state-react-1-stateless-react-app/
+* https://kyleshevlin.com/loading-state-trick-for-stateless-functional-components-in-react/
 * https://stackoverflow.com/questions/41248130/stateless-component-a-valid-react-element-or-null-must-be-returned
 * https://stackoverflow.com/questions/40412072/stateless-react-how-to-pass-key
 * https://news.ycombinator.com/item?id=11239738
