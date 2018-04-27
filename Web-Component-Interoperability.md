@@ -71,3 +71,5 @@ REFERENCES
 * https://www.lullabot.com/articles/processing-forms-in-react
 * https://stackoverflow.com/questions/43085762/how-to-pass-form-values-as-formdata-in-reactjs-on-submit-function
 * https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34
+* https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
+* https://codeburst.io/revisiting-node-js-testing-part-1-84c33bb4d711
