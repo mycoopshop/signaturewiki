@@ -638,3 +638,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://medium.com/@skidding/testing-react-components-30516bc6a1b3
 
 * https://dev.to/elaziziyoussouf/tools-you-need-to-use-in-your-react-components-development--13a7
+
+* https://github.com/tb/redux/tree/react-testing/examples/todomvc/src/components/__tests__
