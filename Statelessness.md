@@ -22,7 +22,9 @@
 * https://jsfiddle.net/twophayse/32fye262/1/
 
 # Code
-
+ 
+    /* You can, however, use the ref attribute inside a functional component as long as you refer to a DOM element or a class component:
+    */
     function CustomTextInput(props) {
     // textInput must be declared here so the ref can refer to it
     let textInput = React.createRef();
