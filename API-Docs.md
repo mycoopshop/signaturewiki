@@ -43,3 +43,5 @@
 * https://sunlightlabs.github.io/congress/
 * https://developer.atlassian.com/server/jira/platform/jira-rest-api-tutorials-6291593/
 * https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
+* https://msdn.microsoft.com/en-us/library/office/aa218661
+* https://technet.microsoft.com/en-us/library/cc514191
