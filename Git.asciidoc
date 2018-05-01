@@ -8,6 +8,14 @@ https://confluence.atlassian.com/bitbucketserverkb/how-to-define-a-default-merge
 
 https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/
 
+http://mindspill.net/computing/linux-notes/git-diff-tree-whitespace/
+
+https://blog.bigballofwax.co.nz/2011/12/15/fixing-whitespace-when-apply-patches-with-git/
+
+http://jyx.github.io/blog/2012/03/09/apply-patches-in-git/
+
+https://makandracards.com/makandra/11541-how-to-not-leave-trailing-whitespace-using-your-editor-or-git
+
 https://robots.thoughtbot.com/send-a-patch-to-someone-using-git-format-patch
 
 http://gitster.livejournal.com/28309.html
