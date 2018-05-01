@@ -9,3 +9,10 @@
 * https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/SJSXP2.html
 * https://docs.oracle.com/cd/E24329_01/web.1211/e24993/best.htm#XMLPG213
 * http://stx.sourceforge.net/documents/
+* https://github.com/search?l=Apex&p=34&q=xmlstreamreader+xmlschema&type=Code
+* https://github.com/StottlerHenkeAssociates/SimBionic/blob/master/xslt/generateSAXReaders.xsl
+* https://github.com/StottlerHenkeAssociates/SimBionic/blob/master/xslt/generateSAXWriters.xsl
+* https://github.com/robkowalski/lindenb/blob/master/src/xsl/xsd2libxml.xsl
+* https://github.com/Kishaaa/lindenb/blob/master/src/xsl/xsd2libxml.xsl
+* https://github.com/azeemigi/kernel/blob/master/dependencies/axis2/1.6.1-wso2v8/modules/adb-codegen/src/org/apache/axis2/schema/template/ADBBeanTemplate-bean.xsl
+* https://github.com/venkateshyadva/sfdc-Eyereturn/blob/master/sample/codepkg/classes/AWS_XMLDom.cls
