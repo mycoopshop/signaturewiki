@@ -23,3 +23,4 @@ Set breakpoints on all:
 * https://www.mediawiki.org/wiki/Node.js_debugging
 * https://nodejs.org/api/errors.html
 * https://nodejs.org/en/blog/npm/peer-dependencies/
+* https://zetafleet.com/blog/2010/06/improve-javascript-error-reporting-with-tracekit.html
