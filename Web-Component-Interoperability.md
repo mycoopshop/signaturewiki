@@ -73,3 +73,5 @@ REFERENCES
 * https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34
 * https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
 * https://codeburst.io/revisiting-node-js-testing-part-1-84c33bb4d711
+* https://www.ynonperek.com/2017/09/07/6-react-mistakes-to-avoid/
+* https://j5bot.github.io/react-capitalized-reference-dynamic-component-demo/
