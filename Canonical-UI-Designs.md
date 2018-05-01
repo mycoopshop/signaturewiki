@@ -18,6 +18,8 @@ Questionnaire: https://www.homeadvisor.com/task.Kitchen-Remodel.40131.html
 
 404 Page: https://www.linkedin.com/directory/training/skill-Philosophy/
 
+Liquid: https://www.zeldman.com/2017/11/19/dao-responsive-liquid/
+
 **References**
 
 * https://www.safaribooksonline.com/library/view/designing-web-interfaces/9780596155353/#toc-start
