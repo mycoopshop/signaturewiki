@@ -1,3 +1,4 @@
+* https://medium.com/@timoxley/named-exports-as-the-default-export-api-670b1b554f65
 * https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/razor-pages-convention-features
 * https://www.npmjs.com/package/react-server-routing-example
 * https://github.com/BiteBit/koa-oai-router
