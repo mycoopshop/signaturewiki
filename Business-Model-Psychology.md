@@ -45,4 +45,11 @@
 * https://www.slideshare.net/StevenKotler/the-secrets-to-creating-a-killer-skunkworks
 * https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/kelly-14-rules.html
 * https://foxtrotalpha.jalopnik.com/legendary-skunk-work-founder-kelly-johnsons-rules-of-ma-1708050659
-* 
+
+# Housing Bias
+https://www.apnews.com/tag/Housingpolicy
+
+http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
+
+# Theological Bias
+https://en.wikipedia.org/wiki/James_H._Cone
