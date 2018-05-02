@@ -34,6 +34,17 @@ ES6 Template Literals:
     });
 
 
+# Cross-Referencing
+
+    /*If you name the render function, DevTools will also include its name (e.g. "ForwardRef(myFunction)"):*/
+
+    const WrappedComponent = React.forwardRef(
+      function myFunction(props, ref) {
+        return <LogProps {...props} forwardedRef={ref} />;
+      }
+    );
+
+    /* When the ref is attached, ref.current will point to the <button> DOM node */
 
 **References**
 * https://medium.com/@gigobyte/enhancing-react-components-with-decorators-441320e8606a
