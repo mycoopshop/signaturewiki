@@ -19,3 +19,6 @@
 . http://www.cs.unc.edu/~jbs/resources/perl/perl-cgi/step5.html
 . https://help.crossbrowsertesting.com/faqs/testing/invalid-host-header-error/
 . https://www.npmjs.com/package/get-next-port
+. https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190
+. https://www.telerik.com/blogs/understanding-head-http-204-and-http-206
+. https://stackoverflow.com/questions/18323152/get-download-progress-in-node-js-with-request
