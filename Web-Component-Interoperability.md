@@ -75,3 +75,20 @@ REFERENCES
 * https://codeburst.io/revisiting-node-js-testing-part-1-84c33bb4d711
 * https://www.ynonperek.com/2017/09/07/6-react-mistakes-to-avoid/
 * https://j5bot.github.io/react-capitalized-reference-dynamic-component-demo/
+https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/
+https://www.filamentgroup.com/lab/accessible-responsive.html
+https://stackoverflow.com/questions/38442091/how-to-do-responsive-components-in-angular2
+https://github.com/facebook/react/issues/2127
+https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8
+https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+https://pwa-directory.appspot.com
+http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/
+https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
+http://neekey.net/2016/08/28/implementing-responsive-design-in-react/
+https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
+https://developer.salesforce.com/blogs/developer-relations/2016/05/streaming-salesforce-events-heroku-kafka.html
+https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
+https://engineering.salesforce.com/delivering-mobile-data-tcp-or-udp-95d9d271be2f
+https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
+https://developer.salesforce.com/page/Network_Best_Practices_for_Salesforce_Architects
