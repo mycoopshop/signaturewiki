@@ -89,3 +89,7 @@ https://blog.ostermiller.org/git-remove-from-history
 https://en.wikibooks.org/wiki/Commit_Often,_Perfect_Later,_Publish_Once:_Git_Best_Practices
 
 https://sethrobertson.github.io/GitBestPractices/
+
+http://blog.kablamo.org/2013/12/08/git-restore/
+
+https://stackoverflow.com/questions/6531241/how-to-use-expect-and-git-clone?rq=1
