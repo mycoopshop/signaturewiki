@@ -20,6 +20,9 @@
 # Examples
 * https://codepen.io/vitalyq/pen/oBvxJB?editors=0010
 * https://jsfiddle.net/twophayse/32fye262/1/
+* http://jsfiddle.net/ssorallen/4G46g/
+* https://jsfiddle.net/gmsa/gfg30Lgv/
+
 
 # Code
  
