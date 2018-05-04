@@ -128,3 +128,4 @@ https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c
 https://blog.shaunfinglas.co.uk/2015/10/header-interfaces-vs-role-interfaces.html
 https://blog.heroku.com/react-refetch
 https://blog.heroku.com/deploying-react-with-zero-configuration
+http://willschenk.com/bot-design-patterns/
