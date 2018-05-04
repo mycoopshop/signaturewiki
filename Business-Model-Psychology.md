@@ -56,3 +56,6 @@ https://en.wikipedia.org/wiki/James_H._Cone
 
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
+
+# Technology Bias
+https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0dhx5b,%2Fm%2F0bbxf89,%2Fm%2F07qb81,%2Fm%2F058b6
