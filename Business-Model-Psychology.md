@@ -53,3 +53,6 @@ http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
 
 # Theological Bias
 https://en.wikipedia.org/wiki/James_H._Cone
+
+# Jargon Bias
+https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
