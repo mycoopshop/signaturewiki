@@ -38,6 +38,7 @@ Perl Jenkins Redis
 
 **Clusters**
 * https://community.toadworld.com/platforms/oracle/w/wiki/11683.creating-a-hello-world-kubernetes-application
+* https://blogs.oracle.com/weblogicserver/security-best-practices-for-weblogic-server-running-in-docker-and-kubernetes
 
 **Containers**
 * https://medium.com/@lojorider/docker-with-cgi-perl-a4558ab6a329
