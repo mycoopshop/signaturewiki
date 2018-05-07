@@ -22,3 +22,5 @@
 . https://itnext.io/how-to-handle-the-post-request-body-in-node-js-without-using-a-framework-cd2038b93190
 . https://www.telerik.com/blogs/understanding-head-http-204-and-http-206
 . https://stackoverflow.com/questions/18323152/get-download-progress-in-node-js-with-request
+. https://docs.oracle.com/middleware/1221/wls/WLSMT/concepts.htm#WLSMT728
+. https://codepen.io/jchiatt/post/headless-wordpress-with-react-complete-tutorial
