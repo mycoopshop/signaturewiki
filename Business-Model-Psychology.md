@@ -26,6 +26,13 @@
 
 # Profile Bias
 * http://claudiawagner.info/publications/cscw_bias_olm.pdf
+* https://www.marieclaire.co.za/hot-topics/artist-ayana-v-jackson-on-portraiture-identity-and-curating-a-show
+* https://soundcloud.com/spelmanmuseum/ayana-v-jackson
+* http://www.artnoir.co
+* http://afropunk.com
+* https://www.inyourpocket.com
+* https://www.pdnonline.com/features/photographer-interviews/ayana-v-jackson-confronts-racism-with-recreations-of-historic-images/
+* 
 
 # Gender Bias
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
@@ -54,8 +61,18 @@ http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
 # Theological Bias
 https://en.wikipedia.org/wiki/James_H._Cone
 
+# Culture Bias
+http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
+
+# Information Bias
+http://www.dtic.mil/dtic/tr/fulltext/u2/a275133.pdf
+http://www.dtic.mil/dtic/tr/fulltext/u2/a430217.pdf
+
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
 
 # Technology Bias
 https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0dhx5b,%2Fm%2F0bbxf89,%2Fm%2F07qb81,%2Fm%2F058b6
+
+# Ad Bias
+https://medium.com/the-graph/rise-of-subscriptions-and-the-fall-of-advertising-d5e4d8800a49
