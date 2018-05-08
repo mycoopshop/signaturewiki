@@ -35,6 +35,7 @@
 
 # Market Bias
 http://www.commoditytrademantra.com/commodity-trading/heres-why-commodities-are-the-investment-to-grow-your-money-in-2018/
+http://energyskeptic.com/2014/how-to-preserve-your-wealth-in-the-worst-depression-ever/
 
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
