@@ -12,3 +12,4 @@
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
 * https://www.htmlgoodies.com/tutorials/web_graphics/object-reflection-in-javascript.html
 * https://chrisrng.svbtle.com/es6-reflect-api
+* https://wiki.openjdk.java.net/display/JDK8/Java+Dependency+Analysis+Tool
