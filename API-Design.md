@@ -130,3 +130,11 @@ https://blog.heroku.com/react-refetch
 https://blog.heroku.com/deploying-react-with-zero-configuration
 http://willschenk.com/bot-design-patterns/
 https://www.storyblok.com
+https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-1/index.html
+https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-2/index.html
+https://www.ibm.com/developerworks/cloud/library/cl-lambda-functions-rapid-prototyping/index.html
+https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/index.html
+https://www.ibm.com/developerworks/web/library/wa-schemaorg1/index.html
+https://www.ibm.com/developerworks/opensource/library/wa-schemaorg2/index.html
+https://www.ibm.com/developerworks/opensource/library/wa-schemaorg3/index.html
+https://www.ibm.com/developerworks/opensource/library/wa-schemaorg4/index.html
