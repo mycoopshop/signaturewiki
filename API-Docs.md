@@ -45,3 +45,4 @@
 * https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
 * https://msdn.microsoft.com/en-us/library/office/aa218661
 * https://technet.microsoft.com/en-us/library/cc514191
+* https://www.oracle.com/corporate/features/jdk9-new-developer-features.html
