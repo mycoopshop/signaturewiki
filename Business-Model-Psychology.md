@@ -67,6 +67,7 @@ http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
 # Information Bias
 http://www.dtic.mil/dtic/tr/fulltext/u2/a275133.pdf
 http://www.dtic.mil/dtic/tr/fulltext/u2/a430217.pdf
+https://www.wikihow.com/Spot-a-Fake-Review-on-Amazon
 
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
