@@ -5,3 +5,7 @@ https://medium.com/@yuridrabik/create-chrome-devtools-extension-using-react-js-1
 https://bugs.chromium.org/p/chromium/issues/detail?id=465666
 https://bugs.chromium.org/p/chromium/issues/detail?id=438251
 https://bugs.chromium.org/p/chromium/issues/detail?id=345205
+
+https://violentmonkey.github.io
+https://github.com/chrispederick/web-developer
+https://www.proofpoint.com/us/threat-insight/post/threat-actor-goes-chrome-extension-hijacking-spree
