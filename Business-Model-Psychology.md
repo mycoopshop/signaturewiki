@@ -32,7 +32,12 @@
 * http://afropunk.com
 * https://www.inyourpocket.com
 * https://www.pdnonline.com/features/photographer-interviews/ayana-v-jackson-confronts-racism-with-recreations-of-historic-images/
-* 
+
+# Market Bias
+http://www.commoditytrademantra.com/commodity-trading/heres-why-commodities-are-the-investment-to-grow-your-money-in-2018/
+
+# Historical Bias
+http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
 
 # Gender Bias
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
