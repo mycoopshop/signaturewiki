@@ -138,3 +138,5 @@ https://www.ibm.com/developerworks/web/library/wa-schemaorg1/index.html
 https://www.ibm.com/developerworks/opensource/library/wa-schemaorg2/index.html
 https://www.ibm.com/developerworks/opensource/library/wa-schemaorg3/index.html
 https://www.ibm.com/developerworks/opensource/library/wa-schemaorg4/index.html
+http://ediacademy.com/blog/walmart-edi-testing-2/
+https://cdn.corporate.walmart.com/5d/8d/897b4bb84a95bb05214bf897cee3/edi-getting-started-guide.pdf
