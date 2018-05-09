@@ -30,3 +30,11 @@
 * http://www.dtic.mil/docs/citations/AD1006391
 * http://www.dtic.mil/docs/citations/AD1046295
 * https://documentation.cpanel.net/display/CKB/OWASP+ModSecurity+CRS
+
+# Templating
+https://nvd.nist.gov/vuln/detail/CVE-2000-1050
+http://tomcat.apache.org/security-4.html
+https://www.securityfocus.com/bid/4997
+
+# Same Origin Policy
+https://marc.info/?l=bugtraq&m=102796732924658&w=2
