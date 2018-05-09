@@ -1,4 +1,5 @@
 . https://www.slideshare.net/RomanTeresch/jetty-tls-troubleshooting
+. https://developer.xamarin.com/api/namespace/Org.Apache.Http.Client/
 . https://www.codeproject.com/Articles/1223459/Using-Jetty-to-Serve-Static-Web-Content
 . https://www.codeproject.com/Tips/1001570/Log-J-for-Jetty
 . https://www.megadix.it/blog/create-react-app-servlet/
