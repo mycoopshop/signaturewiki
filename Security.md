@@ -38,6 +38,12 @@
 https://nvd.nist.gov/vuln/detail/CVE-2000-1050
 http://tomcat.apache.org/security-4.html
 https://www.securityfocus.com/bid/4997
+https://docs.oracle.com/cd/A97688_16/generic.903/a97679/jspxml.htm
+https://www.developer.com/tech/article.php/626351/JavaServer-Pages-Comments-Declaration-and-Expressions.htm
+https://www.mindedsecurity.com/fileshare/ExpressionLanguageInjection.pdf
+http://www.oracle.com/technetwork/java/seccodeguide-139067.html
+https://github.com/facebook/react/issues/3473
+https://lolware.net/2015/08/19/reactjs-xss-testing.html
 
 # Same Origin Policy
 https://marc.info/?l=bugtraq&m=102796732924658&w=2
