@@ -33,6 +33,13 @@
 * https://www.inyourpocket.com
 * https://www.pdnonline.com/features/photographer-interviews/ayana-v-jackson-confronts-racism-with-recreations-of-historic-images/
 
+# Loyalty Bias
+* http://www.affiliateprograms.com/video-game-affiliate-programs/
+* https://pubhelp.rakutenmarketing.com/hc/en-us/articles/207222086-Quick-Start-Guide-How-to-Get-Your-Affiliate-Marketing-Program-Going-Fast
+* https://affiliate-program.amazon.com/help/node/topic/202102870
+* https://affiliate-program.amazon.com/help/operating/policies
+* https://cospot.com/affiliate/amazon-associates-review/
+
 # Market Bias
 http://www.commoditytrademantra.com/commodity-trading/heres-why-commodities-are-the-investment-to-grow-your-money-in-2018/
 http://energyskeptic.com/2014/how-to-preserve-your-wealth-in-the-worst-depression-ever/
