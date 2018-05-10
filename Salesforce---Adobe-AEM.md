@@ -38,11 +38,23 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 
+**Defects**
+* https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
+* https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
+
+**Certification**
+* https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
+* https://admin.salesforce.com/preparing-certification-exam
+* https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
+
+
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
+https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/glossary_master.htm
+https://developer.salesforce.com/page/Earlier_Reference_Documentation
+https://developer.salesforce.com/blogs/tech-pubs/2013/05/our-award-winning-documentation-and-videos.html
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
 https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/misc/SalesforceIQ-Open-Source.pdf
-https://admin.salesforce.com/preparing-certification-exam
 http://documentation.auraframework.org/
 https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
 https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
@@ -161,7 +173,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
-* https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://salesforce.stackexchange.com/questions/159866/any-way-to-include-keyframes-in-lightning-component-css-file
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=0
@@ -274,6 +285,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 
 ## Lightning
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_documentation.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
@@ -406,6 +418,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
 
 # Adobe 
+* https://helpx.adobe.com/experience-manager/using/oak-login.html
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
 * https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
 * https://helpx.adobe.com/experience-manager/using/creating-htl-component.html
@@ -417,6 +430,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/enterprise/help/configure-sso.html
 * https://docs.adobe.com/content/ddc/en/gems/oauth-server-functionality-in-aem---embrace-federation-and-unlea/_jcr_content/par/download/file.res/OAuth_Server_functionality_in_AEM%207%2023%2014.pdf
 * http://wwwimages.adobe.com/content/dam/acom/en/security/pdfs/adobe-aem-managed-services-security.pdf
+* https://sling.apache.org/apidocs/sling5/constant-values.html
 * https://helpx.adobe.com/experience-manager/6-3/assets/using/media-handlers.html
 * https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/constant-values.html
 * https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/reference-materials/javadoc/com/day/cq/dam/core/process/package-tree.html
