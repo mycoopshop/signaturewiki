@@ -92,3 +92,6 @@ https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7
 https://engineering.salesforce.com/delivering-mobile-data-tcp-or-udp-95d9d271be2f
 https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
 https://developer.salesforce.com/page/Network_Best_Practices_for_Salesforce_Architects
+https://www.bennadel.com/blog/2860-an-experiment-in-what-react-s-jsx-might-feel-like-in-angularjs.htm
+https://github.com/facebook/react/issues/2401
+https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918
