@@ -51,6 +51,10 @@ https://www.dailyfx.com/forex/education/trading_tips/daily_trading_lesson/2012/0
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
 
+# Niches
+Date/Time: https://playback.fm/
+Geolocation: http://www.fanmail.biz/
+
 # Gender Bias
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
 * https://www.huffingtonpost.com/lauren-bacon/women-in-tech-and-empathy_b_2573434.html
