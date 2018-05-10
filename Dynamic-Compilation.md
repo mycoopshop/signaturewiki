@@ -1,5 +1,6 @@
 https://medium.com/@TranscendMikey/react-gotcha-dynamically-rendering-components-with-jsx-b53fc07f63ca
 https://stackoverflow.com/questions/37822530/dynamically-generating-jsx-in-react
+https://stackoverflow.com/questions/26518629/dynamically-rendering-a-react-component
 https://stackoverflow.com/questions/29875869/react-jsx-dynamic-component-name
 https://stackoverflow.com/questions/33728272/how-to-combine-jsx-component-with-dangerouslysetinnerhtml
 https://stackoverflow.com/questions/47007257/how-can-i-access-invoke-javascript-function-in-jsx-file
