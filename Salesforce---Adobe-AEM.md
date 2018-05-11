@@ -15,6 +15,7 @@ Excellent verbal and written communication skills
 **Best Practices**
 * http://www.dreamhouseapp.io
 * https://developer.salesforce.com/page/Wiki
+* https://developer.salesforce.com/page/Packaging
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 * https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
@@ -258,6 +259,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## ISV
 * https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
 * https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
+* https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
+
 
 ## Live Agent API
 * https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
@@ -270,7 +274,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Custom Extensions
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/extend_code.pdf
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
-* https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
 
 ## SOQL
