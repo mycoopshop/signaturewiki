@@ -33,6 +33,11 @@
 * https://www.inyourpocket.com
 * https://www.pdnonline.com/features/photographer-interviews/ayana-v-jackson-confronts-racism-with-recreations-of-historic-images/
 
+# Technology Bias
+* http://www.neuronews.blog
+* https://blogsofnote.blogspot.co.uk
+
+
 # Loyalty Bias
 * http://www.affiliateprograms.com/video-game-affiliate-programs/
 * https://pubhelp.rakutenmarketing.com/hc/en-us/articles/207222086-Quick-Start-Guide-How-to-Get-Your-Affiliate-Marketing-Program-Going-Fast
