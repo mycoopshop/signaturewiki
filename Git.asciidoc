@@ -93,3 +93,5 @@ https://sethrobertson.github.io/GitBestPractices/
 http://blog.kablamo.org/2013/12/08/git-restore/
 
 https://stackoverflow.com/questions/6531241/how-to-use-expect-and-git-clone?rq=1
+
+https://git-scm.com/docs/git-config
