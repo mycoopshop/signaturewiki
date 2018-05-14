@@ -346,6 +346,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Analytics
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
+* https://help.salesforce.com/articleView?id=bi.htm&type=5
 
 ## Field Validation
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
