@@ -149,3 +149,4 @@ http://xku6.com/2016/07/18/5-minute-rest-api-docker/
 https://www.trustradius.com/compare-products/heroku-vs-ibm-cloud-paas
 https://dzone.com/articles/paas-buildpacks
 https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
+https://getalternative.net/software/flatpak
