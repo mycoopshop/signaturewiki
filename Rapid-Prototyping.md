@@ -718,3 +718,5 @@ https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185
 https://www.mediawiki.org/wiki/Phabricator/Project_management
 
 http://www.au.af.mil/au/awc/awcgate/army/writing_tips.htm
+
+https://indieweb.org/How_to_publish_and_consume_WebSub
