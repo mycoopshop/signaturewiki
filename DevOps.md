@@ -145,6 +145,7 @@ https://maven.apache.org/guides/introduction/introduction-to-the-standard-direct
 https://www.ibm.com/support/knowledgecenter/was_beta/com.ibm.websphere.wdt.doc/topics/cwebprojects.htm
 http://saml.xml.org/wiki/sp-initiated-single-sign-on-postartifact-bindings
 https://labs.signalsciences.com/paas-heroku-ibm-bluemix-pivotal-get-started
+http://xku6.com/2016/07/18/5-minute-rest-api-docker/
 https://www.trustradius.com/compare-products/heroku-vs-ibm-cloud-paas
 https://dzone.com/articles/paas-buildpacks
 https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
