@@ -24,3 +24,4 @@ References:
 1. https://hacks.mozilla.org/2017/07/debug-react-redux-firefox-add-ons/
 1. https://legixinfo.wordpress.com/2017/06/05/implementing-an-akoma-ntoso-editor/
 1. https://people.gnome.org/~dscorgie/labyrinth.html
+1. https://userbase.kde.org/Table_of_equivalent_applications/en
