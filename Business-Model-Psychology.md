@@ -29,6 +29,9 @@
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
 * https://toolkit.mozilla.org/method/storyboarding/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060552/
+* https://www.pmi.org/learning/library/mind-mapping-advantage-think-creatively-6554
+* https://www.lifehack.org/articles/productivity/5-reasons-stop-mind-mapping-immediately.html
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
