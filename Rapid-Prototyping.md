@@ -714,3 +714,5 @@ https://medium.com/@andy.neale/learning-react-setting-up-a-minimal-react-develop
 https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe
 
 https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185f8
+
+https://www.mediawiki.org/wiki/Phabricator/Project_management
