@@ -149,4 +149,7 @@ http://xku6.com/2016/07/18/5-minute-rest-api-docker/
 https://www.trustradius.com/compare-products/heroku-vs-ibm-cloud-paas
 https://dzone.com/articles/paas-buildpacks
 https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
+https://www.contentful.com/blog/2018/04/10/sailing-into-infinity-seamlessly-managed-serverless-containers-using-kubernetes-and-aws-fargate/
+http://blogs.enterprisemanagement.com/torstenvolk/2017/12/01/aws-reinvent-2017-serverless-containers-managed-kubernetes-bare-metal-machine-learning-iot/
+https://www.serverwatch.com/server-news/amazon-web-services-embraces-kubernetes-debuts-fargate-serverless-containers-service.html
 https://getalternative.net/software/flatpak
