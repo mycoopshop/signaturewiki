@@ -147,3 +147,4 @@ http://saml.xml.org/wiki/sp-initiated-single-sign-on-postartifact-bindings
 https://labs.signalsciences.com/paas-heroku-ibm-bluemix-pivotal-get-started
 https://www.trustradius.com/compare-products/heroku-vs-ibm-cloud-paas
 https://dzone.com/articles/paas-buildpacks
+https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
