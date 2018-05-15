@@ -22,3 +22,4 @@ References:
 1. https://dzone.com/articles/8-javascript-debugging-tools-for-2018-and-beyond
 1. https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd
 1. https://hacks.mozilla.org/2017/07/debug-react-redux-firefox-add-ons/
+1. https://legixinfo.wordpress.com/2017/06/05/implementing-an-akoma-ntoso-editor/
