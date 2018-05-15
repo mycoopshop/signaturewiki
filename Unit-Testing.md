@@ -645,4 +645,6 @@ https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12
 
 * https://github.com/tb/redux/tree/react-testing/examples/todomvc/src/components/__tests__
 
-* https://medium.com/@eric_lum/cheatsheet-to-jest-testing-in-javascript-c4415b56cacb?source=---------3----------------
+* https://medium.com/@eric_lum/cheatsheet-to-jest-testing-in-javascript-c4415b56cacb
+
+* https://medium.com/@koba04/testing-react-components-with-react-test-renderer-b4df590d0320
