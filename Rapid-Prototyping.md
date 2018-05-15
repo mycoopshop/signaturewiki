@@ -716,3 +716,5 @@ https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a9
 https://codeburst.io/fastest-way-to-publish-a-vue-js-component-on-npm-d58f59e185f8
 
 https://www.mediawiki.org/wiki/Phabricator/Project_management
+
+http://www.au.af.mil/au/awc/awcgate/army/writing_tips.htm
