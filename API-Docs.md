@@ -46,3 +46,4 @@
 * https://msdn.microsoft.com/en-us/library/office/aa218661
 * https://technet.microsoft.com/en-us/library/cc514191
 * https://www.oracle.com/corporate/features/jdk9-new-developer-features.html
+* https://get.slack.help/hc/en-us/articles/202528808-Search-in-Slack-#use-search-modifiers
