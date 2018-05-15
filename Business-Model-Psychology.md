@@ -2,6 +2,7 @@
 * https://medium.com/aws-enterprise-collection/6-strategies-for-migrating-applications-to-the-cloud-eb4e85c412b4
 * https://yourstory.com/2014/03/ultimate-master-list-revenue-models-web-mobile-companies/
 * https://producthabits.com/atlassian-built-10-billion-growth-engine/
+* https://blogs.oracle.com/marketingcloud/5-ways-you-can-bring-more-creativity-into-brainstorming-and-kick-start-the-flow-of-ideas
 * https://www.barrons.com/articles/morgan-stanley-bullish-on-salesforce-com-servicenow-after-tmt-conference-1488901606
 * https://www.barrons.com/articles/linkedin-bloodbath-in-the-cloud-as-salesforce-workday-servicenow-take-it-in-the-gut-1454689884
 * https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose/Sr-Web-Application-Engineer_R0024602?source=JobBoardIndeed-Organic
