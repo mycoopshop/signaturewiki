@@ -246,6 +246,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://force201.wordpress.com/2010/10/15/scripting-the-apex-data-loader-via-ant/
 * http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
 * https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
+* https://medium.com/@54chi/continuous-integration-in-salesforce-1697f146ba2f
 * https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=code_system_log.htm&type=0
 * https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
