@@ -24,6 +24,9 @@
 * http://www.esd.whs.mil/Portals/54/NARA%20Social%20Media%20Capture.pdf
 * http://www.dla.mil/Portals/104/Documents/LandAndMaritime/V/VA/PSMC/Spring%2017/LM_SWISS%20-%20What%20do%20you%20Hire%20A%20Standard%20to%20do_Spring%202017%20PSMC170526.pdf
 
+# Obscurity Bias
+* http://brinker.mediaroom.com/ChilisDataIncident
+
 # Profile Bias
 * http://claudiawagner.info/publications/cscw_bias_olm.pdf
 * https://www.marieclaire.co.za/hot-topics/artist-ayana-v-jackson-on-portraiture-identity-and-curating-a-show
