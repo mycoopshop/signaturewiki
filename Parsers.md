@@ -2,3 +2,9 @@
 * https://jsonfeed.org
 * https://github.com/moappi/json2html
 * https://www.activestate.com/blog/2016/01/jsx-and-react-komodo-syntax-highlighting-case-study
+* https://perlmaven.com/how-to-process-command-line-arguments-in-perl
+* http://mkweb.bcgsc.ca/intranet/perlbook/cookbook/ch15_02.htm
+* https://www.vromans.org/articles/getopt.html
+* https://www.jeffgeerling.com/blog/2017/parsing-yaml-files-on-command-line-using-ruby
+* https://coderwall.com/p/9idskq/prettify-json-in-the-command-line-with-ruby
+* http://www.perlmonks.org/?node_id=88222
