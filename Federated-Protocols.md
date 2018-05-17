@@ -7,3 +7,4 @@ https://docs.cloudfoundry.org/uaa/identity-providers.html
 https://docs.pivotal.io/p-identity/1-2/pingfederate/config-pingfederate.html
 https://wiki.library.ucsf.edu/pages/viewpage.action?pageId=361762610
 https://www.npmjs.com/package/samlify
+https://pdoyl.curd.io/langserver.org/
