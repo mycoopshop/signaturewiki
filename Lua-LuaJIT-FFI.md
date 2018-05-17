@@ -13,6 +13,14 @@ https://blog.roblox.com/2012/02/an-optimization-for-lua-scripts/
 
 https://blog.roblox.com/2017/05/optimizing-lua-c-interoperability/
 
+Lua for C Testing:
+
+https://www.lua.org/wshop15/Ierusalimschy.pdf
+
+https://www.lua.org/bugs.html
+
+https://jan.kneschke.de/projects/misc/profiling-lua-with-kcachegrind/
+
 Lua for floating point Math:
 
 https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/2.7.html
