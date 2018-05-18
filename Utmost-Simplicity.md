@@ -113,6 +113,9 @@ Documenting - Markdown
 
 Visualizing - HTML5 Canvas 
 
+# Conditions
+https://www.coderetreat.org/pages/facilitating/activity-catalog/
+
 # State
 http://etutorials.org/Macromedia/Fash+remoting.+the+definitive+guide/Part+III+Advanced+Flash+Remoting/Chapter+15.+Flash+Remoting+API/DataGlue+Object/
 http://www.tomkitta.com/guides/flashMX2004.cfm
@@ -121,6 +124,7 @@ https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/rpc/remot
 https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/mx/utils/ObjectProxy.html
 https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/fl/data/DataProvider.html
 https://www.adobe.com/devnet/flex/quickstarts/using_data_providers.html
+
 
 # Events
 http://backbonejs.org/#Events-stopListening
