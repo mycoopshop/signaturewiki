@@ -82,6 +82,7 @@ https://github.com/facebook/react/issues/2127
 https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8
 https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
+https://auth0.com/blog/introduction-to-progressive-web-apps-push-notifications-part-3/
 https://pwa-directory.appspot.com
 http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/
 https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/
