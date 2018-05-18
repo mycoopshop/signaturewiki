@@ -35,3 +35,5 @@ Lazy consuming is streaming
 * http://lambda-the-ultimate.org/node/4140
 * http://lambda-the-ultimate.org/node/4099
 * http://elm-lang.org/blog/farewell-to-frp
+* https://medium.com/@tkh44/writing-a-css-in-js-library-from-scratch-96cd23a017b4
+* https://davidwalsh.name/add-rules-stylesheets
