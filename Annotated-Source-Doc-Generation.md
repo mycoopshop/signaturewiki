@@ -3,3 +3,5 @@
 * https://www.javaworld.com/article/2076153/java-se/code-generation-using-javadoc.html
 * https://sourceforge.net/projects/xdoclet/
 * http://www.doclet.com
+* https://docs.oracle.com/javase/9/docs/api/jdk/javadoc/doclet/package-summary.html
+* https://docs.oracle.com/javase/9/javadoc/JSJAV.pdf 
