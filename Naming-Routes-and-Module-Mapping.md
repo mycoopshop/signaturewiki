@@ -9,3 +9,9 @@
 * https://medium.com/dailyjs/mobx-react-best-practices-17e01cec4140
 * https://stackoverflow.com/questions/35369957/in-react-how-to-find-out-if-a-component-is-mounted-at-a-node?rq=1
 * https://github.com/sgml/react-context-tabs
+* http://krasimirtsonev.com/blog/article/deep-dive-into-client-side-routing-navigo-pushstate-hash
+* https://www.code-sample.com/2017/10/browser-back-button-event-disable.html
+* https://www.weareaccess.co.uk/blog/2013/04/html5-history-api-making-history-ajax-part-ii
+* http://www.codemag.com/article/1301091/HTML5-History-Clean-URLs-for-Deep-linking-Ajax-Applications
+* https://www.w3.org/2001/tag/doc/IdentifyingApplicationState-20110715
+* https://msdn.microsoft.com/en-us/library/jj149689.aspx
