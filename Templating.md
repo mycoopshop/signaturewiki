@@ -30,6 +30,8 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
 * https://github.com/facebook/react/issues/11845
 * https://stackoverflow.com/questions/30852751/expected-corresponding-jsx-closing-tag-for-input-reactjs
 * https://stackoverflow.com/questions/26354600/how-do-you-make-react-js-output-valid-xml-instead-of-html
+* [AtomPub vs CMIS](https://www.oasis-open.org/committees/download.php/30907/CMIS%20--%20REST%20and%20HTTP%20--%20Dave%20N%20--%201-27-2009.pdf)
+* [Freemarker vs Velocity](http://deepak-keswani.blogspot.com/2011/09/freemarker-vs-velocity-ftl-vs-vm.html)
 
 
 Markup and typesetting languages are the earliest examples of templating. Here is the Wikipedia definition:
