@@ -1,3 +1,8 @@
+# WikiData Query Autocomplete Documentation
+1. Prefix words with "?" to autocomplete subjects
+2. Prefix words with "wdt:" or "wd:" to autocomplete objects
+
+**References**
 * https://www.youtube.com/watch?v=6qc8ytfgAOw
 * https://www.youtube.com/watch?v=bifqad-SG4k
 * https://www.youtube.com/watch?v=645bk8HQ4aw
@@ -8,7 +13,11 @@
 * https://www.wikidata.org/wiki/Property:P1661
 * https://www.wikidata.org/wiki/Property:P856
 * https://www.wikidata.org/wiki/Property:P585
-
+* https://www.w3.org/TR/sparql11-results-json/
+* https://docs.marklogic.com/guide/semantics/semantic-searches
+* https://docs.oracle.com/cd/E11882_01/appdev.112/e25609/sdo_rdf_concepts.htm#RDFRM595
+* https://www.wikidata.org/wiki/Wikidata:WikiProject_Books
+* https://franz.com/agraph/support/documentation/current/sparql-tutorial.html
 
 SELECT Person.fname, Address.city
 FROM Person, Address
