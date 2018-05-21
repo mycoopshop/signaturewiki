@@ -18,6 +18,8 @@
 * https://docs.oracle.com/cd/E11882_01/appdev.112/e25609/sdo_rdf_concepts.htm#RDFRM595
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Books
 * https://franz.com/agraph/support/documentation/current/sparql-tutorial.html
+* https://www.xml.com/pub/a/2007/03/14/a-relational-view-of-the-semantic-web.html
+
 
 SELECT Person.fname, Address.city
 FROM Person, Address
