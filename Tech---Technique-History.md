@@ -15,3 +15,5 @@ http://www.nj.com/education/2017/12/the_surprising_jersey_roots_of_its_a_wonderf
 https://www.nytimes.com/2013/09/30/education/jean-anyon-dies-at-72-wrote-ghetto-schooling.html
 
 https://en.wikipedia.org/wiki/Self-Taught
+
+https://www.kidzlovesoccer.com/selection.php?pid=70884&t=Class
