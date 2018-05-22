@@ -8,3 +8,4 @@
 * https://www.jeffgeerling.com/blog/2017/parsing-yaml-files-on-command-line-using-ruby
 * https://coderwall.com/p/9idskq/prettify-json-in-the-command-line-with-ruby
 * http://www.perlmonks.org/?node_id=88222
+* https://www.eclipse.org/community/eclipse_newsletter/2013/october/article1.php
