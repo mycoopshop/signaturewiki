@@ -15,3 +15,4 @@
 * http://www.codemag.com/article/1301091/HTML5-History-Clean-URLs-for-Deep-linking-Ajax-Applications
 * https://www.w3.org/2001/tag/doc/IdentifyingApplicationState-20110715
 * https://msdn.microsoft.com/en-us/library/jj149689.aspx
+* [Url.urlservice - UI-Router](https://ui-router.github.io/ng1/docs/1.0.0/classes/url.urlservice.html)
