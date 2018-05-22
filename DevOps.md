@@ -30,6 +30,11 @@ Perl Jenkins Redis
 
 * https://hub.openshift.com/quickstarts/100-perl-5-10
 
+**Build Pipelines**
+* https://www.agiletestingframework.com/ultimate-devops-toolchain/
+* https://www.slideshare.net/perforce/perforce-on-tour-2015-optimising-the-developer-pipeline-deliver-faster-better
+* https://helpcenter.electric-cloud.com/hc/en-us/articles/205270293-ElectricFlow-Concepts-1-Deploy-Object-Model
+* https://www.experoinc.com/post/multi-tenant-applications-reduce-the-complexity
 
 **HyperVisors**
 * https://developer.apple.com/documentation/hypervisor
