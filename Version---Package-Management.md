@@ -1,5 +1,5 @@
 **NPM/Yarn**
-
+* https://docs.npmjs.com/misc/semver
 * https://www.nearform.com/blog/nodejs-sudo-free/
 * https://stackoverflow.com/questions/5786433/how-to-install-a-node-js-module-without-using-npm
 * https://auth0.com/blog/five-things-you-can-do-with-yarn/
