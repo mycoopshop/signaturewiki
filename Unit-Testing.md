@@ -639,9 +639,11 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 
 * https://dev.to/elaziziyoussouf/tools-you-need-to-use-in-your-react-components-development--13a7
 
-https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
+* https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
 
-https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12
+* https://codeburst.io/revisiting-node-js-testing-part-1-84c33bb4d711
+
+* https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12
 
 * https://github.com/tb/redux/tree/react-testing/examples/todomvc/src/components/__tests__
 
