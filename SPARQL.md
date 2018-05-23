@@ -19,34 +19,45 @@
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Books
 * https://franz.com/agraph/support/documentation/current/sparql-tutorial.html
 * https://www.xml.com/pub/a/2007/03/14/a-relational-view-of-the-semantic-web.html
+* http://www.oraclealchemist.com/news/linked-data-rdf-and-sparql-part-1/
+* https://docs.oracle.com/en/database/oracle/oracle-database/18/rdfrm/spatial-and-graph-rdf-semantic-graph-developers-guide.pdf
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3073186/
+* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-nuts-bolts/
+* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
+* https://hal.archives-ouvertes.fr/hal-01245883/document
+* https://www.topquadrant.com/2014/05/05/comparing-sparql-with-sql/
+* http://explore.dublincore.net/about/
+* https://eprints.soton.ac.uk/397863/1/sparql2sql.pdf
 
 
-SELECT Person.fname, Address.city
-FROM Person, Address
-WHERE Person.addr=Address.ID
-AND Address.state=”MA”
+    SELECT Person.fname, Address.city
+    FROM Person, Address
+    WHERE Person.addr=Address.ID
+    AND Address.state=”MA”
+
 Conceptually, we are SELECTing a list of attributes FROM a set of tables WHERE certain constraints are met. These constraints capture the relationships implicit in the scheme, Person.addr=Addresses.ID, and the selection criteria, e.g. Address.state=”MA”.
 
 A SPARQL query of the same data could look like
 
-SELECT ?name ?city
-WHERE {
-?who <Person#fname> ?name ;
-<Person#addr> ?adr .
-?adr <Address#city> ?city ;
-<Address#state> “MA”
-}
+    SELECT ?name ?city
+    WHERE {
+    ?who <Person#fname> ?name ;
+    <Person#addr> ?adr .
+    ?adr <Address#city> ?city ;
+    <Address#state> “MA”
+    }
 
 
-SELECT ?reaction ?p ?o
-WHERE {
-?compound ex:name “illudium phosdex” ;
-?reaction ex:involves ?compound ;
-?reaction ?p ?o
-}
+    SELECT ?reaction ?p ?o
+    WHERE {
+    ?compound ex:name “illudium phosdex” ;
+    ?reaction ex:involves ?compound ;
+    ?reaction ?p ?o
+    }
+
 In SQL, this would be like:
 
-SELECT reactions.*
-FROM reactions, compounds
-WHERE reactions.compoundID=compounds.ID
-AND compounds.name=”illudium phosdex”
+    SELECT reactions.*
+    FROM reactions, compounds
+    WHERE reactions.compoundID=compounds.ID
+    AND compounds.name=”illudium phosdex”
