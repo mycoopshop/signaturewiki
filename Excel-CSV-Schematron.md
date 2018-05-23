@@ -4,3 +4,4 @@
 * https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/schematron/schematron_odd_tutorial_21.xhtml
 * http://integration.team/2017/09/11/schematron-validation-biztalk/
 * https://www.epa.gov/sites/production/files/2017-06/documents/fy16-data-quality-records.pdf
+* https://douglascayers.com/2016/03/20/salesforce-easy-ways-to-export-data-as-csv/
