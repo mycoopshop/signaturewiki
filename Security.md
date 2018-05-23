@@ -33,6 +33,7 @@
 * http://www.dtic.mil/docs/citations/AD1006391
 * http://www.dtic.mil/docs/citations/AD1046295
 * https://documentation.cpanel.net/display/CKB/OWASP+ModSecurity+CRS
+* https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-vila.pdf
 
 # Templating
 https://nvd.nist.gov/vuln/detail/CVE-2000-1050
