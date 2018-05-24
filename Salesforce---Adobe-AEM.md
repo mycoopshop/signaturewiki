@@ -317,6 +317,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Formula Fields
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
 
+## Release Notes
+* https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
+* https://www.salesforce.com/campaign/releases/summer-18/
+
 ## Rest API
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
