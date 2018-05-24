@@ -38,3 +38,6 @@
 * https://blog.angularindepth.com/this-will-make-you-more-efficient-at-debugging-wepback-unspecified-build-errors-6392850caed9
 * https://www.slideshare.net/trueter/how-to-make-your-webpack-builds-10x-faster
 * https://medium.com/@vasylstashuk/optimizing-webpack-build-performance-73f2cf0bb176
+* http://justjs.com/posts/npm-link-developing-your-own-npm-modules-without-tears
+* https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af
+* https://60devs.com/simple-way-to-manage-local-node-module-using-npm-link.html
