@@ -321,3 +321,5 @@ https://hackernoon.com/bye-2k16-and-bye-angular-ca627861839
 http://blog.adamcameron.me/2017/04/cfml-lucee-13-v-4-14-v-6-coldfusion-we.html
 http://plnkr.co/edit/eudIJbVsKl3xoEiLmyp3?p=preview
 http://yz.mit.edu/wp/introducing-reactive-coffee/
+https://confluence.atlassian.com/confcloud/keyboard-shortcuts-markdown-and-autocomplete-724764956.html
+https://confluence.atlassian.com/bitbucketserver040/markdown-syntax-guide-785329478.html
