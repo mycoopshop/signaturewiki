@@ -10,3 +10,11 @@
 * https://github.com/chrispederick/web-developer
 * https://www.proofpoint.com/us/threat-insight/post/threat-actor-goes-chrome-extension-hijacking-spree
 * https://support.google.com/chrome/answer/6098869?visit_id=0-636615709902714779-3651496297&p=rl_error&hl=en&rd=1#redirect
+
+**References**
+
+* [Manifest File Format - Google Chrome](https://developer.chrome.com/extensions/manifest)
+* [Tutorial: Migrate to Manifest V2 - Google Chrome](https://developer.chrome.com/extensions/tut_migration_to_manifest_v2)
+* [chrome.declarativeWebRequest - Google Chrome](https://developer.chrome.com/extensions/declarativeWebRequest)
+* [Sample Extensions - Google Chrome](https://developer.chrome.com/extensions/samples#search:)
+* [Tutorial: Debugging - Google Chrome](https://developer.chrome.com/extensions/tut_debugging)
