@@ -32,7 +32,7 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
 * https://stackoverflow.com/questions/26354600/how-do-you-make-react-js-output-valid-xml-instead-of-html
 * [AtomPub vs CMIS](https://www.oasis-open.org/committees/download.php/30907/CMIS%20--%20REST%20and%20HTTP%20--%20Dave%20N%20--%201-27-2009.pdf)
 * [Freemarker vs Velocity](http://deepak-keswani.blogspot.com/2011/09/freemarker-vs-velocity-ftl-vs-vm.html)
-
+* [OpenCms Documentation | Multilingual websites](https://documentation.opencms.org/opencms-documentation/localization/multilingual-websites/)
 
 Markup and typesetting languages are the earliest examples of templating. Here is the Wikipedia definition:
 >A markup language is a modern system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the "marking up" of manuscripts, i.e., the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts. Examples are typesetting instructions such as those found in troff and LaTeX, or structural markers such as XML tags.
