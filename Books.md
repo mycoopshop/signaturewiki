@@ -28,3 +28,9 @@ https://leanpub.com/combinators/read
 https://leanpub.com/D3-Tips-and-Tricks
 
 http://caml.inria.fr/pub/docs/oreilly-book/html/book-ora066.html
+
+http://marcusboon.com/books/in-praise-of-copying/
+
+http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
+
+https://labs.oracle.com/pls/apex/f?p=labs:bio:0:120
