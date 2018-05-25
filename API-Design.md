@@ -142,3 +142,6 @@ http://ediacademy.com/blog/walmart-edi-testing-2/
 https://cdn.corporate.walmart.com/5d/8d/897b4bb84a95bb05214bf897cee3/edi-getting-started-guide.pdf
 https://www.mediawiki.org/wiki/Manual:MediaWiki_architecture
 https://www.mediawiki.org/wiki/Wikibase/DataModel/JSON
+https://www.slideshare.net/balancedteam/lean-engineering-for-leanbalanced-teams-lessons-learned-and-still-learning-bringing-lean-to-paypal
+https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page
+https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith
