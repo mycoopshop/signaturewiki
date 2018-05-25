@@ -29,6 +29,6 @@ function replacer(key, value)
   }
 }}}
 
-(({
+{{{
 console.log(JSON.stringify(json, replacer, 4));
-}))
+}}}
