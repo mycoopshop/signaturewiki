@@ -5,3 +5,5 @@
 * https://github.com/dotnet/docs/blob/master/docs/standard/microservices-architecture/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api.md
 * https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/implement-resilient-applications/partial-failure-strategies
 * https://www.codeproject.com/Articles/9415/Distributed-Command-Pattern-an-extension-of-comman
+* https://www.forbes.com/sites/benkepes/2015/03/24/storage-made-easy-chases-a-new-model-in-file-sharing-and-collaboration/
+* https://www.infoq.com/articles/ESB-Integration
