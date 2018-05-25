@@ -43,6 +43,10 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
 
+**Risks**
+* https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
+* https://developer.salesforce.com/page/Secure_Coding_WebSockets
+
 **Certification**
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
 * https://admin.salesforce.com/preparing-certification-exam
@@ -299,6 +303,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://opfocus.com/dynamic-field-binding-in-salesforce-lightning-experience/
 * https://help.salesforce.com/articleView?id=search_fields_lex.htm
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sfdx_setup.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
 * https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_api_lightning.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_ls_api_version_mix.htm
@@ -325,7 +330,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
-* https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_chatter_api_general.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
