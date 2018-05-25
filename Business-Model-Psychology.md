@@ -33,6 +33,9 @@
 * https://www.pmi.org/learning/library/mind-mapping-advantage-think-creatively-6554
 * https://www.lifehack.org/articles/productivity/5-reasons-stop-mind-mapping-immediately.html
 
+# Team Building
+* http://fortune.com/2015/08/18/most-likely-to-succeed/
+
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
 * https://medium.com/@twieberneit/oracle-ups-the-ante-does-the-salesforce-empire-strike-back-cdea6f7e7e54
