@@ -158,3 +158,6 @@ https://www.contentful.com/blog/2018/04/10/sailing-into-infinity-seamlessly-mana
 http://blogs.enterprisemanagement.com/torstenvolk/2017/12/01/aws-reinvent-2017-serverless-containers-managed-kubernetes-bare-metal-machine-learning-iot/
 https://www.serverwatch.com/server-news/amazon-web-services-embraces-kubernetes-debuts-fargate-serverless-containers-service.html
 https://getalternative.net/software/flatpak
+https://naildrivin5.com/blog/2008/09/17/getting-rakes-packagetask-to-depend-on-generated-files.html
+http://hyperpolyglot.org/build
+https://www.engineyard.com/blog/rake-and-ant-together-a-pick-it-n-stick-it-approach
