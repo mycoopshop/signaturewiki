@@ -22,3 +22,4 @@ http://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html
 https://stackoverflow.com/questions/49557340/whats-the-difference-between-apache-jackrabbit-and-jackrabbit-oak
 https://robferguson.org/blog/2017/03/23/getting-started-with-apache-sling/
 https://doc.nuxeo.com/nxdoc/webdav/
+https://www.emc.com/collateral/white-papers/h12233-wp-design-and-publishing-workflows-with-elvis-dam.pdf
