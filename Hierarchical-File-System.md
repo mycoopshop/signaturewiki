@@ -16,3 +16,9 @@ https://superuser.com/questions/365906/dropbox-like-client-for-cmis
 https://www.linkedin.com/pulse/20140623221401-1805666-webdav-connector-for-documentum
 https://www.slideshare.net/JonathanBeardsley/whats-new-in-the-opentext-ecosystem-products-for-ep2-75550815
 http://blogs.adobe.com/cssdk/2013/08/adobe-drive-five-is-alive.html
+https://support.accessdata.com/hc/en-us/articles/215345267-Testing-CMIS-repository-connections-with-OpenCMIS-Workbench
+https://documentation.opencms.org/opencms-documentation/more-opencms-features/mounting-the-vfs/cmis/
+http://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html
+https://stackoverflow.com/questions/49557340/whats-the-difference-between-apache-jackrabbit-and-jackrabbit-oak
+https://robferguson.org/blog/2017/03/23/getting-started-with-apache-sling/
+https://doc.nuxeo.com/nxdoc/webdav/
