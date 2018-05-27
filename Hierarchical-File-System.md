@@ -4,3 +4,15 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/dd378457(v=vs.85).aspx
 https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
 https://www.systutorials.com/docs/linux/man/7-hier/
 https://www.syntricate.com/files/Windows%20Directory%20Structures.pdf
+https://wiki.apache.org/commons/VfsCapabilitiesMatrix
+http://camel.apache.org/enterprise-integration-patterns.html
+https://greenbytes.de/tech/webdav/rfc4316.html
+https://www.opentext.com/file_source/OpenText/en_US/PDF/opentext-whitepaper-opentext-process-suite-platform-architecture-en.pdf
+https://svn.apache.org/repos/asf/jackrabbit/oak/trunk/oak-examples/standalone/README.md
+https://help.adobe.com/en_US/AdobeDrive/5.0/CMIS_Connector_TechNote.pdf
+https://helpx.adobe.com/drive/release-note/drive-cc-version-50-release.html
+https://www.nuxeo.com/blog/nuxeo-drive-and-file-permissions/
+https://superuser.com/questions/365906/dropbox-like-client-for-cmis
+https://www.linkedin.com/pulse/20140623221401-1805666-webdav-connector-for-documentum
+https://www.slideshare.net/JonathanBeardsley/whats-new-in-the-opentext-ecosystem-products-for-ep2-75550815
+http://blogs.adobe.com/cssdk/2013/08/adobe-drive-five-is-alive.html
