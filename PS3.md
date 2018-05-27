@@ -3,3 +3,4 @@
 * https://zeigren.github.io/PS3-Downgrading-PS3-Teardown/
 * https://www.rapidrepair.com/guides/playstation-3-slim-ps3-repair/playstation-3-slim-ps3-repair-guide.html
 * https://www.wikihow.com/Disassemble-a-PS3-Fat-to-Clean
+* https://www.harborfreight.com/32-piece-screwdriver-set-with-tweezers-97517.html
