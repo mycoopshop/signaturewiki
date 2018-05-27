@@ -302,6 +302,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_documentation.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_cb_format_dates.htm#!
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
 * https://opfocus.com/dynamic-field-binding-in-salesforce-lightning-experience/
