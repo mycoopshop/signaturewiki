@@ -39,6 +39,10 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 
+**Types**
+* https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm?search_text=valueof
+
 **Defects**
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
