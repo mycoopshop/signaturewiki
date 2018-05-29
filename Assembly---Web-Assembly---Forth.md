@@ -7,3 +7,5 @@ https://retrocomputing.stackexchange.com/questions/5925/who-wrote-the-ms-basic-o
 https://www.dwheeler.com/6502/
 https://news.ycombinator.com/item?id=14516233
 https://news.ycombinator.com/item?id=13154111
+https://doc.lagout.org/operating%20system%20/linux/Assembly%20Language%20Step-by-Step%20-%20Programming%20with%20Linux%2C%203rd%20Edition.pdf
+https://www.asc.ohio-state.edu/lewis.239/Gauge/abrash.pdf
