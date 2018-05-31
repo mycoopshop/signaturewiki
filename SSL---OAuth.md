@@ -7,3 +7,9 @@
 * https://support.google.com/a/answer/6342198?hl=en
 * https://www.gnu.org/software/libmicrohttpd/tutorial.pdf
 * https://developer.mozilla.org/en-US/docs/Mozilla/Security/x509_Certificates
+* https://www.pluralsight.com/guides/using-https-with-ruby-on-rails
+* https://gemfury.com/help/could-not-verify-ssl-certificate/
+* https://confluence.atlassian.com/hc/creating-or-obtaining-an-ssl-key-and-certificate-608731891.html
+* https://www.phusionpassenger.com/library/dev/nginx/dev_ssl.html
+* https://devcenter.heroku.com/articles/ssl-certificate-self
+* https://medium.com/carwow-product-engineering/https-ssl-in-your-local-rails-4-1-development-environment-cc82a2009502
