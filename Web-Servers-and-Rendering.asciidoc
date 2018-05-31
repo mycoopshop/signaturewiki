@@ -25,3 +25,7 @@
 . https://stackoverflow.com/questions/18323152/get-download-progress-in-node-js-with-request
 . https://docs.oracle.com/middleware/1221/wls/WLSMT/concepts.htm#WLSMT728
 . https://codepen.io/jchiatt/post/headless-wordpress-with-react-complete-tutorial
+. https://www.wintellect.com/stop-fighting-node-js-in-the-enterprise/
+. https://www.infoworld.com/article/2883328/node-js/java-vs-nodejs-an-epic-battle-for-developer-mindshare.html
+. https://thenewstack.io/open-source-profile-mikeal-rogers-node-js/
+. https://www.infoq.com/news/2016/07/samsung-joyent-cloud
