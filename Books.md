@@ -34,3 +34,11 @@ http://marcusboon.com/books/in-praise-of-copying/
 http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
 
 https://labs.oracle.com/pls/apex/f?p=labs:bio:0:120
+
+https://www.oreilly.com/openbook/docbook/book/docbook.html
+
+http://restfulwebapis.org/RESTful_Web_Services/
+
+https://www.oreilly.com/openbook/samba/book/
+
+http://guide.couchdb.org
