@@ -2,3 +2,8 @@
 * https://medium.com/@black_duck_sw/power-shell-to-the-people-43ad589f0700
 * https://medium.com/@KyraTaylor/this-developer-wants-to-open-source-stock-charts-3d51b8f47554
 * https://hackernoon.com/how-to-find-internal-subdomains-yql-yahoo-and-bug-bounty-d7730b374d77
+* https://www.quora.com/What-are-some-alternatives-to-zapier
+* https://www.infoworld.com/article/3183299/application-development/if-ifttt-cant-then-microsoft-flow-can.html
+* https://beebom.com/yahoo-pipes-alternatives/
+* https://www.import.io/post/5-yahoo-pipes-alternatives-that-are-actually-better-than-pipes/
+* https://www.makeuseof.com/tag/ifttt-alternatives/
