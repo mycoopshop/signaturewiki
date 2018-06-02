@@ -1,3 +1,5 @@
+* http://archive.xmlprague.cz/2018/files/xmlprague-2018-proceedings.pdf
+
 * https://dev.socrata.com/docs/cors-and-jsonp.html
 
 * https://plainjs.com/javascript/ajax/jsonp-ajax-requests-50/
