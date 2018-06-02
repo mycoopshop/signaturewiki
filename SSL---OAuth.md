@@ -12,6 +12,7 @@
 * https://confluence.atlassian.com/hc/creating-or-obtaining-an-ssl-key-and-certificate-608731891.html
 * https://www.phusionpassenger.com/library/dev/nginx/dev_ssl.html
 * https://blog.botreetechnologies.com/enable-ssl-in-developement-using-thin-2a4bd1af500d
+* https://www.devmynd.com/blog/rails-local-development-https-using-self-signed-ssl-certificate/
 * https://devcenter.heroku.com/articles/ssl-certificate-self
 * https://medium.com/carwow-product-engineering/https-ssl-in-your-local-rails-4-1-development-environment-cc82a2009502
 * http://www.passportjs.org/packages/
