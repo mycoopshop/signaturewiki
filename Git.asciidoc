@@ -6,6 +6,8 @@ https://www.cloudbees.com/blog/advanced-git-jenkins
 
 https://confluence.atlassian.com/bitbucketserverkb/how-to-define-a-default-merge-strategy-per-project-894207103.html
 
+https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols
+
 https://blog.petrzemek.net/2016/07/10/git-patch-mode-all-the-way/
 
 http://mindspill.net/computing/linux-notes/git-diff-tree-whitespace/
