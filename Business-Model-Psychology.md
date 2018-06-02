@@ -36,6 +36,9 @@
 # Team Building
 * http://fortune.com/2015/08/18/most-likely-to-succeed/
 
+# Poverty Bias
+* http://social-bite.co.uk/profits-projects/
+
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
 * https://medium.com/@twieberneit/oracle-ups-the-ante-does-the-salesforce-empire-strike-back-cdea6f7e7e54
