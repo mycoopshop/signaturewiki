@@ -330,6 +330,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Release Notes
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
 * https://www.salesforce.com/campaign/releases/summer-18/
+* https://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_feature_impact.htm
+* https://releasenotes.docs.salesforce.com/en-us/spring18/release-notes/rn_api_objects_changed.htm
 
 ## Rest API
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
