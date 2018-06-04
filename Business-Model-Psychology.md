@@ -35,6 +35,8 @@
 
 # Team Building
 * http://fortune.com/2015/08/18/most-likely-to-succeed/
+* https://resources.sei.cmu.edu/asset_files/Presentation/2006_017_001_22322.pdf
+* https://resources.sei.cmu.edu/asset_files/TechnicalNote/2015_004_001_446198.pdf
 
 # Poverty Bias
 * http://social-bite.co.uk/profits-projects/
