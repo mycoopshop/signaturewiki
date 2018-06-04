@@ -30,6 +30,7 @@
 . https://thenewstack.io/open-source-profile-mikeal-rogers-node-js/
 . https://www.infoq.com/news/2016/07/samsung-joyent-cloud
 . https://github.com/rackerlabs/docs-developer-blog/blob/master/_posts/2015-10-01-wsgi-middleware-on-the-jvm.md
+. https://github.com/coopermaa/awesome-rack/blob/master/README.md
 . https://github.com/syaroslavtsev/HL-Backend-Architectures/blob/master/README.md
 . https://github.com/webpy/webpy.github.com/blob/master/deployment.md
 . https://github.com/myronmarston/ruby-conf-2011-notes/blob/master/resources_for_real_this_time.md
