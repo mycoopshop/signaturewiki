@@ -29,3 +29,11 @@
 . https://www.infoworld.com/article/2883328/node-js/java-vs-nodejs-an-epic-battle-for-developer-mindshare.html
 . https://thenewstack.io/open-source-profile-mikeal-rogers-node-js/
 . https://www.infoq.com/news/2016/07/samsung-joyent-cloud
+https://github.com/rackerlabs/docs-developer-blog/blob/master/_posts/2015-10-01-wsgi-middleware-on-the-jvm.md
+https://github.com/syaroslavtsev/HL-Backend-Architectures/blob/master/README.md
+https://github.com/webpy/webpy.github.com/blob/master/deployment.md
+https://github.com/myronmarston/ruby-conf-2011-notes/blob/master/resources_for_real_this_time.md
+https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/05-opensource-cms/web-interfaces.md
+https://github.com/igorw/weblog/blob/master/_posts/2013-02-02-http-kernel-middlewares.md
+https://github.com/Simcookies/gitio/blob/master/_posts/2017-12-02-fullstack-reference.md
+https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/03-backend-development/README.md
