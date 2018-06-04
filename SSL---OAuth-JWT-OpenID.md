@@ -18,3 +18,4 @@
 * https://devcenter.heroku.com/articles/ssl-certificate-self
 * https://medium.com/carwow-product-engineering/https-ssl-in-your-local-rails-4-1-development-environment-cc82a2009502
 * http://www.passportjs.org/packages/
+* https://news.ycombinator.com/item?id=14290114
