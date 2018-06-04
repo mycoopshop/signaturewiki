@@ -650,3 +650,7 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://medium.com/@eric_lum/cheatsheet-to-jest-testing-in-javascript-c4415b56cacb
 
 * https://medium.com/@koba04/testing-react-components-with-react-test-renderer-b4df590d0320
+
+* https://docs.nativescript.org/tooling/testing
+
+* http://mo.github.io/2017/06/05/javascript-unit-testing.html
