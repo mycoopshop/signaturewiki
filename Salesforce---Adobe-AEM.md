@@ -440,6 +440,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Server-side JavaScript
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
 
+## Reporting
+* https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_getting_started
+
+## Migration
+* https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
+* https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
+
 # Adobe 
 * https://helpx.adobe.com/experience-manager/using/oak-login.html
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
