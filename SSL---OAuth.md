@@ -1,4 +1,5 @@
 * https://www.mediawiki.org/wiki/OAuth/For_Developers
+* https://github.com/jaredhanson/passport/wiki/Strategies
 * https://developer.mozilla.org/en-US/docs/Mozilla/Security/x509_Certificates
 * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance.html
 * https://blogs.msdn.microsoft.com/mlserver/2017/08/21/encrypting-communication-between-web-node-and-compute-node-in-linux/
