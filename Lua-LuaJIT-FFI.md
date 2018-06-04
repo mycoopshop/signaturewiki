@@ -30,3 +30,5 @@ http://www.gnu.org/software/libc/manual/html_node/Normalization-Functions.html
 http://croquetweak.blogspot.com/2014/08/deconstructing-floats-frexp-and-ldexp.html
 
 http://www.cs.tufts.edu/comp/250RTS/archive/roberto-ierusalimschy/revisiting-coroutines.pdf
+
+https://github.com/xfbs/PiL3/blob/master/lua-unofficial-faq.markdown
