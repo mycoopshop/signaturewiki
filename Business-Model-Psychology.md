@@ -100,6 +100,11 @@ Geolocation: http://www.fanmail.biz/
 * https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/kelly-14-rules.html
 * https://foxtrotalpha.jalopnik.com/legendary-skunk-work-founder-kelly-johnsons-rules-of-ma-1708050659
 
+# Enterprise Bias
+http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
+
+https://cloud.gov/quickstart/
+
 # Housing Bias
 https://www.apnews.com/tag/Housingpolicy
 
