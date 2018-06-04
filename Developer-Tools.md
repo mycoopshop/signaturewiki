@@ -26,3 +26,4 @@ References:
 1. https://people.gnome.org/~dscorgie/labyrinth.html
 1. https://userbase.kde.org/Table_of_equivalent_applications/en
 1. https://stackoverflow.com/questions/38924798/1113772
+1. http://rachaelmoore.name/posts/development/devops/comparison-of-monorepo-tools/
