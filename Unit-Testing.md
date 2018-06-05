@@ -654,3 +654,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://docs.nativescript.org/tooling/testing
 
 * http://mo.github.io/2017/06/05/javascript-unit-testing.html
+
+* https://www.perl.com/article/167/2015/4/15/Unit-test-your-code-on-an-in-memory-database/
