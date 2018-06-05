@@ -74,6 +74,11 @@ https://www.apnews.com/tag/Treasurybills
 https://www.investopedia.com/ask/answers/012815/how-are-treasury-bill-interest-rates-determined.asp
 https://www.dailyfx.com/forex/education/trading_tips/daily_trading_lesson/2012/04/10/Treasuries_part_2.html
 
+# Recycling Bias
+* https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
+* https://trisquel.info
+* https://www.fsf.org/about
+
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
 
