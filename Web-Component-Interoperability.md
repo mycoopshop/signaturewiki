@@ -96,3 +96,6 @@ https://developer.salesforce.com/page/Network_Best_Practices_for_Salesforce_Arch
 https://www.bennadel.com/blog/2860-an-experiment-in-what-react-s-jsx-might-feel-like-in-angularjs.htm
 https://github.com/facebook/react/issues/2401
 https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918
+https://yuilibrary.com/yui/docs/imageloader/
+https://stuartashworth.com/blog/handling-image-load-errors-in-ext-js-universal-apps/
+https://mootools.net/more/docs/1.6.0/Utilities/Assets
