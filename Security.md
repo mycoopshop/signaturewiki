@@ -36,6 +36,7 @@
 * https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-vila.pdf
 
 # Templating
+https://html5sec.org
 https://nvd.nist.gov/vuln/detail/CVE-2000-1050
 http://tomcat.apache.org/security-4.html
 https://www.securityfocus.com/bid/4997
@@ -45,6 +46,8 @@ https://www.mindedsecurity.com/fileshare/ExpressionLanguageInjection.pdf
 http://www.oracle.com/technetwork/java/seccodeguide-139067.html
 https://github.com/facebook/react/issues/3473
 https://lolware.net/2015/08/19/reactjs-xss-testing.html
+https://vip.wordpress.com/2015/03/25/preventing-xss-in-javascript/
+https://labs.detectify.com/2017/01/18/stored-xss-ing-millions-of-sites-through-html-comment-box/
 
 # Same Origin Policy
 https://marc.info/?l=bugtraq&m=102796732924658&w=2
