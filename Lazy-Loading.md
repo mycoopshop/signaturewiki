@@ -1,6 +1,8 @@
 Lazy production is reactive
 Lazy consuming is streaming
 
+* https://www.npmjs.com/package/require-lazy-loader
+* https://medium.com/walkme-engineering/how-and-when-not-to-use-webpack-for-lazy-loading-bef9d37c42c1
 * https://blogs.oracle.com/geertjan/reactjs-and-oracle-jet-part-1
 * https://blogs.oracle.com/geertjan/reactjs-and-oracle-jet-part-2
 * https://remarkablemark.org/blog/2016/09/24/react-requirejs-amd/
