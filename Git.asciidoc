@@ -1,5 +1,7 @@
 https://www.kernel.org/pub/software/scm/git/docs/git-checkout.html
 
+http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/
+
 * [Git User Manual](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
 
 https://www.cloudbees.com/blog/advanced-git-jenkins
