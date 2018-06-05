@@ -78,6 +78,9 @@ https://www.dailyfx.com/forex/education/trading_tips/daily_trading_lesson/2012/0
 * https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 * https://trisquel.info
 * https://www.fsf.org/about
+* https://www.mercurial-scm.org/wiki/MercurialHosting
+* https://bugs.launchpad.net/launchpad
+* https://savannah.gnu.org/people/
 
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
