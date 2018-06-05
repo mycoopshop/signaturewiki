@@ -5,6 +5,7 @@ https://www.ftb.ca.gov/forms/misc/3500.pdf
 https://www.ftb.ca.gov/forms/2017/17_100bk.pdf
 https://www.ci.east-palo-alto.ca.us/DocumentCenter/View/2823
 
+https://www.nasdaq.com/article/3-taxsensitive-investment-strategies-to-implement-now-cm390868
 http://kelsoinstitute.org/louiskelso/kelso-paradigm/questions-and-answers/
 https://www.irs.gov/irm/part4/irm_04-072-004
 https://www.irs.gov/irm/part4/irm_04-072-011
