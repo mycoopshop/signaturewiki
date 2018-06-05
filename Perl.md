@@ -2,10 +2,10 @@
 * http://blogs.perl.org/users/sid_burn/2014/03/the-mapgrepsort-dead-end-street.html
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
 * https://perlmaven.com/filtering-values-with-perl-grep
+* http://web.eecs.utk.edu/~bvz/cs460/notes/perl/perlfile.html
 
 
-
-
+**References**
 * http://www.chicagobusiness.com/apps/pbcs.dll/article?AID=99992388
 * http://www.barrons.com/quote/stock/us/xnys/bac.pl
 * https://www.interactivebrokers.com/cgi-pub/stock_search.pl?symbol=?&NYSE.html=Submit
