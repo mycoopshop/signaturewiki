@@ -5,3 +5,5 @@
 * https://community.nodebb.org/topic/7983/setting-up-nodebb-on-cloud-9
 * https://www.xgeek.net/node-js/awesome-node-js-development-environment-with-heroku-and-cloud9/
 * https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex
+* https://fearby.com/article/the-quickest-way-to-setup-a-scalable-development-ide-and-web-server/
+* https://www.digitalmarketplace.service.gov.uk/g-cloud/services/327698313890176
