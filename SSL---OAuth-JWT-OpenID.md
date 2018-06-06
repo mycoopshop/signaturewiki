@@ -21,8 +21,9 @@
 * https://news.ycombinator.com/item?id=14290114
 
 ## PowerBI
-https://www.cloudfronts.com/salesforce-object-connecting-inside-powerbi/
-http://blog.pragmaticworks.com/tales-from-sales-hurdles-with-salesforce-connectors-in-power-bi
-http://community.powerbi.com/t5/Integrations-with-Files-and/Power-Bi-Integration-with-Custom-Salesforce-Objects-Not-Reports/m-p/289454#M13653
-https://docs.microsoft.com/en-us/power-bi/service-connect-to-salesforce
-https://powerbi.microsoft.com/en-us/blog/embedding-a-power-bi-report-into-salesforce/
+1. https://www.cloudfronts.com/salesforce-object-connecting-inside-powerbi/
+1. http://blog.pragmaticworks.com/tales-from-sales-hurdles-with-salesforce-connectors-in-power-bi
+1. http://community.powerbi.com/t5/Integrations-with-Files-and/Power-Bi-Integration-with-Custom-Salesforce-Objects-Not-Reports/m-p/289454#M13653
+1. https://docs.microsoft.com/en-us/power-bi/service-connect-to-salesforce
+1. https://powerbi.microsoft.com/en-us/blog/embedding-a-power-bi-report-into-salesforce/
+1. http://angryanalyticsblog.azurewebsites.net/index.php/2016/05/16/api-strategies-with-power-bi/
