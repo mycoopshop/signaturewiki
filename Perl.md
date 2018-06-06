@@ -3,6 +3,8 @@
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
 * https://perlmaven.com/filtering-values-with-perl-grep
 * http://web.eecs.utk.edu/~bvz/cs460/notes/perl/perlfile.html
+* https://www.perlmonks.org/?node_id=1206848
+
 
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
