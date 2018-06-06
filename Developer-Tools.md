@@ -10,8 +10,18 @@ Copy/Paste
 1. Cookies 
 
 
-References:
+## References:
+
+### Visualization
 1. https://labs.udacity.com/android-visualizer/
+https://cambridge-intelligence.com/visualizing-a-knowledge-graph/
+http://prefuse.org
+http://philogb.github.io/jit/
+http://en.lodlive.it
+http://www.bordercloud.com/projects.php
+http://www.ontodia.org/tutorial
+
+### Browser Development
 1. https://developers.google.com/web/tools/chrome-devtools/network-performance/reference
 1. https://developers.google.com/web/updates/2016/12/position-sticky
 1. https://developers.google.com/web/shows/rss.xml
