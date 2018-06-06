@@ -31,6 +31,7 @@
 
 # Parody Bias
 * https://blogs.technet.microsoft.com/markrussinovich/2012/05/06/announcing-trojan-horse-the-novel/
+* https://fairuse.stanford.edu/overview/fair-use/four-factors/
 
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
