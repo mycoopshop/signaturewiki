@@ -4,6 +4,7 @@
 * https://perlmaven.com/filtering-values-with-perl-grep
 * http://web.eecs.utk.edu/~bvz/cs460/notes/perl/perlfile.html
 * https://www.perlmonks.org/?node_id=1206848
+* http://search.cpan.org/dist/perl-5.27.1/ext/File-Glob/Glob.pm
 
 
 ## CPAN
