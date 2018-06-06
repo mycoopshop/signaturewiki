@@ -29,6 +29,9 @@
 # Outline Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 
+# Parody Bias
+* https://blogs.technet.microsoft.com/markrussinovich/2012/05/06/announcing-trojan-horse-the-novel/
+
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
 * https://toolkit.mozilla.org/method/storyboarding/
