@@ -6,3 +6,4 @@
 * http://www.onjava.com/pub/a/onjava/synd/2001/10/17/j2se.html?page=2
 * https://victor.kropp.name/blog/java-preferences-api/
 * http://opensourceforgeeks.blogspot.com/2015/09/context-loading-in-spring-mvc.html
+* https://blogs.technet.microsoft.com/markrussinovich/2012/07/01/the-case-of-the-veeerrry-slow-logons/
