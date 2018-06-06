@@ -15,6 +15,7 @@
 * https://www.wikidata.org/wiki/Property:P585
 * https://www.w3.org/TR/sparql11-results-json/
 * https://docs.marklogic.com/guide/semantics/semantic-searches
+* https://ontotext.com/power-visualization-graphdb/
 * https://docs.oracle.com/cd/E11882_01/appdev.112/e25609/sdo_rdf_concepts.htm#RDFRM595
 * https://www.wikidata.org/wiki/Wikidata:WikiProject_Books
 * https://franz.com/agraph/support/documentation/current/sparql-tutorial.html
