@@ -41,3 +41,4 @@
 * http://justjs.com/posts/npm-link-developing-your-own-npm-modules-without-tears
 * https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af
 * https://60devs.com/simple-way-to-manage-local-node-module-using-npm-link.html
+* https://www.npmjs.com/package/didyoumean2
