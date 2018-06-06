@@ -1,8 +1,12 @@
-##Glob/Map/Grep
+## Glob/Map/Grep
 * http://blogs.perl.org/users/sid_burn/2014/03/the-mapgrepsort-dead-end-street.html
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
 * https://perlmaven.com/filtering-values-with-perl-grep
 * http://web.eecs.utk.edu/~bvz/cs460/notes/perl/perlfile.html
+
+## CPAN
+* https://mojolicious.org/perldoc/CPAN
+* https://supermarket.chef.io/cookbooks/perl
 
 
 **References**
