@@ -28,3 +28,10 @@
 1. https://powerbi.microsoft.com/en-us/blog/embedding-a-power-bi-report-into-salesforce/
 1. http://angryanalyticsblog.azurewebsites.net/index.php/2016/05/16/api-strategies-with-power-bi/
 1. https://chris.koester.io/index.php/2015/07/16/get-data-from-twitter-api-with-power-query/
+1. http://www.excelandpowerbi.com/?p=86
+1. https://jessedotnet.com/2016/06/24/power-bi-connect-to-your-secure-api/
+1. https://blogs.msdn.microsoft.com/iwilliams/2016/08/31/partner-center-api-and-power-bi/
+1. https://blog.kloud.com.au/2015/06/24/use-excel-powerquery-and-yahoo-finance-to-manage-your-portfolio/
+1. https://whitepages.unlimitedviz.com/2017/01/analyzing-wordpress-site-power-bi-google-analytics/
+1. https://www.kasperonbi.com/getting-data-into-power-query-with-the-twitter-search-api-how-to-hack-pq-to-use-oauth/
+1. https://community.powerbi.com/t5/Desktop/Issue-with-getting-data-via-API-with-bearer-token/td-p/126232
