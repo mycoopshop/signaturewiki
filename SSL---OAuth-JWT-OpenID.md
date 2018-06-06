@@ -27,3 +27,4 @@
 1. https://docs.microsoft.com/en-us/power-bi/service-connect-to-salesforce
 1. https://powerbi.microsoft.com/en-us/blog/embedding-a-power-bi-report-into-salesforce/
 1. http://angryanalyticsblog.azurewebsites.net/index.php/2016/05/16/api-strategies-with-power-bi/
+1. https://chris.koester.io/index.php/2015/07/16/get-data-from-twitter-api-with-power-query/
