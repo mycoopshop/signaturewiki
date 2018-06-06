@@ -82,6 +82,8 @@ https://english.mubasher.info/countries/sa
 https://www.apnews.com/tag/Treasurybills
 https://www.investopedia.com/ask/answers/012815/how-are-treasury-bill-interest-rates-determined.asp
 https://www.dailyfx.com/forex/education/trading_tips/daily_trading_lesson/2012/04/10/Treasuries_part_2.html
+https://markets.cboe.com/us/equities/market_statistics/market_quality/
+https://markets.cboe.com/resource/industry_education/how_trading_works/
 
 # Recycling Bias
 * https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
