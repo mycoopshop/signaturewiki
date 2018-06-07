@@ -59,3 +59,48 @@ Here is a diagram:
                                             (Berners-Lee, 1990)    (Standard, 1998)
 </pre>
 As far as web site templating, [SSI](http://www.webreference.com/programming/ssi/index.html) is the mother of them all.
+
+
+From a security standpoint, JSP scriptlets have vulnerabilities:
+
+>There are a handful of objects made available in JSPs which are susceptible to security flaws. Their corresponding Java class functions are used as is in scriptlets. All the same security rules should apply.
+ 
+For example, one session variable:
+
+     <%=session.getAttribute(name)%>
+
+can taint another:
+
+    <% 
+    String name = request.getParameter("username");
+    session.setAttribute("taintedAttribute", name);
+    %>
+
+and unescaped strings can be dangerous as well:
+
+    <style>
+    <%
+      String parm = request.getParameter("foobar");
+      String cssEscaped = Escape.cssString(parm);
+    %>
+
+    a[href *= "<%= cssEscaped %>"] {
+       background-color: pink!important;
+    }
+    </style>
+  
+**References**
+
+* [JSP JSTL - OWASP](https://www.owasp.org/index.php/JSP_JSTL)
+
+* [Why Haven’t We Stamped Out SQL Injection and XSS Yet? (pdf)](https://www.rsaconference.com/writable/presentations/file_upload/asec-f42.pdf)
+
+* [Common Attacks on JSP Pages | Securing Servlets and JSPs in Sun Java System Application Server, Part 2 | InformIT](http://www.informit.com/articles/article.aspx?p=1334089&seqNum=4)
+
+* [Refactoring JSP Scriptlets using JSTL and MVC Architecture | LinkedIn](https://www.linkedin.com/pulse/refactoring-jsp-scriptlets-using-jstl-mvc-amir-boroumand/)
+
+* [The Good and Bad parts of JSX – Roman Liutikov – Medium](https://medium.com/@roman01la/the-good-and-bad-parts-of-jsx-33d01ea5c21f)
+
+* [How can I securely use CSS-in-JS with React?](https://reactarmory.com/answers/how-can-i-use-css-in-js-securely)
+
+* [React Issue #1545: Escaping curly brackets](https://github.com/facebook/react/issues/1545)
