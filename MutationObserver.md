@@ -1,3 +1,9 @@
+    function bar(){console.log(Array.from(arguments))};
+    var foo = new MutationObserver(bar);
+    var baz = foo.observe(document.querySelector(".progress-segment.active"), { childList: true } );
+
+**References**
+
 * https://www.npmjs.com/package/react-mutation-observer
 * https://codeburst.io/media-queries-based-on-element-width-with-mutationobserver-cf2eff172787
 * https://building.lang.ai/hacking-with-dom-mutationobservers-348a50231580
