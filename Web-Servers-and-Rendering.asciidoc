@@ -38,3 +38,5 @@
 . https://github.com/igorw/weblog/blob/master/_posts/2013-02-02-http-kernel-middlewares.md
 . https://github.com/Simcookies/gitio/blob/master/_posts/2017-12-02-fullstack-reference.md
 . https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/03-backend-development/README.md
+. https://docs.python.org/3/library/wsgiref.html
+. http://www.mattzeunert.com/2013/03/31/deploying-a-flask-app-to-ubuntu-with-python-paste.html
