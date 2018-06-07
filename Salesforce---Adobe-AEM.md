@@ -50,6 +50,9 @@ Excellent verbal and written communication skills
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
+* https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
+* https://developer.salesforce.com/page/Secure_Coding_Cross_Site_Scripting#Input_Filtering
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/secure_coding.pdf
 
 **Certification**
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
@@ -92,7 +95,6 @@ https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_singl
 https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
 https://developer.salesforce.com/blogs/developer-relations/2011/04/calling-the-rest-api-from-javascript-from-anywhere.html
 https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/attachfile.htm
-https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 https://help.salesforce.com/articleView?id=data_sandbox_implementation_tips.htm&type=5
 https://help.salesforce.com/articleView?id=field_audit_trail.htm&type=5
