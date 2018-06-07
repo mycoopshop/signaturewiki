@@ -37,3 +37,6 @@ http://www.ontodia.org/tutorial
 1. https://userbase.kde.org/Table_of_equivalent_applications/en
 1. https://stackoverflow.com/questions/38924798/1113772
 1. http://rachaelmoore.name/posts/development/devops/comparison-of-monorepo-tools/
+1. https://www.activestate.com/blog/2016/06/how-we-made-komodo-x-even-faster
+1. https://www.activestate.com/blog/2016/11/live-remote-file-editing-komodo-ide-ftp
+1. https://www.activestate.com/blog/2017/05/addon-bootstrapper-komodo
