@@ -15,6 +15,8 @@ https://blog.roblox.com/2017/05/optimizing-lua-c-interoperability/
 
 Lua for C Testing:
 
+http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
+
 https://www.lua.org/wshop15/Ierusalimschy.pdf
 
 https://www.lua.org/bugs.html
