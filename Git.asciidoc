@@ -90,8 +90,6 @@ https://dyerlab.ces.vcu.edu/2016/06/22/google-drive-git/
 
 https://en.wikibooks.org/wiki/Git/Internal_structure
 
-https://git-scm.com/docs/git-config/1.7.0
-
 https://git-scm.com/book/en/v1/Git-and-Other-Systems-Git-and-Subversion
 
 https://blog.ostermiller.org/git-remove-from-history
@@ -105,3 +103,5 @@ http://blog.kablamo.org/2013/12/08/git-restore/
 https://stackoverflow.com/questions/6531241/how-to-use-expect-and-git-clone?rq=1
 
 https://git-scm.com/docs/git-config
+
+http://web.mit.edu/jhawk/mnt/spo/git/www/git-config.html
