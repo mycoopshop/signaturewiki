@@ -5,6 +5,12 @@
 **References**
 
 * https://www.npmjs.com/package/react-mutation-observer
+* https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/
+* https://bartsimons.me/detect-and-monitor-dom-changes-with-mutationobserver/
+* https://davidwalsh.name/mutationobserver-api
+* http://gists.fritzy.io/2014/01/29/mutation-observer-for-image-loaders/
+* https://www.slideshare.net/nicjansma/measuring-the-performance-of-single-page-applications
+* https://dejanstojanovic.net/javascript/2018/may/monitoring-dom-changes-with-javascript/
 * https://codeburst.io/media-queries-based-on-element-width-with-mutationobserver-cf2eff172787
 * https://building.lang.ai/hacking-with-dom-mutationobservers-348a50231580
 * https://hackernoon.com/promise-based-detection-of-element-injection-94bc12e33966
