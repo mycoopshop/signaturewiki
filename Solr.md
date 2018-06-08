@@ -15,3 +15,5 @@
 * https://wiki.apache.org/solr/ShawnHeisey
 * http://www.baeldung.com/apache-solrj
 * http://www.solrtutorial.com/solr-in-5-minutes.html
+* https://www.slideshare.net/treygrainger/reflected-intelligence-lucenesolr-as-a-selflearning-data-system
+* https://www.slideshare.net/treygrainger/self-learned-relevancy-with-apache-solr
