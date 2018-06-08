@@ -63,3 +63,15 @@
 * http://www.xmlplease.com/xml/pi/
 
 * http://www.gnu.org/software/kawa/XML-literals.html
+
+* http://www.mkbergman.com/355/openlink-plugs-the-gaps-in-the-structured-web/
+
+* http://al3xandr3.github.io/web-analytics-dictionary.html
+
+* https://www.securview.com/wp-content/uploads/2015/06/Web_feed_injection.pdf
+
+* http://ods.openlinksw.com/wiki/ODS/OdsBlog
+
+* https://ericlbarnes.com/2018/04/02/an-rss-revival/
+
+* https://www.feedvalidator.org/docs/howto/declare_namespaces.html
