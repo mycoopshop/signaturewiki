@@ -24,3 +24,5 @@ https://caniuse.com/#feat=css-variables
 https://caniuse.com/#feat=download
 https://caniuse.com/#feat=mediacapture-fromelement
 https://caniuse.com/#feat=subresource-integrity
+https://medium.com/@saurabhpati.pati/javascripts-journey-with-ecma-es-2017-2ad36a7f9538
+https://www.innoarchitech.com/javascript-ecma262-tc39-ecmascript-transpilers-explained/
