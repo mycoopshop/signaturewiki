@@ -52,6 +52,7 @@
 
 # Poverty Bias
 * http://social-bite.co.uk/profits-projects/
+* https://www.merriam-webster.com/dictionary/collateral
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
