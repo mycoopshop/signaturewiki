@@ -16,3 +16,11 @@
 * https://www.ietf.org/rfc/rfc6585.txt
 * https://tools.ietf.org/html/rfc7903
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+https://caniuse.com/#feat=css-containment
+https://caniuse.com/#feat=css-read-only-write
+https://caniuse.com/#feat=css-reflections
+https://caniuse.com/#feat=css-paint-api
+https://caniuse.com/#feat=css-variables
+https://caniuse.com/#feat=download
+https://caniuse.com/#feat=mediacapture-fromelement
+https://caniuse.com/#feat=subresource-integrity
