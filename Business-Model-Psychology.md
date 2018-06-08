@@ -34,6 +34,10 @@
 * https://fairuse.stanford.edu/overview/fair-use/four-factors/
 * http://tvtropes.org/pmwiki/pmwiki.php/Main/CoverAlbum
 
+# Proverbial Bias
+* https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1081&context=usupress_pubs
+* http://www.quotationspage.com/subjects/questioning/
+
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
 * https://toolkit.mozilla.org/method/storyboarding/
