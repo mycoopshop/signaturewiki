@@ -5,3 +5,9 @@
 * http://integration.team/2017/09/11/schematron-validation-biztalk/
 * https://www.epa.gov/sites/production/files/2017-06/documents/fy16-data-quality-records.pdf
 * https://douglascayers.com/2016/03/20/salesforce-easy-ways-to-export-data-as-csv/
+* https://www.ibm.com/developerworks/library/x-xml11pt2/
+* http://www.www2004.org/proceedings/docs/1p164.pdf
+* https://xerces.apache.org/xerces2-j/xml-schema.html
+* http://www.datypic.com/books/defxmlschema/chapter14.html
+* https://www.w3.org/wiki/Co-occurrence_constraints
+* https://docstore.mik.ua/orelly/xml/schema/ch09_04.htm
