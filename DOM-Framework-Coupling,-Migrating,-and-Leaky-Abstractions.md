@@ -20,3 +20,4 @@
 * https://thewebtier.com/snippets/download-files-with-axios/
 * https://stackoverflow.com/questions/43688950/creating-pdf-from-request-response-doesnt-work-with-axios-but-works-in-native-x
 * https://github.com/axios/axios/issues/448
+* https://blog.jayway.com/2017/07/13/open-pdf-downloaded-api-javascript/
