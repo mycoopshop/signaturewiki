@@ -41,4 +41,6 @@ http://restfulwebapis.org/RESTful_Web_Services/
 
 https://www.oreilly.com/openbook/samba/book/
 
+https://addyosmani.com/backbone-fundamentals/
+
 http://guide.couchdb.org
