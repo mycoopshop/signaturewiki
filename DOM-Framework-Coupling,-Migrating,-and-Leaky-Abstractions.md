@@ -19,3 +19,4 @@
 * https://github.com/axios/axios/issues/1392
 * https://thewebtier.com/snippets/download-files-with-axios/
 * https://stackoverflow.com/questions/43688950/creating-pdf-from-request-response-doesnt-work-with-axios-but-works-in-native-x
+* https://github.com/axios/axios/issues/448
