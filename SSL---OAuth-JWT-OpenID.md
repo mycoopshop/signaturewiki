@@ -42,3 +42,5 @@ https://digitalborn.org/post-requests-excel-power-bi/
 https://prathy.com/2017/09/calling-power-bi-api-using-power-bi-desktop-to-document-power-bi-service/
 https://stackapps.com/apps/oauth/view/12623
 https://planningcenter.github.io/api-docs/#personal-access-token
+https://blog.crossjoin.co.uk/2017/10/15/exploring-the-new-ssrs-2017-api-in-power-bi/
+https://stackoverflow.com/questions/33225590/
