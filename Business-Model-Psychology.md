@@ -37,6 +37,7 @@
 # Proverbial Bias
 * https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1081&context=usupress_pubs
 * http://www.quotationspage.com/subjects/questioning/
+* http://www.mountainrunnerdoc.com/the_idea_of_man.html
 
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
