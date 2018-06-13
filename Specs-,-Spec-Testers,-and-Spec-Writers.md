@@ -26,3 +26,6 @@ https://caniuse.com/#feat=mediacapture-fromelement
 https://caniuse.com/#feat=subresource-integrity
 https://medium.com/@saurabhpati.pati/javascripts-journey-with-ecma-es-2017-2ad36a7f9538
 https://www.innoarchitech.com/javascript-ecma262-tc39-ecmascript-transpilers-explained/
+https://www.quirksmode.org/donations.html
+http://www.cssplay.co.uk/ads_page.html
+http://pointedears.de/scripts/test/es-matrix/
