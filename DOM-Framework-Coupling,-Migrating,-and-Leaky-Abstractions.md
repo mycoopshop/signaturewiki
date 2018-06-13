@@ -13,3 +13,9 @@
 * http://jasonsteinshouer.com/javascript/2016/11/03/vuejs-migration.html
 * https://medium.com/js-dojo/switching-from-react-to-vue-js-badf34565a2d
 * https://blog.kollegorna.se/3-years-of-ember-6-months-of-react-34ce909a5ce1
+* https://stackoverflow.com/questions/8022425/getting-blob-data-from-xhr-request
+* https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Sending_and_Receiving_Binary_Data
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Microsoft_extensions
+* https://github.com/axios/axios/issues/1392
+* https://thewebtier.com/snippets/download-files-with-axios/
+* https://stackoverflow.com/questions/43688950/creating-pdf-from-request-response-doesnt-work-with-axios-but-works-in-native-x
