@@ -46,3 +46,7 @@ http://www.jimjag.com/presos/AC-US-07/ACUS07-AdvancedApache2.2LoadBalancing.pdf
 http://www.apachetutor.org/admin/reverseproxies
 https://stackoverflow.com/questions/44865905/setting-up-nginx-as-a-reverse-proxy-for-apache-vs-just-apache-event-mpm
 https://www.slideshare.net/jimjag/apache-httpd-24-reverse-proxy-the-hidden-gem
+http://xahlee.info/w/apache_nodejs_nginx.html
+https://specs.openstack.org/openstack/cinder-specs/specs/liberty/non-eventlet-wsgi-app.html
+https://www.keycdn.com/support/nginx-vs-apache/
+https://itsyndicate.org/blog/apache-and-nginx/
