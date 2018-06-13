@@ -25,3 +25,9 @@ https://developer.android.com/things/hardware/index.html
 https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2
 
 https://medium.com/the-node-js-collection/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06
+
+https://adtmag.com/articles/2017/10/02/walmart-react-native.aspx
+
+https://www.infoq.com/articles/affordable-react-native-development
+
+https://adtmag.com/articles/2017/06/07/enterprise-apps.aspx
