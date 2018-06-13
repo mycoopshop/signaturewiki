@@ -16,6 +16,7 @@
 * https://stackoverflow.com/questions/41670725/react-ref-syntax-and-components-as-pure-functions
 * https://stackoverflow.com/questions/47740017/manage-focus-on-stateless-components-react
 * https://docs.bugsnag.com/platforms/browsers/react/#advanced-configuration
+* https://stackoverflow.com/questions/48712345/react-props-id-binding-to-onclick-in-a-stateless-component
 
 # Examples
 * https://codepen.io/vitalyq/pen/oBvxJB?editors=0010
