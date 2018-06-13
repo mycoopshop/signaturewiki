@@ -4,7 +4,8 @@ nested if => intersection
 if / else => difference 
 regexp => union 
 
-##References**
+**References**
+
 * http://www.americanteeth.org/libason/ason_spec.pdf
 * https://insights.sei.cmu.edu/cert/2013/08/practical-math-for-your-security-operations---part-1-of-3.html
 * https://market.mashape.com/wordsapi/wordsapi
@@ -25,4 +26,5 @@ regexp => union
 * https://medium.com/front-end-hacking/es6-set-vs-array-what-and-when-efc055655e1a
 * https://medium.com/@benoitvallon/the-set-data-structure-3919f4f1a189
 * http://www.drdobbs.com/web-development/fuzzy-logic-in-perl/184416017
-* 
+* https://coderwall.com/p/uawhga/perl-sets
+* http://world.std.com/~swmcd/steven/perl/pm/set.html
