@@ -21,3 +21,12 @@
 * https://stackoverflow.com/questions/43688950/creating-pdf-from-request-response-doesnt-work-with-axios-but-works-in-native-x
 * https://github.com/axios/axios/issues/448
 * https://blog.jayway.com/2017/07/13/open-pdf-downloaded-api-javascript/
+* https://x-team.com/blog/react-vue-component-integration/
+* https://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/
+* https://www.telerik.com/blogs/react-ember-and-jquery-reviewed-and-looking-forward
+* https://github.com/MithrilJS/mithril.js/issues/1026
+* https://svelte.technology/blog/frameworks-without-the-framework
+* https://www.altexsoft.com/blog/engineering/angularjs-vs-knockout-js-vs-vue-js-vs-backbone-js-which-framework-suits-your-project-best/
+* https://medium.com/full-stack-development/vue-js-angular-react-mithril-js-github-love-and-native-mobile-apps-b4af7aa7123c
+* https://auth0.com/blog/build-robust-apps-with-mithril-and-auth0/
+* https://mithril.js.org/framework-comparison.html
