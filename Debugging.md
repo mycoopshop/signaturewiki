@@ -24,3 +24,5 @@ Set breakpoints on all:
 * https://nodejs.org/api/errors.html
 * https://nodejs.org/en/blog/npm/peer-dependencies/
 * https://zetafleet.com/blog/2010/06/improve-javascript-error-reporting-with-tracekit.html
+* https://webpack.js.org/contribute/debugging/
+* http://erikaybar.name/webpack-source-maps-in-chrome/
