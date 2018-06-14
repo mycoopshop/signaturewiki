@@ -4,3 +4,6 @@
 1. https://github.com/theand/whatsnew-personal-collection/blob/master/README.md
 1. https://github.com/joeduffy/joeduffy.github.io/blob/master/_posts/2015-12-19-safe-native-code.md
 1. http://lambda-the-ultimate.org/node/5509
+1. https://github.com/browserslist/browserslist#queries
+1. https://webpack.js.org/glossary/
+1. https://webpack.js.org/concepts/
