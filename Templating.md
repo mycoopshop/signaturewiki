@@ -104,3 +104,11 @@ and unescaped strings can be dangerous as well:
 * [How can I securely use CSS-in-JS with React?](https://reactarmory.com/answers/how-can-i-use-css-in-js-securely)
 
 * [React Issue #1545: Escaping curly brackets](https://github.com/facebook/react/issues/1545)
+
+* [A closer look at Underscore templates](http://2ality.com/2012/06/underscore-templates.html)
+
+* [underscore.js | vAnnotate annotations](http://www.vannotate.com/examples/underscore.html)
+
+* [How to use EJS Templating in a Node.js Application – freeCodeCamp](https://medium.freecodecamp.org/how-to-use-ejs-templating-in-a-node-js-application-ea9347a96c65)
+
+* [Markdown – Harp, the static web server with built-in preprocessing](http://harpjs.com/docs/development/markdown)
