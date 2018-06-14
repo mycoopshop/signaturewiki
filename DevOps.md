@@ -161,3 +161,9 @@ https://getalternative.net/software/flatpak
 https://naildrivin5.com/blog/2008/09/17/getting-rakes-packagetask-to-depend-on-generated-files.html
 http://hyperpolyglot.org/build
 https://www.engineyard.com/blog/rake-and-ant-together-a-pick-it-n-stick-it-approach
+https://webpack.js.org/api/cli/
+https://books.sonatype.com/mvnref-book/reference/running-sect-options.html
+http://maven.apache.org/plugins/maven-help-plugin/examples/describe-configuration.html
+https://docs.gradle.org/current/userguide/command_line_interface.html
+http://www.stuartellis.name/articles/rake/
+https://github.com/ruby/rake/blob/master/doc/rakefile.rdoc
