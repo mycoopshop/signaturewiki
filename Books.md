@@ -44,3 +44,5 @@ https://www.oreilly.com/openbook/samba/book/
 https://addyosmani.com/backbone-fundamentals/
 
 http://guide.couchdb.org
+
+https://www.amazon.com/dp/2884790217/
