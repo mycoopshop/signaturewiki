@@ -47,3 +47,11 @@ https://github.com/babel/babel-preset-env/issues/443
 https://stackoverflow.com/questions/47443553/how-to-build-react-app-with-babel-for-internet-explorer-11
 
 http://madole.xyz/babel-loaders-hidden-feature-babelrc-false/
+
+https://github.com/babel/babel/issues/6604
+
+https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-bit-less-7c8de164e423?gi=af2d34e397ea
+
+https://survivejs.com/webpack/loading/javascript/
+
+https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/
