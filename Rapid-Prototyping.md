@@ -720,3 +720,11 @@ https://www.mediawiki.org/wiki/Phabricator/Project_management
 http://www.au.af.mil/au/awc/awcgate/army/writing_tips.htm
 
 https://indieweb.org/How_to_publish_and_consume_WebSub
+
+https://github.com/npm/npm/issues/9401
+
+https://github.com/babel/babel-loader/issues/401
+
+https://github.com/zloirock/core-js#commonjs
+
+https://github.com/JeffreyWay/laravel-mix/issues/436
