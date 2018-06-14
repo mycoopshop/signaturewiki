@@ -39,3 +39,9 @@ https://maven.apache.org/ref/3.5.2/maven-core/default-bindings.html
 http://www.mojohaus.org/properties-maven-plugin/
 
 https://github.com/sass/node-sass/blob/master/TROUBLESHOOTING.md
+
+https://github.com/github/babel/wiki/Internal-Plugins
+
+https://github.com/babel/babel-preset-env/issues/443
+
+https://stackoverflow.com/questions/47443553/how-to-build-react-app-with-babel-for-internet-explorer-11
