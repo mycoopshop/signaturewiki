@@ -50,3 +50,4 @@ http://xahlee.info/w/apache_nodejs_nginx.html
 https://specs.openstack.org/openstack/cinder-specs/specs/liberty/non-eventlet-wsgi-app.html
 https://www.keycdn.com/support/nginx-vs-apache/
 https://itsyndicate.org/blog/apache-and-nginx/
+https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
