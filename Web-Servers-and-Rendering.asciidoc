@@ -51,3 +51,12 @@ https://specs.openstack.org/openstack/cinder-specs/specs/liberty/non-eventlet-ws
 https://www.keycdn.com/support/nginx-vs-apache/
 https://itsyndicate.org/blog/apache-and-nginx/
 https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
+https://www.ecreations.net/default-files-htaccess-php-ini/
+https://docstore.mik.ua/orelly/linux/apache/ch07_02.htm
+https://httpd.apache.org/docs/trunk/mod/overrides.html
+https://www.linickx.com/css-styling-apache-directory-listings
+https://sites.duke.edu/workblog/files/2014/12/www.dedoimedo.com-apache-web-server-lm.pdf
+http://mikeheavers.com/tutorials/pretty_up_ugly_apache_default_directory_listings/
+https://css-tricks.com/styling-a-server-generated-file-directory/
+https://httpd.apache.org/docs/current/expr.html
+https://docs.microsoft.com/en-us/iis/configuration/https://docs.microsoft.com/en-us/iis/configuration/
