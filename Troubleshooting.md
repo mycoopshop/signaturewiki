@@ -45,3 +45,5 @@ https://github.com/github/babel/wiki/Internal-Plugins
 https://github.com/babel/babel-preset-env/issues/443
 
 https://stackoverflow.com/questions/47443553/how-to-build-react-app-with-babel-for-internet-explorer-11
+
+http://madole.xyz/babel-loaders-hidden-feature-babelrc-false/
