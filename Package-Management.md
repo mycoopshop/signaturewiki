@@ -1,16 +1,16 @@
-https://devopedia.org/package-manager
-http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html
-https://snyk.io/blog/publishing-malicious-packages/
-https://www.cloudfoundry.org/blog/security-corner-snyk-top-six-vulnerabilities-maven-npm/
-https://support.cs.utah.edu/index.php/misc/22-installing-perl-modules
-http://manpages.ubuntu.com/manpages/xenial/man3/CPAN.3perl.html
-https://metacpan.org/pod/CPAN
-https://news.ycombinator.com/item?id=8226139
-https://news.ycombinator.com/item?id=11341990
-http://incolumitas.com/2016/06/30/what-other-package-managers-are-vulnerable-to-typosquatting/
-https://github.com/topics/package-manager
-http://www.modulecounts.com
-https://depfu.com/blog/2017/03/22/a-brief-history-of-dependency-management
-https://snyk.io/blog/publishing-malicious-packages/
-https://blackducksoftware.atlassian.net/wiki/spaces/INTDOCS/pages/49131875/Hub+Detect
-https://news.ycombinator.com/item?id=11088125
+* https://devopedia.org/package-manager
+* http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html
+* https://snyk.io/blog/publishing-malicious-packages/
+* https://www.cloudfoundry.org/blog/security-corner-snyk-top-six-vulnerabilities-maven-npm/
+* https://support.cs.utah.edu/index.php/misc/22-installing-perl-modules
+* http://manpages.ubuntu.com/manpages/xenial/man3/CPAN.3perl.html
+* https://metacpan.org/pod/CPAN
+* https://news.ycombinator.com/item?id=8226139
+* https://news.ycombinator.com/item?id=11341990
+* http://incolumitas.com/2016/06/30/what-other-package-managers-are-vulnerable-to-typosquatting/
+* https://github.com/topics/package-manager
+* http://www.modulecounts.com
+* https://depfu.com/blog/2017/03/22/a-brief-history-of-dependency-management
+* https://snyk.io/blog/publishing-malicious-packages/
+* https://blackducksoftware.atlassian.net/wiki/spaces/INTDOCS/pages/49131875/Hub+Detect
+* https://news.ycombinator.com/item?id=11088125
