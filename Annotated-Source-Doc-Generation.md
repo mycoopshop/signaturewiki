@@ -5,3 +5,5 @@
 * http://www.doclet.com
 * https://docs.oracle.com/javase/9/docs/api/jdk/javadoc/doclet/package-summary.html
 * https://docs.oracle.com/javase/9/javadoc/JSJAV.pdf 
+* https://www.voxxed.com/2016/10/java-9-series-html5-javadoc/
+* https://docs.oracle.com/javase/9/docs/api/jdk/javadoc/doclet/Doclet.html
