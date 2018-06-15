@@ -31,3 +31,4 @@ http://www.cssplay.co.uk/ads_page.html
 http://pointedears.de/scripts/test/es-matrix/
 https://mvnrepository.com/open-source/java-specs
 https://maven.apache.org/plugins/maven-shade-plugin/examples/resource-transformers.html
+https://wiki.creativecommons.org/wiki/CC_OpenSearch
