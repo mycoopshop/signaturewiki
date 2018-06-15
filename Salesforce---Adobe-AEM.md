@@ -60,6 +60,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
+* https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
 
 
 **Documentation**
@@ -405,6 +406,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Logging
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
+* http://sfdcsrini.blogspot.com/2014/04/what-is-exception-handling-in-apex.html
+* https://developer.salesforce.com/page/An_Introduction_to_Exception_Handling
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
