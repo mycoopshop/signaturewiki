@@ -42,3 +42,6 @@
 * https://medium.com/@alexishevia/the-magic-behind-npm-link-d94dcb3a81af
 * https://60devs.com/simple-way-to-manage-local-node-module-using-npm-link.html
 * https://www.npmjs.com/package/didyoumean2
+* https://www.linux.com/news/parsing-arguments-your-shell-script
+* https://stackoverflow.com/questions/23016298/getopt-like-behavior-in-powershell
+* https://rosettacode.org/wiki/Parse_command-line_arguments#PowerShell
