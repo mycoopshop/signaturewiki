@@ -25,3 +25,7 @@ Liquid: https://www.zeldman.com/2017/11/19/dao-responsive-liquid/
 **References**
 
 * https://www.safaribooksonline.com/library/view/designing-web-interfaces/9780596155353/#toc-start
+
+* https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
+
+* https://stackoverflow.com/questions/12258399/how-to-create-folder-in-github-repository
