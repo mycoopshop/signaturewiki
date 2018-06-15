@@ -53,6 +53,8 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 * https://developer.salesforce.com/page/Secure_Coding_Cross_Site_Scripting#Input_Filtering
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/secure_coding.pdf
+* https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_apexgov.htm#!
+* https://developer.salesforce.com/blogs/engineering/2015/09/when-not-to-use-machine-learning.html
 
 **Certification**
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
