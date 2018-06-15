@@ -99,3 +99,8 @@ https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918
 https://yuilibrary.com/yui/docs/imageloader/
 https://stuartashworth.com/blog/handling-image-load-errors-in-ext-js-universal-apps/
 https://mootools.net/more/docs/1.6.0/Utilities/Assets
+https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/15841301/
+https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started
+https://steffenjahr.de/2017/05/12/microsoft-edge-and-you-pwa-service-worker-ahead/
+https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/windows-features
+https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/
