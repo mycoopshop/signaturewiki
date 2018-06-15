@@ -62,6 +62,7 @@ Excellent verbal and written communication skills
 
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
+https://developer.salesforce.com/docs/
 https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/glossary_master.htm
 https://developer.salesforce.com/page/Earlier_Reference_Documentation
 https://developer.salesforce.com/blogs/tech-pubs/2013/05/our-award-winning-documentation-and-videos.html
