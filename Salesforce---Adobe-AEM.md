@@ -481,10 +481,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/experience-manager/6-2/sites/deploying/using/troubleshoot-rep.html
 * https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.ui.commons/5.5.60/com.adobe.granite.ui.commons-5.5.60.pom
 * https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.workflow.console/1.0.0/com.adobe.granite.workflow.console-1.0.0.pom
-
+* https://wwwimages2.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/experience-fragments-for-headless.pdf
 
 #Drupal
 
 * https://www.drupal.org/blog/three-ways-we-can-improve-drupals-evaluator-experience
 * https://www.drupal.org/node/2365547
 * https://builtwith.com/ancestry.com
+* https://css-tricks.com/what-is-a-headless-cms/
