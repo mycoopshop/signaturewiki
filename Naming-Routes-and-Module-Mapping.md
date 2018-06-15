@@ -16,3 +16,4 @@
 * https://www.w3.org/2001/tag/doc/IdentifyingApplicationState-20110715
 * https://msdn.microsoft.com/en-us/library/jj149689.aspx
 * [Url.urlservice - UI-Router](https://ui-router.github.io/ng1/docs/1.0.0/classes/url.urlservice.html)
+* https://jsfiddle.net/fbhg7aa1/1/
