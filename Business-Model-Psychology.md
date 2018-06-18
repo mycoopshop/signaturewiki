@@ -85,6 +85,7 @@
 * https://affiliate-program.amazon.com/help/node/topic/202102870
 * https://affiliate-program.amazon.com/help/operating/policies
 * https://cospot.com/affiliate/amazon-associates-review/
+* https://wiki.eclipse.org/Fostering_Community_Growth
 
 # Market Bias
 http://www.commoditytrademantra.com/commodity-trading/heres-why-commodities-are-the-investment-to-grow-your-money-in-2018/
