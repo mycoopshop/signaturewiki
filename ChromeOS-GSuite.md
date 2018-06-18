@@ -69,3 +69,4 @@ https://www.asp.net/get-started
 http://techintranslation.com/git-python-and-node-on-a-toshiba-chromebook-without-crouton-or-linux/
 https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81
 https://andropenoffice.blogspot.com/search/label/HOWTO
+https://datatracker.ietf.org/wg/doh/about/
