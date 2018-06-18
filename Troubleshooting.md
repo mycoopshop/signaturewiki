@@ -16,6 +16,8 @@ https://www.eclipse.org/jetty/documentation/9.3.x/session-clustering-gcloud-data
 
 http://www.dlighthouse.co/2013/06/using-maven-just-for-dependency.html
 
+https://www.oasis-open.org/khelp/kmlm/user_help/html/what_does_message_mean.html
+
 https://archive.org/stream/jenkins/jenkins_djvu.txt
 
 https://docs.gradle.org/current/userguide/userguide.pdf
