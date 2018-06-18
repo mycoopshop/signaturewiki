@@ -152,6 +152,7 @@ http://www.dtic.mil/dtic/tr/fulltext/u2/a430217.pdf
 https://www.wikihow.com/Spot-a-Fake-Review-on-Amazon
 http://this.how/googleAndHttp/
 http://scripting.com/2018/05/10/133513.html
+https://www.oasis-open.org/events/sites/oasis-open.org.events/files/Borderless_Cyber_2017%20final_Dec7_2017.pdf
 
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
