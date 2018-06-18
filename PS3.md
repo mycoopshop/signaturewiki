@@ -6,3 +6,4 @@
 * https://www.harborfreight.com/32-piece-screwdriver-set-with-tweezers-97517.html
 * https://www.ifixit.com/Guide/PlayStation+3+BluRay+Laser+Replacement/3557
 * http://www.repairfaq.org/sam/Blu-ray/site1/diode.html
+* https://datarecovery.wondershare.com/ps3-hard-drive.html
