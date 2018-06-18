@@ -75,3 +75,5 @@
 * https://ericlbarnes.com/2018/04/02/an-rss-revival/
 
 * https://www.feedvalidator.org/docs/howto/declare_namespaces.html
+
+* http://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd01/LwDITA-v1.0-cnprd01.html
