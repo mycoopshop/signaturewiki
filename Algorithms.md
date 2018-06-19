@@ -10,6 +10,11 @@
 * https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/
 * https://www.slideshare.net/polyvore/mturk-machine-learning-8417481
 
+## Logarithm
+* http://mathworld.wolfram.com/Logarithm.html
+* https://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents
+* https://people.richland.edu/james/lecture/m116/functions/inverses.html
+
 **CSS3**
 
 * https://dzone.com/articles/css3-games-collection
