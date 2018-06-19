@@ -15,6 +15,11 @@
 * https://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents
 * https://people.richland.edu/james/lecture/m116/functions/inverses.html
 
+## Sound
+* http://musictechstudent.org/tech-beginnings/first-contact-with-music-tech/basics-of-sound/
+* https://music.stackexchange.com/questions/58739/drum-programming-and-tempo-bpm
+* http://acad.carleton.edu/courses/musc108-00-f14/pages/01/01SixBasicPropertiesofSound.html
+
 **CSS3**
 
 * https://dzone.com/articles/css3-games-collection
