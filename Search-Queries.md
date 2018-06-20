@@ -1,4 +1,8 @@
+## StackExchange
+
 wiki:yes deleted:1
+
+## Web
 
 title:kubernetes +security ext:pdf -domain:com
 
@@ -7,6 +11,10 @@ title:kubernetes +security ext:pdf -domain:com
 linkedin.com apex lightning visualforce html
 
 title:profile +github +analytics site:builtwith.com
+
+## Github
+
+"e_notice" "e_all" language:c
 
 **References**
 
