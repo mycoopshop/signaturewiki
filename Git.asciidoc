@@ -107,3 +107,5 @@ https://stackoverflow.com/questions/6531241/how-to-use-expect-and-git-clone?rq=1
 https://git-scm.com/docs/git-config
 
 http://web.mit.edu/jhawk/mnt/spo/git/www/git-config.html
+
+https://www.atlassian.com/blog/git/extending-git
