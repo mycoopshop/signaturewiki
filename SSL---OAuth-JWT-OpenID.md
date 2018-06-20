@@ -44,3 +44,5 @@ https://stackapps.com/apps/oauth/view/12623
 https://planningcenter.github.io/api-docs/#personal-access-token
 https://blog.crossjoin.co.uk/2017/10/15/exploring-the-new-ssrs-2017-api-in-power-bi/
 https://stackoverflow.com/questions/33225590/
+https://www.smashingmagazine.com/2017/06/guide-switching-http-https/
+https://www.gilesorr.com/blog/ocsp-hsts.html
