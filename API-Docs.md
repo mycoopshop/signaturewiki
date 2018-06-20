@@ -46,5 +46,7 @@
 * https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/
 * https://msdn.microsoft.com/en-us/library/office/aa218661
 * https://technet.microsoft.com/en-us/library/cc514191
+* https://medium.com/@DuroSoft/why-crystal-is-the-most-promising-programming-language-of-2018-aad669d8344f
+* https://hackernoon.com/an-introduction-to-the-crystal-programming-language-b9e0222b5b5e?gi=a0cdc28a6014
 * https://www.oracle.com/corporate/features/jdk9-new-developer-features.html
 * https://get.slack.help/hc/en-us/articles/202528808-Search-in-Slack-#use-search-modifiers
