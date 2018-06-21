@@ -6,6 +6,9 @@ Lua for SVG Math:
 
 https://css-tricks.com/tight-fitting-svg-shapes/
 
+Lua for Turing Complete Configuration Files:
+
+https://www.lua.org/history.html
 
 Lua Interop:
 
