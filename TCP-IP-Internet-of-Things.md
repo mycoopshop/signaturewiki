@@ -19,3 +19,4 @@ https://www.codeproject.com/Articles/1195419/Reverse-tunneling-port-forwarding-w
 * https://www.gpo.gov/fdsys/pkg/GOVPUB-C13-f52fdee3827e2f5d903fa8b4b66d4855/pdf/GOVPUB-C13-f52fdee3827e2f5d903fa8b4b66d4855.pdf
 * https://www.ntia.doc.gov/files/ntia/publications/cloudflare_-_final_ntia_comments_on_botnets.pdf
 * https://homeport.uscg.mil/Lists/Content/Attachments/2212/Keeping%20Your%20Home%20Network%20Secuire.pdf
+* http://upnp.org/resources/documents/UPnP_IoT_Overview_Dec2014.pdf
