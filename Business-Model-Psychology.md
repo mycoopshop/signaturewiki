@@ -78,6 +78,9 @@
 * https://sourceforge.net/blog/openwashing-still-present/
 * https://blogsofnote.blogspot.co.uk
 * [Need an entry-level job at a store? It can be harder now](https://www.apnews.com/6e768d785daf4c30842b97ffc5c19ea3/Need-an-entry-level-job-at-a-store?-It-can-be-harder-now)
+* https://chrispederick.com/donate/
+* http://dmcritchie.mvps.org/firefox/firefox.htm
+* http://hamwaves.com/firefox/en/
 
 # Loyalty Bias
 * http://www.affiliateprograms.com/video-game-affiliate-programs/
