@@ -40,3 +40,4 @@ http://www.ontodia.org/tutorial
 1. https://www.activestate.com/blog/2016/06/how-we-made-komodo-x-even-faster
 1. https://www.activestate.com/blog/2016/11/live-remote-file-editing-komodo-ide-ftp
 1. https://www.activestate.com/blog/2017/05/addon-bootstrapper-komodo
+1. https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/
