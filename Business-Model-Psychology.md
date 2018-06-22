@@ -108,6 +108,7 @@ https://markets.cboe.com/resource/industry_education/how_trading_works/
 * https://www.mercurial-scm.org/wiki/MercurialHosting
 * https://bugs.launchpad.net/launchpad
 * https://savannah.gnu.org/people/
+* https://bocoup.com/blog/so-youd-like-to-start-an-open-source-project
 
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
