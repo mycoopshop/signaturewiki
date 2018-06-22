@@ -30,7 +30,6 @@
 * https://jakubstransky.com/tag/java-memory-model/
 * https://www.cubrid.org/blog/understanding-jvm-internals/
 * http://blog.honeybadger.io/lets-build-an-rss-to-email-digest-script-with-ruby/
-* https://dalibornasevic.com/posts/61-intro-to-machine-learning-in-ruby
 * https://andrew.stwrt.ca/posts/ruby-rss-parsing/
 * https://metacpan.org/pod/distribution/Test-Simple/lib/Test/Tutorial.pod
 * http://perldoc.perl.org/TAP/Harness.html
