@@ -115,6 +115,8 @@ Visualizing - HTML5 Canvas
 
 # Conditions
 https://www.coderetreat.org/pages/facilitating/activity-catalog/
+http://www.donhopkins.com/drupal/node/124
+http://www.donhopkins.com/drupal/node/69
 
 # State
 http://etutorials.org/Macromedia/Fash+remoting.+the+definitive+guide/Part+III+Advanced+Flash+Remoting/Chapter+15.+Flash+Remoting+API/DataGlue+Object/
