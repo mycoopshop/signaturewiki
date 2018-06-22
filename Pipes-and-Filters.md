@@ -7,3 +7,4 @@
 * https://www.codeproject.com/Articles/9415/Distributed-Command-Pattern-an-extension-of-comman
 * https://www.forbes.com/sites/benkepes/2015/03/24/storage-made-easy-chases-a-new-model-in-file-sharing-and-collaboration/
 * https://www.infoq.com/articles/ESB-Integration
+* https://msdn.microsoft.com/en-us/library/aa366776
