@@ -18,3 +18,4 @@
 * http://www.webhostingtalk.com
 * https://n0where.net/best-self-hosted-alternatives
 * https://trac.edgewall.org/wiki/TracUsers
+* https://github.com/Kickball/awesome-selfhosted
