@@ -112,6 +112,7 @@ https://markets.cboe.com/resource/industry_education/how_trading_works/
 
 # Historical Bias
 http://press.uchicago.edu/ucp/books/book/distributed/R/bo27406408.html
+http://etfdb.com/indexes/inverse/
 
 # Niches
 Date/Time: https://playback.fm/
