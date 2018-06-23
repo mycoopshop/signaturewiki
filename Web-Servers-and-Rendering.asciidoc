@@ -60,3 +60,4 @@ http://mikeheavers.com/tutorials/pretty_up_ugly_apache_default_directory_listing
 https://css-tricks.com/styling-a-server-generated-file-directory/
 https://httpd.apache.org/docs/current/expr.html
 https://docs.microsoft.com/en-us/iis/configuration/https://docs.microsoft.com/en-us/iis/configuration/
+https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
