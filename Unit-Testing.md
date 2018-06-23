@@ -656,3 +656,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * http://mo.github.io/2017/06/05/javascript-unit-testing.html
 
 * https://www.perl.com/article/167/2015/4/15/Unit-test-your-code-on-an-in-memory-database/
+
+* https://github.com/facebook/react/blob/master/packages/react-dom/src/__tests__/ReactDOMOption-test.js#L97
