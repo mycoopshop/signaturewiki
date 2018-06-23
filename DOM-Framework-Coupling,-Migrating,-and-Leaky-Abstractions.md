@@ -30,3 +30,7 @@
 * https://medium.com/full-stack-development/vue-js-angular-react-mithril-js-github-love-and-native-mobile-apps-b4af7aa7123c
 * https://auth0.com/blog/build-robust-apps-with-mithril-and-auth0/
 * https://mithril.js.org/framework-comparison.html
+* https://github.com/facebook/react/issues/11099
+* https://github.com/facebook/react/issues/11488
+* https://github.com/facebook/react/issues/7655
+* https://github.com/facebook/react/issues/10420
