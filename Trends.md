@@ -16,3 +16,5 @@
 * http://www.jamesrobertson.eu/pages/2016/mar/09/a-complete-listing-of-self-hosting-software-for-the-raspberry-pi.html
 * https://www.pmwiki.org/wiki/PmWiki/PmWikiUsers
 * http://www.webhostingtalk.com
+* https://n0where.net/best-self-hosted-alternatives
+* https://trac.edgewall.org/wiki/TracUsers
