@@ -4,3 +4,6 @@
 * https://www.mozilla.org/en-US/security/advisories/mfsa2006-59/
 * http://www.oracle.com/technetwork/database/bi-datawarehousing/pres-best-practices-for-extreme-per-130805.pdf
 * https://users.soe.ucsc.edu/~dph/mypubs/debugConcProg89.pdf
+* https://en.wikipedia.org/wiki/Embarrassingly_parallel
+* https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding
+* https://www.clustrix.com/bettersql/challenges-sharding-mysql/
