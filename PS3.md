@@ -7,3 +7,5 @@
 * https://www.ifixit.com/Guide/PlayStation+3+BluRay+Laser+Replacement/3557
 * http://www.repairfaq.org/sam/Blu-ray/site1/diode.html
 * https://datarecovery.wondershare.com/ps3-hard-drive.html
+* https://www.wikihow.com/Realign-Your-Ps3%27s-Blu-Ray-So-That-a-Disc-Can-Load-and-Eject
+* https://www.repairfaq.org/sam/cdfaq.htm
