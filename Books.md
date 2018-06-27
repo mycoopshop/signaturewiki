@@ -1,6 +1,8 @@
 The Praeger Handbook of Urban Education, Volumes 1 & 2
 All You Need to Know about the Music Business
 
+[60s, [logo, basic]], [70s, [forth, smalltalk, idl]], [80s, [objective-c, perl, python]], [90s, [powershell, coldfusion]], [2000s, groovy], [2010s, perl6]
+
 https://www.goodreads.com/list/show/23942.Books_Read_by_Tupac_Shakur_
 
 https://www.e-reading.club/bookreader.php/139986/Programming_Erlang.pdf
