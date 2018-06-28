@@ -11,6 +11,9 @@
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
 
+## Interop
+* http://www.evanmiller.org/a-review-of-perl-6.html
+* https://opensource.com/article/18/1/why-i-love-perl-5
 
 **References**
 * http://www.chicagobusiness.com/apps/pbcs.dll/article?AID=99992388
