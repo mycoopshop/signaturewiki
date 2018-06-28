@@ -410,6 +410,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/An_Introduction_to_Exception_Handling
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm
 * https://help.salesforce.com/articleView?id=000232681&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000004186&type=1
+* https://help.salesforce.com/articleView?id=code_dev_console_view_checkpoints.htm&type=5
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
