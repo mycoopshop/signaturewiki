@@ -40,24 +40,26 @@
 . https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/03-backend-development/README.md
 . https://docs.python.org/3/library/wsgiref.html
 . http://www.mattzeunert.com/2013/03/31/deploying-a-flask-app-to-ubuntu-with-python-paste.html
-https://www.upguard.com/articles/apache-vs-nginx
-https://www.quora.com/What-is-the-difference-between-an-Apache-nginx-server-and-a-Node-js-one-Why-cant-the-former-listen-to-data-I-send-it-and-store-it-to-a-database-Or-can-it
-http://www.jimjag.com/presos/AC-US-07/ACUS07-AdvancedApache2.2LoadBalancing.pdf
-http://www.apachetutor.org/admin/reverseproxies
-https://stackoverflow.com/questions/44865905/setting-up-nginx-as-a-reverse-proxy-for-apache-vs-just-apache-event-mpm
-https://www.slideshare.net/jimjag/apache-httpd-24-reverse-proxy-the-hidden-gem
-http://xahlee.info/w/apache_nodejs_nginx.html
-https://specs.openstack.org/openstack/cinder-specs/specs/liberty/non-eventlet-wsgi-app.html
-https://www.keycdn.com/support/nginx-vs-apache/
-https://itsyndicate.org/blog/apache-and-nginx/
-https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
-https://www.ecreations.net/default-files-htaccess-php-ini/
-https://docstore.mik.ua/orelly/linux/apache/ch07_02.htm
-https://httpd.apache.org/docs/trunk/mod/overrides.html
-https://www.linickx.com/css-styling-apache-directory-listings
-https://sites.duke.edu/workblog/files/2014/12/www.dedoimedo.com-apache-web-server-lm.pdf
-http://mikeheavers.com/tutorials/pretty_up_ugly_apache_default_directory_listings/
-https://css-tricks.com/styling-a-server-generated-file-directory/
-https://httpd.apache.org/docs/current/expr.html
-https://docs.microsoft.com/en-us/iis/configuration/https://docs.microsoft.com/en-us/iis/configuration/
-https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+. https://www.upguard.com/articles/apache-vs-nginx
+. https://www.quora.com/What-is-the-difference-between-an-Apache-nginx-server-and-a-Node-js-one-Why-cant-the-former-listen-to-data-I-send-it-and-store-it-to-a-database-Or-can-it
+. http://www.jimjag.com/presos/AC-US-07/ACUS07-AdvancedApache2.2LoadBalancing.pdf
+. http://www.apachetutor.org/admin/reverseproxies
+. https://stackoverflow.com/questions/44865905/setting-up-nginx-as-a-reverse-proxy-for-apache-vs-just-apache-event-mpm
+. https://www.slideshare.net/jimjag/apache-httpd-24-reverse-proxy-the-hidden-gem
+. http://xahlee.info/w/apache_nodejs_nginx.html
+. https://specs.openstack.org/openstack/cinder-specs/specs/liberty/non-eventlet-wsgi-app.html
+. https://www.keycdn.com/support/nginx-vs-apache/
+. https://itsyndicate.org/blog/apache-and-nginx/
+. https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
+. https://www.ecreations.net/default-files-htaccess-php-ini/
+. https://docstore.mik.ua/orelly/linux/apache/ch07_02.htm
+. https://httpd.apache.org/docs/trunk/mod/overrides.html
+. https://www.linickx.com/css-styling-apache-directory-listings
+. https://sites.duke.edu/workblog/files/2014/12/www.dedoimedo.com-apache-web-server-lm.pdf
+. http://mikeheavers.com/tutorials/pretty_up_ugly_apache_default_directory_listings/
+. https://css-tricks.com/styling-a-server-generated-file-directory/
+. https://httpd.apache.org/docs/current/expr.html
+. https://docs.microsoft.com/en-us/iis/configuration/https://docs.microsoft.com/en-us/iis/configuration/
+. https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
+. https://xebialabs.com/the-ultimate-devops-tool-chest/open-source/
+. https://xebialabs.com/periodic-table-of-devops-tools/
