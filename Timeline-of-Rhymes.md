@@ -8,3 +8,7 @@
 ## Successors
 1. https://en.wikipedia.org/wiki/Chris_Rivers
 1. https://en.wikipedia.org/wiki/Psycadelik_Thoughtz
+
+**References**
+1. https://www.soundclick.com/docs/WhatIsSc.cfm
+1. http://hiphopspeakeasy.com/2017/02/alternatives-soundcloud-ultimate-guide/
