@@ -193,7 +193,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=0
 * https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 * https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html
-* https://www.lightningdesignsystem.com/release-notes/
 * http://peterknolle.com/file-upload-lightning-component/
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_lightning_fileUpload.htm
 * https://help.salesforce.com/articleView?id=search_configure_query_solr_federated_search.htm&type=0
@@ -305,6 +304,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 
 ## Lightning
+* https://www.lightningdesignsystem.com/release-notes/
+* https://salesforce.stackexchange.com/questions/161987/any-3rd-party-slds-stencil-css-available
+* https://www.lightningdesignsystem.com/guidelines/markup-and-style/
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_documentation.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
