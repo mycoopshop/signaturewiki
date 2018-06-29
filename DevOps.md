@@ -167,3 +167,4 @@ http://maven.apache.org/plugins/maven-help-plugin/examples/describe-configuratio
 https://docs.gradle.org/current/userguide/command_line_interface.html
 http://www.stuartellis.name/articles/rake/
 https://github.com/ruby/rake/blob/master/doc/rakefile.rdoc
+http://blog.qt.io/blog/2012/02/15/introducing-qbs/
