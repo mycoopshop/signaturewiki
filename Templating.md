@@ -112,3 +112,7 @@ and unescaped strings can be dangerous as well:
 * [How to use EJS Templating in a Node.js Application – freeCodeCamp](https://medium.freecodecamp.org/how-to-use-ejs-templating-in-a-node-js-application-ea9347a96c65)
 
 * [Markdown – Harp, the static web server with built-in preprocessing](http://harpjs.com/docs/development/markdown)
+
+* [Can I use a FreeMarker template with AngularJS? - Quora](https://www.quora.com/Can-I-use-a-FreeMarker-template-with-AngularJS)
+
+* [reactjs - How to use sideNav of materialize css with react? - Stack Overflow](https://stackoverflow.com/questions/48911593/how-to-use-sidenav-of-materialize-css-with-react?rq=1)
