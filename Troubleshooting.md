@@ -57,3 +57,7 @@ https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-b
 https://survivejs.com/webpack/loading/javascript/
 
 https://www.contentful.com/blog/2017/10/27/put-your-webpack-bundle-on-a-diet-part-3/
+
+https://cve.mitre.org/cve/editorial_policies/cd_abstraction.html
+
+https://www.mediawiki.org/wiki/Release_notes/1.29
