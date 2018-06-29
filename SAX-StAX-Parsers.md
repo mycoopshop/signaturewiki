@@ -16,3 +16,4 @@
 * https://github.com/Kishaaa/lindenb/blob/master/src/xsl/xsd2libxml.xsl
 * https://github.com/azeemigi/kernel/blob/master/dependencies/axis2/1.6.1-wso2v8/modules/adb-codegen/src/org/apache/axis2/schema/template/ADBBeanTemplate-bean.xsl
 * https://github.com/venkateshyadva/sfdc-Eyereturn/blob/master/sample/codepkg/classes/AWS_XMLDom.cls
+* https://eujournal.org/index.php/esj/article/viewFile/8056/7762
