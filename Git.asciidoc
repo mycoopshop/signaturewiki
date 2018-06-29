@@ -109,3 +109,11 @@ https://git-scm.com/docs/git-config
 http://web.mit.edu/jhawk/mnt/spo/git/www/git-config.html
 
 https://www.atlassian.com/blog/git/extending-git
+
+https://easyengine.io/tutorials/git/git-resolve-merge-conflicts/
+
+https://git.wiki.kernel.org/index.php/Aliases
+
+http://www.cirosantilli.com/git-tutorial/
+
+https://git-scm.com/docs/revisions
