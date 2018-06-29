@@ -117,3 +117,7 @@ https://git.wiki.kernel.org/index.php/Aliases
 http://www.cirosantilli.com/git-tutorial/
 
 https://git-scm.com/docs/revisions
+
+https://github.com/bricoleurs/bricolage/wiki/Merging-with-Git
+
+https://www.quora.com/In-a-git-merge-conflict-how-do-I-tell-git-that-for-files-X-Y-and-Z-I-want-it-to-screw-the-local-changes-and-simply-overwrite-with-the-version-being-pulled-in
