@@ -406,6 +406,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.codeproject.com/Tips/1000517/Integrating-Salesforce-com-over-REST-API-using-IBM
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
+## Configuration
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
+* http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
+
 ## Logging/Debugging
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
 * http://sfdcsrini.blogspot.com/2014/04/what-is-exception-handling-in-apex.html
