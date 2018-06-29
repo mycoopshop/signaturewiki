@@ -409,6 +409,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Logging/Debugging
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
 * http://sfdcsrini.blogspot.com/2014/04/what-is-exception-handling-in-apex.html
+* http://www.salesforcegeneral.com/salesforce-articles/how-do-i-change-who-gets-apex-error-emails.html
+* https://bluecanvas.io/2017/02/13/debugging-apex-salesforce-debug-log-checkpoints.html
+* http://www.laceysnr.com/break-the-rules-to-avoid-breaking-the-limits/
 * https://developer.salesforce.com/page/An_Introduction_to_Exception_Handling
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm
 * https://help.salesforce.com/articleView?id=000232681&language=en_US&type=1
