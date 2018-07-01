@@ -29,7 +29,7 @@
 * https://www.topquadrant.com/2014/05/05/comparing-sparql-with-sql/
 * http://explore.dublincore.net/about/
 * https://eprints.soton.ac.uk/397863/1/sparql2sql.pdf
-
+* http://people.csail.mit.edu/rivest/Sexp.txt
 
     SELECT Person.fname, Address.city
     FROM Person, Address
