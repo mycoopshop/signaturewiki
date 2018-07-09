@@ -16,6 +16,7 @@ Excellent verbal and written communication skills
 * http://www.dreamhouseapp.io
 * https://developer.salesforce.com/page/Wiki
 * https://developer.salesforce.com/page/Packaging
+* https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Separation_of_Concerns
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 * https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
