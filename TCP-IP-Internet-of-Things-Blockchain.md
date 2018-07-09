@@ -13,7 +13,8 @@ https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/
 https://www.codeproject.com/Articles/1195419/Reverse-tunneling-port-forwarding-with-Node-js
 
 ## Blockchain
-https://geoprise.com/blog/adding-blockchain-erp-system
+* https://geoprise.com/blog/adding-blockchain-erp-system
+* https://torrentfreak.com/researchers-use-a-blockchain-to-boost-anonymous-torrent-sharing-180129/
 
 ## UPNP
 * https://www.postscapes.com/iot-voices/interviews/iot-data-modeling-and-remote-access-with-clarke-stevens-of-upnp-forum/
