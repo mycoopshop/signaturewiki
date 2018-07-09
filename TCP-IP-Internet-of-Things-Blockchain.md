@@ -12,6 +12,9 @@ http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Working_with_Sockets
 https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/
 https://www.codeproject.com/Articles/1195419/Reverse-tunneling-port-forwarding-with-Node-js
 
+## Blockchain
+https://geoprise.com/blog/adding-blockchain-erp-system
+
 ## UPNP
 * https://www.postscapes.com/iot-voices/interviews/iot-data-modeling-and-remote-access-with-clarke-stevens-of-upnp-forum/
 * https://www.gpo.gov/fdsys/pkg/GOVPUB-C13-5db24e87f9132e0807e4f9a92d2bc162/pdf/GOVPUB-C13-5db24e87f9132e0807e4f9a92d2bc162.pdf
