@@ -8,6 +8,7 @@
 ## Documentation
 
 * https://www.drupal.org/core/deprecation
+* https://www.mediawiki.org/wiki/Deprecation_policy
 
 ## Certifications
 
