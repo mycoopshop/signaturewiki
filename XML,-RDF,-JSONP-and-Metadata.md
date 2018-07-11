@@ -77,3 +77,5 @@
 * https://www.feedvalidator.org/docs/howto/declare_namespaces.html
 
 * http://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd01/LwDITA-v1.0-cnprd01.html
+
+* http://www.softpedia.com/get/Internet/Other-Internet-Related/AltovaXML.shtml
