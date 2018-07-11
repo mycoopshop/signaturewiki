@@ -402,6 +402,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/react_native_new_project.htm
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/install_npmjs.htm
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_device_flow.htm&type=5
+* https://salesforce.stackexchange.com/questions/187314/
 
 ## Watson
 *  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
