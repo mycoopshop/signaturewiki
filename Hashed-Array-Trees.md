@@ -95,3 +95,5 @@ File: HashedArrayTree.java
  * unused elements in some array.  This is a total of O(k) = O(sqrt(n))
  * overhead, which is what we originally desired.
  */
+
+https://en.wikipedia.org/wiki/Dynamic_array
