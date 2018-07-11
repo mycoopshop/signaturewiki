@@ -150,7 +150,6 @@ https://help.salesforce.com/articleView?id=user_security_token.htm&type=5
 https://help.salesforce.com/articleView?id=networks_security.htm&type=5
 https://help.salesforce.com/articleView?id=bi_security_datasets_row_level.htm&type=5
 https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_considerations.htm&type=5
-* https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
 * https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
 * http://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sfdx_th_doc.htm
@@ -243,7 +242,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/tracking_field_history.htm
 * https://www.salesforce.com/form/pdf/platform-field-audit.jsp
-* https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=installing_the_data_loader.htm&type=5
 * https://help.salesforce.com/articleView?id=000192840&type=1
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_compliance_docs.htm
@@ -396,10 +394,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
+* https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
+* http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
+* https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://developer.salesforce.com/mobile/services/mobile-templates/templates-faq
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/gs_whatsnew.htm
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/react_native_new_project.htm
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/install_npmjs.htm
+* https://help.salesforce.com/articleView?id=remoteaccess_oauth_device_flow.htm&type=5
 
 ## Watson
 *  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
@@ -434,6 +436,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=code_dev_console_solving_problems_using_system_log.htm&type=5
 * https://help.salesforce.com/articleView?id=code_debug_log_classes.htm&type=5
 * https://help.salesforce.com/articleView?id=code_system_log.htm&type=5
+* https://help.salesforce.com/articleView?id=code_debug_log_details.htm&type=5
 * http://sfdcsrini.blogspot.com/2014/04/what-is-exception-handling-in-apex.html
 * http://www.salesforcegeneral.com/salesforce-articles/how-do-i-change-who-gets-apex-error-emails.html
 * https://bluecanvas.io/2017/02/13/debugging-apex-salesforce-debug-log-checkpoints.html
