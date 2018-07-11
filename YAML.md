@@ -92,5 +92,8 @@ YAML supports three styles of escape notation:
    c. nested single quote: ' He was speechless: '' '
 
 
+>I've been producing and consuming YAML lately. If you have objects serialized to text, you need some form of introspection to reconstruct them with a generic parser. The YAML parser does not know or care about the code in those other modules. It just assumes that the names in the input correspond to classes currently loaded by whomever called the parser. It relies on the language's introspection system to convert the strings in the YAML into calls to constructors.
+
+## References
 http://docs.racket-lang.org/yaml/
 https://news.ycombinator.com/item?id=17358103
