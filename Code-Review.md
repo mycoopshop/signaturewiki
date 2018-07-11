@@ -1,7 +1,14 @@
-Write down the causes of most of your bugs
-Create a checklist based on that
-Use the for your self-review of your own code
+1. Write down the causes of most of your bugs
 
+1. Create a checklist based on that
+
+1. Self-review your own code
+
+1. Use unit tests of the framework as a baseline for your own tests
+
+1. Use the fundamental code (constructors, loggers, utils) as a baseline for your own code
+
+https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1208&context=sei
 https://resources.sei.cmu.edu/asset_files/TechnicalNote/2009_004_001_15089.pdf
 https://pdfs.semanticscholar.org/dbfd/dad0b98f731ce0c4f3c415be6ab20cdfdd18.pdf
