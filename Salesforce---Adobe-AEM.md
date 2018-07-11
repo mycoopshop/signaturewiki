@@ -43,6 +43,7 @@ Excellent verbal and written communication skills
 **Types**
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm?search_text=valueof
+* https://help.salesforce.com/articleView?id=faq_apex_classes_triggers.htm&type=5
 
 **Defects**
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
@@ -56,6 +57,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/secure_coding.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_apexgov.htm#!
 * https://developer.salesforce.com/blogs/engineering/2015/09/when-not-to-use-machine-learning.html
+* https://help.salesforce.com/articleView?id=custommetadatatypes_relationships_limits.htm&type=5
 
 **Certification**
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
@@ -220,7 +222,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2017/10/salesforce-economy-idc-study-2022.html
 * https://www.salesforce.com/company/careers/pathfinders/
 * http://bobbuzzard.blogspot.co.uk/2017/07/not-hotdog-salesforce-einstein-edition.html
-* https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
 * https://help.salesforce.com/articleView?id=dashboards_components.htm&type=5
 * https://help.salesforce.com/articleView?id=getstart_browser_recommendations.htm&type=5
 * https://help.salesforce.com/articleView?id=bi_embed.htm&type=5
@@ -276,6 +277,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
+* https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
 
 ## GDPR
 * https://www.salesforce.com/gdpr/overview/
@@ -283,10 +285,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Live Agent API
 * https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
 
+## S-Controls
+* https://help.salesforce.com/articleView?id=dev_about_scontrols.htm&type=0
+* https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
+
 ## VisualForce
 * https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_output_pdf_considerations.htm
+* https://help.salesforce.com/articleView?id=pages_static_resources.htm&type=5
+* https://help.salesforce.com/articleView?id=pages_dev_mode.htm&type=0
+* https://help.salesforce.com/articleView?id=pages_limits.htm&type=5
 
 ## Custom Extensions
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/extend_code.pdf
@@ -296,8 +305,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## SOQL
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
+* https://help.salesforce.com/articleView?id=code_manage_triggers.htm&type=5
+* https://help.salesforce.com/articleView?id=code_dev_console_tab_query_editor.htm&type=0
+* https://help.salesforce.com/articleView?id=000181277&type=1
 * https://developer.salesforce.com/page/From_SQL_to_SOQL
 * https://www.linkedin.com/pulse/first-month-salesforce-apex-c-developer-sean-hunter
+* https://help.salesforce.com/articleView?id=000006007&language=en_US%C2%A0&type=1
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Domain_Layer
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/relationships_among_objects.htm
 
@@ -344,6 +357,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/spring18/release-notes/rn_api_objects_changed.htm
 
 ## Rest API
+* https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
@@ -412,8 +426,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
 * http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
 
-## Logging/Debugging
+## Logging/Debugging/Troubleshooting
+* https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
+* https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_setting.htm&type=5
+* https://help.salesforce.com/articleView?id=code_dev_console_execute_anonymous.htm&type=5
+* https://help.salesforce.com/articleView?id=code_dev_console_solving_problems_using_system_log.htm&type=5
+* https://help.salesforce.com/articleView?id=code_debug_log_classes.htm&type=5
+* https://help.salesforce.com/articleView?id=code_system_log.htm&type=5
 * http://sfdcsrini.blogspot.com/2014/04/what-is-exception-handling-in-apex.html
 * http://www.salesforcegeneral.com/salesforce-articles/how-do-i-change-who-gets-apex-error-emails.html
 * https://bluecanvas.io/2017/02/13/debugging-apex-salesforce-debug-log-checkpoints.html
@@ -427,6 +447,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
+* https://help.salesforce.com/articleView?id=code_test_results.htm&type=5
 * https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
 * https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000187503&language=en_US&type=1
