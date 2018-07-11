@@ -37,3 +37,7 @@ http://croquetweak.blogspot.com/2014/08/deconstructing-floats-frexp-and-ldexp.ht
 http://www.cs.tufts.edu/comp/250RTS/archive/roberto-ierusalimschy/revisiting-coroutines.pdf
 
 https://github.com/xfbs/PiL3/blob/master/lua-unofficial-faq.markdown
+
+https://docs.microsoft.com/en-us/windows/uwp/gaming/porting-uniforms-and-attributes
+
+https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch39.html
