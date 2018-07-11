@@ -15,3 +15,4 @@
 * https://llvm.org/pubs/2008-09-Lightspark.pdf
 * https://yosefk.com/blog/my-history-with-forth-stack-machines.html
 * https://www.sqlite.org/opcode.html
+* https://www.quora.com/What-is-the-difference-between-CPU-and-a-GPU-for-parallel-computing
