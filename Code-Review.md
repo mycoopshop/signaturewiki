@@ -8,6 +8,8 @@
 
 1. Use the fundamental code (constructors, loggers, utils) as a baseline for your own code
 
+## References
+
 https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1208&context=sei
 https://resources.sei.cmu.edu/asset_files/TechnicalNote/2009_004_001_15089.pdf
