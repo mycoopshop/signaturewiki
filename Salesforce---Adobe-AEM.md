@@ -299,6 +299,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/From_SQL_to_SOQL
 * https://www.linkedin.com/pulse/first-month-salesforce-apex-c-developer-sean-hunter
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Domain_Layer
+* https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/relationships_among_objects.htm
 
 ## SQL
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
