@@ -33,3 +33,15 @@ https://mvnrepository.com/open-source/java-specs
 https://maven.apache.org/plugins/maven-shade-plugin/examples/resource-transformers.html
 https://wiki.creativecommons.org/wiki/CC_OpenSearch
 https://www.chenhuijing.com/blog/css-grid-flexbox-combo/
+* UDP: https://tools.ietf.org/html/rfc8085
+* IoT: https://tools.ietf.org/html/rfc8352
+* DNS: https://tools.ietf.org/html/rfc8324
+* <link>: https://tools.ietf.org/html/rfc8288
+* JSON: https://tools.ietf.org/html/rfc8259
+* OAuth: https://tools.ietf.org/html/rfc8252
+* CBOR: https://tools.ietf.org/html/rfc8152
+* GeoJSON: https://tools.ietf.org/html/rfc8142
+* ASCII Art: https://tools.ietf.org/html/rfc8140
+* PDF: https://tools.ietf.org/html/rfc8118
+* json-seq: https://tools.ietf.org/html/rfc7464
+* Font Types: https://tools.ietf.org/html/rfc8081
