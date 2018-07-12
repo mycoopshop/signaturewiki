@@ -1,5 +1,13 @@
 https://www.kernel.org/pub/software/scm/git/docs/git-checkout.html
 
+https://www.wikihow.com/Use-Git-Effectively
+
+https://www.sbf5.com/~cduan/technical/git/git-3.shtml
+
+https://kofoedanders.com/git-cooperation-simplified/
+
+http://joemaller.com/990/a-web-focused-git-workflow/
+
 https://news.ycombinator.com/item?id=12785200
 
 http://travisjeffery.com/b/2012/02/search-a-git-repo-like-a-ninja/
@@ -13,6 +21,10 @@ https://davidwalsh.name/git-default-remote
 [Git User Manual](https://www.kernel.org/pub/software/scm/git/docs/user-manual.html)
 
 https://www.cloudbees.com/blog/advanced-git-jenkins
+
+https://community.atlassian.com/t5/Bitbucket-questions/behind-ahead-incorrect/qaq-p/4749
+
+https://confluence.atlassian.com/bitbucketserver050/automatic-branch-merging-913474751.html
 
 https://confluence.atlassian.com/bitbucketserverkb/how-to-define-a-default-merge-strategy-per-project-894207103.html
 
