@@ -176,5 +176,9 @@ https://www.ncbi.nlm.nih.gov/pubmed/19190880
 # Technology Bias
 https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0dhx5b,%2Fm%2F0bbxf89,%2Fm%2F07qb81,%2Fm%2F058b6
 
+http://wordnetweb.princeton.edu/perl/webwn?s=way&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&h=0000
+
+http://wn-similarity.sourceforge.net
+
 # Ad Bias
 https://medium.com/the-graph/rise-of-subscriptions-and-the-fall-of-advertising-d5e4d8800a49
