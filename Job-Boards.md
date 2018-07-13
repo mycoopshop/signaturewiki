@@ -41,8 +41,11 @@ Experience with DITA and XML authoring tools such as Oxygen or Arbortext.
 Strong visualization skills and experience creating images and diagrams of complex systems.
 
 
+title:salesforce title:developer site:linkedin.com title:us +pulse
 
 https://www.fremont.k12.ca.us/Page/325
+
+https://www.husd.us/certificatedvacancies
 
 http://www.slzusd.org/cms/page_view?d=x&piid=&vpid=1241915537618
 
