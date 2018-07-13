@@ -93,7 +93,6 @@ https://developer.salesforce.com/index.php?title=Data_Driven_Menu_with_jQuery
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://developer.salesforce.com/blogs/developer-relations/2015/06/running-aura-app-heroku.html
-https://developer.salesforce.com/blogs/developer-relations/2016/12/salesforce-dx-source-driven-development.html
 https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
 https://research.trust.salesforce.com/vulns/
 https://research.trust.salesforce.com
@@ -122,7 +121,6 @@ https://help.salesforce.com/articleView?id=bi_integrate_tranformation_overview.h
 https://developer.salesforce.com/page/Protecting_Your_Data_in_the_Cloud
 https://developer.salesforce.com/page/Force.com_for_Google_App_Engine_User_Guide
 https://help.salesforce.com/articleView?id=000003652&type=1
-https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli_firewall.htm
 https://developer.salesforce.com/blogs/developer-relations/2014/11/salesforce-integration-architecture.html
 https://help.salesforce.com/articleView?id=000126966&type=1
 https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
@@ -152,7 +150,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_row_level.htm&ty
 https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_considerations.htm&type=5
 * https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
 * https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
-* http://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sfdx_th_doc.htm
 * https://help.salesforce.com/articleView?id=security_networkaccess.htm&type=0
 * https://help.salesforce.com/articleView?id=siteforce_ip_set.htm&type=0
 * https://help.salesforce.com/articleView?id=sites_public_access_settings.htm&type=0
@@ -250,10 +247,16 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003KjpEQAS
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
 
-##CLI
+## DX
+* https://www.linkedin.com/pulse/salesforce-dx-praneel-pidikiti/
+* https://www.linkedin.com/pulse/salesforce-dx-simplify-development-platform-resolving-sourav-basak/
+* https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
+* https://developer.salesforce.com/blogs/developer-relations/2016/12/salesforce-dx-source-driven-development.html
+* https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli_firewall.htm
+
+## CLI
 * https://developer.salesforce.com/page/Tools
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_api_lightning_console.htm
-* https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
 * https://www.jitendrazaa.com/blog/salesforce/automate-command-line-dataloader-using-ant-with-dynamic-arguments-and-query/
 * https://www.slideshare.net/developerforce/scripted-data-loads-with-salesforce-dataloader-and-ant
 * https://force201.wordpress.com/2010/10/15/scripting-the-apex-data-loader-via-ant/
@@ -318,6 +321,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://www.lightningdesignsystem.com/release-notes/
+* https://www.linkedin.com/pulse/display-standard-report-charts-lightning-component-using-chaturvedi/
 * https://salesforce.stackexchange.com/questions/161987/any-3rd-party-slds-stencil-css-available
 * https://www.lightningdesignsystem.com/guidelines/markup-and-style/
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_documentation.htm
@@ -353,10 +357,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/campaign/releases/summer-18/
 * https://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_feature_impact.htm
 * https://releasenotes.docs.salesforce.com/en-us/spring18/release-notes/rn_api_objects_changed.htm
+* http://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sfdx_th_doc.htm
+* http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
+* http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
+
 
 ## Rest API
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
-* http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
@@ -395,7 +402,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
-* http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
 * https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://developer.salesforce.com/mobile/services/mobile-templates/templates-faq
 * https://developer.salesforce.com/docs/atlas.en-us.mobile_sdk.meta/mobile_sdk/gs_whatsnew.htm
