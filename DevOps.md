@@ -29,6 +29,7 @@ Develop on Heroku, store on Google, deploy on AWS
 Perl Jenkins Redis
 
 * https://hub.openshift.com/quickstarts/100-perl-5-10
+* https://tech.mybuilder.com/virtual-hosts-with-docker/
 
 **Build Pipelines**
 * https://www.agiletestingframework.com/ultimate-devops-toolchain/
