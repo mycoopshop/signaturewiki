@@ -164,6 +164,15 @@ https://www.oasis-open.org/events/sites/oasis-open.org.events/files/Borderless_C
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
 
+# Flawed Testing Tool Bias
+https://www.ejog.org/article/0028-2243(92)90313-N/pdf
+https://pdfs.semanticscholar.org/cc1f/40577f371ac72437b2257d1d8d29fa57f09e.pdf
+http://www.journalrepository.org/media/journals/BJMMR_12/2015/Apr/Chandraharan7122015BJMMR17022.pdf
+https://www.ajog.org/article/S0002-9378(08)00192-0/fulltext
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991085/
+https://www.kevinmd.com/blog/2011/09/doctors-cling-continuous-fetal-heart-monitoring.html
+https://www.ncbi.nlm.nih.gov/pubmed/19190880
+
 # Technology Bias
 https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0dhx5b,%2Fm%2F0bbxf89,%2Fm%2F07qb81,%2Fm%2F058b6
 
