@@ -496,6 +496,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
 
 # Adobe 
+* https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/ht-projects-maven.html
+* https://helpx.adobe.com/experience-manager/using/querying-experience-manager-data-using1.html
 * https://helpx.adobe.com/experience-manager/using/oak-login.html
 * https://helpx.adobe.com/animate/kb/unsupported-features-html5-canvas-webgl.html
 * https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-wknd-tutorial-develop/part3.html
@@ -528,6 +530,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.ui.commons/5.5.60/com.adobe.granite.ui.commons-5.5.60.pom
 * https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.workflow.console/1.0.0/com.adobe.granite.workflow.console-1.0.0.pom
 * https://wwwimages2.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/experience-fragments-for-headless.pdf
+* https://www.adobe.com/content/dam/acom/en/marketing-cloud/enterprise-content-management/pdfs/54658.en.aem-mobile.brief.using-third-party-content.pdf
+* 
+* http://www.tothenew.com/blog/content-migration-in-aem-using-slingpostservlet/
 
 #Drupal
 
