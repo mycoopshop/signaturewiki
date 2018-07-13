@@ -39,6 +39,21 @@
 * http://www.quotationspage.com/subjects/questioning/
 * http://www.mountainrunnerdoc.com/the_idea_of_man.html
 
+# Volatility Bias
+* https://www.bls.gov/iag/tgs/iag_index_naics.htm
+* http://www.dtic.mil/dtic/tr/fulltext/u2/a501398.pdf
+* https://cfpub.epa.gov/watertrain/pdf/modules/economics_of_sustainability.pdf
+* https://ustr.gov/sites/default/files/2018%20AGOA%20Implementation.pdf
+* http://www.discs.dsca.mil/documents/pubs/journals/volume_4_annual.pdf
+* http://www2.co.fresno.ca.us/9200/Attachments/Agendas/2018/20180404/20180404-6A-PerformanceEconomicSummaryReportWAMCO-1Report.pdf
+* https://www.macdonaldlaurier.ca/files/pdf/MLINaturalResources-PolicyChallengeswebfinalEN.pdf
+* http://www.maalot.co.il/Publications/MT20170628155630.pdf
+* https://www.ing.nl/media/ING_Investment_Outlook_2017_tcm162-117660.pdf
+* https://www.slideshare.net/sayrani/introduction-to-industry-and-company-analysis
+* http://www.etf.com/publications/journalofindexes/joi-articles/12928-sectors-and-style.html?nopaging=1
+* https://fayettevillenc.gov/home/showdocument?id=7761
+* https://www.census.gov/history/pdf/2007econhistory.pdf
+
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
 * https://toolkit.mozilla.org/method/storyboarding/
