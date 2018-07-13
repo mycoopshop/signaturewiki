@@ -64,7 +64,7 @@ Excellent verbal and written communication skills
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
-
+* https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
 
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
