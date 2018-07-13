@@ -12,10 +12,21 @@
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
+* https://www.perlmonks.org/?node_id=128077
+* https://www.cpan.org/SITES.html
+* http://archive.oreilly.com/oreillyschool/courses/Perl4/Perl4-05.html
+* https://www.perl.com/article/44/2013/10/20/Find-CPAN-mirrors-and-configure-the-local-CPAN-mirror-list/
+* https://www.cpan.org/src/
 
 ## Interop
 * http://www.evanmiller.org/a-review-of-perl-6.html
 * https://opensource.com/article/18/1/why-i-love-perl-5
+* https://engineering.semantics3.com/a-perl-toolchain-for-building-micro-services-at-scale-8851626a4b1b
+* https://docs.oracle.com/cd/E52668_01/E87205/html/section_krw_nfv_dq.html
+
+CGI/PSGI
+* https://developers.redhat.com/blog/2015/11/18/deploying-psgi-applications-rhscl-docker-containers/
+* https://linuxconfig.org/simple-cgi-and-apache-examples-on-ubuntu-linux
 
 **References**
 * http://www.chicagobusiness.com/apps/pbcs.dll/article?AID=99992388
