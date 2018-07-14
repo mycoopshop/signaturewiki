@@ -1,3 +1,7 @@
+1. https://docs.marklogic.com/guide/copyright/glossary
+1. https://www.bmc.com/blogs/itsm-or-itil-that-isnt-the-question/
+1. https://it.toolbox.com/blogs/erpdesk/etl-made-easy-with-erp-093015
+1. http://www.mkbergman.com/acronyms-glossary/
 1. https://www-01.ibm.com/software/globalization/terminology/a.html
 1. https://doc.lagout.org/security/Websters.New.World.Websters.New.World.Hacker.Dictionary.Sep.2006.pdf
 1. https://github.com/szemate/notes/blob/master/glossary.md
