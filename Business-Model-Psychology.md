@@ -54,6 +54,17 @@
 * https://fayettevillenc.gov/home/showdocument?id=7761
 * https://www.census.gov/history/pdf/2007econhistory.pdf
 
+# Free Bias
+* https://en.wikipedia.org/wiki/Moka_exchange
+* https://en.wikipedia.org/wiki/Postcardware
+* https://en.wikipedia.org/wiki/Social_center
+* https://en.wikipedia.org/wiki/Knowledge_market
+* https://plugins.matomo.org/premium?enterprise
+
+# Iniquity Bias
+* https://en.wikipedia.org/wiki/Freeganism
+* https://en.wikipedia.org/wiki/Self-Censorship
+
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
 * https://toolkit.mozilla.org/method/storyboarding/
