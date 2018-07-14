@@ -36,6 +36,9 @@ Perl Jenkins Redis
 * https://www.slideshare.net/perforce/perforce-on-tour-2015-optimising-the-developer-pipeline-deliver-faster-better
 * https://helpcenter.electric-cloud.com/hc/en-us/articles/205270293-ElectricFlow-Concepts-1-Deploy-Object-Model
 * https://www.experoinc.com/post/multi-tenant-applications-reduce-the-complexity
+* https://wiki.jenkins.io/display/JENKINS/ElectricFlow+Plugin
+* http://downloads.electric-cloud.com/plugins/EC-Jenkins/latest/EC-Jenkins_help.xhtml
+* http://electric-cloud.com/plugins/directory/p/jenkins/
 
 **HyperVisors**
 * https://developer.apple.com/documentation/hypervisor
