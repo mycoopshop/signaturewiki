@@ -1,4 +1,14 @@
+https://www.linux.org/docs/man7/gitrevisions.html
+
+http://people.irisa.fr/Anthony.Baire/git/git-advanced-handout.pdf
+
 https://www.kernel.org/pub/software/scm/git/docs/git-checkout.html
+
+https://www.python.org/dev/peps/pep-0103/
+
+https://docs.moodle.org/dev/Git_for_developers
+
+http://www.noah.org/wiki/Git_notes
 
 https://www.wikihow.com/Use-Git-Effectively
 
