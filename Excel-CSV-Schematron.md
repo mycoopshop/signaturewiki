@@ -11,3 +11,4 @@
 * http://www.datypic.com/books/defxmlschema/chapter14.html
 * https://www.w3.org/wiki/Co-occurrence_constraints
 * https://docstore.mik.ua/orelly/xml/schema/ch09_04.htm
+* https://www.xml.com/articles/2017/04/29/epischemas/
