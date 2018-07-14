@@ -99,6 +99,8 @@ and unescaped strings can be dangerous as well:
 
 * [Refactoring JSP Scriptlets using JSTL and MVC Architecture | LinkedIn](https://www.linkedin.com/pulse/refactoring-jsp-scriptlets-using-jstl-mvc-amir-boroumand/)
 
+* [10 Reasons to replace your JSPs with Freemarker Templates](https://blog.stackhunter.com/2014/01/17/10-reasons-to-replace-your-jsps-with-freemarker-templates/)
+
 * [The Good and Bad parts of JSX – Roman Liutikov – Medium](https://medium.com/@roman01la/the-good-and-bad-parts-of-jsx-33d01ea5c21f)
 
 * [How can I securely use CSS-in-JS with React?](https://reactarmory.com/answers/how-can-i-use-css-in-js-securely)
