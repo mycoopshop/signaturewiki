@@ -147,6 +147,9 @@ Geolocation: http://www.fanmail.biz/
 # Gender Bias
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
 * https://www.huffingtonpost.com/lauren-bacon/women-in-tech-and-empathy_b_2573434.html
+* https://ore.exeter.ac.uk/repository/bitstream/handle/10871/30176/BernthalHookerA.pdf?sequence=4
+* http://dream-prophecy.blogspot.com/2009/04/ancient-astronomy-of-bible.html
+* http://www.academia.edu/7147034/The_Totemic_Analogy_in_Bible_Symbolism
 
 # Language Bias
 * https://archive.org/details/aliteraltransla00unkngoog
