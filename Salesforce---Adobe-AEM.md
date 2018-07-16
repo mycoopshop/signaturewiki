@@ -272,6 +272,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000ErH8oUAF
 
 ## ISV
 * https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
