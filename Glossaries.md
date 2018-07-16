@@ -11,4 +11,3 @@
 1. https://github.com/browserslist/browserslist#queries
 1. https://webpack.js.org/glossary/
 1. https://webpack.js.org/concepts/
-1. https://journalistsresource.org/tip-sheets/research/glossary-digital-journalism-terms
