@@ -168,7 +168,7 @@ Geolocation: http://www.fanmail.biz/
 
 # Enterprise Bias
 http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
-
+https://www.apnews.com/87a08b347f8d42a2a59d721a4d407bfa/Cybersecurity-education-growing-in-Nevada-as-risks-increase
 https://cloud.gov/quickstart/
 
 # Housing Bias
