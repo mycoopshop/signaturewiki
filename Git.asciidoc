@@ -1,3 +1,188 @@
+## Local Repository Guide
+ 
+Make a new folder and go to it:
+
+<pre>
+mkdir selenium
+cd selenium
+Create the directories, initialize the local git repo, and copy the code locally, create a branch:
+
+    mkdir framework
+    cd framework
+    git init
+    git clone https://bitbucket.etrade.com/scm/tsa/framework.git
+
+To create a new branch, use git checkout -b:
+
+    git checkout -b myBranch
+
+To link a new branch to a remote repo, use git branch --set-upstream-to:
+
+    git branch --set-upstream-to=origin/project/sprint-25-3-8to3-21 feature/INVPROD-2419 
+
+To switch branches, use git checkout with no options:
+
+    git checkout foo
+
+To check in, use the following process:
+
+ 
+Add new files:
+
+    git add foo
+
+Stash changed files:
+
+    git stash
+
+Pull new changes from the repo:
+
+    git pull
+
+List stashed changes:
+
+    git stash list
+
+Merge stashed changes:
+
+    git stash apply
+
+Commit pushed changes:
+
+    git commit -m "foo bar baz"
+
+Amend an unacceptable commit message:
+
+    git commit --amend
+
+Revert the last commit
+
+    git revert HEAD 
+
+Push new changes to the repo:
+
+    git push
+
+One file commit
+    
+    git checkout [commit hash] -- /foo/bar
+
+Remove a file
+
+    git rm -f ngtemplates.js
+
+Reset the local branch HEAD to the remote branch HEAD
+ 
+    git reset
+    git checkout -b feature/INVPROD-4781
+    git branch --set-upstream-to=origin/feature/INVPROD-4781 feature/INVPROD-4781
+    git reset --hard FETCH_HEAD
+ 
+
+Cherry pick
+Create branch called misc/foo
+
+    git fetch # sync to remote
+    git checkout misc/foo # change branches
+    git cherry-pick 533c2093200 #merge; Run git status, resolve conflicts, Run git add, then commit and push
+
+Log Search
+
+    git log --since 2017-08-06 --remotes='*' --author=Sweatte*
+
+Interactive Patch of Selected Files or Commits
+ 
+    git pull origin develop
+
+    git checkout -b myDevIntgrMerge #new branch
+
+    git checkout -p origin/dev-intgr -- src/main/webapp/WEB\-INF/views/site10/ #pick branch and subdirectories
+
+# Select the files and changes you want during each prompt
+
+    Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]?
+
+Using the following key:
+
+y - apply this hunk to index and worktree
+n - do not apply this hunk to index and worktree
+q - quit; do not apply this hunk or any of the remaining ones
+a - apply this hunk and all later hunks in the file
+d - do not apply this hunk or any of the later hunks in the file
+g - select a hunk to go to
+/ - search for a hunk matching the given regex
+j - leave this hunk undecided, see next undecided hunk
+J - leave this hunk undecided, see next hunk
+k - leave this hunk undecided, see previous undecided hunk
+K - leave this hunk undecided, see previous hunk
+s - split the current hunk into smaller hunks
+e - manually edit the current hunk
+? - print help
+
+Then push to the remote using:
+
+    git push --set-upstream origin myDevIntgrMerge #push merge
+
+Merge without accepting any commits
+
+    git merge origin/feature/INVPROD-2898-release -s recursive -X ours
+
+ 
+
+Test for Bitbucket Conflicts Locally
+
+You need to update your local master branch. So do the following steps :
+
+    git checkout master
+    git pull origin master
+
+Resolve the conflicts here, then run:
+
+    git add *
+    git stash
+    git checkout << your branch >>
+
+To pull in your local changes, run git stash apply
+
+    git merge master
+
+Resolve the conflicts again
+    
+    git add *
+    git commit
+    git push
+ 
+
+Revert Local Git Changes
+To fix an invalid commit message(no iTrack, no whitespace, etc), do the following:
+
+  git commit --amend
+To clean mistaken deletes or checkins, do the following:
+
+  git reset --hard HEAD
+
+Then clean the untracked files and directories with:
+
+  git clean -df
+ 
+
+Store Password
+Create a netrc file:
+
+Linux: vi ~/.netrc
+Windows: New-Item -Name _netrc -ItemType File -Path $env:userprofile
+Set the permissions for your eyes only:
+
+chmod 0600 ~/.netrc
+Then add the bitbucket URL and your username and password:
+    
+machine bitbucket.etrade.com
+login myusername 
+password mypassword
+    
+
+
+## References
 https://www.linux.org/docs/man7/gitrevisions.html
 
 http://people.irisa.fr/Anthony.Baire/git/git-advanced-handout.pdf
