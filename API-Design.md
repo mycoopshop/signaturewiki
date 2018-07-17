@@ -147,3 +147,10 @@ https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-pag
 https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith
 https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
 https://developer.mozilla.org/en-US/docs/Mozilla/IPDL/Tutorial
+https://www.mobilize.net/blog/vb6-to-microservices-is-it-even-a-thing
+https://www.marklogic.com/blog/data-integration-wizard-talks-microservices-containers-data-governance/
+https://www.marklogic.com/blog/microservices-persistence-benefits-risks/
+https://hal.archives-ouvertes.fr/hal-01783936/file/sparql-micro-services-poster.pdf
+https://www.slideshare.net/barthanssens/publishing-rdf-skos-with-microservices
+http://events.linkeddata.org/ldow2018/papers/LDOW2018_paper_1.pdf
+http://ceur-ws.org/Vol-1629/paper4.pdf
