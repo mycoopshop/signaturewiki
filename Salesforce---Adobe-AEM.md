@@ -31,8 +31,6 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
-* https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
-* https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 * https://developer.salesforce.com/page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
@@ -322,6 +320,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://www.lightningdesignsystem.com/release-notes/
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
+* https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html
+* https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
 * https://www.linkedin.com/pulse/display-standard-report-charts-lightning-component-using-chaturvedi/
 * https://salesforce.stackexchange.com/questions/161987/any-3rd-party-slds-stencil-css-available
 * https://www.lightningdesignsystem.com/guidelines/markup-and-style/
