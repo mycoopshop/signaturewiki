@@ -6,13 +6,8 @@
 * https://www.youtube.com/watch?v=6qc8ytfgAOw
 * https://www.youtube.com/watch?v=bifqad-SG4k
 * https://www.youtube.com/watch?v=645bk8HQ4aw
-* https://www.mobilize.net/blog/vb6-to-microservices-is-it-even-a-thing
-* https://www.marklogic.com/blog/data-integration-wizard-talks-microservices-containers-data-governance/
-* https://www.marklogic.com/blog/microservices-persistence-benefits-risks/
-* https://hal.archives-ouvertes.fr/hal-01783936/file/sparql-micro-services-poster.pdf
-* https://www.slideshare.net/barthanssens/publishing-rdf-skos-with-microservices
-* http://events.linkeddata.org/ldow2018/papers/LDOW2018_paper_1.pdf
-* http://ceur-ws.org/Vol-1629/paper4.pdf
+* https://www.w3.org/TR/ld-glossary/
+* https://www.w3.org/2003/glossary/subglossary/rdf-mt.rdf/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856163/
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
 * https://www.w3.org/2007/03/RdfRDB/papers/seaborne.html
