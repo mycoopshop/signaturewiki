@@ -29,6 +29,11 @@
 # Outline Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 
+# Language Bias
+* https://itunes.apple.com/us/app/id1273162445
+* https://play.google.com/store/apps/details?id=com.dictionary.paid
+* https://play.google.com/store/apps/details?id=com.zombodroid.MemeGeneratorFullGplay
+
 # Parody Bias
 * https://blogs.technet.microsoft.com/markrussinovich/2012/05/06/announcing-trojan-horse-the-novel/
 * https://fairuse.stanford.edu/overview/fair-use/four-factors/
