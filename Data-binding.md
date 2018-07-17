@@ -5,3 +5,5 @@ https://stackoverflow.com/questions/39657823/persisting-the-localstorage-values-
 https://stackoverflow.com/questions/42783877/getting-data-attribute-of-html-element-in-react-js-context
 
 https://stackoverflow.com/questions/35719807/use-svg-filter-attribute-in-react-js
+
+https://www.python.org/dev/peps/pep-0572/
