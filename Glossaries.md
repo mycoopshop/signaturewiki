@@ -11,3 +11,5 @@
 1. https://github.com/browserslist/browserslist#queries
 1. https://webpack.js.org/glossary/
 1. https://webpack.js.org/concepts/
+1. https://semantic-web.com/glossary/
+1. http://jennriley.com/metadatamap/seeingstandards_glossary_pamphlet.pdf
