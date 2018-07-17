@@ -477,6 +477,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/sgml/inetmanet/blob/master/_scripts/xsd2html/xsd2html.xsl
 
 ## Authentication
+* https://help.salesforce.com/articleView?id=admin_insufficient_privileges_map.htm&type=5
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
 * https://help.salesforce.com/articleView?id=remoteaccess_asset_token_using_validating.htm&type=5
