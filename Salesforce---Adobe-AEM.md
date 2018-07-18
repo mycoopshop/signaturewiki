@@ -325,8 +325,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
+* https://www.slideshare.net/thomaswaud/advanced-designs-for-reusable-lightning-components
 * https://www.slideshare.net/Zen4orce/salesforce-lightning-tips-tricks
 * https://www.slideshare.net/developerforce/lightning-components-performance-best-practices
+* https://saramorgan.net/2017/05/30/lightning-best-practice-conditional-rendering/
+* https://www.slideshare.net/Zen4orce/salesforce-lightning-tips-tricks
 * https://force201.wordpress.com/2017/02/26/dragula-drag-and-drop-in-a-lightning-component/
 * https://www.jitendrazaa.com/blog/salesforce/lookup-component-in-salesforce-lightning/
 * https://www.linkedin.com/pulse/display-standard-report-charts-lightning-component-using-chaturvedi/
