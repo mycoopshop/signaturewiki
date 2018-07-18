@@ -26,7 +26,7 @@ Heisenbug             Message Passing Concurrency         Erlang
 
 
 **References**
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
 https://blog.sentry.io/2017/09/28/react-16-error-boundaries
 https://github.com/substack/tape/issues/59
 https://thefullstack.xyz/debug-exceptions-react-native
