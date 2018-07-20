@@ -118,3 +118,5 @@ and unescaped strings can be dangerous as well:
 * [Can I use a FreeMarker template with AngularJS? - Quora](https://www.quora.com/Can-I-use-a-FreeMarker-template-with-AngularJS)
 
 * [reactjs - How to use sideNav of materialize css with react? - Stack Overflow](https://stackoverflow.com/questions/48911593/how-to-use-sidenav-of-materialize-css-with-react?rq=1)
+
+* [Toby's Brain Dump ...: Sitemesh, my favourite web development companion](http://tmjee.blogspot.com/2012/11/sitemesh-my-favourite-web-development.html)
