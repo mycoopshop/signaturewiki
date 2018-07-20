@@ -322,6 +322,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://www.lightningdesignsystem.com/release-notes/
+* https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
@@ -392,8 +393,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/bi_dev_guide_rest.pdf
 * https://api.status.salesforce.com/v1/docs/
 
-## Interface API
+## User Interface API
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_api_ui.htm
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/api_ui.pdf
 
 ## Static Content
 * https://help.salesforce.com/articleView?id=pages_static_resources_manage.htm&type=5
@@ -449,6 +451,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
 * http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/deploy_sandboxes.pdf
+* https://support.salesforce.com/articleView?id=users_profiles_record_types.htm&type=5
+* https://help.salesforce.com/articleView?id=login_hours.htm&type=0
 
 ## Logging/Debugging/Troubleshooting
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
@@ -471,6 +475,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
+* https://developer.salesforce.com/blogs/developer-relations/2012/05/passing-parameters-by-reference-and-by-value-in-apex.html
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
 * https://help.salesforce.com/articleView?id=code_test_results.htm&type=5
 * https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
