@@ -46,6 +46,7 @@ Excellent verbal and written communication skills
 **Defects**
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
+* https://success.salesforce.com/issues_view?id=a1p3A000000mCHfQAM
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
