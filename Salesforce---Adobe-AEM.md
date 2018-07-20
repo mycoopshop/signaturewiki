@@ -514,6 +514,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Packaging
 * https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
+* https://help.salesforce.com/articleView?id=packaging_component_attributes.htm&type=5
+* https://help.salesforce.com/articleView?id=s1_branded_apps.htm&type=0
 
 ## Server-side JavaScript
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
