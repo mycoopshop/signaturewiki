@@ -17,6 +17,8 @@
 * http://archive.oreilly.com/oreillyschool/courses/Perl4/Perl4-05.html
 * https://www.perl.com/article/44/2013/10/20/Find-CPAN-mirrors-and-configure-the-local-CPAN-mirror-list/
 * https://www.cpan.org/src/
+* http://jenda.krynicky.cz
+
 
 ## Interop
 * http://www.evanmiller.org/a-review-of-perl-6.html
