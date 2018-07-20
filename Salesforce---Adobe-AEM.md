@@ -447,6 +447,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Configuration
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
 * http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/deploy_sandboxes.pdf
 
 ## Logging/Debugging/Troubleshooting
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
