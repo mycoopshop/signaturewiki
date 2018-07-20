@@ -90,6 +90,11 @@ Perl Jenkins Redis
 * https://d0.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
 * https://devcenter.heroku.com/articles/heroku-ci
 * https://devcenter.heroku.com/articles/pipelines
+* https://devcenter.heroku.com/articles/container-registry-and-runtime
+* https://blog.heroku.com/exploration-of-security-when-building-docker-containers
+* https://devcenter.heroku.com/articles/local-development-with-docker-compose
+* https://devcenter.heroku.com/categories/deploying-with-docker
+* https://blog.heroku.com/container-registry-and-runtime
 * https://blog.openshift.com/multiple-deployment-methods-openshift/
 * https://blog.openshift.com/cicd-with-openshift/
 * https://blog.openshift.com/openshift-3-3-pipelines-deep-dive/
