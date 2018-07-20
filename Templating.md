@@ -120,3 +120,9 @@ and unescaped strings can be dangerous as well:
 * [reactjs - How to use sideNav of materialize css with react? - Stack Overflow](https://stackoverflow.com/questions/48911593/how-to-use-sidenav-of-materialize-css-with-react?rq=1)
 
 * [Toby's Brain Dump ...: Sitemesh, my favourite web development companion](http://tmjee.blogspot.com/2012/11/sitemesh-my-favourite-web-development.html)
+
+* [Introduction to SiteMesh Blog | Oracle Community](https://community.oracle.com/docs/DOC-983328)
+
+* [Captain Debug's Blog: Adding Sitemesh to your Spring webapp](http://www.captaindebug.com/2011/09/adding-sitemesh-to-your-spring-webapp.html)
+
+* [9.14. Using FreeMarker in a Web Application - Jakarta Commons Cookbook [Book]](https://www.safaribooksonline.com/library/view/jakarta-commons-cookbook/059600706X/ch09s15.html)
