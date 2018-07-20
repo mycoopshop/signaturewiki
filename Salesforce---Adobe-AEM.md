@@ -324,6 +324,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.lightningdesignsystem.com/release-notes/
 * https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
 * https://medium.com/salesforcesummaries/visualforce-in-lightning-experience-32d024e72d36
+* https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
