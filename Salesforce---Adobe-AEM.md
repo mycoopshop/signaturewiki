@@ -301,6 +301,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/extend_code.pdf
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
+* https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 
 ## SOQL
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
@@ -356,6 +357,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_lightning_stricter_csp.htm
+* https://developer.salesforce.com/page/Lightning_Security
 
 ## Automation
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
