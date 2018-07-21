@@ -280,6 +280,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
 
+## Recovery
+* https://help.salesforce.com/articleView?id=000213366&type=1
+* https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_1
+* https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_2
+* https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_3
+* https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_4
+* https://help.salesforce.com/articleView?id=admin_exportdata.htm&type=5
+
 ## GDPR
 * https://www.salesforce.com/gdpr/overview/
 
