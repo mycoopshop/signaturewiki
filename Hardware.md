@@ -1,5 +1,6 @@
 Blu-Ray
 
+1. https://docs.sony.com/release/Specs/BDPS3500_MKSP.pdf
 1. https://www.panasonic.com/my/consumer/home-entertainment/blu-ray-dvd.html
 1. http://av.jpn.support.panasonic.com/support/global/cs/bd/app/
 
