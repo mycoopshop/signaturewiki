@@ -148,6 +148,9 @@ http://etfdb.com/indexes/inverse/
 # Niches
 Date/Time: https://playback.fm/
 Geolocation: http://www.fanmail.biz/
+Muscles:
+http://legacy.ymaa.com/articles/muscle-tendon-changing-and-brain-marrow-washing-qigong
+https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 
 # Gender Bias
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
