@@ -279,6 +279,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
+* https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
 
 ## Recovery
 * https://help.salesforce.com/articleView?id=000213366&type=1
