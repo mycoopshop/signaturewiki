@@ -153,6 +153,7 @@ http://legacy.ymaa.com/articles/muscle-tendon-changing-and-brain-marrow-washing-
 https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 
 # Gender Bias
+* http://www.devouard.org/english/public-speaker
 * https://www.self.com/story/sevyn-streeter-depression-mental-health
 * https://www.huffingtonpost.com/lauren-bacon/women-in-tech-and-empathy_b_2573434.html
 * https://ore.exeter.ac.uk/repository/bitstream/handle/10871/30176/BernthalHookerA.pdf?sequence=4
