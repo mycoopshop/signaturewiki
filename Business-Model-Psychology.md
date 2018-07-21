@@ -107,6 +107,7 @@
 
 # Technology Bias
 * http://www.neuronews.blog
+* https://spectrum.ieee.org/tech-talk/computing/hardware/darpas-planning-a-major-remake-of-us-electronics-pay-attention.html
 * https://sourceforge.net/blog/openwashing-still-present/
 * https://blogsofnote.blogspot.co.uk
 * [Need an entry-level job at a store? It can be harder now](https://www.apnews.com/6e768d785daf4c30842b97ffc5c19ea3/Need-an-entry-level-job-at-a-store?-It-can-be-harder-now)
