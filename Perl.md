@@ -7,18 +7,16 @@
 * http://search.cpan.org/dist/perl-5.27.1/ext/File-Glob/Glob.pm
 * https://research.swtch.com/glob
 
-
-
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
 * https://www.perlmonks.org/?node_id=128077
 * https://www.cpan.org/SITES.html
+* https://www.perl.com/pub/2007/01/11/painless-ppm.html/
 * http://archive.oreilly.com/oreillyschool/courses/Perl4/Perl4-05.html
 * https://www.perl.com/article/44/2013/10/20/Find-CPAN-mirrors-and-configure-the-local-CPAN-mirror-list/
 * https://www.cpan.org/src/
 * http://jenda.krynicky.cz
-
 
 ## Interop
 * http://www.evanmiller.org/a-review-of-perl-6.html
