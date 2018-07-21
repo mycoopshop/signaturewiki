@@ -175,6 +175,7 @@ https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 * https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/kelly-14-rules.html
 * https://foxtrotalpha.jalopnik.com/legendary-skunk-work-founder-kelly-johnsons-rules-of-ma-1708050659
 
+
 # Enterprise Bias
 http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
 https://www.apnews.com/87a08b347f8d42a2a59d721a4d407bfa/Cybersecurity-education-growing-in-Nevada-as-risks-increase
@@ -186,7 +187,8 @@ https://www.apnews.com/tag/Housingpolicy
 http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
 
 # Theological Bias
-https://en.wikipedia.org/wiki/James_H._Cone
+* https://en.wikipedia.org/wiki/James_H._Cone
+* https://www.bibliomondo.com/america
 
 # Culture Bias
 http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
