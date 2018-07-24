@@ -2,6 +2,10 @@
 1. Prefix words with "?" to autocomplete subjects
 2. Prefix words with "wdt:" or "wd:" to autocomplete objects
 
+# Flow
+
+    select alexa rank > 500; get website where alexa > 500
+
 **References**
 * https://www.youtube.com/watch?v=6qc8ytfgAOw
 * https://www.youtube.com/watch?v=bifqad-SG4k
