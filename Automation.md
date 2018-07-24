@@ -23,3 +23,6 @@
 * http://blog.n01se.net/blog-n01se-net-p-145.html
 * https://lifehacker.com/5725273/google-cache-continue-redux-lets-you-browse-entire-web-sites-through-googles-cache
 * https://powershellreflections.wordpress.com/2014/05/21/clearing-your-akamai-cdn-cache-with-powershell-redux/
+* https://api.ccu.akamai.com/ccu/v2/docs/
+* https://www.slideshare.net/Akamaidev/from-development-to-deployment-use-akamai-to-facilitate-workflow-automation
+* https://www.codeproject.com/Articles/186089/How-to-Purge-Cache-in-Akamai-Proxy-Server-using-C
