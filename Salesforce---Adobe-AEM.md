@@ -534,7 +534,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Server-side JavaScript
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
 
-## Open CTI
+## Open CTI (Telephony)
+* https://en.wikipedia.org/wiki/Computer_telephony_integration
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_cti.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
 * https://docs.aws.amazon.com/connect/latest/adminguide/salesforce-integration.html
