@@ -427,6 +427,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Field Validation
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 
+## Tooling
+* https://github.com/simple-salesforce/simple-salesforce
+* https://github.com/mailtoharshit/awesome-salesforce
+* https://github.com/exiahuang/SalesforceXyTools
+
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
