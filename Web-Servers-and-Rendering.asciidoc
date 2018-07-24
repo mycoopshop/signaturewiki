@@ -63,3 +63,4 @@
 . https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
 . https://xebialabs.com/the-ultimate-devops-tool-chest/open-source/
 . https://xebialabs.com/periodic-table-of-devops-tools/
+. https://support.globaldots.com/hc/en-us/articles/115003996705-Akamai-Pragma-Headers-overview
