@@ -8,6 +8,10 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
 * https://www.chromium.org/chromium-os/developer-guide/using-sdk-standalone
 * https://www.chromium.org/chromium-os/developing-apps-on-your-chromium-os-device
 
+Preferences JS
+* https://support.google.com/chrome/a/answer/187948?hl=en
+* https://www.chromium.org/developers/design-documents/first-run-customizations
+
 Here's a partial rundown:
 
 <pre>
