@@ -330,6 +330,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 
 ## Lightning
+* https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://www.lightningdesignsystem.com/release-notes/
 * https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
 * https://medium.com/salesforcesummaries/visualforce-in-lightning-experience-32d024e72d36
