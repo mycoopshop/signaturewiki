@@ -126,3 +126,7 @@ and unescaped strings can be dangerous as well:
 * [Captain Debug's Blog: Adding Sitemesh to your Spring webapp](http://www.captaindebug.com/2011/09/adding-sitemesh-to-your-spring-webapp.html)
 
 * [9.14. Using FreeMarker in a Web Application - Jakarta Commons Cookbook [Book]](https://www.safaribooksonline.com/library/view/jakarta-commons-cookbook/059600706X/ch09s15.html)
+
+* [The htp and htf Packages](https://docs.oracle.com/cd/B14099_19/web.1012/b15896/pshtp.htm)
+
+* [HTP](https://docs.oracle.com/cd/B28359_01/appdev.111/b28419/w_htp.htm#BABGJJIH)
