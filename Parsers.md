@@ -10,3 +10,4 @@
 * http://www.perlmonks.org/?node_id=88222
 * https://www.eclipse.org/community/eclipse_newsletter/2013/october/article1.php
 * https://www.activestate.com/blog/2012/02/diving-deep-komodos-syntax-checker
+* http://www.ust-solutions.com/ugmsamples.aspx
