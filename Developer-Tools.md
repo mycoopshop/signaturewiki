@@ -21,6 +21,9 @@ http://en.lodlive.it
 http://www.bordercloud.com/projects.php
 http://www.ontodia.org/tutorial
 
+### Modeling
+1. https://www.edaplayground.com/x/A4
+
 ### Browser Development
 1. https://developers.google.com/web/tools/chrome-devtools/network-performance/reference
 1. https://developers.google.com/web/updates/2016/12/position-sticky
