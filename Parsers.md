@@ -12,3 +12,4 @@
 * https://www.activestate.com/blog/2012/02/diving-deep-komodos-syntax-checker
 * http://www.ust-solutions.com/ugmsamples.aspx
 * https://en.wikipedia.org/wiki/Comparison_of_parser_generators
+* https://developers.google.com/web/updates/2016/08/removing-document-write
