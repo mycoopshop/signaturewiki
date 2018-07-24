@@ -194,7 +194,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://peterknolle.com/file-upload-lightning-component/
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_lightning_fileUpload.htm
 * https://help.salesforce.com/articleView?id=search_configure_query_solr_federated_search.htm&type=0
-* https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=0
 * https://help.salesforce.com/articleView?id=remoteaccess_using_userinfo_endpoint.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/glossary_master.htm
@@ -534,6 +533,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Server-side JavaScript
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/ssjs_serverSideJavaScript.htm
+
+## Open CTI
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_cti.pdf
+* https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
+* https://docs.aws.amazon.com/connect/latest/adminguide/salesforce-integration.html
 
 ## Reporting
 * https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_getting_started
