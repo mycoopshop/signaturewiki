@@ -16,6 +16,8 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * http://www.salesforce.com/us/developer/docs/api90/Content/sforce_api_calls_soql_bnf_notation.htm
 * https://www.forcetalks.com/salesforce-topic/how-to-show-java-script-variables-on-a-salesforce-visualforce-page/
+* https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_dynamic_vf_components_implementation.htm
+* https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/expr_source.htm
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 
 **Best Practices**
