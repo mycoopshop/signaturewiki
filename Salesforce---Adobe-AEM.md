@@ -588,6 +588,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2016/06/salesforce-console-performance-internet-explorer-firefox-chrome.html
 * https://developer.salesforce.com/blogs/engineering/2016/06/remote-process-invocation-continuations.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/07/six-tips-great-unit-tests.html
+* https://developer.salesforce.com/blogs/engineering/2013/04/apex-test-code-segregation.html
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
 * https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_setting.htm&type=5
