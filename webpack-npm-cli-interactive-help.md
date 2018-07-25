@@ -45,3 +45,4 @@
 * https://www.linux.com/news/parsing-arguments-your-shell-script
 * https://stackoverflow.com/questions/23016298/getopt-like-behavior-in-powershell
 * https://rosettacode.org/wiki/Parse_command-line_arguments#PowerShell
+* https://oclif.io/
