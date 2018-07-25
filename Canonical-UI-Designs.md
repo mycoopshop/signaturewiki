@@ -29,3 +29,7 @@ Liquid: https://www.zeldman.com/2017/11/19/dao-responsive-liquid/
 * https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
 
 * https://stackoverflow.com/questions/12258399/how-to-create-folder-in-github-repository
+
+* https://ux.stackexchange.com/questions/21727/indeterminate-progress-indicator-styles
+
+* https://ux.stackexchange.com/questions/92070/should-clicking-a-checkbox-in-an-indeterminate-state-check-it-or-clear-it-why
