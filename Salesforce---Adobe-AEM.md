@@ -572,6 +572,22 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
 * https://developer.salesforce.com/blogs/engineering/2013/10/behind-the-scenes-of-record-ownership-in-salesforce.html
 
+## Messaging / Chaining
+* https://developer.salesforce.com/page/Streaming_API
+* http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_apex_queueable_chaining.htm
+* https://success.salesforce.com/issues_view?id=a1p3A000000f10RQAQ&title=lightning-items-to-approve-do-not-display-if-owner-is-a-queue
+* https://success.salesforce.com/issues_view?id=a1p3A000000ESeKQAW&title=in-lightning-case-assignment-email-notification-is-sent-to-queue-members-user-when-ownership-is-changed-through-workflow-field-update
+* https://success.salesforce.com/issues_view?id=a1p30000000jjaBAAQ&title=assigning-order-ownership-to-a-queue-in-a-workflow-field-update-results-in-error-when-attempting-to-deploy-via-metadata-api-or-change-set
+* https://help.salesforce.com/articleView?id=code_apex_flex_queue.htm&type=5
+* https://success.salesforce.com/ideaView?id=08730000000kmjRAAQ
+* https://success.salesforce.com/ideaView?id=08730000000bDsmAAE
+* https://developer.salesforce.com/blogs/developer-relations/2013/11/dynamic-reporting-integrating-the-force-com-analytics-and-streaming-apis.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/05/streaming-salesforce-events-heroku-kafka.html
+* https://developer.salesforce.com/blogs/tech-pubs/2014/02/pushing-the-limits-with-streaming-api-in-spring-14.html
+* https://developer.salesforce.com/blogs/developer-relations/2013/01/responsive-visualforce-using-streaming-api-and-asynchronous-apex.html
+* https://developer.salesforce.com/blogs/tech-pubs/2012/05/three-force-com-streaming-api-techniques.html
+* https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
+
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
 * https://developer.salesforce.com/blogs/engineering/2013/05/force-com-concurrent-request-limits.html
