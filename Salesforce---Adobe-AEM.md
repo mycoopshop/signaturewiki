@@ -14,6 +14,8 @@ Excellent verbal and written communication skills
 
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
+* * https://developer.salesforce.com/blogs/developer-relations/2013/06/building-conditional-page-layouts.html
+
 * http://www.salesforce.com/us/developer/docs/api90/Content/sforce_api_calls_soql_bnf_notation.htm
 * https://www.forcetalks.com/salesforce-topic/how-to-show-java-script-variables-on-a-salesforce-visualforce-page/
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_dynamic_vf_components_implementation.htm
@@ -49,10 +51,11 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 
-**Types**
+## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm?search_text=valueof
 * https://help.salesforce.com/articleView?id=faq_apex_classes_triggers.htm&type=5
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
 
 **Defects**
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
@@ -331,6 +334,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## VisualForce
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
+* https://developer.salesforce.com/blogs/tech-pubs/2013/06/updating-visualforce-chart-data.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/best-practices-improving-visualforce-page-performance.html
 * https://developer.salesforce.com/blogs/2017/10/bringing-lightning-styling-visualforce.html
@@ -351,6 +355,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## SOQL
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
+* https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/basic-soql-relationship-queries.html
+* https://developer.salesforce.com/blogs/engineering/2013/03/long-and-short-term-approaches-for-tuning-force-com-performance.html
+* https://developer.salesforce.com/blogs/engineering/2013/08/designing-dashboards-and-reports-for-force-com-implementations-with-large-data-volumes.html
+* https://developer.salesforce.com/blogs/engineering/2013/06/extracting-large-data-volume-ldv-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/09/collecting-selectivity-statistics-for-force-com-queries.html
 * https://developer.salesforce.com/blogs/engineering/2013/07/maximizing-the-performance-of-force-com-soql-reports-and-list-views.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-batch-apex-and-large-data-volumes.html
@@ -375,6 +384,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 * https://developer.salesforce.com/blogs/2017/12/slim-new-bulk-api-v2.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/extreme-salesforce-data-loading-part-1-tune-your-data-model.html
+* https://developer.salesforce.com/blogs/engineering/2013/06/extreme-force-com-data-loading-part-4-sequencing-load-operations.html
+* https://developer.salesforce.com/page/Best_Practices_for_Deployments_with_Large_Data_Volumes
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
@@ -438,6 +449,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Formula Fields
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
+* https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
+* https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 
 ## Release Notes
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
@@ -460,6 +473,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
 * https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
 * https://developer.salesforce.com/page/Integrating_an_AngularJS_App_on_Heroku_with_Force.com
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/creating-hybrid-apps-with-the-salesforce-mobile-pack-for-backbone-js.html
 * https://help.salesforce.com/articleView?id=000126966&type=1
 * https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_om_outboundmessaging.htm
 * https://developer.salesforce.com/page/Webinar:_Apex_REST_API_FAQ
@@ -472,6 +486,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Static Content
 * https://help.salesforce.com/articleView?id=pages_static_resources_manage.htm&type=5
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/instantly-reloading-visualforce-static-resources.html
 
 ## BI
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
@@ -526,6 +541,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
 ## Configuration
+* https://developer.salesforce.com/page/Force.com_workbook
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
 * http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/deploy_sandboxes.pdf
@@ -535,20 +551,34 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/06/running-tests-5x-faster-using-sfdx-and-heroku-ci.html
 * https://developer.salesforce.com/blogs/developer-relations/2013/11/announcing-the-command-line-interface-for-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/11/code-coverage-and-the-force-com-developer-console.html
+* https://developer.salesforce.com/blogs/tech-pubs/2013/05/developer-console-logging-poetry-in-motion.html
+* https://developer.salesforce.com/page/A_Guide_to_Application_Performance_Profiling_in_Force.com
+* https://developer.salesforce.com/page/Webinar:_Advanced_Testing_%26_Debugging_Using_the_Developer_Console_(2013-Apr)
+* https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
 
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
+* https://developer.salesforce.com/blogs/engineering/2013/05/force-com-concurrent-request-limits.html
 * https://developer.salesforce.com/blogs/engineering/2014/07/record-locking-cheat-sheet.html
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
 * https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2015/11/avoiding-the-concurrent-request-limit-via-synchronous-callout-optimization.html
 * https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
+* https://developer.salesforce.com/blogs/developer-relations/2013/06/passing-objects-to-future-annotated-methods.html
 * https://developer.salesforce.com/blogs/engineering/2015/05/platform-cache.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
 * https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
-* https://developer.salesforce.com/page/The_Flow_Factory_Design_Pattern
 * https://developer.salesforce.com/blogs/developer-relations/2016/09/take-the-first-steps-ways-you-can-replace-javascript-buttons.html
 * https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
+
+## Workflows
+* https://help.salesforce.com/articleView?id=customize_wf.htm&type=5
+* https://developer.salesforce.com/page/The_Flow_Factory_Design_Pattern
+* https://help.salesforce.com/articleView?id=workflow_rules_new.htm&type=5
+* https://developer.salesforce.com/docs/atlas.en-us.usefulWorkflowRules.meta/usefulWorkflowRules/workflow_examples.htm
+* https://help.salesforce.com/articleView?id=workflow_rules_define.htm&type=5
+* https://help.salesforce.com/articleView?id=vpm_faq_workflow_comparing.htm&type=5
+* https://developer.salesforce.com/blogs/engineering/2013/07/alert-salesforce-event-notification-designs-for-force-com-apps.html
 
 ## Logging/Debugging/Troubleshooting
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/time-clean-unneeded-salesforce-customizations.html
@@ -590,6 +620,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm
 
 ## XSD/WSDL Transformation
+* https://developer.salesforce.com/blogs/developer-relations/2013/08/integrating-force-com-using-xml-in-apex.html
 * http://crism.maden.org/consulting/pub/xsl/xsd2html.xsl
 * https://github.com/sgml/xsd2html2xml/blob/master/xsd2html.xsl
 * http://www.crimulus.com/2012/04/13/xsl-template-for-converting-xsd-to-complete-xml-prototype-with-inline-specifications/
