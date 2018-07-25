@@ -519,6 +519,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/06/running-tests-5x-faster-using-sfdx-and-heroku-ci.html
 
 ## Concurrency
+* https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
 * https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
 * https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
