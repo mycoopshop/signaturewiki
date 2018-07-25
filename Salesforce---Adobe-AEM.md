@@ -47,6 +47,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
+* https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 
 **Types**
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -62,6 +63,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://developer.salesforce.com/blogs/2018/07/whats-new-with-locker-service.html
+* https://developer.salesforce.com/blogs/tech-pubs/2015/09/login-ip-ranges-security.html
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
 * https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 * https://developer.salesforce.com/page/Secure_Coding_Cross_Site_Scripting#Input_Filtering
@@ -110,6 +112,7 @@ https://research.trust.salesforce.com
 https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_single_sign_on.pdf
 https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
+https://developer.salesforce.com/blogs/developer-relations/2012/09/create-force-com-apps-anywhere-with-force-com-canvas.html
 https://developer.salesforce.com/blogs/developer-relations/2011/04/calling-the-rest-api-from-javascript-from-anywhere.html
 https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/attachfile.htm
 https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
@@ -295,6 +298,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/5-steps-transform-idea-appexchange-app.html
 
 ## ISV
+* https://developer.salesforce.com/blogs/developer-relations/2012/05/dynamic-apex-class-instantiation-in-summer-12.html
+* https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
 * https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
 * https://developer.salesforce.com/blogs/engineering/2017/05/introducing-apex-metadata-api.html
@@ -325,6 +330,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
 
 ## VisualForce
+* https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/best-practices-improving-visualforce-page-performance.html
 * https://developer.salesforce.com/blogs/2017/10/bringing-lightning-styling-visualforce.html
@@ -343,10 +349,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 
 ## SOQL
+* https://developer.salesforce.com/page/Architect_Core_Resources
+* https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
+* https://developer.salesforce.com/blogs/engineering/2013/09/collecting-selectivity-statistics-for-force-com-queries.html
+* https://developer.salesforce.com/blogs/engineering/2013/07/maximizing-the-performance-of-force-com-soql-reports-and-list-views.html
+* https://developer.salesforce.com/blogs/engineering/2013/02/force-com-batch-apex-and-large-data-volumes.html
+* https://developer.salesforce.com/blogs/developer-relations/2012/01/soql-offset-in-spring-12.html
+* https://developer.salesforce.com/blogs/tech-pubs/2012/09/soql-polymorphism-or-how-i-learned-to-love-the-polymorphic-relationship.html
 * https://developer.salesforce.com/blogs/2018/07/a-declarative-rollup-summary-tool-for-force-com-lookup-relationships.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/soql-sql-developer.html
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
+* https://developer.salesforce.com/blogs/engineering/2015/06/preserving-mentions-triggers.html
 * https://help.salesforce.com/articleView?id=code_manage_triggers.htm&type=5
 * https://help.salesforce.com/articleView?id=code_dev_console_tab_query_editor.htm&type=0
 * https://help.salesforce.com/articleView?id=000181277&type=1
@@ -360,6 +374,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 * https://developer.salesforce.com/blogs/2017/12/slim-new-bulk-api-v2.html
+* https://developer.salesforce.com/blogs/engineering/2013/02/extreme-salesforce-data-loading-part-1-tune-your-data-model.html
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
@@ -383,6 +398,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/09/lightning-progress-bar.html
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
 * https://www.slideshare.net/thomaswaud/advanced-designs-for-reusable-lightning-components
 * https://www.slideshare.net/Zen4orce/salesforce-lightning-tips-tricks
@@ -517,13 +533,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=login_hours.htm&type=0
 * https://developer.salesforce.com/blogs/2018/03/salesforce-pipelines-with-heroku-flow.html
 * https://developer.salesforce.com/blogs/2018/06/running-tests-5x-faster-using-sfdx-and-heroku-ci.html
+* https://developer.salesforce.com/blogs/developer-relations/2013/11/announcing-the-command-line-interface-for-force-com.html
+* https://developer.salesforce.com/blogs/engineering/2013/11/code-coverage-and-the-force-com-developer-console.html
 
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
 * https://developer.salesforce.com/blogs/engineering/2014/07/record-locking-cheat-sheet.html
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
 * https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
+* https://developer.salesforce.com/blogs/engineering/2015/11/avoiding-the-concurrent-request-limit-via-synchronous-callout-optimization.html
 * https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
+* https://developer.salesforce.com/blogs/engineering/2015/05/platform-cache.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
 * https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
 * https://developer.salesforce.com/page/The_Flow_Factory_Design_Pattern
@@ -583,10 +603,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000193647&type=1
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_refresh_token_oauth.htm
+* https://developer.salesforce.com/blogs/engineering/2015/11/restrict-access-lightning-applications-step-authentication.html
 * https://help.salesforce.com/articleView?id=sso_delauthentication_configuring.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_networks_cms_connect.htm
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_networks.htm
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/08/rendering-github-json-data-salesforce.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 * https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
 * https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/decode-jwt.htm
