@@ -22,7 +22,10 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/expr_source.htm
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 
-**Best Practices**
+## Anti-Patterns
+* https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
+
+## Best Practices
 * http://www.dreamhouseapp.io
 * https://developer.salesforce.com/page/Wiki
 * https://developer.salesforce.com/page/Packaging
@@ -31,6 +34,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
 * https://developer.salesforce.com/page/Apex_Design_Patterns
 * https://developer.salesforce.com/page/Apex_Code:_The_Basics
@@ -70,6 +74,8 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
 * https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 * https://developer.salesforce.com/page/Secure_Coding_Cross_Site_Scripting#Input_Filtering
+* https://developer.salesforce.com/blogs/engineering/2014/08/understanding-bulk-salesforce1-platform.html
+* https://developer.salesforce.com/blogs/engineering/2014/09/apex-performance-troubleshooting.html
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/secure_coding.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_apexgov.htm#!
 * https://developer.salesforce.com/blogs/engineering/2015/09/when-not-to-use-machine-learning.html
@@ -114,8 +120,6 @@ https://research.trust.salesforce.com/vulns/
 https://research.trust.salesforce.com
 https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
 https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_single_sign_on.pdf
-https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
-https://developer.salesforce.com/blogs/developer-relations/2012/09/create-force-com-apps-anywhere-with-force-com-canvas.html
 https://developer.salesforce.com/blogs/developer-relations/2011/04/calling-the-rest-api-from-javascript-from-anywhere.html
 https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-programmatic-content.meta/mc-programmatic-content/attachfile.htm
 https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
@@ -219,6 +223,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=bi_glossary.htm&type=0
 * https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_platform_glossary.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/visualforce_glossary.htm
+* https://resources.docs.salesforce.com/sfdc/pdf/canvas_framework.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_soql_sosl.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_bulk_v2.pdf
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
@@ -263,6 +268,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003KjpEQAS
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
 
+## force.com canvas
+* https://developer.salesforce.com/page/Webinar_FAQ:_Intro_to_Force.com_Canvas
+* https://developer.salesforce.com/page/Force.com_Canvas
+* https://developer.salesforce.com/blogs/developer-relations/2012/09/create-force-com-apps-anywhere-with-force-com-canvas.html
+
 ## DX
 * https://developer.salesforce.com/platform/dx
 * https://developer.salesforce.com/blogs/developer-relations/2017/07/migrating-existing-projects-salesforce-dx.html
@@ -288,6 +298,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
 * https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
 * https://medium.com/@54chi/continuous-integration-in-salesforce-1697f146ba2f
+* https://developer.salesforce.com/blogs/developer-relations/2013/03/setting-up-jenkins-for-force-com-continuous-integration.html
 * https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=code_system_log.htm&type=0
 * https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
@@ -315,6 +326,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
 
 ## Recovery
+* https://developer.salesforce.com/blogs/developer-relations/2014/11/enterprise-data-architecture.html
 * https://help.salesforce.com/articleView?id=000213366&type=1
 * https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_1
 * https://developer.salesforce.com/page/Salesforce_Backup_and_Restore_Essentials_Part_2
@@ -356,6 +368,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
 * https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
+* https://developer.salesforce.com/blogs/engineering/2014/11/force-com-soql-performance-tips-systemmodstamp-vs-lastmodifieddate-2.html
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/basic-soql-relationship-queries.html
 * https://developer.salesforce.com/blogs/engineering/2013/03/long-and-short-term-approaches-for-tuning-force-com-performance.html
 * https://developer.salesforce.com/blogs/engineering/2013/08/designing-dashboards-and-reports-for-force-com-implementations-with-large-data-volumes.html
@@ -451,6 +464,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
+* https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
 
 ## Release Notes
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
@@ -464,6 +478,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Rest API
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
+* https://developer.salesforce.com/blogs/developer-relations/2013/03/mashing-up-force-com-apis-with-ql-io-part-1.html
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
@@ -555,6 +570,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/A_Guide_to_Application_Performance_Profiling_in_Force.com
 * https://developer.salesforce.com/page/Webinar:_Advanced_Testing_%26_Debugging_Using_the_Developer_Console_(2013-Apr)
 * https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
+* https://developer.salesforce.com/blogs/engineering/2013/10/behind-the-scenes-of-record-ownership-in-salesforce.html
 
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
@@ -562,6 +578,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2014/07/record-locking-cheat-sheet.html
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
 * https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
+* https://developer.salesforce.com/blogs/developer-relations/2013/03/testing-apex-callouts-using-httpcalloutmock.html
 * https://developer.salesforce.com/blogs/engineering/2015/11/avoiding-the-concurrent-request-limit-via-synchronous-callout-optimization.html
 * https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/passing-objects-to-future-annotated-methods.html
