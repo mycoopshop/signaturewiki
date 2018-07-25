@@ -25,6 +25,10 @@ Excellent verbal and written communication skills
 ## Anti-Patterns
 * https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
 
+## Math
+* https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html
+* https://www.salesforce.com/blog/2012/04/include-keyboard-interactions-in-your-design-specifications.html
+
 ## Best Practices
 * http://www.dreamhouseapp.io
 * https://developer.salesforce.com/page/Wiki
