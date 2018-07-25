@@ -1,4 +1,10 @@
-http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/
-https://www.npmjs.com/package/react-redux-analytics-sitecatalyst
-https://marketing.adobe.com/resources/help/en_US/whitepapers/rdc/regional_data_collection.pdf
-https://marketing.adobe.com/resources/help/en_US/sc/implement/analytics-implementation.pdf
+1. http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/
+1. https://www.npmjs.com/package/react-redux-analytics-sitecatalyst
+1. https://marketing.adobe.com/resources/help/en_US/whitepapers/rdc/regional_data_collection.pdf
+1. https://marketing.adobe.com/resources/help/en_US/sc/implement/analytics-implementation.pdf
+1. https://www.slideshare.net/itsvijay/pixel-tags-and-tag-management
+1. https://success.ensighten.com/hc/en-us/search?page=3&query=layer&utf8=✓#results
+1. https://success.ensighten.com/hc/en-us/articles/200386950-DMF-Best-Practices-
+1. https://success.ensighten.com/hc/en-us/articles/115005860903-Delay-Server-Component
+1. https://success.ensighten.com/hc/en-us/articles/201254664-Ensighten-Adobe-Experience-Manager
+1. https://success.ensighten.com/hc/en-us/articles/208124323-Error-Catching-e-gif
