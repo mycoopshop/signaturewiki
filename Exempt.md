@@ -17,3 +17,28 @@ https://www.sba.gov/offices/headquarters/ofa/resources/4018
 
 https://en.wikipedia.org/wiki/Shift_Communications
 https://en.wikipedia.org/wiki/Chelsea_Green_Publishing
+
+
+As noted above, this depends on the location of the property. France, for example, has a housing tax:
+
+>Housing tax is established annually according to the taxpayer’s situation on 1 January of the tax year. This tax is collected by the municipality where the taxpayer’s home is located, and is calculated on the net rental value.
+
+>The Finance Act Bill for the year 2018 provides a gradual decrease in the dwelling tax applicable to a principal residence, to be applied over a three year period starting with the 2018 tax year. 80% of all households are expected to be exempted from the payment of this tax by 2020 as a result.
+
+>This decrease in habitation tax will be applicable to households whose fiscal reference revenue does not exceed 27 000 € for a single taxpayer, increased by 8 000 € for each of the first two half parts for dependents, then by 6 000 € for each additional half part. In order to avoid detrimental impacts of the ceiling, a progressive decrease would be provided for households whose fiscal reference revenue is between these limits and 28 000 € for a single taxpayer (increased by 8 500 € for the first two half parts for dependents) that is 45 000 € for a couple (increased by 6 000 € per additional half part for dependents).
+
+As well as the UK:
+
+>Local authorities are financed partly by the imposition of council tax, which is a property-based tax levied on the occupier of a domestic dwelling at a flat rate per dwelling.
+
+The ownership of the property by a church may mean that special rules are applied to the corporation tax applied to the church. For example, in France:
+
+>Under special rules, such bodies are liable to corporation tax on certain income they derive from their assets (income from property, agricultural profits, certain investment income), which is not related to business for profit. 
+
+**References**
+
+* [France - Other taxes impacting individuals | PWC](http://taxsummaries.pwc.com/ID/France-Individual-Other-Taxes)
+
+* [Overview of the French Tax System (pdf)](https://www.impots.gouv.fr/portail/files/media/1_metier/5_international/french_tax_system.pdf)
+
+* [United Kingdom - Other taxes impacting individuals | PWC](http://taxsummaries.pwc.com/ID/United-Kingdom-Individual-Other-Taxes)
