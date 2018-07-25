@@ -4,6 +4,8 @@ wiki:yes deleted:1
 
 ## Web
 
+humorous visual financial education
+
 title:kubernetes +security ext:pdf -domain:com
 
 +genrsa +pem +java +format
