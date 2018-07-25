@@ -1,4 +1,5 @@
 * https://devopedia.org/package-manager
+* https://medium.com/codefx-weekly/java-9-maven-compile-errors-module-names-kill-switches-73411c511750
 * http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html
 * https://snyk.io/blog/publishing-malicious-packages/
 * https://www.cloudfoundry.org/blog/security-corner-snyk-top-six-vulnerabilities-maven-npm/
