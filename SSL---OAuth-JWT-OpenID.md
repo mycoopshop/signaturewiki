@@ -1,4 +1,5 @@
 * https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm
+* https://www.w3.org/TR/indieauth/
 * https://www.mediawiki.org/wiki/OAuth/For_Developers
 * https://github.com/jaredhanson/passport/wiki/Strategies
 * https://auth0.com/docs/protocols/oidc
