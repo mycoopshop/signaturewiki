@@ -41,7 +41,9 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
-* https://developer.salesforce.com/page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
+* https://developer.salesforce.com
+* https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
+/page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
@@ -57,7 +59,9 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/issues_view?id=a1p3A000000mCHfQAM
 
 **Risks**
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
+* https://developer.salesforce.com/blogs/2018/07/whats-new-with-locker-service.html
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
 * https://developer.salesforce.com/page/Secure_Coding_Arbitrary_Redirect
 * https://developer.salesforce.com/page/Secure_Coding_Cross_Site_Scripting#Input_Filtering
@@ -254,6 +258,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000003L3IsQAK
 
 ## DX
+* https://developer.salesforce.com/platform/dx
+* https://developer.salesforce.com/blogs/developer-relations/2017/07/migrating-existing-projects-salesforce-dx.html
+* https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
+* https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-1.html
+* https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-2.html
+* https://developer.salesforce.com/blogs/2018/02/announcing-unlocked-packages-beta.html
 * https://www.linkedin.com/pulse/salesforce-dx-praneel-pidikiti/
 * https://www.linkedin.com/pulse/salesforce-dx-simplify-development-platform-resolving-sourav-basak/
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
@@ -262,6 +272,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## CLI
 * https://developer.salesforce.com/page/Tools
+* https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html
+* https://developer.salesforce.com/blogs/2018/04/developing-plugins-for-the-salesforce-cli.html
+* https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_api_lightning_console.htm
 * https://www.jitendrazaa.com/blog/salesforce/automate-command-line-dataloader-using-ant-with-dynamic-arguments-and-query/
 * https://www.slideshare.net/developerforce/scripted-data-loads-with-salesforce-dataloader-and-ant
@@ -279,10 +292,15 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000ErH8oUAF
+* https://developer.salesforce.com/blogs/developer-relations/2017/01/5-steps-transform-idea-appexchange-app.html
 
 ## ISV
 * https://www.linkedin.com/pulse/being-platform-developer-salesforce-isv-vs-si-partner-mohith/
 * https://developer.salesforce.com/blogs/engineering/2017/06/apex-metadata-api-security.html
+* https://developer.salesforce.com/blogs/engineering/2017/05/introducing-apex-metadata-api.html
+* https://developer.salesforce.com/blogs/engineering/2017/07/build-powerful-setup-apps-new-apex-metadata-api.html
+* https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
+* https://developer.salesforce.com/blogs/engineering/2017/10/platform-on-the-platform.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
@@ -307,6 +325,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
 
 ## VisualForce
+* https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/01/best-practices-improving-visualforce-page-performance.html
+* https://developer.salesforce.com/blogs/2017/10/bringing-lightning-styling-visualforce.html
+* https://developer.salesforce.com/blogs/2018/01/making-visualforce-work-lightning.html
 * https://help.salesforce.com/articleView?id=custom_links_constructing.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_vf_advanced_pdf.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_output_pdf_considerations.htm
@@ -321,6 +343,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 
 ## SOQL
+* https://developer.salesforce.com/blogs/2018/07/a-declarative-rollup-summary-tool-for-force-com-lookup-relationships.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/03/soql-sql-developer.html
 * https://trailhead.salesforce.com/en/modules/apex_database/units/apex_database_soql
 * https://dreamevent.secure.force.com/articleView?id=platform_connect_considerations_soql.htm&type=5
 * https://help.salesforce.com/articleView?id=code_manage_triggers.htm&type=5
@@ -335,16 +359,28 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## SQL
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
+* https://developer.salesforce.com/blogs/2017/12/slim-new-bulk-api-v2.html
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://www.lightningdesignsystem.com/release-notes/
+* https://developer.salesforce.com/blogs/2018/07/how-variable-types-operate-in-the-lightning-component-framework.html
+* https://developer.salesforce.com/blogs/2018/06/using-path-in-your-custom-lightning-component.html
+* https://developer.salesforce.com/blogs/2018/05/summer18-lightning-base-components-for-editing-data.html
+* https://developer.salesforce.com/blogs/2018/04/lightning-container-component-building-components-with-react-angular-and-other-libraries.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/08/winter-coming-lightning.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-developers-whats-new-lightning.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/05/build-lightning-file-uploader-component.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-inter-component-communication-patterns.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
 * https://medium.com/salesforcesummaries/visualforce-in-lightning-experience-32d024e72d36
 * https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
 * https://www.codescience.com/blog/2017/ultimate-lightning-guide-defining-the-differences-in-salesforce-lightning
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
+* https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=5
@@ -399,6 +435,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Rest API
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
+* https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
 * https://developer.salesforce.com/page/Making_Authenticated_Web_Service_Callouts_Using_Two-Way_SSL
 * http://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_api_meta.htm
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
@@ -478,8 +515,27 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/deploy_sandboxes.pdf
 * https://support.salesforce.com/articleView?id=users_profiles_record_types.htm&type=5
 * https://help.salesforce.com/articleView?id=login_hours.htm&type=0
+* https://developer.salesforce.com/blogs/2018/03/salesforce-pipelines-with-heroku-flow.html
+* https://developer.salesforce.com/blogs/2018/06/running-tests-5x-faster-using-sfdx-and-heroku-ci.html
+
+## Concurrency
+* https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
+* https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
+* https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
+* https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
+* https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
+* https://developer.salesforce.com/page/The_Flow_Factory_Design_Pattern
+* https://developer.salesforce.com/blogs/developer-relations/2016/09/take-the-first-steps-ways-you-can-replace-javascript-buttons.html
+* https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
 
 ## Logging/Debugging/Troubleshooting
+* https://developer.salesforce.com/blogs/developer-relations/2017/01/time-clean-unneeded-salesforce-customizations.html
+* https://developer.salesforce.com/blogs/engineering/2016/01/apex-interactive-debugger.html
+* https://developer.salesforce.com/blogs/engineering/2017/01/salesforce-console-performance.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/02/introducing-salesforce-lightning-inspector.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/06/salesforce-console-performance-internet-explorer-firefox-chrome.html
+* https://developer.salesforce.com/blogs/engineering/2016/06/remote-process-invocation-continuations.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/07/six-tips-great-unit-tests.html
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
 * https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_setting.htm&type=5
