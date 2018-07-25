@@ -37,17 +37,12 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 * https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
-* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
-* https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
-* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
 * https://developer.salesforce.com/page/Apex_Design_Patterns
 * https://developer.salesforce.com/page/Apex_Code:_The_Basics
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
-* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
-* https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
@@ -59,6 +54,16 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
+
+## Specifications
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
+* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_field_names_reference.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -105,9 +110,6 @@ http://documentation.auraframework.org/
 https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
 https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/debug_intro.htm
-https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
-https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
-https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_calls_query.htm
@@ -290,6 +292,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm
 * https://developer.salesforce.com/blogs/developer-relations/2016/12/salesforce-dx-source-driven-development.html
 * https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_install_cli_firewall.htm
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sfdx_setup.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf
 
 ## CLI
 * https://developer.salesforce.com/page/Tools
@@ -447,8 +451,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
 * https://opfocus.com/dynamic-field-binding-in-salesforce-lightning-experience/
 * https://help.salesforce.com/articleView?id=search_fields_lex.htm
-* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sfdx_setup.pdf
-* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf
 * https://salesforce.stackexchange.com/questions/146399/lightning-component-in-lightning-app-builder
 * https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_api_lightning.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_ls_api_version_mix.htm
