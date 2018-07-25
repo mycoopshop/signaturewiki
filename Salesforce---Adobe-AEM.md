@@ -520,6 +520,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
+* https://developer.salesforce.com/blogs/engineering/2014/07/record-locking-cheat-sheet.html
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_apex_queueing_jobs.htm
 * https://developer.salesforce.com/blogs/engineering/2014/05/4-steps-successful-asynchronous-processing-in-force-com.html
 * https://developer.salesforce.com/blogs/2017/10/site-switching-apex-callouts.html
