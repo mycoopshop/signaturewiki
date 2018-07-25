@@ -39,6 +39,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
 * https://developer.salesforce.com/page/Apex_Design_Patterns
 * https://developer.salesforce.com/page/Apex_Code:_The_Basics
@@ -481,6 +482,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 
 ## Rest API
+* https://developer.salesforce.com/page/Salesforce_APIs
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
 * https://developer.salesforce.com/blogs/developer-relations/2013/03/mashing-up-force-com-apis-with-ql-io-part-1.html
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
@@ -665,6 +667,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/sgml/inetmanet/blob/master/_scripts/xsd2html/xsd2html.xsl
 
 ## Authentication
+* https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
 * https://help.salesforce.com/articleView?id=admin_insufficient_privileges_map.htm&type=5
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
