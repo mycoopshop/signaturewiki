@@ -135,6 +135,8 @@ https://markets.cboe.com/us/equities/market_statistics/market_quality/
 https://markets.cboe.com/resource/industry_education/how_trading_works/
 
 # Recycling Bias
+* https://www.bogleheads.org/wiki/Bogleheads®_investment_philosophy
+* https://www.calcxml.com/do/savings-goal-calculator-how-much
 * https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 * https://trisquel.info
 * https://www.fsf.org/about
