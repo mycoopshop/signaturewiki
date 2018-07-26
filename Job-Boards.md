@@ -43,7 +43,9 @@ Strong visualization skills and experience creating images and diagrams of compl
 
 title:salesforce title:developer site:linkedin.com title:us +pulse
 
-sunrun kings lennar vsp
+sac: sunrun kings lennar vsp
+
+solano: community-college bio-rad thatsmybank statefundca
 
 https://www.fremont.k12.ca.us/Page/325
 
