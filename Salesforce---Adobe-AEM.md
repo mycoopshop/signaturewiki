@@ -402,6 +402,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/relationships_among_objects.htm
 
 ## SQL
+* https://engineering.salesforce.com/the-architecture-files-ep-4-the-database-is-a-magician-b951945ea5b8
 * https://developer.salesforce.com/page/Integrate_Salesforce.com_With_Your_On-premise_Database
 * https://developer.salesforce.com/page/The_Salesforce_Bulk_API_-_Maximizing_Parallelism_and_Throughput_Performance_When_Integrating_or_Loading_Large_Data_Volumes
 * https://developer.salesforce.com/blogs/2017/12/slim-new-bulk-api-v2.html
