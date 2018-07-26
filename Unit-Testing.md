@@ -658,3 +658,9 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://www.perl.com/article/167/2015/4/15/Unit-test-your-code-on-an-in-memory-database/
 
 * https://github.com/facebook/react/blob/master/packages/react-dom/src/__tests__/ReactDOMOption-test.js#L97
+
+* https://yourbasic.org/algorithms/induction-recursive-functions/
+
+* https://8thlight.com/blog/cory-foy/2013/01/01/testing-recursion.html
+
+* http://jsatt.com/blog/unit-testing-recursion-in-python/
