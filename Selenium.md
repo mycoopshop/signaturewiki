@@ -1,3 +1,4 @@
+* https://wiki.saucelabs.com/display/DOCS/Annotating+Tests+with+Selenium%27s+JavaScript+Executor
 * https://stackoverflow.com/questions/18150593/selenium-multiple-tabs-at-once
 * https://www.testingexcellence.com/open-new-tab-browser-using-selenium-webdriver-java/
 * https://www.guru99.com/execute-javascript-selenium-webdriver.html
