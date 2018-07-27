@@ -9,6 +9,10 @@ https://apps.irs.gov/app/freeFile/jsp/wizard.jsp
 
 https://taxfoundation.org
 
+https://calhoun.nps.edu/bitstream/handle/10945/1067/01Dec_Morrow.pdf;sequence=1
+
+https://www.irs.gov/pub/irs-tege/fringe_benefit_fslg.pdf
+
 https://www.nasdaq.com/article/3-taxsensitive-investment-strategies-to-implement-now-cm390868
 http://kelsoinstitute.org/louiskelso/kelso-paradigm/questions-and-answers/
 https://www.irs.gov/irm/part4/irm_04-072-004
