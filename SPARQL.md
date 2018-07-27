@@ -10,12 +10,22 @@
 * https://www.youtube.com/watch?v=6qc8ytfgAOw
 * https://www.youtube.com/watch?v=bifqad-SG4k
 * https://www.youtube.com/watch?v=645bk8HQ4aw
+* https://www.w3.org/2009/Talks/0615-qbe/
 * https://www.w3.org/TR/ld-glossary/
 * https://www.w3.org/2003/glossary/subglossary/rdf-mt.rdf/
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856163/
+* https://en.wikibooks.org/wiki/SPARQL/FILTER
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
-* https://www.w3.org/2007/03/RdfRDB/papers/seaborne.html
+* https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/suggestions
+* https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries
+* https://www.wikidata.org/wiki/Wikidata_talk:SPARQL_query_service/queries
+* https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions
+* http://index-of.co.uk/Artificial-Intelligence/Morgan.Kaufmann.Semantic.Web.for.the.Working.Ontologist.May.2008.pdf
+* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-nuts-bolts/
 * https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
+* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856163/
+* https://www.w3.org/2007/03/RdfRDB/papers/seaborne.html
+* https://www.slideshare.net/jelabra/introduction-to-sparql-83806610
 * https://www.slideshare.net/OpenDataSupport/introduction-to-rdf-sparql
 * https://sites.tufts.edu/liam/2014/02/27/sparql/
 * http://dig.csail.mit.edu/2010/Courses/6.898/resources/sparql-tutorial.pdf
@@ -42,13 +52,13 @@
 * http://www.oraclealchemist.com/news/linked-data-rdf-and-sparql-part-1/
 * https://docs.oracle.com/en/database/oracle/oracle-database/18/rdfrm/spatial-and-graph-rdf-semantic-graph-developers-guide.pdf
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3073186/
-* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-nuts-bolts/
-* https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
 * https://hal.archives-ouvertes.fr/hal-01245883/document
 * https://www.topquadrant.com/2014/05/05/comparing-sparql-with-sql/
 * http://explore.dublincore.net/about/
+* http://www.site.uottawa.ca/~diana/csi5180/AIMagzine-DeepQA.pdf
 * https://eprints.soton.ac.uk/397863/1/sparql2sql.pdf
 * http://people.csail.mit.edu/rivest/Sexp.txt
+* https://docs.aws.amazon.com/neptune/latest/userguide/bulk-load-tutorial-format-rdf.html
 
     SELECT Person.fname, Address.city
     FROM Person, Address
