@@ -410,6 +410,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2013/06/extreme-force-com-data-loading-part-4-sequencing-load-operations.html
 * https://developer.salesforce.com/page/Best_Practices_for_Deployments_with_Large_Data_Volumes
 
+## Routing
+* https://developer.salesforce.com/blogs/2018/01/heres-need-know-new-url-format-lightning.html
+
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://www.lightningdesignsystem.com/release-notes/
@@ -473,6 +476,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
+
+## Blogs
+* https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
+* http://www.sfdcpanther.com/summer-18-gems-for-salesforce-developer/
+* https://jetbi.com/salesforce-summer-2018-release-overview
 
 ## Release Notes
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
