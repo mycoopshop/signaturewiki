@@ -38,6 +38,7 @@
 * http://marenas.sitios.ing.uc.cl/talks/pods11.pdf
 * https://www.cs.purdue.edu/homes/aref/Spring2018CS348/slides/w9.1-Introduction-to-the-Semantic-Web-Databases-v1.pdf
 * http://www.cs.rpi.edu/academics/courses/fall07/semantic/CH4.pdf
+* http://ceur-ws.org/Vol-1963/paper576.pdf
 * https://query.wikidata.org/
 * https://www.wikidata.org/wiki/Property:P1661
 * https://www.wikidata.org/wiki/Property:P856
