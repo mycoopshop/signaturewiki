@@ -42,3 +42,9 @@ The ownership of the property by a church may mean that special rules are applie
 * [Overview of the French Tax System (pdf)](https://www.impots.gouv.fr/portail/files/media/1_metier/5_international/french_tax_system.pdf)
 
 * [United Kingdom - Other taxes impacting individuals | PWC](http://taxsummaries.pwc.com/ID/United-Kingdom-Individual-Other-Taxes)
+
+## Dollar out of 15 cents
+
+coinstar => amazon gamestop regal ihop southwest amc chilis
+
+upcs => csv
