@@ -5,10 +5,16 @@
 * https://help.salesforce.com/articleView?id=Retirement-of-Default-Certificate-affects-SAML-Single-Sign-On-into-Salesforce&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 
+
 ## Documentation
 
 * https://www.drupal.org/core/deprecation
 * https://www.mediawiki.org/wiki/Deprecation_policy
+* http://www.oracle.com/technetwork/java/archive-139210.html
+
+## APIs
+
+* https://bugs.openjdk.java.net/browse/JDK-8157123
 
 ## Certifications
 
