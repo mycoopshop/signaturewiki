@@ -280,6 +280,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Force.com_Canvas
 * https://developer.salesforce.com/blogs/developer-relations/2012/09/create-force-com-apps-anywhere-with-force-com-canvas.html
 
+## Marketing Cloud
+* https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
+* https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
+
 ## DX
 * https://developer.salesforce.com/platform/dx
 * https://developer.salesforce.com/blogs/developer-relations/2017/07/migrating-existing-projects-salesforce-dx.html
