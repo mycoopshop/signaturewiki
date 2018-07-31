@@ -16,6 +16,8 @@
 
 * http://blog.danbrust.net/2015/09/14/installing-visual-basic-studio-6-on-windows-10/
 
+* https://medium.com/@jsilvax/introducing-webpack-into-an-existing-java-based-web-app-ff53f14d37ec
+
 ## APIs
 
 * https://bugs.openjdk.java.net/browse/JDK-8157123
@@ -23,6 +25,8 @@
 * https://github.com/spring-projects/spring-framework/blob/master/spring-core/src/test/java/org/springframework/util/AntPathMatcherTests.java
 
 * http://stacktips.com/tutorials/java/spring/how-spring-controller-request-mapping-works-in-spring-mvc
+
+
 ## Certifications
 
 * https://www.salesforce.com/blog/2016/11/force-developer-retiring-certification.html
