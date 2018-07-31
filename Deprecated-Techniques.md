@@ -16,6 +16,9 @@
 
 * https://bugs.openjdk.java.net/browse/JDK-8157123
 
+* https://github.com/spring-projects/spring-framework/blob/master/spring-core/src/test/java/org/springframework/util/AntPathMatcherTests.java
+
+* http://stacktips.com/tutorials/java/spring/how-spring-controller-request-mapping-works-in-spring-mvc
 ## Certifications
 
 * https://www.salesforce.com/blog/2016/11/force-developer-retiring-certification.html
