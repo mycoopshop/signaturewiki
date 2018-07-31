@@ -49,6 +49,13 @@ Perl Jenkins Redis
 * https://community.toadworld.com/platforms/oracle/w/wiki/11683.creating-a-hello-world-kubernetes-application
 * https://blogs.oracle.com/weblogicserver/security-best-practices-for-weblogic-server-running-in-docker-and-kubernetes
 
+**Government**
+* https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/06/CPI-Setup-on-Azure-Government.pdf
+* https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/12/Cloud-Terminology-Handout.pdf
+* https://cdt.ca.gov/wp-content/uploads/2017/08/17-08-Off-Premises-Cloud-Services-Final.pdf
+* https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/07/IaaS-PaaS-Contract-1-17-70-50A-JHC-Technology.pdf
+
+
 **Containers**
 * https://medium.com/@lojorider/docker-with-cgi-perl-a4558ab6a329
 * https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
