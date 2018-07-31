@@ -29,6 +29,12 @@
 # Outline Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 
+# University Bias
+* http://www.salesforce.org/highered/hed-marketing/
+* https://www.salesforce.com/ca/solutions/industries/higher-ed/overview/
+* http://www.salesforce.org/highered/advancement-software/
+* http://www.salesforce.org/highered/recruiting/
+
 # Language Bias
 * https://itunes.apple.com/us/app/id1273162445
 * https://play.google.com/store/apps/details?id=com.dictionary.paid
