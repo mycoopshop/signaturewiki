@@ -12,6 +12,10 @@
 * https://www.mediawiki.org/wiki/Deprecation_policy
 * http://www.oracle.com/technetwork/java/archive-139210.html
 
+## Installation
+
+* http://blog.danbrust.net/2015/09/14/installing-visual-basic-studio-6-on-windows-10/
+
 ## APIs
 
 * https://bugs.openjdk.java.net/browse/JDK-8157123
