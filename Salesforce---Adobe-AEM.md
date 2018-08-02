@@ -55,6 +55,11 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 
+## How-tos
+* https://help.salesforce.com/articleView?id=000001053&type=1
+* https://help.salesforce.com/articleView?id=How-to-Platform-Backup-and-Manage-Salesforce-Data&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000176287&type=3
+
 ## Specifications
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_field_names_reference.pdf
@@ -66,6 +71,8 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/field_service_dev.pdf
 
+## Team Building
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
 
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -107,7 +114,13 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/weve-learned-building-field-service-lightning-best-practices-development.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/06/enhancing-workflows-weather-company-data-service.html
-
+* https://developer.salesforce.com/blogs/developer-relations/2015/05/single-page-survey-application-visualforce-jquerymobile-knockout.html
+* https://www.lynda.com/Salesforce-tutorials/Lightning-App-Builder/647654/673070-4.html
+* https://www.lynda.com/Web-Development-tutorials/Understand-YAML/560344/590558-4.html
+* https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html
+* https://www.lynda.com/Adobe-Experience-Design-tutorials/What-AEM/503884/552802-4.html
+* https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
+* https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
 
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
@@ -187,8 +200,6 @@ https://help.salesforce.com/articleView?id=user_security_token.htm&type=5
 https://help.salesforce.com/articleView?id=networks_security.htm&type=5
 https://help.salesforce.com/articleView?id=bi_security_datasets_row_level.htm&type=5
 https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_considerations.htm&type=5
-* https://www.lynda.com/Visualforce-tutorials/Developing-Visualforce/172850-2.html#tab
-* https://www.lynda.com/Visualforce-tutorials/Built-Apex-action-components/384724/428864-4.html#tab
 * https://help.salesforce.com/articleView?id=security_networkaccess.htm&type=0
 * https://help.salesforce.com/articleView?id=siteforce_ip_set.htm&type=0
 * https://help.salesforce.com/articleView?id=sites_public_access_settings.htm&type=0
@@ -204,9 +215,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.slideshare.net/developerforce/migrating-visualforce-pages-to-lightning
 * https://success.salesforce.com/
 * https://developer.ibm.com/urbancode/plugindoc/ibmucd/salesforce/1-2/steps/
-* https://www.lynda.com/Web-Development-tutorials/Understand-YAML/560344/590558-4.html
-* https://www.lynda.com/CSS-tutorials/CSS-Animation/439683-2.html
-* https://www.lynda.com/Adobe-Experience-Design-tutorials/What-AEM/503884/552802-4.html
 * https://tekslate.com/category/salesforce-crm/
 * http://blogatsalesforce.blogspot.com/
 * http://www.informit.com/articles/article.aspx?p=2164576&seqNum=4
@@ -333,6 +341,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000ErH8oUAF
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003I2gDEAS
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/5-steps-transform-idea-appexchange-app.html
 
 ## ISV
@@ -476,7 +485,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_force_recordView.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/data_service.htm
 * https://developerforce.github.io/lightning-app-builder-tutorial/
-* https://www.lynda.com/Salesforce-tutorials/Lightning-App-Builder/647654/673070-4.html
 * http://developerforce.github.io/lightning-components-tutorial/
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
