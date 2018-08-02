@@ -14,6 +14,8 @@ linkedin.com apex lightning visualforce html
 
 title:profile +github +analytics site:builtwith.com
 
+url:page site:developer.salesforce.com
+
 ## Github
 
 "e_notice" "e_all" language:c
