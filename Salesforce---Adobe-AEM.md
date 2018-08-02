@@ -64,6 +64,8 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/field_service_dev.pdf
+
 
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -97,6 +99,15 @@ Excellent verbal and written communication skills
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
 * https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
+
+**Tutorials**
+* https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
+* https://developer.salesforce.com/page/Establish_Business_Logic
+* https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/03/weve-learned-building-field-service-lightning-best-practices-development.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/06/enhancing-workflows-weather-company-data-service.html
+
 
 **Documentation**
 "Hands-on Challenge" 500 site:trailhead.salesforce.com
