@@ -1,3 +1,7 @@
+* https://en.wikipedia.org/wiki/Common_Crawl#cite_note-semanticweb_1-7
+
+* http://commoncrawl.org/the-data/get-started/
+
 * http://archive.xmlprague.cz/2018/files/xmlprague-2018-proceedings.pdf
 
 * https://dev.socrata.com/docs/cors-and-jsonp.html
