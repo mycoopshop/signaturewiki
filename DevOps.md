@@ -74,7 +74,7 @@ Perl Jenkins Redis
 * https://community.kde.org/Android/Environment_via_Container
 * http://blogs.cornell.edu/cloudification/category/docker/
 * http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
-* http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
+* http://devops.sys-con.com/node/4046609/print
 
 **References**
 
