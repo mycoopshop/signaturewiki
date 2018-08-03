@@ -46,6 +46,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000037hrbAAA
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 * https://developer.salesforce.com
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
@@ -54,6 +55,12 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
+* https://help.salesforce.com/articleView?id=security_transactions_best_practices.htm&type=5
+* https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=vpm_considerations_bestpractices.htm&type=5
+* https://help.salesforce.com/articleView?id=business_network_mapping_best_practices.htm&type=5
+* https://help.salesforce.com/articleView?id=domain_name_guidelines.htm&type=0
+* https://help.salesforce.com/articleView?id=process_considerations_design_bestpractices.htm&type=5
 
 ## How-tos
 * https://help.salesforce.com/articleView?id=000001053&type=1
@@ -73,6 +80,8 @@ Excellent verbal and written communication skills
 
 ## Team Building
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
+* https://help.salesforce.com/articleView?id=000212993&type=1
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000037D0bAAE
 
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -224,7 +233,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://helpx.adobe.com/sign/help/adobe_sign_for_salesforce_developer_guide.html
 * https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
 * https://www.sec.gov/Archives/edgar/data/1108524/000119312510004443/dex992.htm
-* https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * http://file.lacounty.gov/SDSInter/bos/supdocs/117363.pdf
 * https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
 * https://www.linkedin.com/pulse/salesforce-security-review-my-3x-failure-dave-rasmussen/
@@ -302,6 +310,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Marketing Cloud
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
+* https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
+
+## Service Cloud
+* https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
+
+## Pardot
+* https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
+* https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
 
 ## DX
 * https://developer.salesforce.com/platform/dx
