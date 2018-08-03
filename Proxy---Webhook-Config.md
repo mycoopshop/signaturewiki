@@ -6,3 +6,4 @@
 * https://dzone.com/articles/solving-the-options-performance-issue-with-single
 * https://arpitonline.com/2017/02/09/serving-multiple-reactjs-apps-with-express/
 * https://medium.com/@whale_eat_squid/why-http-2-isnt-the-answer-35ba28ad8dc3
+* https://wikitech.wikimedia.org/wiki/Performance/Proxy_browsers
