@@ -14,6 +14,12 @@
 * https://jsfiddle.net/fbhg7aa1/1/
 * [Url.urlservice - UI-Router](https://ui-router.github.io/ng1/docs/1.0.0/classes/url.urlservice.html)
 
+## Referer based Heuristics
+* https://bugs.webkit.org/show_bug.cgi?id=85374
+* https://www.owasp.org/images/archive/9/9a/20150423200346%21OWASP_Cheatsheets_Book.pdf
+* http://www.cs.uccs.edu/~jkalita/papers/2018/UpasanaSarmahIJCNA2018.pdf
+* https://github.com/w3c/webcomponents/issues/184
+
 ## Server Side Routes
 * https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/razor-pages-convention-features
 * https://www.npmjs.com/package/react-server-routing-example
