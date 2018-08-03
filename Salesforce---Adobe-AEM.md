@@ -120,6 +120,8 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
 * https://developer.salesforce.com/page/Establish_Business_Logic
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/weve-learned-building-field-service-lightning-best-practices-development.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/06/enhancing-workflows-weather-company-data-service.html
@@ -268,7 +270,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2015/06/solved-acronym-overload-5-easy-steps.html
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.mc-apis.meta/mc-apis/triggeredsenddefinition.htm
 * https://salesforce.stackexchange.com/questions/101862/marketing-cloud-email-attachment-via-salesforce
-* https://support.desk.com/customer/portal/articles/982116-smtp-relay-errors
 * http://www.salesforce.org/wish-knew-getting-started-salesforce/
 * https://www.salesforce.com/blog/2017/10/salesforce-economy-idc-study-2022.html
 * https://www.salesforce.com/company/careers/pathfinders/
@@ -311,6 +312,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
 * https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_es_best_practices_data_extensions_query_activities.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_bp_goal_and_exit_best_practices.htm&type=5
 
 ## Service Cloud
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
@@ -515,6 +518,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
+* https://help.salesforce.com/articleView?id=fields_lookup_filters_best_practices.htm&type=5
 
 ## Blogs
 * https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
@@ -627,6 +631,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Webinar:_Advanced_Testing_%26_Debugging_Using_the_Developer_Console_(2013-Apr)
 * https://developer.salesforce.com/blogs/engineering/2013/05/force-com-performance-profiling-using-the-developer-console.html
 * https://developer.salesforce.com/blogs/engineering/2013/10/behind-the-scenes-of-record-ownership-in-salesforce.html
+* https://help.salesforce.com/articleView?id=Code-coverage-steps-and-considerations-prior-to-deployments&type=1
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000036AisAAE
 
 ## Messaging / Chaining
 * https://developer.salesforce.com/page/Streaming_API
@@ -734,6 +740,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 * https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
 * https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/decode-jwt.htm
+* https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 
 ## Packaging
 * https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
@@ -752,6 +759,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Reporting
 * https://trailhead.salesforce.com/en/modules/reports_dashboards/units/reports_dashboards_getting_started
+* https://help.salesforce.com/articleView?id=000025306&type=1
+* https://help.salesforce.com/articleView?id=000025298&language=en_US&type=1
 
 ## Migration
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
