@@ -93,6 +93,7 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
 * https://success.salesforce.com/issues_view?id=a1p3A000000mCHfQAM
+* https://success.salesforce.com/ideaview?id=0873000000081cUAAQ
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
@@ -243,7 +244,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Multi_Tenant_Architecture
 * http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
-* https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
 * https://salesforce.stackexchange.com/questions/159866/any-way-to-include-keyframes-in-lightning-component-css-file
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=0
@@ -682,7 +682,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/introducing-salesforce-lightning-inspector.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/06/salesforce-console-performance-internet-explorer-firefox-chrome.html
 * https://developer.salesforce.com/blogs/engineering/2016/06/remote-process-invocation-continuations.html
-* https://developer.salesforce.com/blogs/developer-relations/2016/07/six-tips-great-unit-tests.html
 * https://developer.salesforce.com/blogs/engineering/2013/04/apex-test-code-segregation.html
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
 * https://help.salesforce.com/articleView?id=code_setting_debug_log_levels.htm&type=5
@@ -714,6 +713,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=code_manage_packages.htm&type=5
 * https://help.salesforce.com/articleView?id=faq_apex_callout_validation.htm&type=0
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_wsdl2apex_considerations.htm
+* https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
+* https://developer.salesforce.com/blogs/developer-relations/2016/07/six-tips-great-unit-tests.html
+* https://success.salesforce.com/answers?id=9063A000000p6BvQAI
+
 
 ## XSD/WSDL Transformation
 * https://developer.salesforce.com/blogs/developer-relations/2013/08/integrating-force-com-using-xml-in-apex.html
