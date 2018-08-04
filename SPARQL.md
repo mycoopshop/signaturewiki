@@ -18,7 +18,9 @@
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/suggestions
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries
 * https://www.wikidata.org/wiki/Wikidata_talk:SPARQL_query_service/queries
+* https://upload.wikimedia.org/wikipedia/commons/d/d6/Wikidata%27s_SPARQL_introduction_presentation.pdf
 * https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions
+* https://en.wikibooks.org/wiki/SPARQL/WIKIDATA_Qualifiers,_References_and_Ranks
 * http://index-of.co.uk/Artificial-Intelligence/Morgan.Kaufmann.Semantic.Web.for.the.Working.Ontologist.May.2008.pdf
 * https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-nuts-bolts/
 * https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
@@ -27,6 +29,7 @@
 * https://www.w3.org/2007/03/RdfRDB/papers/seaborne.html
 * https://www.slideshare.net/jelabra/introduction-to-sparql-83806610
 * https://www.slideshare.net/OpenDataSupport/introduction-to-rdf-sparql
+* https://www.slideshare.net/_Emw/an-ambitious-wikidata-tutorial
 * https://sites.tufts.edu/liam/2014/02/27/sparql/
 * http://dig.csail.mit.edu/2010/Courses/6.898/resources/sparql-tutorial.pdf
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4893829/
@@ -40,10 +43,12 @@
 * http://www.cs.rpi.edu/academics/courses/fall07/semantic/CH4.pdf
 * http://ceur-ws.org/Vol-1963/paper576.pdf
 * https://query.wikidata.org/
-* https://www.wikidata.org/wiki/Property:P1661
-* https://www.wikidata.org/wiki/Property:P856
-* https://www.wikidata.org/wiki/Property:P585
+* https://www.wikidata.org/wiki/Wikidata:List_of_properties/all_in_one_table
+* https://www.wikidata.org/wiki/Help:Dates
+* https://www.wikidata.org/wiki/Property_talk:P585
+* https://docs.data.world/tutorials/sparql/list-of-sparql-filter-functions.html
 * https://www.w3.org/TR/sparql11-results-json/
+* https://github.com/neveldo/TextGenerator
 * https://docs.marklogic.com/guide/semantics/semantic-searches
 * https://ontotext.com/power-visualization-graphdb/
 * https://docs.oracle.com/cd/E11882_01/appdev.112/e25609/sdo_rdf_concepts.htm#RDFRM595
