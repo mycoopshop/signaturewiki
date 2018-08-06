@@ -531,7 +531,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=Heroku-Trust-and-Compliance-Documentation&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Interpreting-the-Forensic-Logs&language=en_US&type=1
 * https://www.salesforce.com/blog/2017/08/salesforce-shield-ensure-compliance.html
-
+* https://www.sec.gov/Archives/edgar/data/1393052/000156459016015753/veev-ex1017_286.htm
+* https://help.salesforce.com/articleView?id=000212606&language=en_US&type=1
+* https://s3-us-west-1.amazonaws.com/sftrusthomecomplianc/docs/Salesforce-Processor-BCR.pdf
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf
 ## Blogs
 * https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
 * http://www.sfdcpanther.com/summer-18-gems-for-salesforce-developer/
