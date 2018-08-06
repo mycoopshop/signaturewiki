@@ -6,6 +6,21 @@
 
     select alexa rank > 500; get website where alexa > 500
 
+# Syntax
+
+    # Demonstrates filtering for value greater than a real number
+    SELECT DISTINCT ?alexarank ?website ?websiteLabel ?sitelink 
+    WHERE
+    {
+	?website wdt:P1661 ?alexarank.
+        OPTIONAL{ ?website wdt:P856 ?sitelink }
+	FILTER (?alexarank < 200) .
+	SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
+    }
+    ORDER BY ?alexarank
+# URL
+https://query.wikidata.org/#%23%20Demonstrates%20filtering%20for%20value%20greater%20than%20a%20real%20number%0ASELECT%20DISTINCT%20%3Falexarank%20%3Fwebsite%20%3FwebsiteLabel%20%3Fsitelink%20%0AWHERE%0A%7B%0A%09%3Fwebsite%20wdt%3AP1661%20%3Falexarank.%0A%20%20%20%20OPTIONAL%7B%20%3Fwebsite%20wdt%3AP856%20%3Fsitelink%20%7D%0A%09FILTER%20%28%3Falexarank%20<%20200%29%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen"%20%7D%0A%7D%0AORDER%20BY%20%3Falexarank
+
 **References**
 * https://www.youtube.com/watch?v=6qc8ytfgAOw
 * https://www.youtube.com/watch?v=bifqad-SG4k
