@@ -292,7 +292,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/assets/pdf/misc/Platform_Encryption_Architecture_White_Paper.pdf
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=01530000003SIm9AAG
 * http://content.trust.salesforce.com/trust/uk/learn/protection/
-* https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/tracking_field_history.htm
 * https://www.salesforce.com/form/pdf/platform-field-audit.jsp
 * https://help.salesforce.com/articleView?id=installing_the_data_loader.htm&type=5
@@ -321,6 +320,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
 
 ## DX
 * https://developer.salesforce.com/platform/dx
@@ -519,6 +519,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
 * https://help.salesforce.com/articleView?id=fields_lookup_filters_best_practices.htm&type=5
+
+## Auditing
+* https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
+* https://help.salesforce.com/articleView?id=security_overview_auditing.htm&type=5
+* https://www.salesforce.com/ca/blog/2015/03/content-audit.html
+* https://s1.q4cdn.com/454432842/files/gov_docs/audit_charter.pdf
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf
+* https://help.salesforce.com/articleView?id=pardot_prospect_audits.htm&type=5
+* https://help.salesforce.com/articleView?id=How-to-determine-which-Salesforce-user-deleted-record&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=Heroku-Trust-and-Compliance-Documentation&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=Interpreting-the-Forensic-Logs&language=en_US&type=1
+* https://www.salesforce.com/blog/2017/08/salesforce-shield-ensure-compliance.html
 
 ## Blogs
 * https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
