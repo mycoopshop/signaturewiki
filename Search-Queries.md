@@ -20,6 +20,8 @@ site:help.salesforce.com title:best
 
 "by its employees" +software site:wikipedia.org
 
+title:sdk title:notes site:oracle.com +jdk
+
 ## Github
 
 "e_notice" "e_all" language:c
