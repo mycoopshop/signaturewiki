@@ -11,3 +11,7 @@
 
 **Webpack**
 * --profile: https://engineering.bitnami.com/articles/optimizing-your-webpack-builds.html
+
+**NodeJS**
+* context: https://electronjs.org/docs/all
+* Proxy Sandbox: https://www.npmjs.com/package/vm2
