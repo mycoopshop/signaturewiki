@@ -1,4 +1,6 @@
 * http://apisjson.org/
+* https://services.odata.org/
+* https://www.odata.org/getting-started/understand-odata-in-6-steps/
 * https://apis.guru/
 * http://agile-iot.github.io/agile-api-spec/docs/html/api.html
 * https://www.ibm.com/developerworks/library/wa-use-swagger-to-document-and-define-restful-apis/
