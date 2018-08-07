@@ -1,5 +1,6 @@
 * http://apisjson.org/
 * https://services.odata.org/
+* https://opendata.stackexchange.com/questions/266/a-database-of-open-databases
 * https://www.odata.org/getting-started/understand-odata-in-6-steps/
 * https://apis.guru/
 * http://agile-iot.github.io/agile-api-spec/docs/html/api.html
