@@ -11,6 +11,8 @@
 * https://www.drupal.org/core/deprecation
 * https://www.mediawiki.org/wiki/Deprecation_policy
 * http://www.oracle.com/technetwork/java/archive-139210.html
+* Tools Reference: https://docs.oracle.com/javase/10/tools/JSWOR.pdf
+* Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
 
 ## Installation
 
