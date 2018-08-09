@@ -130,3 +130,5 @@ and unescaped strings can be dangerous as well:
 * [The htp and htf Packages](https://docs.oracle.com/cd/B14099_19/web.1012/b15896/pshtp.htm)
 
 * [HTP](https://docs.oracle.com/cd/B28359_01/appdev.111/b28419/w_htp.htm#BABGJJIH)
+
+* [MessageFormat (icu4j)](http://icu-project.org/applets/icu4j/4.1/docs-4_1_3/com/ibm/icu/text/MessageFormat.html)
