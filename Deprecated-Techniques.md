@@ -8,9 +8,15 @@
 
 ## Documentation
 
-* https://www.drupal.org/core/deprecation
-* https://www.mediawiki.org/wiki/Deprecation_policy
-* http://www.oracle.com/technetwork/java/archive-139210.html
+* Deprecation: https://www.drupal.org/core/deprecation
+* Deprecation: https://www.mediawiki.org/wiki/Deprecation_policy
+* Archive: http://www.oracle.com/technetwork/java/archive-139210.html
+* Glossary: http://www.oracle.com/technetwork/java/glossary-135216.html
+* Incompatibility: http://www.oracle.com/technetwork/java/javase/compatibility-137462.html
+* Archive: https://docs.oracle.com/javase/7/docs/technotes/tools/windows/jar.html
+* Test Suite: https://docs.oracle.com/javame/test-tools/jctt/testsuite_devguide.pdf
+* Secure Coding: https://www.oracle.com/technetwork/java/seccodeguide-139067.html
+* i18n: https://docs.oracle.com/javase/tutorial/i18n/serviceproviders/resourcebundlecontrolprovider.html
 * Tools Reference: https://docs.oracle.com/javase/10/tools/JSWOR.pdf
 * Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
 
