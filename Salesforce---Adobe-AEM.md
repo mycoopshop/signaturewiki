@@ -15,6 +15,7 @@ Excellent verbal and written communication skills
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://github.com/forceworkbench/forceworkbench/wiki
+* https://github.com/forcedotcom/idecore/blob/master/com.salesforce.ide.ui.editors/config/apexModel.xml#L4128
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/building-conditional-page-layouts.html
 * http://www.salesforce.com/us/developer/docs/api90/Content/sforce_api_calls_soql_bnf_notation.htm
 * https://www.forcetalks.com/salesforce-topic/how-to-show-java-script-variables-on-a-salesforce-visualforce-page/
