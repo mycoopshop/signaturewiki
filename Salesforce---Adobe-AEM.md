@@ -24,6 +24,7 @@ Excellent verbal and written communication skills
 
 ## Anti-Patterns
 * https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf
 
 ## Math
 * https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html
