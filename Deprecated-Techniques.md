@@ -8,6 +8,11 @@
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
 
+## Data Modeling
+
+* http://developer.classpath.org/doc/java/util/Properties-source.html
+* http://www.docjar.com/html/api/java/util/Properties.java.html
+
 ## Documentation
 
 * Deprecation: https://www.drupal.org/core/deprecation
