@@ -5,6 +5,8 @@
 * https://help.salesforce.com/articleView?id=Retirement-of-Default-Certificate-affects-SAML-Single-Sign-On-into-Salesforce&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 
+## Schema
+* XML DTDs: https://www.jcp.org/dtd/
 
 ## Documentation
 
