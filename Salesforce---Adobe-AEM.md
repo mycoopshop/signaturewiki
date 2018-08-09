@@ -14,8 +14,8 @@ Excellent verbal and written communication skills
 
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
-* * https://developer.salesforce.com/blogs/developer-relations/2013/06/building-conditional-page-layouts.html
-
+* https://github.com/forceworkbench/forceworkbench/wiki
+* https://developer.salesforce.com/blogs/developer-relations/2013/06/building-conditional-page-layouts.html
 * http://www.salesforce.com/us/developer/docs/api90/Content/sforce_api_calls_soql_bnf_notation.htm
 * https://www.forcetalks.com/salesforce-topic/how-to-show-java-script-variables-on-a-salesforce-visualforce-page/
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_dynamic_vf_components_implementation.htm
@@ -31,7 +31,9 @@ Excellent verbal and written communication skills
 
 ## Best Practices
 * http://www.dreamhouseapp.io
+* https://developer.salesforce.com/page/Cheat_Sheets
 * https://developer.salesforce.com/page/Wiki
+* http://developer.force.com/codeshare/
 * https://developer.salesforce.com/page/Packaging
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Separation_of_Concerns
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
@@ -72,6 +74,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_field_names_reference.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_ide2.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
@@ -98,6 +101,8 @@ Excellent verbal and written communication skills
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
+* https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
+* https://help.salesforce.com/articleView?id=console_lex_limitations.htm&type=5
 * https://developer.salesforce.com/blogs/2018/07/whats-new-with-locker-service.html
 * https://developer.salesforce.com/blogs/tech-pubs/2015/09/login-ip-ranges-security.html
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
@@ -316,6 +321,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Service Cloud
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
+* https://developer.salesforce.com/page/SnapinsMobile
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
@@ -348,14 +354,20 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://force201.wordpress.com/2010/10/15/scripting-the-apex-data-loader-via-ant/
 * http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
 * https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
-* https://medium.com/@54chi/continuous-integration-in-salesforce-1697f146ba2f
-* https://developer.salesforce.com/blogs/developer-relations/2013/03/setting-up-jenkins-for-force-com-continuous-integration.html
 * https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=code_system_log.htm&type=0
 * https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
 * https://schemalister.herokuapp.com
+
+## Continuous Integration
+* https://developer.salesforce.com/page/Continuous_Integration_How-To
+* https://developer.salesforce.com/page/Force.com_CI_Using_AWS,_Github_and_Jenkins
+* https://medium.com/@54chi/continuous-integration-in-salesforce-1697f146ba2f
+* https://developer.salesforce.com/blogs/developer-relations/2013/03/setting-up-jenkins-for-force-com-continuous-integration.html
+* https://developer.salesforce.com/page/Bestpractices:Continuous_Integration_Techniques
+* https://developer.salesforce.com/blogs/developer-relations/2013/03/setting-up-jenkins-for-force-com-continuous-integration.html
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
@@ -637,6 +649,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/deploy_sandboxes.pdf
 * https://support.salesforce.com/articleView?id=users_profiles_record_types.htm&type=5
 * https://help.salesforce.com/articleView?id=login_hours.htm&type=0
+* https://developer.salesforce.com/blogs/developer-relations/2013/10/api-versions-and-the-salesforce-metadata-api.html
 * https://developer.salesforce.com/blogs/2018/03/salesforce-pipelines-with-heroku-flow.html
 * https://developer.salesforce.com/blogs/2018/06/running-tests-5x-faster-using-sfdx-and-heroku-ci.html
 * https://developer.salesforce.com/blogs/developer-relations/2013/11/announcing-the-command-line-interface-for-force-com.html
@@ -731,6 +744,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://softwareengineering.stackexchange.com/questions/750/what-should-you-test-with-unit-tests
 * https://developer.salesforce.com/blogs/developer-relations/2016/07/six-tips-great-unit-tests.html
 * https://success.salesforce.com/answers?id=9063A000000p6BvQAI
+* https://developer.salesforce.com/page/Generating_and_Loading_Representative_Test_Data_for_Salesforce_and_Force.com_Orgs
 
 
 ## XSD/WSDL Transformation
