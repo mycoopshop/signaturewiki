@@ -42,9 +42,11 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
 * https://developer.salesforce.com/page/Apex_Design_Patterns
 * https://developer.salesforce.com/page/Apex_Code:_The_Basics
+* https://developer.salesforce.com/page/Methods
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/dbcom_apex_language_reference.pdf?major=178
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 * https://developer.salesforce.com/blogs/engineering/2015/05/developer-practices-checklist.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_visualforce_best_practices.pdf
@@ -53,6 +55,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 /page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
+
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
