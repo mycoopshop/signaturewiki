@@ -21,6 +21,7 @@
 * i18n: https://docs.oracle.com/javase/tutorial/i18n/serviceproviders/resourcebundlecontrolprovider.html
 * Tools Reference: https://docs.oracle.com/javase/10/tools/JSWOR.pdf
 * Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
+* Enhancements: https://docs.oracle.com/javase/7/docs/technotes/guides/lang/index.html
 
 ## Installation
 
