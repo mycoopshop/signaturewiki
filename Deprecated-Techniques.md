@@ -23,6 +23,11 @@
 * Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
 * Enhancements: https://docs.oracle.com/javase/7/docs/technotes/guides/lang/index.html
 
+## Analysis
+* https://bugs.openjdk.java.net/browse/JDK-4749531
+* https://bugs.openjdk.java.net/browse/JDK-4792682
+* https://bugs.openjdk.java.net/browse/JDK-8068373
+* https://bugs.openjdk.java.net/browse/JDK-8145469
 ## Installation
 
 * http://blog.danbrust.net/2015/09/14/installing-visual-basic-studio-6-on-windows-10/
