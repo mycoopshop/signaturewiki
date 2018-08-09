@@ -601,6 +601,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
 ## Analytics
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
 * https://help.salesforce.com/articleView?id=bi.htm&type=5
 * https://quip.com/D0xhA7L33hxy
