@@ -12,6 +12,7 @@
 
 * http://developer.classpath.org/doc/java/util/Properties-source.html
 * http://www.docjar.com/html/api/java/util/Properties.java.html
+* https://docs.oracle.com/javase/9/docs/api/java/util/package-use.html
 
 ## Documentation
 
@@ -33,6 +34,7 @@
 * https://bugs.openjdk.java.net/browse/JDK-4792682
 * https://bugs.openjdk.java.net/browse/JDK-8068373
 * https://bugs.openjdk.java.net/browse/JDK-8145469
+
 ## Installation
 
 * http://blog.danbrust.net/2015/09/14/installing-visual-basic-studio-6-on-windows-10/
