@@ -127,13 +127,15 @@ Excellent verbal and written communication skills
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
 * https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
 
+## Email / SMS
+* https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
+* https://help.salesforce.com/articleView?id=admin_viewing_emailtemplates.htm&type=5
+* https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
+
 **Tutorials**
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
 * https://developer.salesforce.com/page/Establish_Business_Logic
-* https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
-* https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
-* https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
-* https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/weve-learned-building-field-service-lightning-best-practices-development.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/06/enhancing-workflows-weather-company-data-service.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/single-page-survey-application-visualforce-jquerymobile-knockout.html
