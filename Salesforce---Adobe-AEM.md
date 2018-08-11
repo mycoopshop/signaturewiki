@@ -136,6 +136,7 @@ Excellent verbal and written communication skills
 **Tutorials**
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
 * https://developer.salesforce.com/page/Establish_Business_Logic
+* https://developer.salesforce.com/index.php?title=Code_Samples&oldid=47216
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/weve-learned-building-field-service-lightning-best-practices-development.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/06/enhancing-workflows-weather-company-data-service.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/single-page-survey-application-visualforce-jquerymobile-knockout.html
@@ -367,6 +368,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
 * https://schemalister.herokuapp.com
+
+## IDE
+* https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 
 ## Continuous Integration
 * https://developer.salesforce.com/page/Continuous_Integration_How-To
@@ -757,6 +761,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## XSD/WSDL Transformation
 * https://developer.salesforce.com/blogs/developer-relations/2013/08/integrating-force-com-using-xml-in-apex.html
+* https://webkul.com/blog/parsing-xml-file-apex/
 * http://crism.maden.org/consulting/pub/xsl/xsd2html.xsl
 * https://github.com/sgml/xsd2html2xml/blob/master/xsd2html.xsl
 * http://www.crimulus.com/2012/04/13/xsl-template-for-converting-xsd-to-complete-xml-prototype-with-inline-specifications/
