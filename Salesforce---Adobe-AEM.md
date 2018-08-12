@@ -22,6 +22,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_dynamic_vf_components_implementation.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/expr_source.htm
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
+* https://developer.salesforce.com/page/Apex_Wiki
 
 ## Anti-Patterns
 * https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
@@ -230,6 +231,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=sites_public_access_settings.htm&type=0
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_lifecycle.htm
 * http://developer.force.com/cookbook/recipe/using-jquery-in-a-visualforce-page
+* https://developer.secure.force.com/cookbook/category/visualforce/recent
 * https://developer.salesforce.com/page/Developing_Apps_with_jQuery
 * https://developer.salesforce.com/blogs/developer-relations/2015/08/creating-jquery-application-using-rest-api.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/11/pk-chunking-techniques-massive-orgs.html
