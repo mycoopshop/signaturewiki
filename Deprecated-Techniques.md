@@ -7,6 +7,7 @@
 
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
+* ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
 
 ## Data Modeling
 
