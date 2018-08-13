@@ -851,6 +851,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.adobe.com/content/dam/acom/en/marketing-cloud/enterprise-content-management/pdfs/54658.en.aem-mobile.brief.using-third-party-content.pdf
 * 
 * http://www.tothenew.com/blog/content-migration-in-aem-using-slingpostservlet/
+* https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/model-data.html
 
 #Drupal
 
