@@ -68,3 +68,12 @@ One way would be to serve the content as XML attributes, URL encoded strings, pr
            </p:declare-step>
 
 If you view source on any of the above, you see that scraping will simply return metadata and navigation.
+
+
+## References
+
+https://stackoverflow.com/questions/11572832/getting-a-data-uri-for-cross-domain-content
+
+https://stackoverflow.com/questions/33779791/how-to-upload-canvas-data-uri-to-amazon-s3-server/46320287#46320287
+
+https://stackoverflow.com/questions/23561473/how-to-upload-base64-data-as-image-to-s3-using-node-js/46320615#46320615
