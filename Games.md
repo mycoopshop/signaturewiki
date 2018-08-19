@@ -772,11 +772,10 @@ NEED FOR SPEED: MOST WANTED - A CRITERION GAME
 PERSONA 4: DANCING ALL NIGHT 
 
 
-PS3
-====
-======
-Co-Op
-======
+== PS3
+
+=== Co-Op
+Dragon's Crown
 Green Lantern: Rise of the Manhunters
 Bionic Command Rearmed
 Star Trek
@@ -784,7 +783,6 @@ Marvel Super Heroes Super Squad: The Infinity Gauntlets
 Portal 2
 Rayman Origins
 Brave: The Video Game
-Tom Clancy's H.A.W.X
 G.I. Joe: The Rise of Cobra
 Phineas and Ferb: Across the Second Dimension
 Sacred 3
@@ -793,77 +791,75 @@ Cloudy With a Chance of Meatballs
 Aliens: Colonial Marines
 Sacred 2: Fallen Angel
 Chronicles of Narnia: Prince Caspian 
-=========
-Single-Player
-=========
-Persona 5
-El Shaddai: Ascension of the Metatron
-Starkhawk
-Test Drive Unlimited 2
-Beyond: Two Souls
-Dynasty Warriors: Gundam 3
-Samurai Heroes
-Lord of the Rings: War in the North
-Ratchet and Clank: All 4 One
-Armored Core V
-Fight Night Round 4
-Tomb Raider Collection
-inFamous Collection
-Diablo III
-Atelier Shallie: Alchemists of the Dusk Sea
-Under Night In-Birth Exe:Late
-The Legend of Heroes: Trails of Cold Steel
-Cars 2
-Portal 2
-Grand Theft Auto: San Andreas
-Grand Theft Auto IV: The Complete Edition
-The Amazing Spider-Man
-Mafia II
-Just Cause 2
-Mass Effect 3
-Peace Walker HD
-Odin Sphere Leifthrasir
-Yakuza 5
-Shovel Knight
-Dragon's Crown
-Rayman Legends & Rayman Origins
-Call of Duty: Black Ops Collection 1-3
-King's Quest: The Complete Collection
-Final Fight: Double Impact
-Kingdom Hearts HD 2.5 ReMIX
-Final Fantasy X / X-2 HD Remaster
-Retro City Rampage DX 
-Metal Gear Solid V: The Phantom Pain
-Star Ocean: Second Evolution
-The Disgaea Triple Play Collection
-Lego Jurassic World
-Metal Gear Solid: The Legacy Collection
-The ICO & Shadow of the Colossus Collection
-Zone of the Enders HD Collection
-Assassin's Creed Double Pack
-Assassin's Creed: The Americas Collection
-Ultimate Action Triple Pack
-2K Essentials Collection
-Disney DuckTales Remastered
-Tomb Raider Greatest Hits
-Uncharted 1&2 Dual Pack
-The Elder Scrolls V: Skyrim & Bioshock Infinite Greatest Hits Bundle
-Batman: Arkham Asylum + Batman: Arkham City DUAL PACK
-Tales of Symphonia Chronicles & Tales of Graces F Dual Pack
-Borderlands Triple Pack
+=== Single-Player
+* Persona 5
+* El Shaddai: Ascension of the Metatron
+* Starkhawk
+* Tom Clancy's H.A.W.X
+* Test Drive Unlimited 2
+* Beyond: Two Souls
+* Dynasty Warriors: Gundam 3
+* Samurai Heroes
+* Lord of the Rings: War in the North
+* Ratchet and Clank: All 4 One
+* Armored Core V
+* Fight Night Round 4
+* Tomb Raider Collection
+* inFamous Collection
+* Diablo III
+* Atelier Shallie: Alchemists of the Dusk Sea
+* Under Night In-Birth Exe:Late
+* The Legend of Heroes: Trails of Cold Steel
+* Cars 2
+* Portal 2
+* Grand Theft Auto: San Andreas
+* Grand Theft Auto IV: The Complete Edition
+* The Amazing Spider-Man
+* Mafia II
+* Just Cause 2
+* Mass Effect 3
+* Peace Walker HD
+* Odin Sphere Leifthrasir
+* Yakuza 5
+* Shovel Knight
+* Dragon's Crown
+* Rayman Legends & Rayman Origins
+* Call of Duty: Black Ops Collection 1-3
+* King's Quest: The Complete Collection
+* Final Fight: Double Impact
+* Kingdom Hearts HD 2.5 ReMIX
+* Final Fantasy X / X-2 HD Remaster
+* Retro City Rampage DX 
+* Metal Gear Solid V: The Phantom Pain
+* Star Ocean: Second Evolution
+* The Disgaea Triple Play Collection
+* Lego Jurassic World
+* Metal Gear Solid: The Legacy Collection
+* The ICO & Shadow of the Colossus Collection
+* Zone of the Enders HD Collection
+* Assassin's Creed Double Pack
+* Assassin's Creed: The Americas Collection
+* Ultimate Action Triple Pack
+* 2K Essentials Collection
+* Disney DuckTales Remastered
+* Tomb Raider Greatest Hits
+* Uncharted 1&2 Dual Pack
+* The Elder Scrolls V: Skyrim & Bioshock Infinite Greatest Hits Bundle
+* Batman: Arkham Asylum + Batman: Arkham City DUAL PACK
+* Tales of Symphonia Chronicles & Tales of Graces F Dual Pack
+* Borderlands Triple Pack
 
-PSN
-====
-Abyss Odyssey
-Dead Nation
-Teenage Mutant Ninja Turtles: Out of the Shadows 
-Trine 2
-Scott Pilgrim vs. The World: The Game
-Double Dragon Neon
-Trine
-Arslan: The Warriors of Legend
-Child of Light Ultimate Edition
-Chariot
+=== PSN
+* Abyss Odyssey
+* Dead Nation
+* Teenage Mutant Ninja Turtles: Out of the Shadows 
+* Trine 2
+* Scott Pilgrim vs. The World: The Game
+* Double Dragon Neon
+* Trine
+* Arslan: The Warriors of Legend
+* Child of Light Ultimate Edition
+* Chariot
 
 
 PC
