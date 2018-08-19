@@ -15,6 +15,7 @@ sns codecommit codepipeline ses
 * https://aws.amazon.com/codecommit/faqs/
 * https://aws.amazon.com/codedeploy/faqs/
 * https://aws.amazon.com/codepipeline/faqs/
+* https://www.owasp.org/images/3/33/Aws_security_joel_leino.pdf
 
 **Google** Google Cloud Storage | Google Cloud Pub/Sub | BigQuery | Cloud Launcher
 
