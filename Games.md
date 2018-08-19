@@ -808,7 +808,7 @@ Ratchet and Clank: All 4 One
 Armored Core V
 Fight Night Round 4
 Tomb Raider Collection
-Monsters vs. Aliens
+inFamous Collection
 Diablo III
 Atelier Shallie: Alchemists of the Dusk Sea
 Under Night In-Birth Exe:Late
