@@ -45,3 +45,9 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://medium.com/@svinkle/creating-accessible-react-apps-38dc1c2775cf
 
 * https://kryogenix.org/code/browser/everyonehasjs.html
+
+* https://www.deque.com/axe/
+
+* https://www.deque.com/blog/accessibility-testing-nvda-screenreader/
+
+* http://www.webaxe.org/category/testing/
