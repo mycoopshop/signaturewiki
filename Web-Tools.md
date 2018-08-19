@@ -3,6 +3,8 @@
 * https://validatejavascript.com
 * http://beautifytools.com/css-validator.php
 * http://cssgridgarden.com
+* https://www.freecodeformat.com/java-format.php
+* http://prettyprinter.de/index.php
 * https://www.javascripting.com/
 * https://foundation.nodejs.org/resources/app-showcase
 * https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/
