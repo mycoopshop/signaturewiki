@@ -787,6 +787,14 @@ PERSONA 4: DANCING ALL NIGHT
 * Aliens: Colonial Marines
 * Sacred 2: Fallen Angel
 * Chronicles of Narnia: Prince Caspian 
+### Greatest Hits
+* Dishonored Game of the Year Edition
+* Watch Dogs
+* Fight Night Round 4
+* Tomb Raider Greatest Hits
+* Uncharted 1&2 Dual Pack
+* The Elder Scrolls V: Skyrim & Bioshock Infinite Greatest Hits Bundle
+* Batman: Arkham Asylum + Batman: Arkham City DUAL PACK
 ### Single-Player
 * Persona 5
 * El Shaddai: Ascension of the Metatron
@@ -799,14 +807,12 @@ PERSONA 4: DANCING ALL NIGHT
 * Lord of the Rings: War in the North
 * Ratchet and Clank: All 4 One
 * Armored Core V
-* Fight Night Round 4
 * Tomb Raider Collection
 * inFamous Collection
 * Diablo III
 * Atelier Shallie: Alchemists of the Dusk Sea
 * Under Night In-Birth Exe:Late
 * The Legend of Heroes: Trails of Cold Steel
-* Cars 2
 * Portal 2
 * Grand Theft Auto: San Andreas
 * Grand Theft Auto IV: The Complete Edition
@@ -816,13 +822,10 @@ PERSONA 4: DANCING ALL NIGHT
 * Mass Effect 3
 * Peace Walker HD
 * Odin Sphere Leifthrasir
-* Yakuza 5
 * Shovel Knight
 * Dragon's Crown
 * Rayman Legends & Rayman Origins
 * Call of Duty: Black Ops Collection 1-3
-* King's Quest: The Complete Collection
-* Final Fight: Double Impact
 * Kingdom Hearts HD 2.5 ReMIX
 * Final Fantasy X / X-2 HD Remaster
 * Retro City Rampage DX 
@@ -838,10 +841,6 @@ PERSONA 4: DANCING ALL NIGHT
 * Ultimate Action Triple Pack
 * 2K Essentials Collection
 * Disney DuckTales Remastered
-* Tomb Raider Greatest Hits
-* Uncharted 1&2 Dual Pack
-* The Elder Scrolls V: Skyrim & Bioshock Infinite Greatest Hits Bundle
-* Batman: Arkham Asylum + Batman: Arkham City DUAL PACK
 * Tales of Symphonia Chronicles & Tales of Graces F Dual Pack
 * Borderlands Triple Pack
 ### PSN
@@ -855,6 +854,9 @@ PERSONA 4: DANCING ALL NIGHT
 * Arslan: The Warriors of Legend
 * Child of Light Ultimate Edition
 * Chariot
+* Yakuza 5
+* King's Quest: The Complete Collection
+* Final Fight: Double Impact
 
 
 PC
