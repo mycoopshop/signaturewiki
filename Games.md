@@ -802,6 +802,7 @@ PERSONA 4: DANCING ALL NIGHT
 * Starkhawk
 * Tom Clancy's H.A.W.X
 * Test Drive Unlimited 2
+* Metal Gear Solid Revengence
 * Beyond: Two Souls
 * Dynasty Warriors: Gundam 3
 * Samurai Heroes
