@@ -782,6 +782,7 @@ PERSONA 4: DANCING ALL NIGHT
 * G.I. Joe: The Rise of Cobra
 * Phineas and Ferb: Across the Second Dimension
 * Sacred 3
+* Virtua Tennis 4
 * LEGO Movie Videogame
 * Cloudy With a Chance of Meatballs 
 * Aliens: Colonial Marines
