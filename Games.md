@@ -1,22 +1,21 @@
-Linux
-======
-And Yet It Moves 
-Cave Story 
-Minecraft 
-Portal 
-Shogo: Mobile Armor Division 
-Sid Meier's Alpha Centauri 
-SimCity 3000
-X2: The Threat
-X3: Reunion
-Darwinia
-Civilization: Call to Power
-Darwinia
-Freeciv
-Minecraft
-Metro: Last Light
-Psychonauts
-Trauma
+## Linux
+* And Yet It Moves 
+* Cave Story 
+* Minecraft 
+* Portal 
+* Shogo: Mobile Armor Division 
+* Sid Meier's Alpha Centauri 
+* SimCity 3000
+* X2: The Threat
+* X3: Reunion
+* Darwinia
+* Civilization: Call to Power
+* Darwinia
+* Freeciv
+* Minecraft
+* Metro: Last Light
+* Psychonauts
+* Trauma
 
 http://experimentalgameplay.com/blog/2009/10/best-of-the-net-numbers-2/
 http://www.reddit.com/r/Games/comments/1asysg/the_100_best_free_pc_games
@@ -141,189 +140,186 @@ WII U
 ========
 Rodea the Sky Soldier - $10 https://www.pricecharting.com/game/wii-u/rodea-the-sky-soldier
 
-WII
-===========
-Rodea the Sky Soldier - $5 ( UPC: 813633015156) https://www.gamestop.com/PickUpAtStore/Request/143248/695
-Okami - $20 ( UPC: 013388350070 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=13117
-Bully - $10 ( UPC: 710425342998 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=15306
-Bleach: Shattered Blade - $5 ( UPC: 010086650068 )
-Super Monkey Ball: Banana Blitz - $5 ( UPC: 010086650013 )
-Dragon Quest Swords: The Masked Queen and the Tower of Mirrors - $5 ( UPC: 4988601005142 )
-de Blob - $5 ( UPC: 785138301341 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75698
-Final Fantasy Crystal Chronicles: The Crystal Bearers - $5 ( UPC: 4988601005258 )
-Final Fantasy Fables: Chocobo's Dungeon - $15 ( UPC: 662248908106 )
-Pinball Hall of Fame: The Williams Collection - $10 ( UPC: 650008400014 )
-Tomb Raider Anniversary - $10 ( UPC: 788687300087 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=14976
-Death Jr. - $5 ( UPC: 788687300124 )
-Deadly Creatures - $5 ( UPC: 785138301594 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=69538
-Ben 10: Protector of Earth - $5 ( UPC: 879278340008 )
-Order Up - $10 ( UPC: 802068101916 )
-Epic Mickey 2 - $5
-Zack and Wiki: Quest for Barbados' Treasure - $10 ( UPC: 013388350018 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=12374
-Dawn of Discovery - $10 ( UPC: 008888174493 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74423
-Sonic Unleashed - $5 ( UPC: 4974365142216 )
-Sega All-Stars Racing - $10 ( UPC: 010086650358 )
-Sega Superstars Tennis - $1 ( UPC: 010086650150 )
-Rayman TV Party - $1 ( UPC: 008888174950 )
-Rayman Origins: Episode 1 - $10 ( UPC:  008888176855 )
-Nights: Journey of Dreams - $5 ( UPC: 010086650075 )
-Samurai Warriors 3 - $15 ( UPC: 045496901936 )
-Smackdown 2010 - $5 ( UPC: 785138302669 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74912
-Ben 10 Alien Force: Vilgax Attacks
-Real Heroes: Firefighter - $10 ( UPC: 815315001716 )
-Crash of the Titans - $10 ( UPC: 020626726511 )
-Crash: Mind Over Mutant - $10 ( UPC: 020626727563 )
-GT Pro Series - $10 ( UPC: 008888173236 )
-Ferrari Challenge - $10 ( UPC: 047875756694 )
-Spectrobes: Origins - $10 ( UPC: 712725005016 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74629
-Klonoa - $10 ( UPC: 722674800181 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74047
-Ghostbusters - $10 ( UPC: 742725277687 )
-Punch Out! - $10 ( UPC: 045496901493 )
-Ice Age: Dawn of the Dinosaurs - $10 ( UPC: 047875836235 )
-Super Paper Mario - $10 ( UPC: 045496900151 )
-New Super Mario Bros - $20 ( UPC: 045496901738 )
-Mario Galaxy - $10 ( UPC: 045496900434 )
-Mario Strikers - $10 ( UPC: 045496900212 )
-Mario Sluggers - $10 ( UPC: 045496901165 )
-Guilty Party ( UPC: 712725017521 )
-Kororinpa: Marble Mania - $20 ( UPC: 083717400523 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=64830
-The Simpsons Game - $20 ( UPC: 014633155280 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=1515
-Overlord: Dark Legend - $10 ( UPC: 767649402694 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=73409
-Drawn to Life: The Next Chapter - $10 ( UPC: 785138302270 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75006
-Sin and Punishment: Star Successor - $10 ( UPC: 045496901820 )
-Shiren the Wanderer - $20 ( UPC: 730865700073 )
-Dragon Ball: Revenge of King Picollo - $20 ( UPC: 722674800235 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75475
-Disaster: Day of Crisis ( UPC: 45496366445 )
-Tiger Woods 10 - $1 ( UPC: 014633190199 )
-Wii Play - $5 ( UPC: 045496900069 )
-Wii Music - $5 ( UPC: 045496901301 )
-Mini Ninjas - $10 ( UPC: 788687300148 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74908
-Rabbids Go Home - $10 ( UPC: 008888175537 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74523
-Tatsunoko vs. Capcom - $15 ( UPC: 013388350162 )
-Guilty Gear XX Accent Core Plus ( UPC: 893610001181 )
-Guilty Gear XX Accent Core ( UPC: 893610001068 ) http://www.amazon.com/dp/B000W12XPW/
-Need for Speed Nitro - $10 ( UPC: 014633158304 )
-MySims Agents - $10 ( UPC: 014633191486 )
-Sims 2: Castaway - $10 ( UPC: 014633158199 )
-Greg Hastings Paintball 2 - $10 ( UPC: 047875757356 )
-The Calling ( UPC : 083717400936 )
-Mushroom Men: The Spore Wars - $10 ( UPC: 899163001241 )
-Silent Hill: Shattered Memories - $10 ( UPC: 083717400851 )
-Trauma Team - $15 ( UPC: 730865700080 )
-Arc Rise Fantasia - $20 ( UPC: 853466001186 )
-Rogue Trooper: Quartz Zone Massacre - $20 ( UPC: 891563001487 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=76244
-Sakura Wars ( UPC: 857823001499 )
-Red Steel 2 - $10 ( UPC: 008888174172 )
-Fragile: Farewell Ruins of the Moon - $20 ( UPC: 853466001285 )
-A Boy and his Blob - $10 ( UPC: 096427016120 )
-Gunblade NY: Special Air Assault Force and L.A Machineguns: Rage of the Machines - Arcade Hits Pack
-EA Sports Active ( UPC: 014633190458 )
-EA Sports Active NFL Training Camp ( UPC: 014633169157 )
-Endless Ocean: Blue World ( UPC: 045496901837 )
-GoldenEye 007 - $20 ( UPC: 047875837218 )
-Sonic Colors - $20 ( UPC: 10086650426 )
-Victorious Boxers: Revolution - $20 ( UPC: 853466001070 )
-Xenoblade Chronicles - $40 http://www.nintendo.com/games/detail/09LPao0thCWTobgndPH5UTuz4zsz63F4
-Ultimate Shooting Collection - $10 ( UPC: 695771900521 )
-TrackMania - $5 ( UPC: 897749002972 )
-Lego Star Wars III: The Clone Wars - $5 ( UPC: 023272342630 )
-Lego Batman - $5 ( UPC: 883929020720 )
-LEGO Batman 2:DC Super Heroes - $5 ( UPC: 883929243372 )
-Lego Indiana Jones - $5 ( UPC: 023272333638 )
-Lego Indiana Jones 2: The Adventure Continues - $5 ( UPC: 023272339630 )
-LEGO The Lord of the Rings
-Lego Pirates of the Caribbean - $5 ( UPC: 712725021153 )
-Lego Lord of the Rings ( UPC: 883929247080 )
-Lost in Shadow - $20 ( UPC: 083717401063 )
-Kirby's Epic Yarn - $10 ( UPC: 045496901998 )
-Kirby's Dream Collection ( UPC: 45496902933 )
-Kirby's Return to Dream Land
-PokePark Wii: Pikachu's Adventure ( UPC: 045496901950 )
-Family Feud 2010 ( UPC: 008888175698 )
-F1 2009 - $50 ( UPC: 767649403028 )
-Rune Factory Frontier - $10 ( UPC: 853466001155 )
-Go Vacation - $10 ( UPC: 722674800280 )
-Spongebob: Truth or Square - $5 ( UPC: 785138302652 )
-The Hip Hop Dance Experience ( UPC: 008888177456 )
-Thor: God of Thunder - $5 ( UPC: 010086650457 )
-Top Spin 4 - $5 ( UPC: 710425349416)
-Virtua Tennis 4 - $10 ( UPC: 10086650488 )
-ExerBeat - $10 ( UPC: 722674800273 )
-Rhythm Heaven Fever - $10 ( UPC:  045496902742 )
-The Kore Gang - $10 ( UPC:  742725282469 )
-Driver: San Francisco - $10 ( UPC:  ) 
-Wii Play: Motion -  $10 ( UPC: 045496902476 )
-Back to the Future - The Game - $10 ( UPC: 812303010224 )
-Fortune Street - $10 ( UPC: 0045496902650)
-Donkey Kong Country Returns - $15 ( UPC: 045496902001 ) 
-Sid Meier's Pirates - $5 ( UPC: 710425348693 )
-Onechanbara - $5 ( UPC: 879278340053 )
-Prince of Persia: The Forgotten Sands - $5 ( UPC: 008888175827 )
-Deepak Chopra's Leela - $10 ( UPC: 785138305363 )
-Spider-Man: Web of Shadows - $5 ( UPC: 047875832930 )
-X-Men Origins: Wolverine - $5 ( UPC:  047875836099 )
-Batman: The Brave and the Bold - $5 ( UPC: 883929124428 )
-Pandora's Tower - $25 ( UPC: 853466001551 )
-Marvel Super Heroes Super Squad: The Infinity Gauntlets ( UPC: 785138303772 )
-Disney Universe
-The Sims 3
-EA Playground
-Octomania
-Potpourri
-Create
-You Don't Know Jack
-
-
-KIDS
-Wild Earth: African Safari
-JumpStart Get Moving
-Octomania
-How to Train Your Dragon 2
-Reader Rabbit: 1st Grade
-The Grim Adventures of Billy & Mandy
-Blast Works
-Chicken Little
-Power Rangers Samurai ( UPC: 722674800358 )
-Spy Fox in Dry Cereal
-Meet the Robinsons
-Looney Tunes Acme Arsenal 
-Nicktoons MLB
-Green Lantern - Rise of the Manhunters
-Samba de Amigo
-Disney Planes
-Disney Planes: Fire & Rescue
-Toy Story 3
-Tangled
-Happy Feet 2
-Cars
-Cars 2
-Wreck-it-Ralph
-Rise of the Guardians
-Samurai Heroes
-Star Wars: The Clone Wars - Republic Heroes
-Alvin And The Chipmunks 
-Scooby Doo and the Spooky Swamp Wii
-Puss in Boots
-Ice Age: Continental Drift
-The Adventures Of Tintin
-Spray
-Birthday Party Bash
-Championship Foosball
-Shrek: Forever After
-Nerf n Strike
-Nicktoons: Attack of the Toybots 
-Teenage Mutant Ninja Turtles
-Ben 10 Omniverse 2
-SpongeBob SquarePants: Plankton's Robotic Revenge
-Turbo
-Angry Birds Star Wars
-Smurfs 2
-Wipeout
-Phineas and Ferb
-Turbo: Super Stunt Squad
-Rise of the Guardians
-Scooby-Doo! and the Spooky Swamp
-Kid Adventures: Sky Captain
+## WII
+* Rodea the Sky Soldier -  ( UPC: 813633015156) https://www.gamestop.com/PickUpAtStore/Request/143248/695
+* Okami - 0 ( UPC: 013388350070 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=13117
+* Bully - 0 ( UPC: 710425342998 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=15306
+* Bleach: Shattered Blade -  ( UPC: 010086650068 )
+* Super Monkey Ball: Banana Blitz -  ( UPC: 010086650013 )
+* Dragon Quest Swords: The Masked Queen and the Tower of Mirrors -  ( UPC: 4988601005142 )
+* de Blob -  ( UPC: 785138301341 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75698
+* Final Fantasy Crystal Chronicles: The Crystal Bearers -  ( UPC: 4988601005258 )
+* Final Fantasy Fables: Chocobo's Dungeon - 5 ( UPC: 662248908106 )
+* Pinball Hall of Fame: The Williams Collection - 0 ( UPC: 650008400014 )
+* Tomb Raider Anniversary - 0 ( UPC: 788687300087 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=14976
+* Death Jr. -  ( UPC: 788687300124 )
+* Deadly Creatures -  ( UPC: 785138301594 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=69538
+* Ben 10: Protector of Earth -  ( UPC: 879278340008 )
+* Order Up - 0 ( UPC: 802068101916 )
+* Epic Mickey 2 - 
+* Zack and Wiki: Quest for Barbados' Treasure - 0 ( UPC: 013388350018 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=12374
+* Dawn of Discovery - 0 ( UPC: 008888174493 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74423
+* Sonic Unleashed -  ( UPC: 4974365142216 )
+* Sega All-Stars Racing - 0 ( UPC: 010086650358 )
+* Sega Superstars Tennis -  ( UPC: 010086650150 )
+* Rayman TV Party -  ( UPC: 008888174950 )
+* Rayman Origins: Episode 1 - 0 ( UPC:  008888176855 )
+* Nights: Journey of Dreams -  ( UPC: 010086650075 )
+* Samurai Warriors 3 - 5 ( UPC: 045496901936 )
+* Smackdown 2010 -  ( UPC: 785138302669 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74912
+* Ben 10 Alien Force: Vilgax Attacks
+* Real Heroes: Firefighter - 0 ( UPC: 815315001716 )
+* Crash of the Titans - 0 ( UPC: 020626726511 )
+* Crash: Mind Over Mutant - 0 ( UPC: 020626727563 )
+* GT Pro Series - 0 ( UPC: 008888173236 )
+* Ferrari Challenge - 0 ( UPC: 047875756694 )
+* Spectrobes: Origins - 0 ( UPC: 712725005016 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74629
+* Klonoa - 0 ( UPC: 722674800181 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74047
+* Ghostbusters - 0 ( UPC: 742725277687 )
+* Punch Out! - 0 ( UPC: 045496901493 )
+* Ice Age: Dawn of the Dinosaurs - 0 ( UPC: 047875836235 )
+* Super Paper Mario - 0 ( UPC: 045496900151 )
+* New Super Mario Bros - 0 ( UPC: 045496901738 )
+* Mario Galaxy - 0 ( UPC: 045496900434 )
+* Mario Strikers - 0 ( UPC: 045496900212 )
+* Mario Sluggers - 0 ( UPC: 045496901165 )
+* Guilty Party ( UPC: 712725017521 )
+* Kororinpa: Marble Mania - 0 ( UPC: 083717400523 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=64830
+* The Simpsons Game - 0 ( UPC: 014633155280 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=1515
+* Overlord: Dark Legend - 0 ( UPC: 767649402694 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=73409
+* Drawn to Life: The Next Chapter - 0 ( UPC: 785138302270 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75006
+* Sin and Punishment: Star Successor - 0 ( UPC: 045496901820 )
+* Shiren the Wanderer - 0 ( UPC: 730865700073 )
+* Dragon Ball: Revenge of King Picollo - 0 ( UPC: 722674800235 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=75475
+* Disaster: Day of Crisis ( UPC: 45496366445 )
+* Tiger Woods 10 -  ( UPC: 014633190199 )
+* Wii Play -  ( UPC: 045496900069 )
+* Wii Music -  ( UPC: 045496901301 )
+* Mini Ninjas - 0 ( UPC: 788687300148 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74908
+* Rabbids Go Home - 0 ( UPC: 008888175537 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74523
+* Tatsunoko vs. Capcom - 5 ( UPC: 013388350162 )
+* Guilty Gear XX Accent Core Plus ( UPC: 893610001181 )
+* Guilty Gear XX Accent Core ( UPC: 893610001068 ) http://www.amazon.com/dp/B000W12XPW/
+* Need for Speed Nitro - 0 ( UPC: 014633158304 )
+* MySims Agents - 0 ( UPC: 014633191486 )
+* Sims 2: Castaway - 0 ( UPC: 014633158199 )
+* Greg Hastings Paintball 2 - 0 ( UPC: 047875757356 )
+* The Calling ( UPC : 083717400936 )
+* Mushroom Men: The Spore Wars - 0 ( UPC: 899163001241 )
+* Silent Hill: Shattered Memories - 0 ( UPC: 083717400851 )
+* Trauma Team - 5 ( UPC: 730865700080 )
+* Arc Rise Fantasia - 0 ( UPC: 853466001186 )
+* Rogue Trooper: Quartz Zone Massacre - 0 ( UPC: 891563001487 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=76244
+* Sakura Wars ( UPC: 857823001499 )
+* Red Steel 2 - 0 ( UPC: 008888174172 )
+* Fragile: Farewell Ruins of the Moon - 0 ( UPC: 853466001285 )
+* A Boy and his Blob - 0 ( UPC: 096427016120 )
+* Gunblade NY: Special Air Assault Force and L.A Machineguns: Rage of the Machines - Arcade Hits Pack
+* EA Sports Active ( UPC: 014633190458 )
+* EA Sports Active NFL Training Camp ( UPC: 014633169157 )
+* Endless Ocean: Blue World ( UPC: 045496901837 )
+* GoldenEye 007 - 0 ( UPC: 047875837218 )
+* Sonic Colors - 0 ( UPC: 10086650426 )
+* Victorious Boxers: Revolution - 0 ( UPC: 853466001070 )
+* Xenoblade Chronicles - 0 http://www.nintendo.com/games/detail/09LPao0thCWTobgndPH5UTuz4zsz63F4
+* Ultimate Shooting Collection - 0 ( UPC: 695771900521 )
+* TrackMania -  ( UPC: 897749002972 )
+* Lego Star Wars III: The Clone Wars -  ( UPC: 023272342630 )
+* Lego Batman -  ( UPC: 883929020720 )
+* LEGO Batman 2:DC Super Heroes -  ( UPC: 883929243372 )
+* Lego Indiana Jones -  ( UPC: 023272333638 )
+* Lego Indiana Jones 2: The Adventure Continues -  ( UPC: 023272339630 )
+* LEGO The Lord of the Rings
+* Lego Pirates of the Caribbean -  ( UPC: 712725021153 )
+* Lego Lord of the Rings ( UPC: 883929247080 )
+* Lost in Shadow - 0 ( UPC: 083717401063 )
+* Kirby's Epic Yarn - 0 ( UPC: 045496901998 )
+* Kirby's Dream Collection ( UPC: 45496902933 )
+* Kirby's Return to Dream Land
+* PokePark Wii: Pikachu's Adventure ( UPC: 045496901950 )
+* Family Feud 2010 ( UPC: 008888175698 )
+* F1 2009 - 0 ( UPC: 767649403028 )
+* Rune Factory Frontier - 0 ( UPC: 853466001155 )
+* Go Vacation - 0 ( UPC: 722674800280 )
+* Spongebob: Truth or Square -  ( UPC: 785138302652 )
+* The Hip Hop Dance Experience ( UPC: 008888177456 )
+* Thor: God of Thunder -  ( UPC: 010086650457 )
+* Top Spin 4 -  ( UPC: 710425349416)
+* Virtua Tennis 4 - 0 ( UPC: 10086650488 )
+* ExerBeat - 0 ( UPC: 722674800273 )
+* Rhythm Heaven Fever - 0 ( UPC:  045496902742 )
+* The Kore Gang - 0 ( UPC:  742725282469 )
+* Driver: San Francisco - 0 ( UPC:  ) 
+* Wii Play: Motion -  0 ( UPC: 045496902476 )
+* Back to the Future - The Game - 0 ( UPC: 812303010224 )
+* Fortune Street - 0 ( UPC: 0045496902650)
+* Donkey Kong Country Returns - 5 ( UPC: 045496902001 ) 
+* Sid Meier's Pirates -  ( UPC: 710425348693 )
+* Onechanbara -  ( UPC: 879278340053 )
+* Prince of Persia: The Forgotten Sands -  ( UPC: 008888175827 )
+* Deepak Chopra's Leela - 0 ( UPC: 785138305363 )
+* Spider-Man: Web of Shadows -  ( UPC: 047875832930 )
+* X-Men Origins: Wolverine -  ( UPC:  047875836099 )
+* Batman: The Brave and the Bold -  ( UPC: 883929124428 )
+* Pandora's Tower - 5 ( UPC: 853466001551 )
+* Marvel Super Heroes Super Squad: The Infinity Gauntlets ( UPC: 785138303772 )
+* Disney Universe
+* The Sims 3
+* EA Playground
+* Octomania
+* Potpourri
+* Create
+* You Don't Know Jack
+### KIDS
+* Wild Earth: African Safari
+* JumpStart Get Moving
+* Octomania
+* How to Train Your Dragon 2
+* Reader Rabbit: 1st Grade
+* The Grim Adventures of Billy & Mandy
+* Blast Works
+* Chicken Little
+* Power Rangers Samurai ( UPC: 722674800358 )
+* Spy Fox in Dry Cereal
+* Meet the Robinsons
+* Looney Tunes Acme Arsenal 
+* Nicktoons MLB
+* Green Lantern - Rise of the Manhunters
+* Samba de Amigo
+* Disney Planes
+* Disney Planes: Fire & Rescue
+* Toy Story 3
+* Tangled
+* Happy Feet 2
+* Cars
+* Cars 2
+* Wreck-it-Ralph
+* Rise of the Guardians
+* Samurai Heroes
+* Star Wars: The Clone Wars - Republic Heroes
+* Alvin And The Chipmunks 
+* Scooby Doo and the Spooky Swamp Wii
+* Puss in Boots
+* Ice Age: Continental Drift
+* The Adventures Of Tintin
+* Spray
+* Birthday Party Bash
+* Championship Foosball
+* Shrek: Forever After
+* Nerf n Strike
+* Nicktoons: Attack of the Toybots 
+* Teenage Mutant Ninja Turtles
+* Ben 10 Omniverse 2
+* SpongeBob SquarePants: Plankton's Robotic Revenge
+* Turbo
+* Angry Birds Star Wars
+* Smurfs 2
+* Wipeout
+* Phineas and Ferb
+* Turbo: Super Stunt Squad
+* Rise of the Guardians
+* Scooby-Doo! and the Spooky Swamp
+* Kid Adventures: Sky Captain
 
 
 CLASSIC CONTROLLER
