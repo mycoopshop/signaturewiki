@@ -771,6 +771,7 @@ PERSONA 4: DANCING ALL NIGHT
 ## PS3
 ###  Co-Op
 * Rayman Legends
+* LittleBigPlanet
 * Dragon's Crown
 * Smackdown 2010
 * Green Lantern: Rise of the Manhunters
