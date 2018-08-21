@@ -16,8 +16,11 @@ sns codecommit codepipeline ses
 * https://aws.amazon.com/codedeploy/faqs/
 * https://aws.amazon.com/codepipeline/faqs/
 * https://www.owasp.org/images/3/33/Aws_security_joel_leino.pdf
+* https://brianklaas.net/aws/coldfusion/2018/06/18/Using-Simple-Notification-Service-In-CFML-Part-3.html
 
 **Google** Google Cloud Storage | Google Cloud Pub/Sub | BigQuery | Cloud Launcher
+
+**Azure** App Service | Container Service | Functions | Search | Bing Speech API | Data Factory | Batch
 
 **Heroku** 
 
