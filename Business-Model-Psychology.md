@@ -170,6 +170,11 @@ https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 * http://dream-prophecy.blogspot.com/2009/04/ancient-astronomy-of-bible.html
 * http://www.academia.edu/7147034/The_Totemic_Analogy_in_Bible_Symbolism
 
+# Health Bias
+* https://cosmicktraveler.wordpress.com/2017/10/15/calcite-crystals-in-the-pineal-gland/
+* https://sites.google.com/site/naomiastral/ancient-kemet/the-pineal-gland---dmt---melanin-myth
+* https://hyperboreanhealth.com/mercury-fluoride-and-long-skulls-what-do-they-have-in-common/
+
 # Language Bias
 * https://archive.org/details/aliteraltransla00unkngoog
 * http://self.gutenberg.org/articles/eng/Jah
