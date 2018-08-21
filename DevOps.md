@@ -4,9 +4,7 @@ Use the following process:
 * Use a [hosts module](https://www.npmjs.com/package/hostile) for programmatic access to the hosts file
 * Use a [proxy module](https://www.npmjs.com/package/local-ssl-proxy) to emulate SSL
 
-**Amazon**
-
-sns codecommit codepipeline ses
+**Amazon** sns | codecommit | codepipeline | ses
 
 * https://aws.amazon.com/sns/faqs/
 * https://aws.amazon.com/sns/faqs/
@@ -22,11 +20,9 @@ sns codecommit codepipeline ses
 
 **Azure** App Service | Container Service | Functions | Search | Bing Speech API | Data Factory | Batch
 
-**Heroku** 
+**Heroku** PostGres | PHP | Node.js
 
-PostGres | PHP | Node.js
-
-Develop on Heroku, store on Google, deploy on AWS
+Develop on Heroku, store on Google, control on AWS, share on Azure
 
 **OpenShift**
 
