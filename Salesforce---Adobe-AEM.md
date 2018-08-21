@@ -610,6 +610,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Porting
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
+## Einstein
+* https://www.forcetalks.com/blog/hello-world-code-for-salesforce-einstein/
+* https://blogs.absyz.com/2018/02/27/einstein-intent-analysis-using-einstein-language-on-salesforce-chatter/
+* http://www.0to1code.com/blog/category/machine-learning-and-artificial-intelligence/salesforce-einstein/
+* https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_bi_discovery_writeback.htm
+
 ## Analytics
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
