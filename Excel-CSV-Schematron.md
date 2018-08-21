@@ -8,7 +8,9 @@
 * https://www.ibm.com/developerworks/library/x-xml11pt2/
 * http://www.www2004.org/proceedings/docs/1p164.pdf
 * https://xerces.apache.org/xerces2-j/xml-schema.html
+* https://xerces.apache.org/xerces2-j/faq-grammars.html
 * http://www.datypic.com/books/defxmlschema/chapter14.html
+* https://libexpat.github.io/doc/expat-internals-string-pools/
 * https://www.w3.org/wiki/Co-occurrence_constraints
 * https://docstore.mik.ua/orelly/xml/schema/ch09_04.htm
 * https://www.xml.com/articles/2017/04/29/epischemas/
