@@ -20,6 +20,8 @@ Use the following process:
 
 **Azure** App Service | Container Service | Functions | Search | Bing Speech API | Data Factory | Batch
 
+https://www.cardinalsolutions.com/blog/2017/10/an_amazing_list_of_free_azure_services
+
 **Heroku** PostGres | PHP | Node.js
 
 Develop on Heroku, store on Google, control on AWS, share on Azure
