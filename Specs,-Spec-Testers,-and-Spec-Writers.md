@@ -43,6 +43,12 @@ https://mvnrepository.com/open-source/java-specs
 https://maven.apache.org/plugins/maven-shade-plugin/examples/resource-transformers.html
 https://wiki.creativecommons.org/wiki/CC_OpenSearch
 https://www.chenhuijing.com/blog/css-grid-flexbox-combo/
+https://www.linusakesson.net/programming/tty/
+http://codingfreak.blogspot.com/2012/03/daemon-izing-process-in-linux.html
+https://www.win.tue.nl/~aeb/linux/lk/lk-10.html
+http://man.openbsd.org/tr
+http://man.cat-v.org/unix_8th/1/tr
+
 * UDP: https://tools.ietf.org/html/rfc8085
 * IoT: https://tools.ietf.org/html/rfc8352
 * DNS: https://tools.ietf.org/html/rfc8324
