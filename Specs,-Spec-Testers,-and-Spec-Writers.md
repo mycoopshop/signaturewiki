@@ -46,7 +46,7 @@ https://www.chenhuijing.com/blog/css-grid-flexbox-combo/
 * UDP: https://tools.ietf.org/html/rfc8085
 * IoT: https://tools.ietf.org/html/rfc8352
 * DNS: https://tools.ietf.org/html/rfc8324
-* <link>: https://tools.ietf.org/html/rfc8288
+* link: https://tools.ietf.org/html/rfc8288
 * JSON: https://tools.ietf.org/html/rfc8259
 * OAuth: https://tools.ietf.org/html/rfc8252
 * CBOR: https://tools.ietf.org/html/rfc8152
