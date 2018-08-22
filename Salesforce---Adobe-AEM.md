@@ -617,6 +617,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/spring18/release-notes/rn_einstein_language_ga.htm
 * https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding
 * https://devcenter.heroku.com/articles/einstein-vision
+* https://theneuralperspective.com/2016/12/20/highlights-and-tutorials-for-concepts-discussed-in-richard-socher-on-the-future-of-deep-learning/
 
 ## Analytics
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf
