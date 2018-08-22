@@ -13,6 +13,7 @@
 * https://www.w3.org/TR/css-contain-1/
 * https://www.w3.org/TR/rdfa-lite/
 * https://w3c.github.io/webappsec-secure-contexts/
+* https://wiki.whatwg.org/wiki/MetaExtensions
 * https://www.bahrain.bh/wps/wcm/connect/0f54aba2-5425-43d7-9f4b-1eda17c50a21/Standards+for+e-Content+Development.pdf?MOD=AJPERES
 * https://tools.ietf.org/rfc/rfc5000.txt
 * https://www.ietf.org/rfc/rfc6585.txt
