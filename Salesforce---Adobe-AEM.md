@@ -92,6 +92,15 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=000212993&type=1
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000037D0bAAE
 
+## Preview
+* https://help.salesforce.com/articleView?id=pages_custom_components_edit.htm&type=5
+* https://help.salesforce.com/articleView?id=sites_admin_preview.htm&type=5
+* https://help.salesforce.com/articleView?id=siteforce_preview.htm&type=5
+* https://help.salesforce.com/articleView?id=pages_creating.htm&type=5
+* https://help.salesforce.com/articleView?id=files_preview.htm&type=5
+* https://help.salesforce.com/articleView?id=community_designer_preview.htm&type=5
+* https://help.salesforce.com/articleView?id=collab_attach_file_reference.htm&type=5
+
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm?search_text=valueof
@@ -133,6 +142,7 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_viewing_emailtemplates.htm&type=5
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
+* https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
 
 **Tutorials**
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
