@@ -288,7 +288,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://www.salesforce.org/wish-knew-getting-started-salesforce/
 * https://www.salesforce.com/blog/2017/10/salesforce-economy-idc-study-2022.html
 * https://www.salesforce.com/company/careers/pathfinders/
-* http://bobbuzzard.blogspot.co.uk/2017/07/not-hotdog-salesforce-einstein-edition.html
 * https://help.salesforce.com/articleView?id=dashboards_components.htm&type=5
 * https://help.salesforce.com/articleView?id=getstart_browser_recommendations.htm&type=5
 * https://help.salesforce.com/articleView?id=bi_embed.htm&type=5
@@ -401,6 +400,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
 * https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
+
+## Subcontractor Market
+* https://www.ceptes.com/
 
 ## Recovery
 * https://developer.salesforce.com/blogs/developer-relations/2014/11/enterprise-data-architecture.html
@@ -603,10 +605,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pages_static_resources_manage.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/instantly-reloading-visualforce-static-resources.html
 
-## BI
-* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
-* https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
-
 ## Porting
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
@@ -615,11 +613,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://blogs.absyz.com/2018/02/27/einstein-intent-analysis-using-einstein-language-on-salesforce-chatter/
 * http://www.0to1code.com/blog/category/machine-learning-and-artificial-intelligence/salesforce-einstein/
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_bi_discovery_writeback.htm
+* http://bobbuzzard.blogspot.co.uk/2017/07/not-hotdog-salesforce-einstein-edition.html
+* https://releasenotes.docs.salesforce.com/en-us/spring18/release-notes/rn_einstein_language_ga.htm
+* https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding
+* https://devcenter.heroku.com/articles/einstein-vision
 
 ## Analytics
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
 * https://help.salesforce.com/articleView?id=bi.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
+* https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
 * https://quip.com/D0xhA7L33hxy
 
 ## Field Validation
