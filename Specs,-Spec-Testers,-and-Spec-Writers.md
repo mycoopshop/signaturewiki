@@ -1,9 +1,16 @@
+## Authors
+
 * https://homepages.cwi.nl/~steven/
 * https://dbaron.org
 * https://florian.rivoal.net
 * https://www.w3.org/People/howcome/
 * https://www.w3.org/People/Bos/
 
+## Adoption Rates
+
+* https://w3techs.com/technologies/details/ce-http2/all/all
+* http://6lab.cisco.com/stats/
+ 
 **References**
 
 * https://www.w3.org/TR/css-variables-1/
