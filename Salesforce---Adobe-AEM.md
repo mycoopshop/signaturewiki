@@ -699,6 +699,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=Code-coverage-steps-and-considerations-prior-to-deployments&type=1
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000036AisAAE
 
+## Development Edition / Scratch Org Sync
+* http://www.wadewegner.com/2017/09/deploy-to-salesforce-dx/
+* https://help.salesforce.com/articleView?id=code_tools_ant_using.htm&type=5
+* https://deploy-to-sfdx.com/
+
 ## Messaging / Chaining
 * https://developer.salesforce.com/page/Streaming_API
 * http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_apex_queueable_chaining.htm
