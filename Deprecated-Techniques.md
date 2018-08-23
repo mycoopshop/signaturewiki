@@ -20,6 +20,7 @@
 * https://wiki.eclipse.org/Jetty/Tutorial/Jetty_and_Maven_HelloWorld
 * https://github.com/fernandospr/spring-jetty-example/search?q=RequestMapping&unscoped_q=RequestMapping
 * http://www.mkyong.com/spring-mvc/spring-mvc-hello-world-example/
+* http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example-annotation/
 
 ## Configuration
 
