@@ -496,6 +496,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://www.lightningdesignsystem.com/release-notes/
+* https://developer.salesforce.com/blogs/developer-relations/2017/08/displaying-user-notifications-lightning-component-framework.html
 * https://developer.salesforce.com/blogs/2018/07/how-variable-types-operate-in-the-lightning-component-framework.html
 * https://developer.salesforce.com/blogs/2018/06/using-path-in-your-custom-lightning-component.html
 * https://developer.salesforce.com/blogs/2018/05/summer18-lightning-base-components-for-editing-data.html
