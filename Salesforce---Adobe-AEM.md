@@ -551,7 +551,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
 
 ## Formula Fields
-* https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
@@ -585,6 +585,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sfdx_th_doc.htm
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
+* https://resources.docs.salesforce.com/170/latest/en-us/sfdc/pdf/salesforce_spring11_release_notes.pdf
 
 
 ## Rest API
