@@ -5,6 +5,15 @@
 * https://help.salesforce.com/articleView?id=Retirement-of-Default-Certificate-affects-SAML-Single-Sign-On-into-Salesforce&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 
+## GUI
+
+* https://www.angryadmin.co.uk/?p=936
+* https://www.reddit.com/r/Windows10/comments/3hq6uv/how_do_i_edit_environment_variables_in_windows_10/
+* https://serverfault.com/questions/33681/
+* https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings/edit-environment-variables-of-standard-user/788f9195-1900-4553-ab84-bbc8eb3dce4f
+* https://autohotkey.com/board/topic/68086-open-the-environment-variable-editing-window/
+* https://serverfault.com/questions/351129/can-the-environment-variables-tool-in-windows-be-launched-directly
+
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
 * ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
