@@ -9,6 +9,13 @@
 * XML DTDs: https://www.jcp.org/dtd/
 * ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
 
+## Path Finding
+* https://docs.oracle.com/javase/8/docs/technotes/tools/findingclasses.html
+* https://docs.oracle.com/javase/tutorial/getStarted/problems/index.html
+* https://docs.oracle.com/javase/7/docs/technotes/tools/
+* https://docs.oracle.com/javase/8/docs/technotes/tools/windows/classpath.html
+* https://docs.oracle.com/javase/8/docs/technotes/guides/lang/resources.html
+
 ## Data Modeling
 
 * http://developer.classpath.org/doc/java/util/Properties-source.html
