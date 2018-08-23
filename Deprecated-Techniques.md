@@ -15,6 +15,20 @@
 * http://www.docjar.com/html/api/java/util/Properties.java.html
 * https://docs.oracle.com/javase/9/docs/api/java/util/package-use.html
 
+## MVC
+
+* https://wiki.eclipse.org/Jetty/Tutorial/Jetty_and_Maven_HelloWorld
+* https://github.com/fernandospr/spring-jetty-example/search?q=RequestMapping&unscoped_q=RequestMapping
+* http://www.mkyong.com/spring-mvc/spring-mvc-hello-world-example/
+
+## Configuration
+
+* https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html
+* https://www.ibm.com/developerworks/library/j-classpath-windows/
+* https://www.computerperformance.co.uk/powershell/powershell_env_path.htm
+* https://blogs.technet.microsoft.com/heyscriptingguy/2011/07/23/use-powershell-to-modify-your-environmental-path/
+* https://superuser.com/questions/82053/setting-home-in-powershell
+
 ## Documentation
 
 * Deprecation: https://www.drupal.org/core/deprecation
