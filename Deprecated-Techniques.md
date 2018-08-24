@@ -5,6 +5,11 @@
 * https://help.salesforce.com/articleView?id=Retirement-of-Default-Certificate-affects-SAML-Single-Sign-On-into-Salesforce&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 
+## Logging
+
+* https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
+* http://mrbool.com/integrating-log4j-spring-mvc/33464
+
 ## GUI
 
 * https://www.angryadmin.co.uk/?p=936
