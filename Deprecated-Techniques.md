@@ -25,6 +25,10 @@
 * https://docs.oracle.com/javase/8/docs/technotes/tools/windows/classpath.html
 * https://docs.oracle.com/javase/8/docs/technotes/guides/lang/resources.html
 
+## Compression
+* https://docs.oracle.com/javase/7/docs/technotes/tools/share/unpack200.html
+* https://wiki.eclipse.org/Pack200
+
 ## Data Modeling
 
 * http://developer.classpath.org/doc/java/util/Properties-source.html
