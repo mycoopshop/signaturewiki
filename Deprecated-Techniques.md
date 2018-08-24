@@ -50,6 +50,7 @@
 ## Configuration
 
 * https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html
+* https://maven.apache.org/examples/injecting-properties-via-settings.html
 * https://www.ibm.com/developerworks/library/j-classpath-windows/
 * https://www.computerperformance.co.uk/powershell/powershell_env_path.htm
 * https://blogs.technet.microsoft.com/heyscriptingguy/2011/07/23/use-powershell-to-modify-your-environmental-path/
