@@ -19,6 +19,22 @@
 * https://autohotkey.com/board/topic/68086-open-the-environment-variable-editing-window/
 * https://serverfault.com/questions/351129/can-the-environment-variables-tool-in-windows-be-launched-directly
 
+## IDE
+* https://bugs.eclipse.org/bugs/show_bug.cgi?id=528725
+* https://www.mankier.com/1/ecj
+* http://blog.deepakazad.com/2010/05/ecj-eclipse-java-compiler.html
+* https://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.user/tasks/task-using_batch_compiler.htm
+
+## Build Automation
+* https://maven.apache.org/plugins/maven-compiler-plugin/non-javac-compilers.html
+* https://maven.apache.org/components/ref/3.5.0/maven-core/lifecycles.html
+* https://maven.apache.org/ref/3.5.0/maven-model-builder/
+* https://maven.apache.org/ref/3.5.4/maven-model/maven.html
+* https://maven.apache.org/plugins/maven-site-plugin/jar-mojo.html
+* https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+* https://maven.apache.org/ref/3.5.3/maven-core/lifecycles.html
+* https://maven.apache.org/plugin-tools/maven-plugin-annotations/apidocs/org/apache/maven/plugins/annotations/LifecyclePhase.html
+
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
 * ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
