@@ -35,6 +35,13 @@
 * http://www.salesforce.org/highered/advancement-software/
 * http://www.salesforce.org/highered/recruiting/
 
+# Elementary Bias
+* https://www.naviance.com/solutions/middle-schools
+
+# Historical Bias
+* https://scholar.lib.vt.edu/ejournals/JOTS/v30/v30n4/pdf/johnson.pdf
+* http://xroads.virginia.edu/~MA03/faturoti/harlem/collage/washington.html
+
 # Language Bias
 * https://itunes.apple.com/us/app/id1273162445
 * https://play.google.com/store/apps/details?id=com.dictionary.paid
