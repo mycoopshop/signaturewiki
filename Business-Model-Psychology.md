@@ -235,6 +235,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991085/
 https://www.kevinmd.com/blog/2011/09/doctors-cling-continuous-fetal-heart-monitoring.html
 https://www.ncbi.nlm.nih.gov/pubmed/19190880
 
+# Legacy Bias
+* https://en.wikipedia.org/wiki/Manilal_Gandhi
+* https://en.wikipedia.org/wiki/Arun_Manilal_Gandhi
+* https://en.wikipedia.org/wiki/Rajmohan_Gandhi
+* https://en.wikipedia.org/wiki/Leela_Gandhi
+
 # Technology Bias
 https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0dhx5b,%2Fm%2F0bbxf89,%2Fm%2F07qb81,%2Fm%2F058b6
 
