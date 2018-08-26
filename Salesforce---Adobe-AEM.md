@@ -384,6 +384,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 
 ## Continuous Integration
+* https://developer.salesforce.com/blogs/developer-relations/2015/07/running-aura-app-docker.html
 * https://developer.salesforce.com/page/Continuous_Integration_How-To
 * https://developer.salesforce.com/page/Force.com_CI_Using_AWS,_Github_and_Jenkins
 * https://medium.com/@54chi/continuous-integration-in-salesforce-1697f146ba2f
@@ -428,6 +429,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Live Agent API
 * https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
+* https://github.com/developerforce/Force.com-Toolkit-for-Jasper
 
 ## S-Controls
 * https://help.salesforce.com/articleView?id=dev_about_scontrols.htm&type=0
@@ -591,6 +593,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Rest API
 * https://developer.salesforce.com/page/Salesforce_APIs
+* https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit/
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
 * https://developer.salesforce.com/blogs/developer-relations/2013/03/mashing-up-force-com-apis-with-ql-io-part-1.html
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
@@ -770,6 +773,19 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000232681&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://help.salesforce.com/articleView?id=code_dev_console_view_checkpoints.htm&type=5
+
+## Mocking
+* https://engineering.salesforce.com/flaky-tests-and-how-to-avoid-them-25b84b756f60
+* https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_apex_callouts_tests.htm
+* https://releasenotes.docs.salesforce.com/en-us/spring17/release-notes/rn_apex_stub_api.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_apex_stub_api.htm
+* https://www.salesforce.com/video/297000/
+
+## WSDL
+* https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
+
+## OData
+* https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
