@@ -652,6 +652,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
+* https://resources.docs.salesforce.com/servicesdk/214/0/en-us/pdf/service_sdk_android.pdf
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
 * https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
 * https://developer.salesforce.com/mobile/services/mobile-templates/templates-faq
