@@ -26,6 +26,13 @@
 * https://cwiki.apache.org/confluence/display/OFBIZ/From+Ant+to+Gradle+-+trunk+version
 * https://holygradle.bitbucket.io/workflows.html
 
+## Naming Conventions
+
+* https://maven.apache.org/plugins/maven-install-plugin/examples/specific-local-repo.html
+* http://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html
+* https://maven.apache.org/guides/mini/guide-3rd-party-jars-remote.html
+* http://maven.apache.org/ref/3.2.5/maven-repository-metadata/repository-metadata.html
+
 ## Changelog
 
 * https://jenkins.io/changelog-old/
