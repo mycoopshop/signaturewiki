@@ -19,6 +19,17 @@
 * https://autohotkey.com/board/topic/68086-open-the-environment-variable-editing-window/
 * https://serverfault.com/questions/351129/can-the-environment-variables-tool-in-windows-be-launched-directly
 
+## Migration
+
+* http://dl.icdst.org/pdfs/files/97d1ecb3fbedcc609c6f66fdb028de68.pdf
+* https://www.labkey.org/Documentation/wiki-page.view?name=gradlebuild
+* https://cwiki.apache.org/confluence/display/OFBIZ/From+Ant+to+Gradle+-+trunk+version
+* https://holygradle.bitbucket.io/workflows.html
+
+## Changelog
+
+* https://jenkins.io/changelog-old/
+
 ## IDE
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=528725
 * https://www.mankier.com/1/ecj
@@ -34,6 +45,11 @@
 * https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 * https://maven.apache.org/ref/3.5.3/maven-core/lifecycles.html
 * https://maven.apache.org/plugin-tools/maven-plugin-annotations/apidocs/org/apache/maven/plugins/annotations/LifecyclePhase.html
+* https://viralpatel.net/blogs/introduction-apache-maven-build-framework-build-automation-tool/
+* https://www.slideshare.net/ExigenServices/apache-maven-2-advanced-topics
+* https://www.slideshare.net/ReturnOnIntelligence/apache-maven-2-advanced-topics-50709591
+* https://maven.apache.org/shared/index.html
+* https://maven.apache.org/shared/maven-dependency-tree/dependencies.html
 
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
