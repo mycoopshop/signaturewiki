@@ -46,6 +46,8 @@
 * https://maven.apache.org/ref/3.5.3/maven-core/lifecycles.html
 * https://maven.apache.org/plugin-tools/maven-plugin-annotations/apidocs/org/apache/maven/plugins/annotations/LifecyclePhase.html
 * https://viralpatel.net/blogs/introduction-apache-maven-build-framework-build-automation-tool/
+* https://docs.mulesoft.com/mule-user-guide/v/3.7/maven-reference
+* https://www.slideshare.net/ankitgubrani/build-automation-using-maven
 * https://www.slideshare.net/ExigenServices/apache-maven-2-advanced-topics
 * https://www.slideshare.net/ReturnOnIntelligence/apache-maven-2-advanced-topics-50709591
 * https://maven.apache.org/shared/index.html
