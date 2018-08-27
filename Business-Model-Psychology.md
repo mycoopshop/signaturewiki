@@ -29,6 +29,10 @@
 # Outline Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 
+# Reinvent Bias
+* https://en.wikipedia.org/wiki/Lonnie_Johnson_(inventor)
+* https://en.wikipedia.org/wiki/Rosenwald_Fund
+
 # University Bias
 * http://www.salesforce.org/highered/hed-marketing/
 * https://www.salesforce.com/ca/solutions/industries/higher-ed/overview/
