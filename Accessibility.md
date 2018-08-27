@@ -51,3 +51,5 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * https://www.deque.com/blog/accessibility-testing-nvda-screenreader/
 
 * http://www.webaxe.org/category/testing/
+
+* https://tink.uk/using-the-aria-application-role/
