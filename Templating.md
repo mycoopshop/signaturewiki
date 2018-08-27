@@ -3,7 +3,7 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
  * [Groff Mission Statement (pdf)](http://www.gnu.org/software/groff/groff-mission-statement.pdf)
  * [The Roots of SGML -- A Personal Recollection](http://www.sgmlsource.com/history/roots.htm)
  * [Java FAQ](http://www.cafeaulait.org/javafaq.html)
- * [Charles Goldfarb—the Godfather of Markup Languages](http://history-computer.com/Internet/Birth/Goldfarb.html)
+ * [Charles Goldfarb — the Godfather of Markup Languages](http://history-computer.com/Internet/Birth/Goldfarb.html)
  * [Markup Language Family Tree](http://www.jkemp.net/blog/2011/04/)
  * [Typesetting with Linux](http://www.antipope.org/charlie/old/linux/shopper/159.typesetting.html)
  * [A Triumph of Simplicity: James Clark on Markup Languages and XML](http://www.drdobbs.com/a-triumph-of-simplicity-james-clark-on-m/184404686)
