@@ -9,6 +9,14 @@
 
 * https://cwiki.apache.org/confluence/display/MAVENOLD/Repository+Layout+-+Final
 
+## Templating
+
+* https://www.baeldung.com/apache-velocity
+* https://community.liferay.com/blogs/-/blogs/custom-velocity-tools-and-liferay-6-0
+* https://extensions.xwiki.org/xwiki/bin/view/Extension/Velocity%20Module
+* https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
+* http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
+
 ## Logging
 
 * https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
