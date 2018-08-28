@@ -383,6 +383,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## IDE
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 * https://salesforce.stackexchange.com/questions/41936/is-it-possible-to-remove-fields-using-change-sets-deployment
+* https://trailhead.salesforce.com/en/modules/sfdx_dev_model/units/sfdx_dev_model_sdd
+* https://trailhead.salesforce.com/en/modules/lex_dev_lc_vf_concepts/units/lex_dev_lc_vf_concepts_basics
+* https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_deploy
+* https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_migrate
+* https://trailhead.salesforce.com/en/modules/platform_dev_basics/units/platform_dev_basics_code
 
 ## Continuous Integration
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/running-aura-app-docker.html
