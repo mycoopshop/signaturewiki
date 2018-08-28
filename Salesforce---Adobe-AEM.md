@@ -115,6 +115,7 @@ Excellent verbal and written communication skills
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
+* https://github.com/salesforce/vulnreport/blob/master/vulntypeExamples/salesforce.xml
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=console_lex_limitations.htm&type=5
@@ -567,6 +568,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=fields_lookup_filters_best_practices.htm&type=5
 
 ## Auditing
+* https://github.com/salesforce/refocus/blob/master/view/admin/config/detail.js
 * https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
 * https://help.salesforce.com/articleView?id=security_overview_auditing.htm&type=5
 * https://www.salesforce.com/ca/blog/2015/03/content-audit.html
