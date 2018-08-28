@@ -9,6 +9,12 @@
 
 * https://cwiki.apache.org/confluence/display/MAVENOLD/Repository+Layout+-+Final
 
+## Packaging
+
+* [Creating the First JAR File - hello.jar](http://www.herongyang.com/Java-Tools/jar-Create-First-JAR-File.html)
+
+* [sample-apps/example-java-jar-hello at master · apcera/sample-apps · GitHub](https://github.com/apcera/sample-apps/tree/master/example-java-jar-hello)
+
 ## Templating
 
 * https://www.baeldung.com/apache-velocity
@@ -16,6 +22,10 @@
 * https://extensions.xwiki.org/xwiki/bin/view/Extension/Velocity%20Module
 * https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
 * http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
+
+## Abstracting
+
+* https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a
 
 ## Uploading
 
