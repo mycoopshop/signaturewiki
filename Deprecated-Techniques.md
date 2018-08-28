@@ -9,11 +9,32 @@
 
 * https://cwiki.apache.org/confluence/display/MAVENOLD/Repository+Layout+-+Final
 
+* https://netbeans.org/kb/74/java/project-setup.html
+
+* https://en.wikipedia.org/wiki/Classpath_(Java)
+
+* http://pages.cs.wisc.edu/~cs302/labs/EclipseTutorial/Step_04.html
+
+* http://hipi.cs.virginia.edu/eclipse.html
+
+* https://techblog.bozho.net/runtime-classpath-vs-compile-time-classpath/
+
+
+## Architecture
+
+* https://hiper.cis.udel.edu/lp/lib/exe/fetch.php/courses/cisc879/eclipse-platform-whitepaper.pdf
+
+* http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6F74F60FF7B857FDECD5B2032693C892?doi=10.1.1.421.7211&rep=rep1&type=pdf
+
 ## Packaging
 
 * [Creating the First JAR File - hello.jar](http://www.herongyang.com/Java-Tools/jar-Create-First-JAR-File.html)
 
 * [sample-apps/example-java-jar-hello at master · apcera/sample-apps · GitHub](https://github.com/apcera/sample-apps/tree/master/example-java-jar-hello)
+
+* https://viralpatel.net/blogs/create-jar-file-in-java-eclipse/
+
+* https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1178/handouts/5-JAR-Files.pdf
 
 ## Templating
 
@@ -27,9 +48,11 @@
 
 * https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a
 
-## Uploading
+## Integration
 
 * https://www.slideshare.net/PankajBiswas3/uploading-files-using-selenium-web-driver
+
+* http://nginx2.prod.saucelabs.net/resources/articles/How-to-Configure-Webdriver-Selenium-for-Java-in-Eclipse-on-Windows
 
 ## Modeling
 
