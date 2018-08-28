@@ -129,6 +129,7 @@
 * https://en.wikipedia.org/wiki/Mockito
 * https://www.slideshare.net/muanis/working-with-mockito-and-eclipse
 * https://github.com/andirdju/spring-mvc-unit-test-sample/blob/develop/src/test/java/org/andird/controller/RestTimeControllerTest.java
+* https://infinitescript.com/2014/05/unit-testing-of-spring-mvc-controllers/
 * https://stackoverflow.com/questions/1401128/how-to-unit-test-a-spring-mvc-controller-using-pathvariable/2457902
 * 
 
