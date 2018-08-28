@@ -24,6 +24,17 @@ Excellent verbal and written communication skills
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 * https://developer.salesforce.com/page/Apex_Wiki
 
+## Metadata Enumeration/Serialization
+* http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
+* https://blog.jeffdouglas.com/2011/10/20/getting-salesforce-field-metadata-the-easy-way/
+* https://success.salesforce.com/ideaview?id=08730000000GzMwAAK
+* https://developer.salesforce.com/blogs/developer-relations/2008/12/using-the-metadata-api-to-retrieve-picklist-values.html
+* https://developer.salesforce.com/forums/?id=9060G0000005UXVQA2
+
+## Type Checking
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
+* https://help.salesforce.com/articleView?id=How-to-find-Object-Type-from-Record-ID-Prefix&language=en_US&type=1
+
 ## Anti-Patterns
 * https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf
@@ -384,6 +395,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## IDE
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 * https://salesforce.stackexchange.com/questions/41936/is-it-possible-to-remove-fields-using-change-sets-deployment
+* https://www.slideshare.net/developerforce/introducing-the-welkin-suite-ide-for-salesforce
 * https://trailhead.salesforce.com/en/modules/sfdx_dev_model/units/sfdx_dev_model_sdd
 * https://trailhead.salesforce.com/en/modules/lex_dev_lc_vf_concepts/units/lex_dev_lc_vf_concepts_basics
 * https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_deploy
@@ -798,6 +810,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## WSDL
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
+* https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
 
 ## OData
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
