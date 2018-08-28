@@ -11,3 +11,5 @@ https://medium.com/cirruslabs/mastering-gradle-caching-and-incremental-builds-37
 https://leanpub.com/gradle-goodness-notebook/read
 
 https://vertx.io/blog/tcp-client-using-eclipse-vert-x-kotlin-and-gradle-build/
+
+http://www.alexmedearis.com/junit-mockito-powermock-eclipse/
