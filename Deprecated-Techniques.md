@@ -128,6 +128,15 @@
 
 * https://en.wikipedia.org/wiki/Mockito
 * https://www.slideshare.net/muanis/working-with-mockito-and-eclipse
+* https://github.com/andirdju/spring-mvc-unit-test-sample/blob/develop/src/test/java/org/andird/controller/RestTimeControllerTest.java
+* https://stackoverflow.com/questions/1401128/how-to-unit-test-a-spring-mvc-controller-using-pathvariable/2457902
+* 
+
+## TLS
+
+* https://docs.oracle.com/cloud/latest/as111170/SCPRG/ssl_client.htm#SCPRG256
+* https://docs.spring.io/spring-security/site/docs/3.0.x/reference/security-filter-chain.html
+* https://stackoverflow.com/questions/41480102/how-spring-security-filter-chain-works
 
 ## Analysis
 * https://bugs.openjdk.java.net/browse/JDK-4749531
