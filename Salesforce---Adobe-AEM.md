@@ -157,6 +157,7 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
 
 **Tutorials**
+* https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
 * https://developer.salesforce.com/page/Establish_Business_Logic
 * https://developer.salesforce.com/index.php?title=Code_Samples&oldid=47216
