@@ -21,6 +21,10 @@
 
 * https://www.slideshare.net/PankajBiswas3/uploading-files-using-selenium-web-driver
 
+## Modeling
+
+* https://www.w3.org/TR/wsdl20-altschemalangs/
+
 ## Logging
 
 * https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
