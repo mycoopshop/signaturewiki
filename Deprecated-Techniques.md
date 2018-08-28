@@ -17,6 +17,10 @@
 * https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
 * http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
 
+## Uploading
+
+* https://www.slideshare.net/PankajBiswas3/uploading-files-using-selenium-web-driver
+
 ## Logging
 
 * https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
