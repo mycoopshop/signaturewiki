@@ -388,6 +388,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/modules/lex_dev_lc_vf_concepts/units/lex_dev_lc_vf_concepts_basics
 * https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_deploy
 * https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_migrate
+* https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_tools
 * https://trailhead.salesforce.com/en/modules/platform_dev_basics/units/platform_dev_basics_code
 
 ## Continuous Integration
