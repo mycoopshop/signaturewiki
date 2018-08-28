@@ -1,4 +1,8 @@
 * https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm
+* https://openidconnect.herokuapp.com/
+* http://openid-connect.herokuapp.com/
+* https://developers.google.com/identity/protocols/OpenIDConnect
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-protocols-openid-connect-code
 * https://www.w3.org/TR/indieauth/
 * https://www.mediawiki.org/wiki/OAuth/For_Developers
 * https://github.com/jaredhanson/passport/wiki/Strategies
