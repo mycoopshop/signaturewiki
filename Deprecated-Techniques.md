@@ -124,6 +124,11 @@
 * Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
 * Enhancements: https://docs.oracle.com/javase/7/docs/technotes/guides/lang/index.html
 
+## Testing
+
+* https://en.wikipedia.org/wiki/Mockito
+* https://www.slideshare.net/muanis/working-with-mockito-and-eclipse
+
 ## Analysis
 * https://bugs.openjdk.java.net/browse/JDK-4749531
 * https://bugs.openjdk.java.net/browse/JDK-4792682
