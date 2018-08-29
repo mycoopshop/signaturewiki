@@ -1,7 +1,12 @@
 ## CORS
 
-https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
-https://github.com/spenibus/cors-everywhere-firefox-addon
+* https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
+* https://github.com/spenibus/cors-everywhere-firefox-addon
+
+## Screen Capture
+
+* https://addons.mozilla.org/en-US/firefox/addon/canvas-capture/?src=search
+* https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe
 
 ## Development
 
