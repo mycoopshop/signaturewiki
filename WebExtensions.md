@@ -8,6 +8,10 @@
 * https://addons.mozilla.org/en-US/firefox/addon/canvas-capture/?src=search
 * https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe
 
+## IDE
+
+* https://softwarerecs.stackexchange.com/questions/16613/chrome-new-tab-page-to-beautify-and-check-code/50338#50338
+
 ## Development
 
 * https://chrome.google.com/webstore/detail/ecmascript-6-transpiler-e/pdhcmniladmhlgbonkemgneaajaegepe?hl=en
