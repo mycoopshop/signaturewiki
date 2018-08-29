@@ -1,3 +1,10 @@
+## CORS
+
+https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
+https://github.com/spenibus/cors-everywhere-firefox-addon
+
+## Development
+
 * https://chrome.google.com/webstore/detail/ecmascript-6-transpiler-e/pdhcmniladmhlgbonkemgneaajaegepe?hl=en
 * https://60devs.com/development-of-cross-browser-browser-extensions-using-es6-babeljs.html
 * https://addons.mozilla.org/en-US/firefox/addon/xpicompiler/
@@ -6,8 +13,13 @@
 * https://bugs.chromium.org/p/chromium/issues/detail?id=438251
 * https://bugs.chromium.org/p/chromium/issues/detail?id=345205
 
+## Marketing
+
 * https://violentmonkey.github.io
 * https://github.com/chrispederick/web-developer
+
+## Authentication
+
 * https://www.proofpoint.com/us/threat-insight/post/threat-actor-goes-chrome-extension-hijacking-spree
 * https://support.google.com/chrome/answer/6098869?visit_id=0-636615709902714779-3651496297&p=rl_error&hl=en&rd=1#redirect
 
