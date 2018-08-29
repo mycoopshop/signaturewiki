@@ -26,6 +26,8 @@
 
 * http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6F74F60FF7B857FDECD5B2032693C892?doi=10.1.1.421.7211&rep=rep1&type=pdf
 
+* https://sites.google.com/a/athaydes.com/renato-athaydes/posts/guidetojava9-compilejarrun
+
 ## Packaging
 
 * [Creating the First JAR File - hello.jar](http://www.herongyang.com/Java-Tools/jar-Create-First-JAR-File.html)
