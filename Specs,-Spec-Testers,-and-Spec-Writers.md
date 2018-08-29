@@ -19,6 +19,9 @@
 * https://www.w3.org/TR/mediaqueries-4/
 * https://www.w3.org/TR/css-contain-1/
 * https://www.w3.org/TR/rdfa-lite/
+* https://www.w3.org/TR/xslt-10/
+* https://www.w3.org/TR/xpath-10/
+* https://www.w3.org/TR/xmlschema11-1/
 * https://w3c.github.io/webappsec-secure-contexts/
 * https://wiki.whatwg.org/wiki/MetaExtensions
 * https://www.bahrain.bh/wps/wcm/connect/0f54aba2-5425-43d7-9f4b-1eda17c50a21/Standards+for+e-Content+Development.pdf?MOD=AJPERES
