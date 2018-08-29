@@ -28,6 +28,10 @@ co-op site:mobygames.com
 
 title:sdk title:notes site:oracle.com +jdk
 
+## Chrome Webstore
+
+https://chrome.google.com/webstore/search/cam%20capture?_category=extensions
+
 ## Github
 
 "e_notice" "e_all" language:c
