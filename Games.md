@@ -801,6 +801,8 @@ PERSONA 4: DANCING ALL NIGHT
 * Batman: Arkham Asylum + Batman: Arkham City DUAL PACK
 ### Single-Player
 * Persona 5
+* The Legend of Heroes: Trails of Cold Steel
+* The Legend of Heroes: Trails of Cold Steel II 
 * El Shaddai: Ascension of the Metatron
 * Starkhawk
 * Tom Clancy's H.A.W.X
