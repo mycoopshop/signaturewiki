@@ -666,3 +666,9 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://8thlight.com/blog/cory-foy/2013/01/01/testing-recursion.html
 
 * http://jsatt.com/blog/unit-testing-recursion-in-python/
+
+* https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0
+
+* https://github.com/mobxjs/mobx/issues/494
+
+* https://github.com/mobxjs/mobx-react/issues/194
