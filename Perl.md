@@ -27,6 +27,7 @@
 CGI/PSGI
 * https://developers.redhat.com/blog/2015/11/18/deploying-psgi-applications-rhscl-docker-containers/
 * https://linuxconfig.org/simple-cgi-and-apache-examples-on-ubuntu-linux
+* https://metacpan.org/pod/CGI::Alternatives
 
 **References**
 * http://www.chicagobusiness.com/apps/pbcs.dll/article?AID=99992388
