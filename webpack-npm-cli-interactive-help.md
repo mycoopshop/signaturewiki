@@ -46,3 +46,7 @@
 * https://stackoverflow.com/questions/23016298/getopt-like-behavior-in-powershell
 * https://rosettacode.org/wiki/Parse_command-line_arguments#PowerShell
 * https://oclif.io/
+* https://github.com/webpack-contrib/sass-loader/issues/484
+* https://github.com/webpack/webpack/issues/2704
+* https://github.com/webpack-contrib/sass-loader/issues/272
+* https://github.com/webpack-contrib/css-loader/issues/216
