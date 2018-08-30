@@ -44,7 +44,7 @@ CGI/PSGI
 * http://search.cpan.org/~markstos/CGI-Application-Dispatch-3.12/lib/CGI/Application/Dispatch/PSGI.pm
 * https://www.perl.com/pub/2003/06/19/treasures.html/
 * http://www.dalkescientific.com/Martel/
-
+* http://blog.kraih.com/post/147632979106/mojolicious-70-released-perl-real-time-web
 
 Perl6
 
