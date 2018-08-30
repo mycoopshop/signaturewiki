@@ -644,6 +644,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
 ## Einstein
+* https://www.salesforce.com/products/marketing-cloud/best-practices/data-mining-predictive-analytics/
 * https://www.forcetalks.com/blog/hello-world-code-for-salesforce-einstein/
 * https://blogs.absyz.com/2018/02/27/einstein-intent-analysis-using-einstein-language-on-salesforce-chatter/
 * http://www.0to1code.com/blog/category/machine-learning-and-artificial-intelligence/salesforce-einstein/
