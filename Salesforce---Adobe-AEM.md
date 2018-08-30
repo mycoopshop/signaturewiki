@@ -73,7 +73,6 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
-* https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 * https://help.salesforce.com/articleView?id=security_transactions_best_practices.htm&type=5
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=vpm_considerations_bestpractices.htm&type=5
@@ -192,7 +191,6 @@ https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/i
 https://developer.salesforce.com/page/Alert!_Salesforce_Event_Notification_Designs_for_Force.com_Apps
 https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
 https://developer.salesforce.com/index.php?title=Data_Driven_Menu_with_jQuery
-https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://developer.salesforce.com/blogs/developer-relations/2015/06/running-aura-app-heroku.html
 https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
@@ -812,6 +810,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## WSDL
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
 * https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
+* http://mvnrepository.com/artifact/com.force.api/force-wsc
 
 ## OData
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
