@@ -31,6 +31,7 @@
 
 # Reinvent Bias
 * https://en.wikipedia.org/wiki/Lonnie_Johnson_(inventor)
+* https://en.wikipedia.org/wiki/Kido_Takayoshi
 * https://en.wikipedia.org/wiki/Rosenwald_Fund
 * https://en.wikipedia.org/wiki/1K_ZX_Chess
 * https://en.wikipedia.org/wiki/Eclipse_Che
