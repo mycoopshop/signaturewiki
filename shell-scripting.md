@@ -9,3 +9,5 @@
 * https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/25/using-powershell-ise-snippets-to-remember-tricky-syntax/
 * https://www.jonathanmedd.net/2013/11/creating-powershell-ise-v3-and-later-code-snippets.html
 * http://etutorials.org/Linux+systems/red+hat+linux+bible+fedora+enterprise+edition/Part+II+Using+Red+Hat+Linux/Chapter+9+Tools+for+Using+the+Internet+and+the+Web/Using+Remote+Login+Copy+and+Execution/
+* https://arstechnica.com/information-technology/2017/02/bored-with-ho-hum-cloud-backups-use-usenet-yes-usenet-instead/
+* http://tldp.org/LDP/abs/html/communications.html
