@@ -3,6 +3,9 @@
 * https://www.alexa.com/siteinfo/bitcoin.org
 * https://www.alexa.com/siteinfo/uvm.edu
 
+# Consistency
+* https://ethanschoonover.com/solarized/
+
 # Simplicity
 * https://www.afrihost.com/landing/mobile/apn/
 
