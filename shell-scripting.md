@@ -6,3 +6,5 @@
 * http://blog.n01se.net/blog-n01se-net-p-145.html
 * https://issues.jenkins-ci.org/browse/JENKINS-25503
 * http://www.perlmonks.org/?node_id=845138
+* https://blogs.technet.microsoft.com/heyscriptingguy/2014/01/25/using-powershell-ise-snippets-to-remember-tricky-syntax/
+* https://www.jonathanmedd.net/2013/11/creating-powershell-ise-v3-and-later-code-snippets.html
