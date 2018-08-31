@@ -4,3 +4,6 @@
 * https://www.udemy.com/learn_power_bi_for_free/
 * https://www.lynda.com/Power-BI-tutorials/8049-0.html
 * https://pbiwebprod-docs.azurewebsites.net/en-us/documentation/powerbi-developer-power-bi-permissions/
+* https://www.spss-tutorials.com/spss-compute-command/
+* https://developer.ibm.com/predictiveanalytics/wp-content/uploads/sites/48/2015/04/Programming-and-Data-Management-for-IBM-SPSS-Statistics-23.pdf
+* ftp://public.dhe.ibm.com/software/analytics/spss/documentation/statistics/24.0/en/server/Manuals/Python_Reference_Guide_for_IBM_SPSS_Statistics.pdf
