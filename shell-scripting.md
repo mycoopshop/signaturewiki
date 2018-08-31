@@ -11,3 +11,6 @@
 * http://etutorials.org/Linux+systems/red+hat+linux+bible+fedora+enterprise+edition/Part+II+Using+Red+Hat+Linux/Chapter+9+Tools+for+Using+the+Internet+and+the+Web/Using+Remote+Login+Copy+and+Execution/
 * https://arstechnica.com/information-technology/2017/02/bored-with-ho-hum-cloud-backups-use-usenet-yes-usenet-instead/
 * http://tldp.org/LDP/abs/html/communications.html
+* https://blogs.technet.microsoft.com/heyscriptingguy/2013/01/04/understanding-and-using-powershell-profiles/
+* https://technet.microsoft.com/en-us/library/bb613488(v=vs.85).aspx
+* https://ss64.com/ps/syntax-run.html
