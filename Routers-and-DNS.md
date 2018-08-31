@@ -18,3 +18,6 @@ https://www.linksys.com/sg/support-article?articleNum=142456
 
 https://superuser.com/questions/936062/expanding-wireless-coverage-what-are-the-differences-between-lan-to-lan-and-lan
 
+http://www.tcpipguide.com/content.htm
+
+
