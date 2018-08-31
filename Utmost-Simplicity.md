@@ -113,6 +113,10 @@ Documenting - Markdown
 
 Visualizing - HTML5 Canvas 
 
+# Annotations
+https://9clouds.com/blog/14-slack-hacks-using/
+https://get.slack.help/hc/en-us/articles/202288908-How-can-I-add-formatting-to-my-messages-
+
 # Conditions
 https://www.coderetreat.org/pages/facilitating/activity-catalog/
 http://www.donhopkins.com/drupal/node/124
