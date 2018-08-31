@@ -850,9 +850,12 @@ PERSONA 4: DANCING ALL NIGHT
 * Disney DuckTales Remastered
 * Tales of Symphonia Chronicles & Tales of Graces F Dual Pack
 * Borderlands Triple Pack
+
 ### PSN
+
 * Abyss Odyssey
 * Dead Nation
+* Legend of Kay - Anniversary
 * Teenage Mutant Ninja Turtles: Out of the Shadows 
 * Trine 2
 * Scott Pilgrim vs. The World: The Game
