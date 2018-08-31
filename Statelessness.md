@@ -17,6 +17,8 @@
 * https://stackoverflow.com/questions/47740017/manage-focus-on-stateless-components-react
 * https://docs.bugsnag.com/platforms/browsers/react/#advanced-configuration
 * https://stackoverflow.com/questions/48712345/react-props-id-binding-to-onclick-in-a-stateless-component
+* https://hackernoon.com/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254?gi=35c582cb80a3
+
 
 # Examples
 * https://codepen.io/vitalyq/pen/oBvxJB?editors=0010
