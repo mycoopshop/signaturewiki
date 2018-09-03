@@ -113,6 +113,8 @@
 
 # Data Bias
 * https://www.rhymedb.com/word/glove
+* https://www.commondreams.org/views/2017/07/10/eating-our-way-disease
+* https://www.truthdig.com/articles/james-cones-gospel-of-the-penniless-jobless-marginalized-and-despised/
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
