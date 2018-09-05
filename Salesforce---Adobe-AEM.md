@@ -23,6 +23,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/expr_source.htm
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 * https://developer.salesforce.com/page/Apex_Wiki
+* https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml
 
 ## Metadata Enumeration/Serialization
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
@@ -392,6 +393,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://schemalister.herokuapp.com
 
 ## IDE
+* https://developer.salesforce.com/blogs/2018/06/salesforce-for-vs-code-apex-replay-debugger-and-more.html
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 * https://salesforce.stackexchange.com/questions/41936/is-it-possible-to-remove-fields-using-change-sets-deployment
 * https://www.slideshare.net/developerforce/introducing-the-welkin-suite-ide-for-salesforce
