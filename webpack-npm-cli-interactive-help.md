@@ -50,3 +50,11 @@
 * https://github.com/webpack/webpack/issues/2704
 * https://github.com/webpack-contrib/sass-loader/issues/272
 * https://github.com/webpack-contrib/css-loader/issues/216
+* https://css-tricks.com/introduction-webpack-entry-output-loaders-plugins/
+* https://babeljs.io/docs/en/next/presets.html
+* https://babeljs.io/blog/2015/10/31/setting-up-babel-6
+* https://babeljs.io/docs/en/v7-migration
+* https://medium.freecodecamp.org/how-to-solve-webpack-problems-the-practical-case-79fb676417f4
+* https://github.com/chimurai/http-proxy-middleware#options
+* https://github.com/webpack/webpack-dev-server/issues/147
+* https://stefanscherer.github.io/windows-docker-workshop/#1
