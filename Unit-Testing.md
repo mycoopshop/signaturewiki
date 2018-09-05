@@ -674,3 +674,11 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://github.com/mobxjs/mobx-react/issues/194
 
 * https://dzone.com/articles/the-business-case-for-unit-testing-1
+
+* http://johannes.tax/Inline_unit_tests_in_Clojure.html
+
+* https://github.com/vincent-hugot/qtest
+
+* https://oleb.net/blog/2018/06/enumerating-enum-cases/
+
+* https://github.com/showell/Game-Of-Life/blob/master/game.coffee
