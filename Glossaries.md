@@ -16,3 +16,5 @@
 1. https://www.computer-dictionary-online.org/glossary
 1. https://semantic-web.com/glossary/
 1. http://jennriley.com/metadatamap/seeingstandards_glossary_pamphlet.pdf
+1. http://www.cheniere.org/references/annotated_glossary.htm
+1. http://itelementaryschool.com/glossary-of-it-terms/
