@@ -67,3 +67,4 @@
 # Optimization
 * https://webpack.js.org/configuration/optimization/
 * https://webpack.js.org/configuration/devtool/
+* https://webpack.js.org/guides/caching/
