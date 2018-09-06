@@ -10,6 +10,9 @@
 1. http://lambda-the-ultimate.org/node/5509
 1. https://github.com/browserslist/browserslist#queries
 1. https://webpack.js.org/glossary/
-1. https://webpack.js.org/concepts/
+1. http://www.philosophy.uncc.edu/mleldrid/ct/glos.html
+1. http://www.star-pm.com/index_files/glossary.htm
+1. http://www.ciphersbyritter.com/GLOSSARY.HTM
+1. https://www.computer-dictionary-online.org/glossary
 1. https://semantic-web.com/glossary/
 1. http://jennriley.com/metadatamap/seeingstandards_glossary_pamphlet.pdf
