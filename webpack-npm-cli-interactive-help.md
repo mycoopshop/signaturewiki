@@ -77,6 +77,10 @@
 * https://www.npmjs.com/package/svg-url-loader
 * https://www.npmjs.com/package/freemarker-parser
 
+# Issues
+* https://github.com/webpack/webpack/issues/6617
+* https://webpack.js.org/guides/author-libraries/
+
 # Benchmarking
 * https://webpack.js.org/api/stats/
 * https://github.com/webpack-contrib/webpack-bundle-analyzer
