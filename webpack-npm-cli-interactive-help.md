@@ -65,15 +65,26 @@
 * https://stefanscherer.github.io/windows-docker-workshop/#1
 
 # Migration
+* https://codefor.life/everything-i-need-to-know-about-javascript-tools/
 * https://webpack.js.org/guides/asset-management/
 * https://medium.com/@yangnana11/how-to-run-and-build-webpack-b28a7ae612db
 * https://deliciousbrains.com/npm-build-script/
+* https://markus.oberlehner.net/blog/goodbye-webpack-building-vue-applications-without-webpack/
+* https://vuejsdevelopers.com/2017/12/04/webpack-intro-vue-js/
+
+# Legacy Mapping
+* https://www.npmjs.com/package/xslt-template-loader
+* https://www.npmjs.com/package/svg-url-loader
+* https://www.npmjs.com/package/freemarker-parser
 
 # Benchmarking
 * https://webpack.js.org/api/stats/
 * https://github.com/webpack-contrib/webpack-bundle-analyzer
 * https://webpack.js.org/configuration/performance/
 * https://webpack.js.org/configuration/other-options/
+
+# Plugin Dev
+* https://github.com/evcohen/accessibility-webpack-plugin
 
 # Optimization
 * https://webpack.js.org/configuration/optimization/
