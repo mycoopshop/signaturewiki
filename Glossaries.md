@@ -18,3 +18,4 @@
 1. http://jennriley.com/metadatamap/seeingstandards_glossary_pamphlet.pdf
 1. http://www.cheniere.org/references/annotated_glossary.htm
 1. http://itelementaryschool.com/glossary-of-it-terms/
+1. https://en.wikipedia.org/wiki/Category:Workflow_technology
