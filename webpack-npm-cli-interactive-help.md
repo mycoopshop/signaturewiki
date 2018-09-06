@@ -17,6 +17,11 @@
 1. Copy hidden or missing node_modules from project A to project B
 1. Run the binaries in the node_modules/.bin directory directly without npm run or npm run-script to create config files
 
+**Defensive Programming**
+* https://basarat.gitbooks.io/typescript/docs/tips/defaultIsBad.html
+* https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f
+* https://news.ycombinator.com/item?id=13308948
+
 **References**
 
 * https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
@@ -59,12 +64,22 @@
 * https://github.com/webpack/webpack-dev-server/issues/147
 * https://stefanscherer.github.io/windows-docker-workshop/#1
 
+# Migration
+* https://webpack.js.org/guides/asset-management/
+* https://medium.com/@yangnana11/how-to-run-and-build-webpack-b28a7ae612db
+* https://deliciousbrains.com/npm-build-script/
+
 # Benchmarking
 * https://webpack.js.org/api/stats/
 * https://github.com/webpack-contrib/webpack-bundle-analyzer
 * https://webpack.js.org/configuration/performance/
+* https://webpack.js.org/configuration/other-options/
 
 # Optimization
 * https://webpack.js.org/configuration/optimization/
 * https://webpack.js.org/configuration/devtool/
 * https://webpack.js.org/guides/caching/
+* https://webpack.js.org/concepts/mode/
+
+# Internals
+* https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
