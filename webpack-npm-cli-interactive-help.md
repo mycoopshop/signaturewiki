@@ -58,3 +58,12 @@
 * https://github.com/chimurai/http-proxy-middleware#options
 * https://github.com/webpack/webpack-dev-server/issues/147
 * https://stefanscherer.github.io/windows-docker-workshop/#1
+
+# Benchmarking
+* https://webpack.js.org/api/stats/
+* https://github.com/webpack-contrib/webpack-bundle-analyzer
+* https://webpack.js.org/configuration/performance/
+
+# Optimization
+* https://webpack.js.org/configuration/optimization/
+* https://webpack.js.org/configuration/devtool/
