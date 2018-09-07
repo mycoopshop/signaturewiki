@@ -482,6 +482,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## SOQL
 
+### Tables
 * Schema
 * account
 * profile
@@ -497,6 +498,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * activityhistory
 * oauthToken
 
+### References
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
 * https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
@@ -523,6 +525,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000006007&language=en_US%C2%A0&type=1
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Domain_Layer
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/relationships_among_objects.htm
+* https://help.salesforce.com/articleView?id=fields_creating_cross_object_notes.htm&type=5
+* https://developer.salesforce.com/blogs/engineering/2012/06/using-soql-to-determine-your-users-permissions-2.html
 
 ## SQL
 * https://engineering.salesforce.com/the-architecture-files-ep-4-the-database-is-a-magician-b951945ea5b8
