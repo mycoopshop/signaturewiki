@@ -481,6 +481,22 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 
 ## SOQL
+
+* Schema
+* account
+* profile
+* dashboard
+* objectpermissions
+* permissionset
+* organization
+* platformaction
+* processnode
+* scratchorginfo
+* site
+* user
+* activityhistory
+* oauthToken
+
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
 * https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
