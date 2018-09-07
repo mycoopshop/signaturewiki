@@ -19,6 +19,7 @@ Excellent verbal and written communication skills
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://github.com/forceworkbench/forceworkbench/wiki
+* https://developer.salesforce.com/blogs/2018/05/summer18-rethink-trigger-logic-with-apex-switch.html
 * https://github.com/forcedotcom/idecore/blob/master/com.salesforce.ide.ui.editors/config/apexModel.xml#L4128
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/building-conditional-page-layouts.html
 * http://www.salesforce.com/us/developer/docs/api90/Content/sforce_api_calls_soql_bnf_notation.htm
@@ -398,6 +399,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## IDE
 * https://developer.salesforce.com/blogs/2018/06/salesforce-for-vs-code-apex-replay-debugger-and-more.html
+* https://developer.salesforce.com/blogs/2018/06/lets-talk-deployment-and-reasons-why-they-succeed-or-fail.html
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
 * https://salesforce.stackexchange.com/questions/41936/is-it-possible-to-remove-fields-using-change-sets-deployment
 * https://www.slideshare.net/developerforce/introducing-the-welkin-suite-ide-for-salesforce
@@ -462,6 +464,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## VisualForce
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/02/lightning-components-visualforce-lightning.html
 * https://developer.salesforce.com/blogs/tech-pubs/2013/06/updating-visualforce-chart-data.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/best-practices-improving-visualforce-page-performance.html
@@ -546,6 +549,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://www.lightningdesignsystem.com/release-notes/
 * https://developer.salesforce.com/blogs/developer-relations/2017/08/displaying-user-notifications-lightning-component-framework.html
+* https://developer.salesforce.com/blogs/2018/01/introduction-salesforce-ui-api.html
+* https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
 * https://developer.salesforce.com/blogs/2018/07/how-variable-types-operate-in-the-lightning-component-framework.html
 * https://developer.salesforce.com/blogs/2018/06/using-path-in-your-custom-lightning-component.html
 * https://developer.salesforce.com/blogs/2018/05/summer18-lightning-base-components-for-editing-data.html
@@ -641,6 +646,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Rest API
 * https://developer.salesforce.com/page/Salesforce_APIs
+* https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
 * https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit/
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
 * https://developer.salesforce.com/blogs/developer-relations/2013/03/mashing-up-force-com-apis-with-ql-io-part-1.html
@@ -853,6 +860,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/passing-parameters-by-reference-and-by-value-in-apex.html
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
+* https://developer.salesforce.com/blogs/2018/05/why-we-test.html
+* https://developer.salesforce.com/blogs/2018/05/month-of-testing-apex-testing-in-depth-part-2-of-3.html
+* https://developer.salesforce.com/blogs/2018/05/month-of-testing-advanced-topics-in-salesforce-unit-testing-part-3-of-3.html
 * https://help.salesforce.com/articleView?id=code_test_results.htm&type=5
 * https://partners.salesforce.com/s/education/appinnovators/Enterprise_Scale_Testing
 * https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
