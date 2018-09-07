@@ -26,8 +26,16 @@ http://www.tcpipguide.com/content.htm
 
 http://www.l-com.com/content/Article.aspx?Type=L&ID=467
 
+https://www.mathworks.com/help/wlan/gs/what-is-wlan.html
+
 http://www.dtic.mil/dtic/tr/fulltext/u2/a420632.pdf
 
 http://www.dtic.mil/dtic/tr/fulltext/u2/a497761.pdf
 
+http://www.au.af.mil/au/awc/awcgate/cst/bh_peacock.pdf
 
+https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=33178
+
+http://www.dtic.mil/dtic/tr/fulltext/u2/a480069.pdf
+
+https://share-ng.sandia.gov/news/resources/releases/2006/images/wireless-fingerprinting.pdf
