@@ -21,6 +21,7 @@
 * https://basarat.gitbooks.io/typescript/docs/tips/defaultIsBad.html
 * https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f
 * https://news.ycombinator.com/item?id=13308948
+* https://github.com/webpack/webpack/tree/master/examples
 
 **References**
 
@@ -66,11 +67,15 @@
 
 # Migration
 * https://codefor.life/everything-i-need-to-know-about-javascript-tools/
+* https://www.slideshare.net/loige/unbundling-the-javascript-module-bundler-codemotion-rome-2018
+* https://www.jamasoftware.com/blog/upgrade-node-module-right-way/
+* https://www.codementor.io/elliotaplant/understanding-javascript-module-resolution-systems-with-dinosaurs-il2oqro6e
 * https://webpack.js.org/guides/asset-management/
 * https://medium.com/@yangnana11/how-to-run-and-build-webpack-b28a7ae612db
 * https://deliciousbrains.com/npm-build-script/
 * https://markus.oberlehner.net/blog/goodbye-webpack-building-vue-applications-without-webpack/
 * https://vuejsdevelopers.com/2017/12/04/webpack-intro-vue-js/
+* https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
 
 # Legacy Mapping
 * https://www.npmjs.com/package/xslt-template-loader
@@ -80,6 +85,20 @@
 # Issues
 * https://github.com/webpack/webpack/issues/6617
 * https://webpack.js.org/guides/author-libraries/
+* https://github.com/babel/babel/pull/7980
+* https://github.com/systemjs/systemjs/issues/450
+* https://github.com/webpack/webpack/issues/1747
+* https://github.com/babel/babel-loader/issues/149
+* https://github.com/webpack/webpack/issues/5433
+* https://github.com/webpack/webpack/issues/554
+* https://github.com/webpack/webpack/issues/2937
+* https://github.com/webpack/webpack/issues/6796
+* https://github.com/webpack/webpack.js.org/issues/68
+* https://github.com/webpack/webpack/issues/4160
+
+# Specs
+* https://github.com/defunctzombie/package-browser-field-spec
+* https://github.com/webpack/webpack/issues/520
 
 # Benchmarking
 * https://webpack.js.org/api/stats/
@@ -90,11 +109,18 @@
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
 
+# Aliasing
+* https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9
+* http://xabikos.com/2015/10/03/Webpack-aliases-and-relative-paths/
+
 # Optimization
 * https://webpack.js.org/configuration/optimization/
 * https://webpack.js.org/configuration/devtool/
 * https://webpack.js.org/guides/caching/
 * https://webpack.js.org/concepts/mode/
+* https://webpack.js.org/configuration/configuration-languages/
+* https://webpack.js.org/configuration/watch/
 
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
+* https://webpack.js.org/configuration/node/
