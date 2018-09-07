@@ -528,7 +528,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=fields_creating_cross_object_notes.htm&type=5
 * https://help.salesforce.com/articleView?id=000187460&language=en_US&type=1
 * https://developer.salesforce.com/blogs/engineering/2012/06/using-soql-to-determine-your-users-permissions-2.html
-
+* https://douglascayers.com/2015/10/08/salesforce-how-to-select-all-fields-with-soql-in-apex/
 
 ## SQL
 * https://engineering.salesforce.com/the-architecture-files-ep-4-the-database-is-a-magician-b951945ea5b8
