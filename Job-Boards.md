@@ -40,6 +40,7 @@ Working knowledge of Java and JavaScript.
 Experience with DITA and XML authoring tools such as Oxygen or Arbortext.
 Strong visualization skills and experience creating images and diagrams of complex systems.
 
+https://www.pacific.edu/Documents/student-life/crc/Cover_Letter_Handbook.pdf
 
 title:salesforce title:developer site:linkedin.com title:us +pulse
 
