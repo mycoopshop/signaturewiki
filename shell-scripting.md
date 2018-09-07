@@ -1,3 +1,4 @@
+* https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html
 * https://www.tutorialspoint.com/powershell/powershell_alias.htm
 * https://docs.microsoft.com/en-us/powershell/scripting/whats-new/what-s-new-in-powershell-core-60
 * https://docs.oseems.com/general/ssh/set-remove-passphrase
