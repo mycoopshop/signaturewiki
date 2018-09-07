@@ -1,5 +1,7 @@
 http://www.linux-magazine.com/Issues/2014/161/Security-and-SOHO-Routers
 
+https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/emob41dg/emob41dg-wrapper/ch3_WLAN.pdf
+
 http://ptgmedia.pearsoncmg.com/images/9780789753342/samplepages/9780789753342.pdf
 
 http://www.gadgetvictims.com/2016/10/who-else-is-watching-your-ip-cameras.html
@@ -21,5 +23,11 @@ https://www.linksys.com/sg/support-article?articleNum=142456
 https://superuser.com/questions/936062/expanding-wireless-coverage-what-are-the-differences-between-lan-to-lan-and-lan
 
 http://www.tcpipguide.com/content.htm
+
+http://www.l-com.com/content/Article.aspx?Type=L&ID=467
+
+http://www.dtic.mil/dtic/tr/fulltext/u2/a420632.pdf
+
+http://www.dtic.mil/dtic/tr/fulltext/u2/a497761.pdf
 
 
