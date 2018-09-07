@@ -48,6 +48,7 @@ ES6 Template Literals:
 
 **References**
 * https://medium.com/@gigobyte/enhancing-react-components-with-decorators-441320e8606a
+* https://www.bennadel.com/blog/3483-replacing-double-dashes-with-em-dashes-while-typing-in-javascript.htm
 * https://docs.angularjs.org/api/ng/directive/script
 * https://www.ironin.it/blog/react-developers-may-like-vue.js-more.html
 * https://github.com/facebook/react/issues/6436
