@@ -19,3 +19,4 @@
 1. http://www.cheniere.org/references/annotated_glossary.htm
 1. http://itelementaryschool.com/glossary-of-it-terms/
 1. https://en.wikipedia.org/wiki/Category:Workflow_technology
+1. http://support.lexmark.com/library/LEXMARK/primus/files/PATTLNK_2212008_1122-Wireless%20Glossary%20v1.0.PDF
