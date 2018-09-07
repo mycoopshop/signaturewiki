@@ -12,6 +12,10 @@ Proven ability to manage and resolve complex and ambiguous technical issues
 Creativity & Critical Thinking
 Excellent verbal and written communication skills
 
+**Job**
+* https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-faq.html
+* https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-training-materials.html
+
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://github.com/forceworkbench/forceworkbench/wiki
