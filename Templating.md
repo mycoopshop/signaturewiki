@@ -132,3 +132,7 @@ and unescaped strings can be dangerous as well:
 * [HTP](https://docs.oracle.com/cd/B28359_01/appdev.111/b28419/w_htp.htm#BABGJJIH)
 
 * [MessageFormat (icu4j)](http://icu-project.org/applets/icu4j/4.1/docs-4_1_3/com/ibm/icu/text/MessageFormat.html)
+
+* [CF2016: What's deprecated and/or 'no longer supported' (note: nothing 'removed') - Charlie Arehart's ColdFusion Troubleshooting Blog](http://www.carehart.org/blog/client/index.cfm/2016/2/22/cf2016_deprecated_features)
+
+* [When Using ColdFusion No Longer Makes Sense | Blog](http://forta.com/blog/index.cfm/2012/11/25/When-Using-ColdFusion-No-Longer-Makes-Sense)
