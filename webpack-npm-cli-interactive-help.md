@@ -95,6 +95,10 @@
 * https://github.com/webpack/webpack/issues/6796
 * https://github.com/webpack/webpack.js.org/issues/68
 * https://github.com/webpack/webpack/issues/4160
+* https://github.com/YahooArchive/strip-loader/issues/24
+
+# Mocking
+* https://www.npmjs.com/package/mock-webpack-plugin
 
 # Specs
 * https://github.com/defunctzombie/package-browser-field-spec
@@ -120,6 +124,8 @@
 * https://webpack.js.org/concepts/mode/
 * https://webpack.js.org/configuration/configuration-languages/
 * https://webpack.js.org/configuration/watch/
+* https://blog.benestudio.co/remove-console-log-statements-from-production-javascript-apps-7376adc89c7a
+* https://github.com/webpack/webpack/issues/6586
 
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
