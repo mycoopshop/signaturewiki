@@ -9,3 +9,4 @@
 * https://wikitech.wikimedia.org/wiki/Performance/Proxy_browsers
 * https://stackoverflow.com/questions/50321034/how-do-enable-root-proxying-in-webpack-dev-server
 * https://github.com/chimurai/http-proxy-middleware#context-matching
+* https://gorillalogic.com/blog/webpack-and-cors/
