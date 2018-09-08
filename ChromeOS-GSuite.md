@@ -7,6 +7,9 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
  * [Inappropriate DLL load addresses](https://code.google.com/p/chromium/issues/detail?id=321626)
 * https://www.chromium.org/chromium-os/developer-guide/using-sdk-standalone
 * https://www.chromium.org/chromium-os/developing-apps-on-your-chromium-os-device
+* https://support.google.com/chromebook/answer/183101?hl=en
+* https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices
+* http://kaleb.horns.by/comp/os/chrome/ssh-keys/
 
 Preferences JS
 * https://support.google.com/chrome/a/answer/187948?hl=en
