@@ -26,6 +26,8 @@ co-op site:mobygames.com
 
 "by its employees" +software site:wikipedia.org
 
+"Exclusively on Android" site:play.google.com
+
 title:sdk title:notes site:oracle.com +jdk
 
 associated press site:player.fm
