@@ -76,6 +76,7 @@
 * https://markus.oberlehner.net/blog/goodbye-webpack-building-vue-applications-without-webpack/
 * https://vuejsdevelopers.com/2017/12/04/webpack-intro-vue-js/
 * https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
+* https://medium.com/@dferber90/enabling-assets-for-server-side-rendering-in-webpack-a843a5ebeb0c
 
 # Legacy Mapping
 * https://www.npmjs.com/package/xslt-template-loader
