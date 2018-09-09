@@ -50,6 +50,7 @@ https://github.com/facebook/react/issues/3473
 https://lolware.net/2015/08/19/reactjs-xss-testing.html
 https://vip.wordpress.com/2015/03/25/preventing-xss-in-javascript/
 https://labs.detectify.com/2017/01/18/stored-xss-ing-millions-of-sites-through-html-comment-box/
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-anyconnect-dos
 
 # Same Origin Policy
 https://marc.info/?l=bugtraq&m=102796732924658&w=2
