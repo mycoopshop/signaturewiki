@@ -64,8 +64,14 @@
 * https://github.com/chimurai/http-proxy-middleware#options
 * https://github.com/webpack/webpack-dev-server/issues/147
 * https://stefanscherer.github.io/windows-docker-workshop/#1
+* https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Building-app-into-dist-folder-using-webpack
+* https://css-tricks.com/combine-webpack-gulp-4/
+* https://www.sitepoint.com/bundle-static-site-webpack/
+* https://vijayt.com/post/scaffolding-react-web-app-webpack-2/
+* http://ramkulkarni.com/blog/setting-up-webpack-babel-reactjs/
 
 # Migration
+* https://github.com/webpack-contrib/copy-webpack-plugin#this-doesnt-copy-my-files-with-webpack-dev-server
 * https://codefor.life/everything-i-need-to-know-about-javascript-tools/
 * https://www.slideshare.net/loige/unbundling-the-javascript-module-bundler-codemotion-rome-2018
 * https://www.jamasoftware.com/blog/upgrade-node-module-right-way/
