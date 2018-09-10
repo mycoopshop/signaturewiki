@@ -403,8 +403,16 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Heroku Connect
 * https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
+* https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
+* https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/
+* https://www.redhat.com/files/summit/session-assets/2017/S102611-hu.pdf
+* https://docs.workato.com/connectors/salesforce.html#using-real-time-triggers
+* https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
+* https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
+
 
 ## IDE
+* https://cloud9-salesforce.readme.io/docs/getting-started
 * https://developer.salesforce.com/blogs/2018/06/salesforce-for-vs-code-apex-replay-debugger-and-more.html
 * https://developer.salesforce.com/blogs/2018/06/lets-talk-deployment-and-reasons-why-they-succeed-or-fail.html
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
@@ -468,6 +476,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## S-Controls
 * https://help.salesforce.com/articleView?id=dev_about_scontrols.htm&type=0
 * https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
+* https://developers.google.com/gdata/articles/salesforce
 
 ## VisualForce
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
