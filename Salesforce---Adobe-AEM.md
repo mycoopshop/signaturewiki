@@ -185,8 +185,6 @@ https://developer.salesforce.com/blogs/tech-pubs/2013/05/our-award-winning-docum
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
 https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/misc/SalesforceIQ-Open-Source.pdf
 http://documentation.auraframework.org/
-https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
-https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/debug_intro.htm
 https://developer.salesforce.com/page/Sample_SOAP_Messages
 https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-soap-api-sample-wsdls.html
@@ -348,12 +346,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Force.com_Canvas
 * https://developer.salesforce.com/blogs/developer-relations/2012/09/create-force-com-apps-anywhere-with-force-com-canvas.html
 
+## Single Sign On
+* https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
+* https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
+* https://aws.amazon.com/blogs/security/tag/salesforce/
+
 ## Marketing Cloud
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
 * https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_es_best_practices_data_extensions_query_activities.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_bp_goal_and_exit_best_practices.htm&type=5
+* https://aws.amazon.com/partners/success/salesforce-case-study/
 
 ## Service Cloud
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
@@ -396,6 +400,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
 * https://schemalister.herokuapp.com
+
+## Heroku Connect
+* https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
 
 ## IDE
 * https://developer.salesforce.com/blogs/2018/06/salesforce-for-vs-code-apex-replay-debugger-and-more.html
@@ -918,6 +925,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://en.wikipedia.org/wiki/Computer_telephony_integration
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_cti.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.210.0.api_cti.meta/api_cti/sforce_api_cti_intro.htm
+* https://docs.aws.amazon.com/connect/latest/adminguide/salesforce-integration.html
+* https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
 * https://docs.aws.amazon.com/connect/latest/adminguide/salesforce-integration.html
 
 ## Reporting
