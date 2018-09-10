@@ -7,3 +7,4 @@
 * http://www.largeup.com/2013/09/12/throwback-thursdays-dj-treats-on-ms-dynamite/
 * https://www.bbc.com/news/entertainment-arts-42974440
 * https://rapzilla.com/2017-12-lecrae-the-rebel-and-nf-real-music/
+* https://en.wikipedia.org/wiki/Rapsody
