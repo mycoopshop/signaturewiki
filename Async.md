@@ -10,3 +10,4 @@
 * https://github.com/facebook/react/pull/12078
 * https://github.com/facebook/react/issues/11401
 * https://github.com/whatwg/xhr/issues/20
+* https://github.com/salesforce-ux/test-drive-brown-bag/blob/master/__tests__/components/App.spec.jsx
