@@ -108,3 +108,4 @@ https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/get-started
 https://steffenjahr.de/2017/05/12/microsoft-edge-and-you-pwa-service-worker-ahead/
 https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps/windows-features
 https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/
+https://medium.com/the-node-js-collection/an-update-on-es6-modules-in-node-js-42c958b890c
