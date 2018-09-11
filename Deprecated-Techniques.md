@@ -151,6 +151,8 @@
 * https://www.computerperformance.co.uk/powershell/powershell_env_path.htm
 * https://blogs.technet.microsoft.com/heyscriptingguy/2011/07/23/use-powershell-to-modify-your-environmental-path/
 * https://superuser.com/questions/82053/setting-home-in-powershell
+* https://jira.spring.io/browse/SPR-13912
+* https://docs.spring.io/spring-python/1.2.x/sphinx/html/overview.html
 
 ## Documentation
 
