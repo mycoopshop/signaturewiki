@@ -152,6 +152,7 @@
 * https://affiliate-program.amazon.com/help/operating/policies
 * https://cospot.com/affiliate/amazon-associates-review/
 * https://wiki.eclipse.org/Fostering_Community_Growth
+* https://en.wikipedia.org/wiki/Category:Hotchkiss_School_alumni
 
 # Game Bias
 * https://en.wikipedia.org/wiki/Game_tree
