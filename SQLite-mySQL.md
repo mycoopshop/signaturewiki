@@ -29,3 +29,9 @@ https://fedora-java.github.io/howto/latest/
 http://www.pererikstrandberg.se/blog/index.cgi?page=DataAnalysisWithPython
 https://www.fullstackpython.com/sqlite.html
 https://news.ycombinator.com/item?id=15605669
+https://www.percona.com/blog/2013/01/16/sphinx-search-performance-optimization-multi-threaded-search/
+
+MSSQL
+https://www.sqlskills.com/blogs/erin/sql-server-maintenance-plans-and-parallelism-index-rebuild/
+https://sqlperformance.com/2013/08/t-sql-queries/parallel-select-into
+https://www.red-gate.com/simple-talk/sql/learn-sql-server/understanding-and-using-parallelism-in-sql-server/
