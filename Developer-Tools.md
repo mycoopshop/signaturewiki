@@ -45,3 +45,5 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 1. https://www.activestate.com/blog/2016/11/live-remote-file-editing-komodo-ide-ftp
 1. https://www.activestate.com/blog/2017/05/addon-bootstrapper-komodo
 1. https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/
+* https://www.xml.com/news/2017-06-data2check/
+* https://www.xml.com/news/2017-03-xmlmind-dita-converter-v311/
