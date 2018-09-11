@@ -29,6 +29,8 @@
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
+* http://www.historylink.org/File/7526
+* https://en.wikipedia.org/wiki/Larry_Pressler
 * https://www.youtube.com/watch?v=X4EmiyVKeiw
 * https://www.youtube.com/watch?v=KZaov4WwS7w
 
