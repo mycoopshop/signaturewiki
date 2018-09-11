@@ -1,4 +1,5 @@
 * https://www.apache.org/dist/lucene/solr/ref-guide/apache-solr-ref-guide-7.2.pdf
+* https://lucene.apache.org/solr/guide/6_6/distributed-search-with-index-sharding.html
 * http://lucene.apache.org/solr/7_0_0/changes/Changes.html
 * http://lucene.apache.org/solr/news.html
 * https://git-wip-us.apache.org/repos/asf?p=lucene-solr.git;a=tree;f=solr;
