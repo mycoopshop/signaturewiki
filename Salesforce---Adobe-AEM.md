@@ -128,6 +128,8 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
 * https://success.salesforce.com/issues_view?id=a1p3A000000mCHfQAM
 * https://success.salesforce.com/ideaview?id=0873000000081cUAAQ
+* https://success.salesforce.com/issues_index?tag=Lightning
+* https://success.salesforce.com/issues_index?tag=Live%20Agent
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
@@ -146,6 +148,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_apexgov.htm#!
 * https://developer.salesforce.com/blogs/engineering/2015/09/when-not-to-use-machine-learning.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_relationships_limits.htm&type=5
+* https://developer.salesforce.com/forums/?id=906F0000000BWZ0IAO
 
 **Certification**
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
@@ -160,6 +163,13 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=admin_viewing_emailtemplates.htm&type=5
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
+
+## IOT
+* https://github.com/developerforce/Force.com-Toolkit-for-Jasper
+* https://developer.salesforce.com/blogs/developer-relations/2016/02/integrating-jasper-control-center-api-force-com.html
+* https://partners.salesforce.com/s/education/general/Salesforce_IoT
+* https://developer.salesforce.com/blogs/2018/05/the-making-of-the-robotics-ridge-at-trailheadx.html
 
 **Tutorials**
 * https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
@@ -471,7 +481,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Live Agent API
 * https://developer.salesforce.com/docs/atlas.en-us.live_agent_rest.meta/live_agent_rest/live_agent_rest_understanding_resources.htm
-* https://github.com/developerforce/Force.com-Toolkit-for-Jasper
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/live_agent_rest.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/live_agent_administrator.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/live_agent_dev_guide.pdf
 
 ## S-Controls
 * https://help.salesforce.com/articleView?id=dev_about_scontrols.htm&type=0
@@ -563,6 +575,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
+* https://developer.salesforce.com/blogs/2018/08/all-about-custom-lightning-page-templates.html
 * https://www.lightningdesignsystem.com/release-notes/
 * https://developer.salesforce.com/blogs/developer-relations/2017/08/displaying-user-notifications-lightning-component-framework.html
 * https://developer.salesforce.com/blogs/2018/01/introduction-salesforce-ui-api.html
@@ -613,10 +626,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/data_service.htm
 * https://developerforce.github.io/lightning-app-builder-tutorial/
 * http://developerforce.github.io/lightning-components-tutorial/
-* https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_lightning_stricter_csp.htm
 * https://developer.salesforce.com/page/Lightning_Security
+
+## Accessibility
+* https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 
 ## Automation
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
@@ -718,6 +733,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
 * https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
 * https://quip.com/D0xhA7L33hxy
+
+## Live Agent
+* https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
 
 ## Field Validation
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
