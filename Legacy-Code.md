@@ -4,6 +4,19 @@
 * https://developer.android.com/topic/libraries/support-library/features
 
 <pre>
-grunt-contrib-copy    webpack-contrib/file-loader
-grunt-remove-logging  yasemincidem/webpack-clear-console
-karma-ng-json2js-preprocessor    webpack-contrib/json-loader
+grunt-contrib-copy  &tab;  webpack-contrib/copy-webpack-plugin
+grunt-remove-logging &tab; babel comments option
+karma-ng-json2js-preprocessor &tab; save as json in the json folder, then set noparse on these files
+grunt-contrib-uglify &tab; UglifyjsWebpackPlugin
+globals   &tab; DefinePlugin
+verbose+debug &tab; NpmInstallWebpackPlugin
+libs &tab; ProvidePlugin
+</pre>
+
+## References
+
+https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
+https://webpack.js.org/configuration/module/#module-noparse
+https://webpack.js.org/plugins/define-plugin/
+https://webpack.js.org/plugins/npm-install-webpack-plugin/
+https://webpack.js.org/plugins/provide-plugin/
