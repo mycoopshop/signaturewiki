@@ -8,3 +8,8 @@ E-Reader
 
 1. https://wiki.mobileread.com/wiki/PocketBook
 1. https://www.aliexpress.com/category/2204/ebook-reader.html
+
+Antennae
+
+1. https://www.fcc.gov/media/engineering/dtvmaps
+1. https://nocable.org/compare-long-range-outdoor-antenna-reviews
