@@ -16,6 +16,10 @@ bookmarklet csp
 wai-aria
 i18n
 
+ES6 Modules
+
+With CommonJS, on the other hand, the shape of a module is not known until after the code is evaluated. What this means is, without making significant changes to the ECMAScript language spec, it will not be possible to use Named Imports from a CommonJS module. 
+
 REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
