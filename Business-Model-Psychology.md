@@ -29,7 +29,6 @@
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
-* https://www.apnews.com/18b84bb032e048b3958467f1e744ca6c/
 * https://www.youtube.com/watch?v=X4EmiyVKeiw
 * https://www.youtube.com/watch?v=KZaov4WwS7w
 
@@ -53,6 +52,7 @@
 # Historical Bias
 * https://scholar.lib.vt.edu/ejournals/JOTS/v30/v30n4/pdf/johnson.pdf
 * http://xroads.virginia.edu/~MA03/faturoti/harlem/collage/washington.html
+* https://www.apnews.com/18b84bb032e048b3958467f1e744ca6c/AP-Explains:-Modern-media-magnify-impact-of-assassinations
 
 # Language Bias
 * https://itunes.apple.com/us/app/id1273162445
