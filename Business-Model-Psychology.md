@@ -213,6 +213,10 @@ https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 * http://self.gutenberg.org/articles/eng/Jah
 * http://aramaicnt.com/Research/Peshitta%20History.pdf
 
+# Cultural Bias
+* https://en.wikipedia.org/wiki/Croatan
+* https://en.wikipedia.org/wiki/Sweatt_v._Painter
+
 # Class Bias
 * https://www.ituc-csi.org/IMG/pdf/samsung_web_en.pdf
 * https://news.ycombinator.com/item?id=16874015
