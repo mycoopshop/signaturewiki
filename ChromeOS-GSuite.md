@@ -76,5 +76,6 @@ https://www.asp.net/get-started
 https://www.slant.co/topics/5207/~github-clients-for-android
 http://techintranslation.com/git-python-and-node-on-a-toshiba-chromebook-without-crouton-or-linux/
 https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81
+https://www.reddit.com/r/chromeos/comments/70nv9u/whats_the_besteasiest_way_to_run_git_on_a/
 https://andropenoffice.blogspot.com/search/label/HOWTO
 https://datatracker.ietf.org/wg/doh/about/
