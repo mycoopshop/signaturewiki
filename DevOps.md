@@ -51,6 +51,10 @@ Perl Jenkins Redis
 * https://community.toadworld.com/platforms/oracle/w/wiki/11683.creating-a-hello-world-kubernetes-application
 * https://blogs.oracle.com/weblogicserver/security-best-practices-for-weblogic-server-running-in-docker-and-kubernetes
 
+**GNU**
+* https://www.gnu.org/software/guix/guix-libreplanet-solving-the-deployment-crisis-20160319.pdf
+* https://www.gnu.org/software/guix/guix-libreplanet-practical-freedom-20180325.pdf
+
 **Government**
 * https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/06/CPI-Setup-on-Azure-Government.pdf
 * https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/12/Cloud-Terminology-Handout.pdf
