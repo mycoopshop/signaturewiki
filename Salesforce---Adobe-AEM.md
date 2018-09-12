@@ -170,6 +170,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/integrating-jasper-control-center-api-force-com.html
 * https://partners.salesforce.com/s/education/general/Salesforce_IoT
 * https://developer.salesforce.com/blogs/2018/05/the-making-of-the-robotics-ridge-at-trailheadx.html
+* https://help.salesforce.com/articleView?id=remoteaccess_identity_iot.htm&type=5
 
 **Tutorials**
 * https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
