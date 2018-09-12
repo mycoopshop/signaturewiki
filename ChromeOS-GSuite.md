@@ -73,6 +73,7 @@ https://code.visualstudio.com/docs/languages/csharp
 https://groups.google.com/forum/#!forum/crouton-central
 https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/
 https://www.asp.net/get-started
+https://www.slant.co/topics/5207/~github-clients-for-android
 http://techintranslation.com/git-python-and-node-on-a-toshiba-chromebook-without-crouton-or-linux/
 https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81
 https://andropenoffice.blogspot.com/search/label/HOWTO
