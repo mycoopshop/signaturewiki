@@ -136,3 +136,9 @@ and unescaped strings can be dangerous as well:
 * [CF2016: What's deprecated and/or 'no longer supported' (note: nothing 'removed') - Charlie Arehart's ColdFusion Troubleshooting Blog](http://www.carehart.org/blog/client/index.cfm/2016/2/22/cf2016_deprecated_features)
 
 * [When Using ColdFusion No Longer Makes Sense | Blog](http://forta.com/blog/index.cfm/2012/11/25/When-Using-ColdFusion-No-Longer-Makes-Sense)
+
+* [Stog : Start using Stog in 5 minutes](https://www.good-eris.net/stog/5-minutes.html)
+
+* [MkDocs](https://www.mkdocs.org/)
+
+* [Docusaurus · Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
