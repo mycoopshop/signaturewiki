@@ -12,3 +12,5 @@ https://www.tomsguide.com/us/best-android-games,review-3951-12.html
 
 https://www.polygon.com/games/android/reviewed
 
+http://www.modernstatic.com/
+https://www.staticgen.com/
