@@ -69,6 +69,9 @@ Perl Jenkins Redis
 
 **Containers**
 * https://sqlsailor.com/
+* https://mscloudinfo.files.wordpress.com/2017/07/windows_server_containers_101_poster.pdf
+* https://pedronsite.files.wordpress.com/2016/06/docker-documentationtechnique.pdf
+* https://itjumpstart.files.wordpress.com/2015/03/15-06-15_dockercheatsheet_a2.pdf
 * https://medium.com/@matthew.rosendin/dockerizing-a-full-stack-application-89a7d69e11e9
 * https://www.codementor.io/artemgolovin/how-to-deploy-vue-js-app-in-one-line-with-docker-amp-digital-ocean-9sz8x46w3
 * https://medium.com/@lojorider/docker-with-cgi-perl-a4558ab6a329
