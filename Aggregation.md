@@ -12,5 +12,10 @@ https://www.tomsguide.com/us/best-android-games,review-3951-12.html
 
 https://www.polygon.com/games/android/reviewed
 
+## Static Site Generator Rankings
+
 http://www.modernstatic.com/
+
 https://www.staticgen.com/
+
+https://staticsitegenerators.net/
