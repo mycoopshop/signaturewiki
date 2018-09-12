@@ -25,6 +25,11 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 ### Modeling
 1. https://www.edaplayground.com/x/A4
 
+### Media File Format Conversion
+1. https://www.bugcodemaster.com/article/convert-videos-3gp-format-using-ffmpeg
+1. https://helpx.adobe.com/flash/kb/supported-codecs-flash-player.html
+1. https://support.apple.com/en-us/HT204310
+
 ### Browser Development
 1. https://developers.google.com/web/tools/chrome-devtools/network-performance/reference
 1. https://developers.google.com/web/updates/2016/12/position-sticky
