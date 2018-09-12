@@ -50,10 +50,15 @@ Perl Jenkins Redis
 **Clusters**
 * https://community.toadworld.com/platforms/oracle/w/wiki/11683.creating-a-hello-world-kubernetes-application
 * https://blogs.oracle.com/weblogicserver/security-best-practices-for-weblogic-server-running-in-docker-and-kubernetes
+* https://cloud.google.com/files/whitepaper-running-your-modern-dotnet-app-on-kubernetes.pdf
+* https://www.contentful.com/blog/2018/04/10/sailing-into-infinity-seamlessly-managed-serverless-containers-using-kubernetes-and-aws-fargate/
+* http://blogs.enterprisemanagement.com/torstenvolk/2017/12/01/aws-reinvent-2017-serverless-containers-managed-kubernetes-bare-metal-machine-learning-iot/
+* https://www.serverwatch.com/server-news/amazon-web-services-embraces-kubernetes-debuts-fargate-serverless-containers-service.html
 
 **GNU**
 * https://www.gnu.org/software/guix/guix-libreplanet-solving-the-deployment-crisis-20160319.pdf
 * https://www.gnu.org/software/guix/guix-libreplanet-practical-freedom-20180325.pdf
+* https://www.gnu.org/software/guix/guix-blu-20160120.pdf
 
 **Government**
 * https://cdt.ca.gov/services/wp-content/uploads/sites/2/sites/2/2017/06/CPI-Setup-on-Azure-Government.pdf
@@ -84,6 +89,8 @@ Perl Jenkins Redis
 * http://blogs.cornell.edu/cloudification/category/docker/
 * http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
 * http://devops.sys-con.com/node/4046609/print
+* http://www.oracle.com/technetwork/middleware/weblogic/overview/weblogic-server-docker-containers-2491959.pdf
+* https://www.oracle.com/technetwork/middleware/tuxedo/overview/tuxedo-docker-containers-v1-2966620.pdf
 
 **References**
 
@@ -135,6 +142,7 @@ Perl Jenkins Redis
 * http://getawesomeness.herokuapp.com/get/docker
 * http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/
 * https://stackoverflow.com/questions/39034864/i-cant-run-swift-in-docker-using-ubuntu14-04
+* https://devstreaming-cdn.apple.com/videos/wwdc/2016/415kvwo632dbu5csn3g/415/415_going_serverside_with_swift_open_source.pdf?dl=1
 * https://stackoverflow.com/questions/34517439/building-a-compiled-application-with-docker
 * https://stackoverflow.com/questions/45169212/create-qt-builds-with-jenkins-on-docker
 * https://stackoverflow.com/questions/42569303/docker-does-not-follow-symlinks-within-build-directory
@@ -179,9 +187,6 @@ http://xku6.com/2016/07/18/5-minute-rest-api-docker/
 https://www.trustradius.com/compare-products/heroku-vs-ibm-cloud-paas
 https://dzone.com/articles/paas-buildpacks
 https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications
-https://www.contentful.com/blog/2018/04/10/sailing-into-infinity-seamlessly-managed-serverless-containers-using-kubernetes-and-aws-fargate/
-http://blogs.enterprisemanagement.com/torstenvolk/2017/12/01/aws-reinvent-2017-serverless-containers-managed-kubernetes-bare-metal-machine-learning-iot/
-https://www.serverwatch.com/server-news/amazon-web-services-embraces-kubernetes-debuts-fargate-serverless-containers-service.html
 https://getalternative.net/software/flatpak
 https://naildrivin5.com/blog/2008/09/17/getting-rakes-packagetask-to-depend-on-generated-files.html
 http://hyperpolyglot.org/build
