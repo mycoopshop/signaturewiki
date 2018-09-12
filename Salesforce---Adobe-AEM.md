@@ -165,7 +165,7 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
 
-## IOT
+## IoT
 * https://github.com/developerforce/Force.com-Toolkit-for-Jasper
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/integrating-jasper-control-center-api-force-com.html
 * https://partners.salesforce.com/s/education/general/Salesforce_IoT
@@ -490,8 +490,16 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pages_intro_vs_scontrols.htm&type=5
 * https://developers.google.com/gdata/articles/salesforce
 
-## VisualForce
+## Remoting
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
+* https://balkishankachawa.wordpress.com/2015/10/31/lightning-component-javascript-remoting-and-visualforce-page/
+* https://developer.salesforce.com/blogs/developer-relations/2011/05/tale-of-two-visualforce-pages-actionfunction-and-javascript-remoting.html
+* https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
+* https://developer.salesforce.com/forums/?id=906F0000000BHAHIA4
+* https://www.slideshare.net/developerforce/df121335-birk
+* https://www.slideshare.net/developerforce/df121306-ready
+
+## VisualForce
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/lightning-components-visualforce-lightning.html
 * https://developer.salesforce.com/blogs/tech-pubs/2013/06/updating-visualforce-chart-data.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
