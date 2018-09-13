@@ -95,3 +95,9 @@ https://www.flexjobs.com/search?location=&search=apex&tele_level%5B%5D=All+Telec
 https://www.flexjobs.com/search?location=&search=npm&tele_level%5B%5D=All+Telecommuting
 
 https://www.pythonjobs.com/jobs/search?utf8=✓&q=coldfusion
+
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2015-30.pdf
+
+https://searchsecurity.techtarget.com/contributors
+
+https://searchaws.techtarget.com/contributors
