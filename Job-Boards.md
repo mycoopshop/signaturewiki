@@ -101,3 +101,9 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2015-
 https://searchsecurity.techtarget.com/contributors
 
 https://searchaws.techtarget.com/contributors
+
+https://www.import.io/post/analysts-scientists-and-engineers-who-does-what-in-data-and-how-to-tell-the-difference/
+
+https://www.analyticsvidhya.com/blog/2015/12/job-roles-data-science-industry-who-what/
+
+https://searchbusinessanalytics.techtarget.com/news/450421696/Data-analytics-tool-for-data-scientists-goes-beyond-BI-visualization
