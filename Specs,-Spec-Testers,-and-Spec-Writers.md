@@ -63,6 +63,7 @@ http://man.cat-v.org/unix_8th/1/tr
 * ASCII Art: https://tools.ietf.org/html/rfc8140
 * PDF: https://tools.ietf.org/html/rfc8118
 * json-seq: https://tools.ietf.org/html/rfc7464
+* IPV6: https://tools.ietf.org/html/rfc7404
 * Font Types: https://tools.ietf.org/html/rfc8081
 * Identity: https://openid.net/specs/openid-connect-scim-profile-1_0.html
 * Cross-Domain: https://tools.ietf.org/html/rfc7642
