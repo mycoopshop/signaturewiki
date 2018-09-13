@@ -34,6 +34,13 @@
 * https://www.youtube.com/watch?v=X4EmiyVKeiw
 * https://www.youtube.com/watch?v=KZaov4WwS7w
 
+# Subliminal Bias
+* https://en.wikipedia.org/wiki/Black-figure_pottery
+* https://en.wikipedia.org/wiki/Black_gold
+* https://en.wikipedia.org/wiki/Black_Indians_in_the_United_States
+* https://en.wikipedia.org/wiki/Black_Russian
+* https://en.wikipedia.org/wiki/Black_Tortoise
+* https://en.wikipedia.org/wiki/Black_Pearl_(disambiguation)
 # Reinvent Bias
 * https://en.wikipedia.org/wiki/Lonnie_Johnson_(inventor)
 * https://en.wikipedia.org/wiki/Kido_Takayoshi
