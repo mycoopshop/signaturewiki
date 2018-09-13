@@ -151,6 +151,8 @@
 * https://chrispederick.com/donate/
 * http://dmcritchie.mvps.org/firefox/firefox.htm
 * http://hamwaves.com/firefox/en/
+* https://www.crunchbase.com/organization/kobii-africa
+* https://www.crunchbase.com/organization/nearby-e42c
 
 # Loyalty Bias
 * http://www.affiliateprograms.com/video-game-affiliate-programs/
