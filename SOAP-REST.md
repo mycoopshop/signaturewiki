@@ -30,3 +30,5 @@ https://developers.google.com/adwords/api/docs/guides/call-structure
 https://developer.yahoo.com/mail/code/
 
 https://sites.google.com/site/technocairn/home/links/rest
+
+http://xml.coverpages.org/owf.html
