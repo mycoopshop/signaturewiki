@@ -39,6 +39,9 @@
 # Historical Bias
 * https://en.wikipedia.org/wiki/Intercropping
 * https://en.wikipedia.org/wiki/Lost-wax_casting
+* https://en.wikipedia.org/wiki/United_States_Senate_Select_Committee_on_Nutrition_and_Human_Needs
+
+# Iconography Bias
 * https://en.wikipedia.org/wiki/Enheduanna
 * https://en.wikipedia.org/wiki/Tara_(Buddhism)
 
