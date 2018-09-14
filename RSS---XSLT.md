@@ -8,3 +8,7 @@
 * https://blogs.msdn.microsoft.com/apimanagement/2016/09/14/new-xslt-policy/
 * https://msdn.microsoft.com/en-us/magazine/dd569753.aspx
 * https://trends.builtwith.com/feeds/Really-Simple-Discovery
+* http://www.ianbicking.org/blog/2007/08/14/of-microformats-and-the-semantic-web/index.html
+* http://www.jillesvangurp.com/2007/10/18/semantic-vs-semantic/
+* https://wiki.thingsandstuff.org/Open_social#Web_Intents
+* http://docs.oasis-open.org/xri/xrd/v1.0/os/xrd-1.0-os.html
