@@ -22,6 +22,8 @@ Run npm rebuild (https://docs.npmjs.com/cli/rebuild) to rebuild all the packages
 
 Run npm shrinkwrap (https://docs.npmjs.com/cli/shrinkwrap) to lock down all the package files by version number
 
+Check the shrinkwrap docs (http://npm.github.io/using-pkgs-docs/shrinkwrap/) for shrinkwrap troubleshooting
+
 Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-errors) for any error messages
 
 ## Basic Webpack
