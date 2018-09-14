@@ -6,3 +6,4 @@
 * https://docs.microsoft.com/en-us/biztalk/core/how-to-specify-xslt-output-settings
 * https://www.codit.eu/blog/2016/10/03/the-case-for-xslt/
 * https://blogs.msdn.microsoft.com/apimanagement/2016/09/14/new-xslt-policy/
+* https://msdn.microsoft.com/en-us/magazine/dd569753.aspx
