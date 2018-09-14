@@ -28,3 +28,5 @@ https://developers.google.com/doubleclick-publishers/docs/soap_xml
 https://developers.google.com/adwords/api/docs/guides/call-structure
 
 https://developer.yahoo.com/mail/code/
+
+https://sites.google.com/site/technocairn/home/links/rest
