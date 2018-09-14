@@ -8,13 +8,11 @@ Run npm view webpack to see the release date of webpack@3
 
 Run npm view babel-loader (https://docs.npmjs.com/cli/view) to view the babel-loader release dates
 
-Run npm install babel-loader@x.x.x where x.x.x is the version number with the closest release date to webpack@3
+Run npm install babel-loader@x.x.x --save-dev, where x.x.x is the version number with the closest release date to webpack@3
 
 Run npm explore webpack to customize the webpack package.json in a subshell (https://docs.npmjs.com/cli/explore)
 
 Run npm docs webpack (https://docs.npmjs.com/cli/docs) to view the webpack docs
-
-Run npm edit (https://docs.npmjs.com/cli/edit) to update the package.json with the peer dependencies
 
 Run npm prune (https://docs.npmjs.com/cli/prune) to remove any unused packages
 
