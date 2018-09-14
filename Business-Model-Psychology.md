@@ -29,10 +29,16 @@
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
+* https://en.wikipedia.org/wiki/Spike_Jones
 * http://www.historylink.org/File/7526
 * https://en.wikipedia.org/wiki/Larry_Pressler
 * https://www.youtube.com/watch?v=X4EmiyVKeiw
 * https://www.youtube.com/watch?v=KZaov4WwS7w
+
+# Historical Bias
+* https://en.wikipedia.org/wiki/Intercropping
+* https://en.wikipedia.org/wiki/Lost-wax_casting
+* https://en.wikipedia.org/wiki/Enheduanna
 
 # Subliminal Bias
 * https://en.wikipedia.org/wiki/Black-figure_pottery
