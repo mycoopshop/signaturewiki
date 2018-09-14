@@ -40,6 +40,7 @@
 * https://en.wikipedia.org/wiki/Intercropping
 * https://en.wikipedia.org/wiki/Lost-wax_casting
 * https://en.wikipedia.org/wiki/Enheduanna
+* https://en.wikipedia.org/wiki/Tara_(Buddhism)
 
 # Subliminal Bias
 * https://en.wikipedia.org/wiki/Black-figure_pottery
