@@ -6,6 +6,14 @@
 # Consistency
 * https://ethanschoonover.com/solarized/
 
+* https://wiki.openoffice.org/wiki/Documentation/DevGuide/WritingUNO/Component_Architecture
+
+* https://en.wikipedia.org/wiki/WDDX
+
+* https://wiki.openoffice.org/wiki/Documentation/DevGuide/WritingUNO/Component_Architecture
+
+* https://en.wikipedia.org/wiki/Universal_Network_Objects
+
 # Simplicity
 * https://www.afrihost.com/landing/mobile/apn/
 
