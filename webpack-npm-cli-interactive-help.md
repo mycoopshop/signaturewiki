@@ -1,3 +1,28 @@
+## Basic npm
+
+Run npm ping (https://docs.npmjs.com/cli/ping) to test the connection to the URL of the registry
+Run npm install webpack to download the main dependency, such as webpack
+
+Run npm view webpack (https://docs.npmjs.com/cli/view) to view the webpack dependencies
+
+Run npm explore webpack to customize the webpack package.json in a subshell (https://docs.npmjs.com/cli/explore)
+
+Run npm docs webpack (https://docs.npmjs.com/cli/docs) to view the webpack docs
+
+Run npm edit (https://docs.npmjs.com/cli/edit) to update the package.json with the peer dependencies
+
+Run npm prune (https://docs.npmjs.com/cli/prune) to remove any unused packages
+
+Run npm dedupe (https://docs.npmjs.com/cli/dedupe) to remove any duplicate packages
+
+Run npm rebuild (https://docs.npmjs.com/cli/rebuild) to rebuild all the packages
+
+Run npm shrinkwrap (https://docs.npmjs.com/cli/shrinkwrap) to lock down all the package files by version number
+
+Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-errors) for any error messages
+
+## Basic Webpack
+
     const path = require('path');
 
     module.exports = {
