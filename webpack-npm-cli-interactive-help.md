@@ -1,9 +1,14 @@
 ## Basic npm
 
 Run npm ping (https://docs.npmjs.com/cli/ping) to test the connection to the URL of the registry
-Run npm install webpack to download the main dependency, such as webpack
 
-Run npm view webpack (https://docs.npmjs.com/cli/view) to view the webpack dependencies
+Run npm install webpack@3 to download the main dependency, such as webpack@3
+
+Run npm view webpack to see the release date of webpack@3
+
+Run npm view babel-loader (https://docs.npmjs.com/cli/view) to view the babel-loader release dates
+
+Run npm install babel-loader@x.x.x where x.x.x is the version number with the closest release date to webpack@3
 
 Run npm explore webpack to customize the webpack package.json in a subshell (https://docs.npmjs.com/cli/explore)
 
