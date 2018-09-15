@@ -28,3 +28,10 @@ Cole Beasley
 Marvin Jones
 Alshon Jeffrey
 Nelson Agholor
+
+Giants
+Jets
+Raiders
+Colts
+Bills
+Redskins
