@@ -121,6 +121,8 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 
 # Issues
 * https://github.com/webpack/webpack/issues/6617
+* https://github.com/webpack/webpack/issues/1788
+* https://github.com/webpack/webpack/issues/7615
 * https://webpack.js.org/guides/author-libraries/
 * https://github.com/babel/babel/pull/7980
 * https://github.com/systemjs/systemjs/issues/450
@@ -140,12 +142,14 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 # Specs
 * https://github.com/defunctzombie/package-browser-field-spec
 * https://github.com/webpack/webpack/issues/520
+* https://github.com/webpack/webpack/tree/master/schemas
 
 # Benchmarking
 * https://webpack.js.org/api/stats/
 * https://github.com/webpack-contrib/webpack-bundle-analyzer
 * https://webpack.js.org/configuration/performance/
 * https://webpack.js.org/configuration/other-options/
+* https://codeclimate.com/github/webpack/webpack/lib/Stats.js/source
 
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
