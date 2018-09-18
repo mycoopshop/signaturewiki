@@ -28,6 +28,7 @@
 
 # Holiday Bias
 * https://www.androidcentral.com/hq-words
+* https://www.apnews.com/d2314076a19c4e75aae3fead547abdea/Hall-of-Fame-members-threaten-boycott-of-inductions
 
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
