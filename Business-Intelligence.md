@@ -7,3 +7,4 @@
 * https://www.spss-tutorials.com/spss-compute-command/
 * https://developer.ibm.com/predictiveanalytics/wp-content/uploads/sites/48/2015/04/Programming-and-Data-Management-for-IBM-SPSS-Statistics-23.pdf
 * ftp://public.dhe.ibm.com/software/analytics/spss/documentation/statistics/24.0/en/server/Manuals/Python_Reference_Guide_for_IBM_SPSS_Statistics.pdf
+* https://www.safaribooksonline.com/search/?query=%22Power%20Query%20for%20Power%20BI%20and%20Excel%22
