@@ -1,4 +1,5 @@
 * https://github.com/zloirock/core-js
+* https://stackoverflow.com/questions/43354897/what-is-the-importance-of-default-exports-in-reactjs
 * https://www.npmjs.com/package/babel-standalone
 * https://www.npmjs.com/package/i18next-icu
 * https://www.npmjs.com/package/t-i18n
