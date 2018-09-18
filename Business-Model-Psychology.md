@@ -26,6 +26,9 @@
 * http://www.esd.whs.mil/Portals/54/NARA%20Social%20Media%20Capture.pdf
 * http://www.dla.mil/Portals/104/Documents/LandAndMaritime/V/VA/PSMC/Spring%2017/LM_SWISS%20-%20What%20do%20you%20Hire%20A%20Standard%20to%20do_Spring%202017%20PSMC170526.pdf
 
+# Holiday Bias
+* https://www.androidcentral.com/hq-words
+
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
