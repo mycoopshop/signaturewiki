@@ -114,9 +114,18 @@ Documenting - Markdown
 Visualizing - HTML5 Canvas 
 
 # Annotations
+
 https://9clouds.com/blog/14-slack-hacks-using/
+
 https://get.slack.help/hc/en-us/articles/202288908-How-can-I-add-formatting-to-my-messages-
+
 http://csis.pace.edu/~marchese/SE735/L1/L1.htm
+
+# Requirements
+
+https://www.sqlite.org/requirements.html
+
+https://sqlite.org/fts5.html
 
 # Game Architecture (Scoring, Interaction, Binding)
 
