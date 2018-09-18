@@ -156,6 +156,7 @@ Excellent verbal and written communication skills
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
 * https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
+* https://www.safaribooksonline.com/library/view/learning-salesforce-lightning/9781787124677/
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
