@@ -1,3 +1,4 @@
+* https://madole.xyz/building-a-raspberrypi-internet-speed-checker-with-nodejs-and-googledocs/
 * https://rosettacode.org/wiki/Conway%27s_Game_of_Life#XSLT
 * http://gameprogrammingpatterns.com/double-buffer.html
 * https://conferences.oreilly.com/oscon/oscon2014/public/schedule/detail/35038
