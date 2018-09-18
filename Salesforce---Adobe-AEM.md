@@ -521,6 +521,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
+* https://www.commerceworks.net/blog/salesforce-enterprise-professional-editions
 
 ## SOQL
 
@@ -640,6 +641,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_lightning_stricter_csp.htm
 * https://developer.salesforce.com/page/Lightning_Security
+* http://www.dannicholson.co.uk/2018/06/working-with-conditional-attribute.html
 
 ## Accessibility
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
