@@ -1,5 +1,13 @@
 https://techbridgegirls.org/index.php?id=231
 
+https://en.wikipedia.org/wiki/Mythical_origins_of_language
+
+https://en.wikipedia.org/wiki/Parinama-vada_(Hindu_thought)
+
+https://en.wikipedia.org/wiki/Theomatics
+
+https://en.wikipedia.org/wiki/Significance_of_numbers_in_Judaism
+
 http://www.africa.upenn.edu/Articles_Gen/Role_Women.html
 
 https://jazzdagama.com/imperatives/cheikh-anta-diop-the-african-origin-of-civilization-myth-or-reality/5/
