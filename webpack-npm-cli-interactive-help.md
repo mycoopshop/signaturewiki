@@ -120,6 +120,7 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 * https://www.npmjs.com/package/freemarker-parser
 
 # Issues
+* https://github.com/webpack/webpack/issues/3165
 * https://github.com/webpack/webpack/issues/6617
 * https://github.com/webpack/webpack/issues/1788
 * https://github.com/webpack/webpack/issues/7615
@@ -168,6 +169,11 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 * https://blog.benestudio.co/remove-console-log-statements-from-production-javascript-apps-7376adc89c7a
 * https://github.com/webpack/webpack/issues/6586
 
+# Transpiler Plugins
+* https://babeljs.io/docs/en/next/babel-helper-module-imports.html
+* https://babeljs.io/docs/en/next/babel-plugin-syntax-export-default-from.html
+* https://babeljs.io/docs/en/next/babel-plugin-syntax-export-namespace-from.html
+* https://babeljs.io/docs/en/next/babel-plugin-transform-classes.html
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
 * https://webpack.js.org/configuration/node/
