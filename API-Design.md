@@ -154,3 +154,4 @@ https://hal.archives-ouvertes.fr/hal-01783936/file/sparql-micro-services-poster.
 https://www.slideshare.net/barthanssens/publishing-rdf-skos-with-microservices
 http://events.linkeddata.org/ldow2018/papers/LDOW2018_paper_1.pdf
 http://ceur-ws.org/Vol-1629/paper4.pdf
+https://www.gnu.org/software/emacs/emacs-paper.html
