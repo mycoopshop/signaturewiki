@@ -1,15 +1,11 @@
 ## Columns
 
-<pre>
-Find: </td><td>
+    Find: </td><td>
 
-Replace: &#9;
-</pre>
+    Replace: &#9;
 
 ## Wrapping
 
-<pre>
-Find: <h1>
+    Find: <h1>
 
-Replace: &#xa;
-</pre>
+    Replace: &#xa;
