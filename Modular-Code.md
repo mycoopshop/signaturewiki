@@ -98,6 +98,6 @@ Use the following code for <a href="https://dev.to/luispa/lets-try-react-without
 
 ### Reusability
 
-* Use the copy plugin to move HTML and CSS files rather than the loaders in development mode, and use the extract text plugin to combine the styles with the design language CSS in production mode
+* Use the [copy webpack plugin](https://stackoverflow.com/questions/45036810/webpack-copying-files-from-source-to-public-using-copywebpackplugin) to move HTML and CSS files rather than the loaders in development mode, use the [file-loader](https://stackoverflow.com/questions/52110999/webpack-file-loader-configuration-for-static-images) to inline images, the [style-loader](https://css-tricks.com/css-modules-part-2-getting-started/) to inline styles, the [postCSS plugin](https://simonsmith.io/using-webpack-to-build-react-components-and-their-assets/) to handle CSS imports, and use the [extract text plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) to combine the styles with the design language CSS in production mode
 
 * Use <a href="https://www.npmjs.com/package/styled-components">styled-components</a> rather than inline styles
