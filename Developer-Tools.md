@@ -25,6 +25,9 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 ### Modeling
 1. https://www.edaplayground.com/x/A4
 
+### Metadata Conversion
+1. https://www.mister42.me/tools/html-to-markdown
+
 ### Media File Format Conversion
 1. https://www.bugcodemaster.com/article/convert-videos-3gp-format-using-ffmpeg
 1. https://helpx.adobe.com/flash/kb/supported-codecs-flash-player.html
