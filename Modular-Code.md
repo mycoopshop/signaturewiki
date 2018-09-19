@@ -101,3 +101,15 @@ Use the following code for <a href="https://dev.to/luispa/lets-try-react-without
 * Use the [copy webpack plugin](https://stackoverflow.com/questions/45036810/webpack-copying-files-from-source-to-public-using-copywebpackplugin) to move HTML and CSS files rather than the loaders in development mode, use the [file-loader](https://stackoverflow.com/questions/52110999/webpack-file-loader-configuration-for-static-images) to inline images, the [style-loader](https://css-tricks.com/css-modules-part-2-getting-started/) to inline styles, the [postCSS plugin](https://simonsmith.io/using-webpack-to-build-react-components-and-their-assets/) to handle CSS imports, and use the [extract text plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) to combine the styles with the design language CSS in production mode
 
 * Use <a href="https://www.npmjs.com/package/styled-components">styled-components</a> rather than inline styles
+
+### References
+
+* [Webpack and npm for Simple Java 8 Web Apps](https://www.stubbornjava.com/posts/webpack-and-npm-for-simple-java-8-web-apps) 
+
+* [Webpack a Spring Boot App With Instant Page Refresh](https://medium.com/@grantminer/webpack-a-spring-boot-app-with-instant-page-refresh-5d051a09d26f)
+
+* [How to Develop a WordPress Plugin Using Webpack 3 & React (Part 1)](https://deliciousbrains.com/develop-wordpress-plugin-webpack-3-react/)
+
+* [Fast Front End Development Cycle with Spring Boot | vorba.ch](https://vorba.ch/2016/fast-spring-boot-development-cycle.html)
+
+* [Spring Boot and Vue.js](https://randyyaj.github.io/post/20161129_vue_spring/)
