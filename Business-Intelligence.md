@@ -12,3 +12,9 @@
 ## ASCII Visualization
 https://stackoverflow.com/questions/9151884/how-can-i-generate-ascii-graphical-output-from-r
 https://codegolf.stackexchange.com/questions/11693/ascii-visualize-a-graph
+
+## SysAdmin
+
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Deployment_Guide/
+
+https://docs.fedoraproject.org/en-US/Fedora/21/html-single/System_Administrators_Guide/
