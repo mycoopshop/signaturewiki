@@ -69,3 +69,5 @@ http://man.cat-v.org/unix_8th/1/tr
 * Identity: https://openid.net/specs/openid-connect-scim-profile-1_0.html
 * Cross-Domain: https://tools.ietf.org/html/rfc7642
 * Authentication: https://infosec.mozilla.org/guidelines/iam/saml.html
+* Link Relations: http://microformats.org/wiki/existing-rel-values
+* HTML Headers: https://gethead.info/
