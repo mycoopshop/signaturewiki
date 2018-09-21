@@ -131,6 +131,9 @@ https://sqlite.org/fts5.html
 
 https://jsfiddle.net/twophayse/ay6rkLwt/
 
+# Types
+https://en.wikipedia.org/wiki/Rebol
+
 # Conditions
 https://www.coderetreat.org/pages/facilitating/activity-catalog/
 http://www.donhopkins.com/drupal/node/124
