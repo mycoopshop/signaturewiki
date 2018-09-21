@@ -9,6 +9,9 @@
 * ftp://public.dhe.ibm.com/software/analytics/spss/documentation/statistics/24.0/en/server/Manuals/Python_Reference_Guide_for_IBM_SPSS_Statistics.pdf
 * https://www.safaribooksonline.com/search/?query=%22Power%20Query%20for%20Power%20BI%20and%20Excel%22
 
+## SQL Integration
+* https://github.com/apache/kylin
+
 ## ASCII Visualization
 https://stackoverflow.com/questions/9151884/how-can-i-generate-ascii-graphical-output-from-r
 https://codegolf.stackexchange.com/questions/11693/ascii-visualize-a-graph
