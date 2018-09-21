@@ -104,6 +104,7 @@
 * https://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.user/tasks/task-using_batch_compiler.htm
 
 ## Build Automation
+* https://www.mkyong.com/ant/ant-spring-mvc-and-war-file-example/
 * https://maven.apache.org/plugins/maven-compiler-plugin/non-javac-compilers.html
 * https://maven.apache.org/components/ref/3.5.0/maven-core/lifecycles.html
 * https://maven.apache.org/ref/3.5.0/maven-model-builder/
