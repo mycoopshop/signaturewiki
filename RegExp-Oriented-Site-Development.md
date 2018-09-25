@@ -15,3 +15,5 @@
 * https://foundation.zurb.com/sites/docs/forms.html
 
 * https://www.juptr.io/juptrblogs/_e67b0d1e-98f8-44fb-b431-845005f36129.html
+
+* http://www.rexegg.com/regex-modifiers.html
