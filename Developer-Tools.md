@@ -28,6 +28,10 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 ### Metadata Conversion
 1. https://www.mister42.me/tools/html-to-markdown
 
+### Test Code Generation
+1. https://www.npmjs.com/package/babel-plugin-s2s-jest-unit-test-case
+1. https://github.com/akameco/s2s
+
 ### Media File Format Conversion
 1. https://www.bugcodemaster.com/article/convert-videos-3gp-format-using-ffmpeg
 1. https://helpx.adobe.com/flash/kb/supported-codecs-flash-player.html
