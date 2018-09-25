@@ -10,3 +10,9 @@ If M is PQ, that is the term is λx.PQ, you want to "push" x inside both parts o
 * https://github.com/louthy/language-ext/wiki/Thinking-Functionally:-Combinators
 * http://xn--wxak1a.com/blog/Combinators.html
 * https://www.computer.org/csdl/trans/tc/1985/10/06312191.pdf
+* https://bartoszmilewski.com/2011/07/11/monads-in-c/
+* http://brandon.si/code/do-applicative-functors-generalize-the-s-k-combinators/
+* https://news.ycombinator.com/item?id=7895719
+* https://en.wikipedia.org/wiki/Parser_combinator
+* https://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
+* https://www.quantstart.com/articles/Function-Objects-Functors-in-C-Part-1
