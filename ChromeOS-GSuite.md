@@ -43,7 +43,7 @@ chrome_frame_helper.dll
 npchrome_frame.dll
 </pre>
 
-
+* https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
 * https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
 * https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
 * https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
