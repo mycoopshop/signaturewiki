@@ -134,6 +134,10 @@ https://jsfiddle.net/twophayse/ay6rkLwt/
 # Types
 https://en.wikipedia.org/wiki/Rebol
 
+# Names
+https://en.wikipedia.org/wiki/Category:Computing_stubs
+https://en.wikipedia.org/wiki/Wrapper_library
+
 # Conditions
 https://www.coderetreat.org/pages/facilitating/activity-catalog/
 http://www.donhopkins.com/drupal/node/124
