@@ -38,6 +38,23 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
       }
     };
 
+**Scaffolding**
+
+<pre>
+Grunt	Webpack
+grunt-contrib-copy	CopyWebpackPlugin
+grunt-contrib-jshint	eslint-loader
+grunt-contrib-sass	sass-loadergrunt-contrib-watch	
+Built-in; Use WatchIgnorePlugin to whitelist excluded files
+
+karma-ng-html2js-preprocessor	react-markdown
+karma-ng-json2js-preprocessor	JSONPTemplatePlugin(https://webpack.js.org/plugins/internal-plugins/#jsonptemplateplugin)
+
+grunt-contrib-clean	CleanWebpackPlugin
+grunt-useref	html-loader options (https://github.com/kangax/html-minifier#options-quick-reference)
+grunt-remove-logging	Babel; set the comments config key to false
+grunt.registerTask	apply-loader(https://github.com/mogelbrod/apply-loader)
+</pre>
 
 **Troubleshooting**
 
@@ -177,3 +194,13 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
 * https://webpack.js.org/configuration/node/
+
+## References
+
+* https://webpack.js.org/plugins/copy-webpack-plugin/
+* https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
+* https://webpack.js.org/configuration/module/#module-noparse
+* https://webpack.js.org/plugins/define-plugin/
+* https://webpack.js.org/plugins/npm-install-webpack-plugin/
+* https://webpack.js.org/plugins/provide-plugin/
+* https://webpack.js.org/loaders/json-loader/
