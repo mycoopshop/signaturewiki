@@ -41,19 +41,19 @@ Check the troubleshooting page (https://docs.npmjs.com/troubleshooting/common-er
 **Scaffolding**
 
 <pre>
-Grunt	Webpack
-grunt-contrib-copy	CopyWebpackPlugin
-grunt-contrib-jshint	eslint-loader
-grunt-contrib-sass	sass-loadergrunt-contrib-watch	
-Built-in; Use WatchIgnorePlugin to whitelist excluded files
+Grunt	                                   Webpack
+grunt-contrib-copy	                   CopyWebpackPlugin
+grunt-contrib-jshint	                   eslint-loader
+grunt-contrib-sass	                   sass-loader
+grunt-contrib-watch	                   Built-in; Use WatchIgnorePlugin to whitelist excluded files
 
-karma-ng-html2js-preprocessor	react-markdown
-karma-ng-json2js-preprocessor	JSONPTemplatePlugin(https://webpack.js.org/plugins/internal-plugins/#jsonptemplateplugin)
+karma-ng-html2js-preprocessor	           react-markdown
+karma-ng-json2js-preprocessor	           JSONPTemplatePlugin(https://webpack.js.org/plugins/internal-plugins/#jsonptemplateplugin)
 
-grunt-contrib-clean	CleanWebpackPlugin
-grunt-useref	html-loader options (https://github.com/kangax/html-minifier#options-quick-reference)
-grunt-remove-logging	Babel; set the comments config key to false
-grunt.registerTask	apply-loader(https://github.com/mogelbrod/apply-loader)
+grunt-contrib-clean	                   CleanWebpackPlugin
+grunt-useref	                           html-loader options (https://github.com/kangax/html-minifier#options-quick-reference)
+grunt-remove-logging	                   Babel; set the comments config key to false
+grunt.registerTask	                   apply-loader(https://github.com/mogelbrod/apply-loader)
 </pre>
 
 **Troubleshooting**
