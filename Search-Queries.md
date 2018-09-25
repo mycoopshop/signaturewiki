@@ -44,6 +44,10 @@ wireless lan rf point-to-point ext:pdf domain:mil
 
 https://chrome.google.com/webstore/search/cam%20capture?_category=extensions
 
+https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
+
+"in app purchases" host:chrome.google.com +offline +androidget +2018
+
 ## Crunchbase
 
 Companies started in the 1500s: https://www.crunchbase.com/search/organization.companies/42467ee8750ebe6bcc7b67440e1b50b73b730864
