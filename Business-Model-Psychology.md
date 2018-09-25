@@ -119,6 +119,7 @@
 # Iniquity Bias
 * https://en.wikipedia.org/wiki/Freeganism
 * https://en.wikipedia.org/wiki/Self-Censorship
+* https://en.wikipedia.org/wiki/Prisoner%27s_dilemma
 
 # Mind Map
 * https://toolkit.mozilla.org/method/mind-map/
