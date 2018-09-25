@@ -22,7 +22,7 @@ Use the :checked pseudo class to style checkboxes as presentational elements to 
     .folder input[type='checkbox']:checked { display: block; }
     .folder input[type='checkbox'] { display: inline; }
 
-Combine that with <label> elements as proxies to hide/show on demand, and nested <blockquote> elements as hierarchy.
+Combine that with <label> elements as proxies to hide/show on demand, and nested `<blockquote>` elements as hierarchy.
 
     <div class="folder">
         <div>Blue
