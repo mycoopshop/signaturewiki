@@ -1,5 +1,7 @@
 https://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html
 
+https://blogs.msdn.microsoft.com/cbrumme/2003/10/01/the-exception-model/
+
 http://www.brendanconnolly.net/code-cooties-c-basics-for-testers/
 
 https://csharp-station.com/Article/Index/Assertions
