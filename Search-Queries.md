@@ -40,6 +40,10 @@ associated press site:player.fm
 
 wireless lan rf point-to-point ext:pdf domain:mil
 
+## Play Store
+
++review +game "an android exclusive" -ios -fortnite
+
 ## Chrome Webstore
 
 https://chrome.google.com/webstore/search/cam%20capture?_category=extensions
