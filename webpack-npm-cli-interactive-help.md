@@ -54,6 +54,7 @@ grunt-contrib-clean	                   CleanWebpackPlugin
 grunt-useref	                           html-loader options (https://github.com/kangax/html-minifier#options-quick-reference)
 grunt-remove-logging	                   Babel; set the comments config key to false
 grunt.registerTask	                   apply-loader(https://github.com/mogelbrod/apply-loader)
+grunt.file.copy                            CopyWebpackPlugin; Use transform (https://github.com/webpack-contrib/copy-webpack-plugin/blob/master/README.md#transform)
 </pre>
 
 **Troubleshooting**
