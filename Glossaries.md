@@ -21,3 +21,13 @@
 1. http://itelementaryschool.com/glossary-of-it-terms/
 1. https://en.wikipedia.org/wiki/Category:Workflow_technology
 1. http://support.lexmark.com/library/LEXMARK/primus/files/PATTLNK_2212008_1122-Wireless%20Glossary%20v1.0.PDF
+
+## Equities
+1. https://markets.cboe.com/us/equities/market_statistics/market_quality/
+1. https://cdn.batstrading.com/resources/membership/BATS_US_Equities_Limit_Up_Limit_Down_FAQ.pdf
+1. https://www.sec.gov/rules/sro.shtml
+1. http://www.cboe.com/rmc/2013/day3session1fowler.pdf
+1. http://www.cboe.com/products/stock-index-options-spx-rut-msci-ftse/options-on-the-dow-djx/faqs
+1. https://markets.cboe.com/us/equities/market_statistics/
+1. http://cfe.cboe.com/market-data/historical-data-archive
+1. https://www.cboe.com/LearnCenter/pdf/understandingindexoptions.pdf
