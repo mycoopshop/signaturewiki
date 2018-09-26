@@ -1,3 +1,6 @@
+On a holiday, give a USB
+De minimis, a.k.a.b.c
+
 https://www.ftb.ca.gov/businesses/Exempt-organizations/
 https://www.ftb.ca.gov/forms/misc/927.pdf
 https://www.ftb.ca.gov/Archive/Law/fedchanges/14FedTax.pdf
