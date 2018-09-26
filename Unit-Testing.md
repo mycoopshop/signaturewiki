@@ -682,3 +682,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://oleb.net/blog/2018/06/enumerating-enum-cases/
 
 * https://github.com/showell/Game-Of-Life/blob/master/game.coffee
+
+http://www.oracle.com/us/technologies/java/assertions-139853.html
