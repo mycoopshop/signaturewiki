@@ -131,6 +131,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://vuejsdevelopers.com/2017/12/04/webpack-intro-vue-js/
 * https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7
 * https://medium.com/@dferber90/enabling-assets-for-server-side-rendering-in-webpack-a843a5ebeb0c
+* https://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/
 
 # Legacy Mapping
 * https://www.npmjs.com/package/xslt-template-loader
@@ -157,6 +158,19 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 
 # Mocking
 * https://www.npmjs.com/package/mock-webpack-plugin
+
+# CSS
+* https://material.io/develop/web/docs/getting-started/
+* https://wanago.io/2018/07/16/webpack-4-course-part-two-webpack-4-course-part-two-loaders/
+* https://github.com/webpack-contrib/style-loader/issues/255
+* https://florianbrinkmann.com/en/4240/sass-webpack/
+* https://github.com/webpack-contrib/css-loader/issues/585
+* https://chriscourses.com/blog/purifycss-and-webpack
+* https://github.com/webpack-contrib/file-loader/issues/272
+* https://stackoverflow.com/questions/44204353/webpack-relative-css-url-with-file-loader-css-loader
+
+# Concatenation
+* https://code.luasoftware.com/tutorials/webpack/merge-multiple-javascript-into-single-file/
 
 # Specs
 * https://github.com/defunctzombie/package-browser-field-spec
@@ -192,14 +206,15 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://babeljs.io/docs/en/next/babel-plugin-syntax-export-default-from.html
 * https://babeljs.io/docs/en/next/babel-plugin-syntax-export-namespace-from.html
 * https://babeljs.io/docs/en/next/babel-plugin-transform-classes.html
+
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
 * https://webpack.js.org/configuration/node/
 
-## References
+## Subsetting
 
 * https://webpack.js.org/plugins/copy-webpack-plugin/
-* https://webpack.js.org/plugins/uglifyjs-webpack-plugin/
+* https://www.npmjs.com/package/extract-loader
 * https://webpack.js.org/configuration/module/#module-noparse
 * https://webpack.js.org/plugins/define-plugin/
 * https://webpack.js.org/plugins/npm-install-webpack-plugin/
