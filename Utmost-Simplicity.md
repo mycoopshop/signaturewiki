@@ -11,6 +11,17 @@ Simplest Controllers
 1. WPAD
 1. XML Processing Instruction
 
+Simplest Message Passing
+
+1. window.postMessage
+1. Object.defineProperty
+1. tunneling
+  * https://www.xml.com/pub/a/2004/03/24/tr.html
+  * https://www.w3schools.com/cssref/sel_target.asp
+  * https://www.gnu.org/software/gawk/manual/html_node/Variable-Scope.html
+1. backreferences
+
+
 Imperative
 
 if (x == 7 && y == 7)
