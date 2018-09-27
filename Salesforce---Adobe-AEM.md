@@ -525,6 +525,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 * https://www.commerceworks.net/blog/salesforce-enterprise-professional-editions
+* https://salesforce.stackexchange.com/questions/51622/how-does-one-test-visualforce-components-with-custom-controllers
 
 ## SOQL
 
