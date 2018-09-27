@@ -912,6 +912,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
+* https://www.salesforce.com/video/294751/
 * https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
 * https://medium.com/nintex-developers/rearchitecting-your-salesforce-lighting-javascript-for-testability-dfbaed89ecdf
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/passing-parameters-by-reference-and-by-value-in-apex.html
