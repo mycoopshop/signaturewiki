@@ -119,6 +119,9 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * http://ramkulkarni.com/blog/setting-up-webpack-babel-reactjs/
 
 # Migration
+* https://medium.com/@drgenejones/using-webpack-with-legacy-angular-spas-automating-imports-using-require-context-58e0e9cc6e9c#.sv9x4to9k
+* https://github.com/DavidWells/react-angular-webpack
+* https://medium.com/eventmobi/how-to-incrementally-switch-to-webpack-203a1b431f7a
 * https://github.com/webpack-contrib/copy-webpack-plugin#this-doesnt-copy-my-files-with-webpack-dev-server
 * https://codefor.life/everything-i-need-to-know-about-javascript-tools/
 * https://www.slideshare.net/loige/unbundling-the-javascript-module-bundler-codemotion-rome-2018
@@ -212,7 +215,6 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://webpack.js.org/configuration/node/
 
 ## Subsetting
-
 * https://webpack.js.org/plugins/copy-webpack-plugin/
 * https://www.npmjs.com/package/extract-loader
 * https://webpack.js.org/configuration/module/#module-noparse
