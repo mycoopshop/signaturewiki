@@ -2,6 +2,15 @@ Parallel is for splitting calculations across multiple instances of a compiler o
 
 Concurrent is for time sharing by not waiting for the result of one line of code while executing subsequent lines of code (https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ThreadMigration/ThreadMigration.html, https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Glossary/Glossary.html)
 
+## Actor Model
+* http://www.dtic.mil/dtic/tr/fulltext/u2/a132326.pdf
+* http://wiki.c2.com/?UsefulnessOfNonDeterminism
+* https://ercim-news.ercim.eu/en101/special/programming-actors-for-the-internet-of-things
+* http://www.erlang-factory.com/upload/presentations/858/euc_pres.pdf
+* https://jstoelm.com/episodes/18-ports-by-example/
+* https://theburningmonk.com/2012/09/takeaways-from-hewitt-meijer-and-szyperskis-talk-on-the-actor-model/
+* http://blogs.perl.org/users/rafael_garcia-suarez/2011/10/why-dart-is-not-the-language-of-the-future.html
+
 ## References
 
 * https://www.codeproject.com/Articles/1204189/Handling-Concurrency-in-ASP-NET-Core-Web-API?msg=5431982
