@@ -166,6 +166,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
+* https://stackoverflow.com/questions/43885939/visualforce-email-template-unit-test
 
 ## IoT
 * https://github.com/developerforce/Force.com-Toolkit-for-Jasper
@@ -911,6 +912,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
+* https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
+* https://medium.com/nintex-developers/rearchitecting-your-salesforce-lighting-javascript-for-testability-dfbaed89ecdf
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/passing-parameters-by-reference-and-by-value-in-apex.html
 * https://developer.salesforce.com/blogs/engineering/2014/12/solving-java-memory-regressions-high-accuracy-zero-overhead.html
 * https://developer.salesforce.com/blogs/2018/05/why-we-test.html
