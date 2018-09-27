@@ -151,6 +151,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/forums/?id=906F0000000BWZ0IAO
 
 **Certification**
+* https://www.salesforce.com/dreamforce/certification/
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
@@ -468,6 +469,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Subcontractor Market
 * https://www.ceptes.com/
+* http://www.provenworks.com/
 
 ## Recovery
 * https://developer.salesforce.com/blogs/developer-relations/2014/11/enterprise-data-architecture.html
@@ -887,6 +889,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000232681&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://help.salesforce.com/articleView?id=code_dev_console_view_checkpoints.htm&type=5
+
+## Browser Extensions
+* https://addons.mozilla.org/en-US/firefox/addon/salesforce-inspector/?src=search
+* https://addons.mozilla.org/en-US/firefox/addon/organizer/?src=search
 
 ## Mocking
 * https://engineering.salesforce.com/flaky-tests-and-how-to-avoid-them-25b84b756f60
