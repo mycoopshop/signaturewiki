@@ -10,7 +10,9 @@
 
 * https://w3techs.com/technologies/details/ce-http2/all/all
 * http://6lab.cisco.com/stats/
- 
+* https://developer.chrome.com/extensions/api_other
+* https://developer.mozilla.org/en-US/docs/WebAPI
+
 **References**
 
 * https://www.w3.org/TR/css-variables-1/
