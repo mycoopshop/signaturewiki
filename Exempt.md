@@ -1,6 +1,9 @@
 On a holiday, give a USB
 De minimis, a.k.a.b.c
 
+Street magic, entertain
+Pass the hat, don't complain
+
 https://www.ftb.ca.gov/businesses/Exempt-organizations/
 https://www.ftb.ca.gov/forms/misc/927.pdf
 https://www.ftb.ca.gov/Archive/Law/fedchanges/14FedTax.pdf
