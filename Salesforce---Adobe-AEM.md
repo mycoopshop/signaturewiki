@@ -227,7 +227,6 @@ https://help.salesforce.com/articleView?id=working_with_global_publisher_layouts
 https://help.salesforce.com/articleView?id=cs_about.htm&type=5
 https://help.salesforce.com/articleView?id=000198725&type=1
 https://help.salesforce.com/articleView?id=code_define_trigger.htm&type=5
-https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
 https://help.salesforce.com/articleView?id=admin_monitorsetup.htm&type=5
 https://help.salesforce.com/articleView?id=deploy_special_behavior.htm&type=5
 https://help.salesforce.com/articleView?id=data_sandbox_environments.htm&type=5
@@ -332,11 +331,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=dashboards_components.htm&type=5
 * https://help.salesforce.com/articleView?id=getstart_browser_recommendations.htm&type=5
 * https://help.salesforce.com/articleView?id=bi_embed.htm&type=5
-* https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
 * https://help.salesforce.com/articleView?id=creating_web_tabs.htm&type=5
 * https://help.salesforce.com/articleView?id=fields_using_html_editor.htm&type=5
 * https://help.salesforce.com/articleView?id=lightning_page_components.htm&type=5
-* https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=siteforce_clickjacking_enable.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_sessions.htm&type=0
 * https://help.salesforce.com/articleView?id=import_prepare.htm&type=5
@@ -378,6 +375,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Service Cloud
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
 * https://developer.salesforce.com/page/SnapinsMobile
+
+## Knowledge Base
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/lightning_knowledge_guide.pdf
+* https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
+* https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
+* https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
