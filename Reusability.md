@@ -72,3 +72,4 @@ ES6 Template Literals:
 * https://jaxenter.com/cross-cutting-concerns-angular-2-typescript-128925.html
 * https://www.npmjs.com/package/react-aop
 * http://coffeescript.org/#changelog
+* https://docs.microsoft.com/en-us/dotnet/standard/language-independence-and-language-independent-components
