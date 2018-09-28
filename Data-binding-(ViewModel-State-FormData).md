@@ -77,3 +77,7 @@ In React, this is also achieved by composition, where a more “specific” comp
 * https://stackoverflow.com/questions/26430757/invariant-violation-in-react-render-or-the-proper-way-to-iterate-and-return-in-r
 
 * https://medium.com/@everdimension/how-to-handle-forms-with-just-react-ac066c48bd4f
+
+* https://github.com/mozilla-services/react-jsonschema-form
+
+* https://github.com/networknt/react-schema-form
