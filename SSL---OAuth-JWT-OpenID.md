@@ -1,4 +1,17 @@
 * https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm
+* https://www.oreilly.com/library/view/identity-and-data/9781491937006/ch04.html
+* https://tools.ietf.org/id/draft-ietf-oauth-security-topics-05.html
+* https://connect2id.com/learn/openid-connect
+* https://connect2id.com/products/server/docs/guides/login-page
+* https://www.oauth.com/oauth2-servers/authorization/the-authorization-response/
+* https://ldapwiki.com/wiki/OAuth%202.0%20Vulnerabilities
+* https://blog.acolyer.org/2016/11/07/a-comprehensive-formal-security-analysis-of-oauth-2-0/
+* https://auth0.com/docs/api/authentication
+* https://lightstep.com/blog/everything-i-wish-i-knew-about-enterprise-sso/
+* https://medium.com/@robert.broeckelmann/identity-broker-an-sso-protocol-transition-fromopenid-connect-to-ws-federation-4af854cf113b
+* https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/122
+* https://tyk.io/docs/integrate/open-id-connect/
+* https://docs.mulesoft.com/access-management/conf-openid-connect-task
 * https://trac.tools.ietf.org/html/rfc7521
 * https://openidconnect.herokuapp.com/
 * http://openid-connect.herokuapp.com/
