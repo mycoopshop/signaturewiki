@@ -1,0 +1,10 @@
+http://crc.stanford.edu/crc_papers/mitradt00.pdf
+https://www.ibm.com/support/knowledgecenter/en/SSGU8G_11.70.0/com.ibm.esqlc.doc/ids_esqlc_0449.htm
+https://docs.oracle.com/cd/E19455-01/805-7478/multiplex14-2/
+https://docs.oracle.com/cd/E19683-01/806-6546/multiplex14-8/index.html
+https://docs.microsoft.com/en-us/windows/desktop/medfound/creating-the-multiplexer-object
+https://www.slideshare.net/nitishsandhawar/network-topology-multiplexer-and-demultiplexer
+https://www.slideshare.net/tarequeh/introducing-kmux-the-kernel-multiplexer
+https://www.slideshare.net/shyamshyamveersingh/verilog-vhdl-code-multiplexur-and-demultipluctur
+https://www.codeproject.com/Articles/345105/Memory-Stream-Multiplexer-write-and-read-from-many
+http://code.activestate.com/recipes/576520-multithreaded-multiplexerdemultiplexer-to-allow-mu/
