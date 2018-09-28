@@ -5,3 +5,7 @@ https://apnews.com/tag/Software
 https://apnews.com/tag/Education
 
 https://apnews.com/tag/Police
+
+https://www.apnews.com/tag/Dataprivacy
+
+https://www.apnews.com/tag/Smartphones
