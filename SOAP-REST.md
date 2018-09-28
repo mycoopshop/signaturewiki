@@ -1,3 +1,5 @@
+https://aws.amazon.com/blogs/compute/redirection-in-a-serverless-api-with-aws-lambda-and-amazon-api-gateway/
+
 http://developer.ebay.com/devzone/finding/concepts/MakingACall.html
 
 https://msdn.microsoft.com/en-us/library/hh454950.aspx
