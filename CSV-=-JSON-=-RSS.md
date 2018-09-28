@@ -6,6 +6,7 @@ https://tools.ietf.org/html/rfc6902
 
 ## Tutorials
 https://readlearncode.com/java-ee/java-ee-8-json-processing-1-1-json-patch-overview/
+https://news.ycombinator.com/item?id=7703585
 https://www.tbray.org/ongoing/When/201x/2017/04/14/JsonPath-Needs-Work
 https://susanpotter.net/blogs/software/2011/07/why-json-pointer-falls-short/
 http://rapidjson.org/md_doc_pointer.html
