@@ -242,3 +242,20 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://webpack.js.org/guides/progressive-web-application/#adding-workbox
 * https://survivejs.com/webpack/extending/loaders/
 * https://codepen.io/reverland/post/exploring-webpack
+
+## Snippets
+<pre>
+    // Copy .html and .css from src/ folder to default target in webpack
+    plugins: [
+        new copyWebpackPlugin([
+                {
+		    context: 'src/',
+		    from: '*.css'
+                },
+		{
+		    context: 'src/',
+		    from: '*.html'
+                }
+            ])
+        ],
+</pre>
