@@ -132,6 +132,7 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/issues_index?tag=Live%20Agent
 * https://help.salesforce.com/articleView?id=Lightning-Knowledge-Migration-Tool-FAQ&language=en_US&type=1
 * https://success.salesforce.com/issues_view?Id=a1p3A000000312O
+* https://help.salesforce.com/articleView?id=Named-credential-oauth-token-doesn-t-get-automatically-refreshed-with-Salesforce-SOAP-API-end-point&language=en_US&type=1
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
@@ -381,6 +382,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
+
+## Communities
+* https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
+* https://developer.salesforce.com/blogs/2018/06/integrate-external-content-into-communities-using-cms-connect-json.html
+* https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
@@ -636,7 +642,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/security_intro.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/container_messages_npm.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_cb_format_dates.htm#!
-* https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
 * https://opfocus.com/dynamic-field-binding-in-salesforce-lightning-experience/
 * https://help.salesforce.com/articleView?id=search_fields_lex.htm
@@ -952,6 +957,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/sgml/xsd2html2xml/blob/master/xsd2html.xsl
 * http://www.crimulus.com/2012/04/13/xsl-template-for-converting-xsd-to-complete-xml-prototype-with-inline-specifications/
 * https://github.com/sgml/inetmanet/blob/master/_scripts/xsd2html/xsd2html.xsl
+* https://developer.salesforce.com/page/Enterprise_Upsert
+* https://developer.salesforce.com/page/Enterprise_Query_All
+* https://developer.salesforce.com/page/Enterprise_Describe_SObject
+* https://developer.salesforce.com/page/Enterprise_Query_More
+* https://developer.salesforce.com/page/Enterprise_Query
 
 ## Authentication
 * https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
@@ -968,7 +978,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_networks.htm
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/08/rendering-github-json-data-salesforce.html
-* https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
 * https://developer.salesforce.com/page/Accessing_Salesforce_Data_from_a_Windows_Phone_App
 * https://developer.salesforce.com/docs/atlas.en-us.mc-app-development.meta/mc-app-development/decode-jwt.htm
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
