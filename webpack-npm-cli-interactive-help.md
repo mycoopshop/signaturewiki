@@ -192,6 +192,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://webpack.js.org/configuration/performance/
 * https://webpack.js.org/configuration/other-options/
 * https://codeclimate.com/github/webpack/webpack/lib/Stats.js/source
+* https://github.com/webpack/webpack/issues/5718
 
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
