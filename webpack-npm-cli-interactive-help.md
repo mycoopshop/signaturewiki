@@ -141,6 +141,11 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://www.npmjs.com/package/svg-url-loader
 * https://www.npmjs.com/package/freemarker-parser
 
+## Environment Variables
+* https://github.com/webpack/webpack/issues/7268
+* https://stackoverflow.com/questions/49893669/how-can-i-access-runtime-environment-variables-from-a-webpack-compiled-script-th
+* https://github.com/kentcdodds/webpack-config-utils
+
 # Issues
 * https://github.com/webpack/webpack/issues/3165
 * https://github.com/webpack/webpack/issues/6617
@@ -158,6 +163,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://github.com/webpack/webpack.js.org/issues/68
 * https://github.com/webpack/webpack/issues/4160
 * https://github.com/YahooArchive/strip-loader/issues/24
+* https://medium.com/@timurcatakli/how-i-fixed-webpack-4-loaderutils-parsequery-5a5e853619
 
 # Mocking
 * https://www.npmjs.com/package/mock-webpack-plugin
@@ -224,9 +230,13 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://webpack.js.org/loaders/json-loader/
 
 ## Customization
+* https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/webpack.html
+* https://github.com/webpack-contrib/bundle-loader
 * https://stackoverflow.com/questions/45645675/webpack-3-locates-mp4-file-but-video-is-not-playable
 * https://github.com/mozilla/pdf.js/tree/master/examples/webpack
 * https://www.npmjs.com/package/arraybuffer-loader
 * https://www.npmjs.com/package/xml-loader
 * https://www.npmjs.com/package/csv-loader
 * https://webpack.js.org/guides/progressive-web-application/#adding-workbox
+* https://survivejs.com/webpack/extending/loaders/
+* https://codepen.io/reverland/post/exploring-webpack
