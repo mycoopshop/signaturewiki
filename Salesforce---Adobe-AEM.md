@@ -166,10 +166,13 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
 * https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_viewing_emailtemplates.htm&type=5
+* https://help.salesforce.com/articleView?id=000199287&type=1
+* https://help.salesforce.com/articleView?id=000187156&language=en_US&type=1
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
 * https://help.salesforce.com/articleView?id=mc_es_perform_subscriber_preview_test_send.htm&type=5
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
 * https://stackoverflow.com/questions/43885939/visualforce-email-template-unit-test
+* https://success.salesforce.com/answers?id=90630000000gyFzAAI
 
 ## IoT
 * https://github.com/developerforce/Force.com-Toolkit-for-Jasper
@@ -392,6 +395,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
+* https://help.salesforce.com/articleView?id=pardot_create_email_template.htm&type=0
+* https://help.salesforce.com/articleView?id=pardot_connectors_olark_add.htm&type=5
 
 ## DX
 * https://developer.salesforce.com/platform/dx
