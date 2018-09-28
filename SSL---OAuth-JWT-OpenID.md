@@ -40,6 +40,9 @@
 * https://medium.com/carwow-product-engineering/https-ssl-in-your-local-rails-4-1-development-environment-cc82a2009502
 * http://www.passportjs.org/packages/
 * https://news.ycombinator.com/item?id=14290114
+* https://accounts.google.com/.well-known/openid-configuration
+* https://ldapwiki.com/wiki/Openid-configuration
+* https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1
 
 ## PowerBI
 1. https://www.cloudfronts.com/salesforce-object-connecting-inside-powerbi/
