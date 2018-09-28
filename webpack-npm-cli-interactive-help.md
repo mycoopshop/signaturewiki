@@ -222,3 +222,11 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://webpack.js.org/plugins/npm-install-webpack-plugin/
 * https://webpack.js.org/plugins/provide-plugin/
 * https://webpack.js.org/loaders/json-loader/
+
+## Customization
+* https://stackoverflow.com/questions/45645675/webpack-3-locates-mp4-file-but-video-is-not-playable
+* https://github.com/mozilla/pdf.js/tree/master/examples/webpack
+* https://www.npmjs.com/package/arraybuffer-loader
+* https://www.npmjs.com/package/xml-loader
+* https://www.npmjs.com/package/csv-loader
+* https://webpack.js.org/guides/progressive-web-application/#adding-workbox
