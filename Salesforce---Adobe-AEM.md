@@ -130,6 +130,8 @@ Excellent verbal and written communication skills
 * https://success.salesforce.com/ideaview?id=0873000000081cUAAQ
 * https://success.salesforce.com/issues_index?tag=Lightning
 * https://success.salesforce.com/issues_index?tag=Live%20Agent
+* https://help.salesforce.com/articleView?id=Lightning-Knowledge-Migration-Tool-FAQ&language=en_US&type=1
+* https://success.salesforce.com/issues_view?Id=a1p3A000000312O
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
@@ -914,6 +916,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * https://www.salesforce.com/video/294751/
+* http://bobbuzzard.blogspot.com/2017/07/lightning-testing-service-part-1.html
+* http://bobbuzzard.blogspot.com/2017/08/lightning-testing-service-part-2-custom.html
+* https://github.com/forcedotcom/LightningTestingService
+* https://github.com/keirbowden/LtgJasmineUnitTesting
 * https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
 * https://medium.com/nintex-developers/rearchitecting-your-salesforce-lighting-javascript-for-testability-dfbaed89ecdf
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/passing-parameters-by-reference-and-by-value-in-apex.html
