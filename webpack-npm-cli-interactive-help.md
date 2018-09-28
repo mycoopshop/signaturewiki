@@ -162,6 +162,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://github.com/webpack/webpack/issues/6796
 * https://github.com/webpack/webpack.js.org/issues/68
 * https://github.com/webpack/webpack/issues/4160
+* https://github.com/webpack/webpack/issues/1194
 * https://github.com/YahooArchive/strip-loader/issues/24
 * https://medium.com/@timurcatakli/how-i-fixed-webpack-4-loaderutils-parsequery-5a5e853619
 
