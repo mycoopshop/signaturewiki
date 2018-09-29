@@ -171,6 +171,9 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 
 # CSS
 * https://material.io/develop/web/docs/getting-started/
+* https://getbootstrap.com/docs/4.0/getting-started/webpack/
+* https://medium.com/@BMatt92656920/building-a-crud-application-with-react-webpack-bootstrap-2d80c45d5164
+* https://medium.com/walkme-engineering/no-nonsense-webpack-project-bdfb79181737
 * https://wanago.io/2018/07/16/webpack-4-course-part-two-webpack-4-course-part-two-loaders/
 * https://github.com/webpack-contrib/style-loader/issues/255
 * https://florianbrinkmann.com/en/4240/sass-webpack/
