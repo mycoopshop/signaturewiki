@@ -169,9 +169,14 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 # Mocking
 * https://www.npmjs.com/package/mock-webpack-plugin
 
+# HTML Email
+https://blog.edmdesigner.com/css-inliner-tools-in-email/
+https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/
+
 # CSS
 * https://material.io/develop/web/docs/getting-started/
 * https://getbootstrap.com/docs/4.0/getting-started/webpack/
+* https://www.npmjs.com/package/web-resource-inliner
 * https://medium.com/@BMatt92656920/building-a-crud-application-with-react-webpack-bootstrap-2d80c45d5164
 * https://medium.com/walkme-engineering/no-nonsense-webpack-project-bdfb79181737
 * https://wanago.io/2018/07/16/webpack-4-course-part-two-webpack-4-course-part-two-loaders/
@@ -181,6 +186,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://chriscourses.com/blog/purifycss-and-webpack
 * https://github.com/webpack-contrib/file-loader/issues/272
 * https://stackoverflow.com/questions/44204353/webpack-relative-css-url-with-file-loader-css-loader
+* https://css-tricks.com/heres-the-thing-about-unused-css-tools/
 
 # Concatenation
 * https://code.luasoftware.com/tutorials/webpack/merge-multiple-javascript-into-single-file/
