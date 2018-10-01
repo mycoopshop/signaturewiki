@@ -9,3 +9,5 @@ https://code.msdn.microsoft.com/windowsapps/IndexedDB-sample-eb1e95af
 https://girliemac.com/stickies/
 
 https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee
+
+https://viblo.asia/p/simple-web-workers-workflow-with-webpack-3P0lPkobZox
