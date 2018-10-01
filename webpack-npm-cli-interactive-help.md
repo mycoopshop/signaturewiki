@@ -177,6 +177,8 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://material.io/develop/web/docs/getting-started/
 * https://getbootstrap.com/docs/4.0/getting-started/webpack/
 * https://www.npmjs.com/package/web-resource-inliner
+* https://github.com/webpack/webpack/tree/master/examples/loader
+* https://stackoverflow.com/questions/42500273/is-it-possible-to-use-the-css-loader-without-the-style-loader-in-webpack
 * https://medium.com/@BMatt92656920/building-a-crud-application-with-react-webpack-bootstrap-2d80c45d5164
 * https://medium.com/walkme-engineering/no-nonsense-webpack-project-bdfb79181737
 * https://wanago.io/2018/07/16/webpack-4-course-part-two-webpack-4-course-part-two-loaders/
