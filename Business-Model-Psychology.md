@@ -60,6 +60,7 @@
 * https://en.wikipedia.org/wiki/Black_Russian
 * https://en.wikipedia.org/wiki/Black_Tortoise
 * https://en.wikipedia.org/wiki/Black_Pearl_(disambiguation)
+
 # Reinvent Bias
 * https://en.wikipedia.org/wiki/Lonnie_Johnson_(inventor)
 * https://en.wikipedia.org/wiki/Kido_Takayoshi
@@ -261,6 +262,8 @@ https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
 http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
 https://www.apnews.com/87a08b347f8d42a2a59d721a4d407bfa/Cybersecurity-education-growing-in-Nevada-as-risks-increase
 https://cloud.gov/quickstart/
+https://alistapart.com/article/web-developer-representation-in-w3c
+https://www.quirksmode.org/blog/archives/2018/09/fronteers_consi_1.html
 
 # Housing Bias
 https://www.apnews.com/tag/Housingpolicy
