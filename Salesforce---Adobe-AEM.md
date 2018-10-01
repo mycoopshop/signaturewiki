@@ -116,6 +116,8 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=files_preview.htm&type=5
 * https://help.salesforce.com/articleView?id=community_designer_preview.htm&type=5
 * https://help.salesforce.com/articleView?id=collab_attach_file_reference.htm&type=5
+* https://help.salesforce.com/articleView?id=admin_files_use_quip_component.htm&type=5
+* https://help.salesforce.com/articleView?id=admin_files_quip_add_lightning_component.htm&type=5
 
 ## Types
 * https://developer.salesforce.com/docs/atlas.en-us.214.0.object_reference.meta/object_reference/field_types.htm
@@ -606,6 +608,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/01/heres-need-know-new-url-format-lightning.html
 
 ## Lightning
+* https://help.salesforce.com/articleView?id=lightning_components_roadmap.htm
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://developer.salesforce.com/blogs/2018/08/all-about-custom-lightning-page-templates.html
 * https://www.lightningdesignsystem.com/release-notes/
@@ -816,6 +819,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
 ## Configuration
+* https://help.salesforce.com/articleView?id=000007225&type=1
+* https://help.salesforce.com/articleView?id=users_licenses_overview.htm&type=5
+* https://help.salesforce.com/articleView?id=admin_sessions.htm&type=5
 * https://developer.salesforce.com/page/Force.com_workbook
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
 * http://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/sf.pdf
