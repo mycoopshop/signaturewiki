@@ -1,4 +1,5 @@
 * http://jamesknelson.com/state-react-1-stateless-react-app/
+* http://jsfiddle.net/cowboy/Ly3Luft4/
 * https://kyleshevlin.com/loading-state-trick-for-stateless-functional-components-in-react/
 * https://medium.com/@wwayne_me/how-to-manually-open-select-in-react-1169967eb33b
 * https://reactjs.org/docs/forwarding-refs.html#displaying-a-custom-name-in-devtools
