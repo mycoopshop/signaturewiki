@@ -58,7 +58,6 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 </pre>
 
 **Troubleshooting**
-
 1. Run the scaffold project A
 1. Run the real project B
 1. Compare the directory structure of project A to project B 
@@ -208,6 +207,9 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://webpack.js.org/configuration/other-options/
 * https://codeclimate.com/github/webpack/webpack/lib/Stats.js/source
 * https://github.com/webpack/webpack/issues/5718
+
+# Malware
+* https://news.ycombinator.com/item?id=16716264
 
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
