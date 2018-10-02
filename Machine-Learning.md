@@ -8,4 +8,5 @@
 * https://gigazine.net/gsc_news/en/20180420-machine-learning-predict-chaos/
 * http://www.stsci.edu/~lbradley/seminar/butterfly.html
 * https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/
-* https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/
+* https://en.wikipedia.org/wiki/Trivia
+* https://en.wikipedia.org/wiki/Shahnameh
