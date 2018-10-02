@@ -11,6 +11,25 @@ Simplest Controllers
 1. WPAD
 1. XML Processing Instruction
 
+Simplest Domain Specific Language (DSL)
+
+<pre>
+Example Script: 
+  create Vendor IBM
+	 id 'IBM'
+	 salesperson 'S1'
+	 discount	10.0
+
+  Translates Into:
+	<script>
+	 <create domain='Vendor', id='IBM'>
+		<field name='id'>IBM</field>
+		<field name='salesperson'>S1</field>
+		<field name='discount'>10.0</field>
+	 </create>
+	</script>
+</pre>
+
 Simplest Message Passing
 
 1. window.postMessage
