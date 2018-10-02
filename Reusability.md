@@ -73,3 +73,8 @@ ES6 Template Literals:
 * https://www.npmjs.com/package/react-aop
 * http://coffeescript.org/#changelog
 * https://docs.microsoft.com/en-us/dotnet/standard/language-independence-and-language-independent-components
+* http://wiki.c2.com/?RebolLanguage
+* http://wiki.c2.com/?IoMultiplexing
+* http://wiki.c2.com/?TerminalMultiplexer
+* http://wiki.c2.com/?OperatingSystemsDesignPrinciples
+* https://docs.microsoft.com/en-us/windows/desktop/api/synchapi/nf-synchapi-waitformultipleobjects
