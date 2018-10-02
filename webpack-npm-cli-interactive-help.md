@@ -175,6 +175,9 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 # CSS
 * https://material.io/develop/web/docs/getting-started/
 * https://getbootstrap.com/docs/4.0/getting-started/webpack/
+* https://github.com/JedWatson/react-select/issues/1324
+* https://github.com/JedWatson/react-select/issues/176
+* https://github.com/vuejs-templates/webpack/issues/604
 * https://www.npmjs.com/package/web-resource-inliner
 * https://github.com/webpack/webpack/tree/master/examples/loader
 * https://stackoverflow.com/questions/42500273/is-it-possible-to-use-the-css-loader-without-the-style-loader-in-webpack
