@@ -4,3 +4,8 @@
 * http://aokolish.me/blog/2015/03/31/correcting-indentation-in-vim/
 * https://alexkitchens.net/2016/10/03/vim-tabs-maps-more.html
 * https://wincent.com/wiki/Vim_cheatsheet
+* http://www.softpanorama.org/Editors/vim.shtml
+* http://www.panozzaj.com/blog/2011/09/09/vim-directory-structure/
+* https://unix.stackexchange.com/questions/7823/compiling-code-from-vim
+* http://learnvimscriptthehardway.stevelosh.com/
+* https://github.com/neovim/neovim/blob/master/runtime/doc/api.txt
