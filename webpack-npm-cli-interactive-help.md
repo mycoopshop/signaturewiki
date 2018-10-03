@@ -180,6 +180,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://github.com/vuejs-templates/webpack/issues/604
 * https://www.npmjs.com/package/web-resource-inliner
 * https://github.com/webpack/webpack/tree/master/examples/loader
+* https://stackoverflow.com/questions/42436728/webpack2-how-to-import-bootstrap-css-for-react-bootstrap-to-find-its-styles/42440360
 * https://stackoverflow.com/questions/42500273/is-it-possible-to-use-the-css-loader-without-the-style-loader-in-webpack
 * https://github.com/gajus/to-string-loader
 * https://github.com/smithad15/css-to-string-loader
