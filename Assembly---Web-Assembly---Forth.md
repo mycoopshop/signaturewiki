@@ -1,4 +1,5 @@
 https://www.c64-wiki.com/wiki/Assembly_Language_for_Kids_Commodore_64_-_Sanders
+https://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/WebIDL-Binder.html
 https://github.com/WebAssembly/design/issues/755
 https://blog.acolyer.org/2017/09/18/bringing-the-web-up-to-speed-with-webassembly/
 https://www.usna.edu/Users/cs/aviv/classes/si485h/s17/units/02/unit.html
