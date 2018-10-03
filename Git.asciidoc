@@ -346,3 +346,5 @@ https://confluence.atlassian.com/bitbucketserverkb/all-bitbucket-server-knowledg
 https://confluence.atlassian.com/bitbucketserverkb/understanding-diff-view-in-bitbucket-server-859450562.html
 
 https://stackoverflow.com/questions/36727469/bitbucket-crlf-issue
+
+https://mirrors.edge.kernel.org/pub/software/scm/git/docs/technical/api-index.html
