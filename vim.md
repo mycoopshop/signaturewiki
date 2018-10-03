@@ -9,3 +9,4 @@
 * https://unix.stackexchange.com/questions/7823/compiling-code-from-vim
 * http://learnvimscriptthehardway.stevelosh.com/
 * https://github.com/neovim/neovim/blob/master/runtime/doc/api.txt
+* https://lamsh.github.io/slide/2017/20171104_VimConf2017/index.html
