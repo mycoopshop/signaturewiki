@@ -2,6 +2,9 @@
 1. https://www.bmc.com/blogs/itsm-or-itil-that-isnt-the-question/
 1. https://it.toolbox.com/blogs/erpdesk/etl-made-easy-with-erp-093015
 1. https://www.radicore.org/glossary.php
+1. https://documentation.cpanel.net/display/CKB/cPanel+Glossary#cPanelGlossary-D
+1. https://smc-python.readthedocs.io/en/latest/pages/reference.htmlhttps://smc-python.readthedocs.io/en/latest/pages/reference.html
+1. https://www.turnonvpn.org/vpn-glossary/
 1. http://www.mkbergman.com/acronyms-glossary/
 1. https://www-01.ibm.com/software/globalization/terminology/a.html
 1. https://doc.lagout.org/security/Websters.New.World.Websters.New.World.Hacker.Dictionary.Sep.2006.pdf
