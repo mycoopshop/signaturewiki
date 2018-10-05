@@ -88,6 +88,7 @@ Perl Jenkins Redis
 * https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Red_Hat_Linux
 * https://www.cyberciti.biz/faq/install-use-setup-docker-on-rhel7-centos7-linux/
 * https://docs.docker.com/install/linux/docker-ee/centos/#upgrade-docker-ee-1
+* https://www.suse.com/c/news/suse-and-microsoft-collaborate-to-deliver-first-enterprise-linux-kernel-optimized-for-azure/
 * https://community.kde.org/Android/Environment_via_Container
 * http://blogs.cornell.edu/cloudification/category/docker/
 * http://wiki.eclipse.org/Linux_Tools_Project/Docker_Tooling/User_Guide
