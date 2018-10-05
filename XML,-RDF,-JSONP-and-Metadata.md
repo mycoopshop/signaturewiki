@@ -1,5 +1,9 @@
 * https://en.wikipedia.org/wiki/Common_Crawl#cite_note-semanticweb_1-7
 
+* https://ccdsupport.com/confluence/display/help/XML+Reporting+Instructions
+
+* https://confluence.atlassian.com/doc/confluence-storage-format-790796544.html
+
 * http://commoncrawl.org/the-data/get-started/
 
 * http://archive.xmlprague.cz/2018/files/xmlprague-2018-proceedings.pdf
