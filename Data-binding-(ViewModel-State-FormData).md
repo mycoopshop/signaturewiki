@@ -81,3 +81,5 @@ In React, this is also achieved by composition, where a more “specific” comp
 * https://github.com/mozilla-services/react-jsonschema-form
 
 * https://github.com/networknt/react-schema-form
+
+* https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/how-to-bind-to-xml-data-using-an-xmldataprovider-and-xpath-queries
