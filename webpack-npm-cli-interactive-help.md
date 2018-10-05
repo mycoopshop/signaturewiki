@@ -77,6 +77,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://blog.packagecloud.io/eng/2018/01/11/inspect-download-extract-npm-packages/
 * https://docs.npmjs.com/cli/run-script
 * https://npm.community/t/installing-upgrading-npm/251/2
+* https://libraries.io/npm/npm/6.4.1
 * https://stackoverflow.com/questions/38153857/bundle-angular-2-app-using-umd-bundles-not-building-vendor-bundle
 * https://viblo.asia/p/tuning-webpack-production-environment-bWrZneYQKxw
 * https://github.com/webpack/webpack/tree/master/examples
