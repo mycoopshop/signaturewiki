@@ -25,7 +25,7 @@ Pattern Category &#x9; Library &#x9; API Method Name &#x9; URL
 Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs.org/docs/error-boundaries.html
 </pre>
 
-REFERENCES
+## REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
 * https://bugzilla.mozilla.org/buglist.cgi?quicksearch=product%3Adevtools+summary%3Areact+component%3Ageneral+resolution%3Afixed
