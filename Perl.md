@@ -7,6 +7,9 @@
 * http://search.cpan.org/dist/perl-5.27.1/ext/File-Glob/Glob.pm
 * https://research.swtch.com/glob
 
+## Find/Replace
+perl -pi -e 's/you/me/g' file
+
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
