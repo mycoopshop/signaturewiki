@@ -23,8 +23,8 @@ With CommonJS, on the other hand, the shape of a module is not known until after
 <pre>
 Pattern Category &#x9; Library &#x9; API Method Name &#x9; URL
 Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs.org/docs/error-boundaries.html
-
 </pre>
+
 REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
