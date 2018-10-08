@@ -1,20 +1,20 @@
 HTML5 Interactive Elements
-<menu> element 
-jpeg-xr
-requestidlecallback
+    <menu> element 
+    jpeg-xr
+    requestidlecallback
 
 COMMON COMPONENTS
-<base> decorator 
-<href> proxy
-<form> validation
-<canvas> throttling
-<pre> escaping
-<iframe> cors
-bookmarklet csp
-<img> srcset
-<svg> transclusion
-wai-aria
-i18n
+    <base> decorator 
+    <href> proxy
+    <form> validation
+    <canvas> throttling
+    <pre> escaping
+    <iframe> cors
+    bookmarklet csp
+    <img> srcset
+    <svg> transclusion
+    wai-aria
+    i18n
 
 ES6 Modules
 
