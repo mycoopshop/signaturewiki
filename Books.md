@@ -6,6 +6,8 @@ All You Need to Know about the Music Business
 
 https://www.goodreads.com/list/show/23942.Books_Read_by_Tupac_Shakur_
 
+http://pubgen.com/blog/book-richest-man-world-billionaires/
+
 https://www.bartleby.com/269/index2.html
 
 https://www.e-reading.club/bookreader.php/139986/Programming_Erlang.pdf
