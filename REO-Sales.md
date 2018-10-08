@@ -12,3 +12,8 @@ https://www.redfin.com/CA/Atwater/3346-Lagoon-Ave-95301/home/19668464
 
 https://www.redfin.com/city/844/CA/Atwater/filter/property-type=house,max-price=320k,min-beds=4,min-baths=2,min-sqft=1.5k-sqft,min-year-built=1980,has-garage
 https://www.redfin.com/city/16409/CA/Sacramento/filter/property-type=house,max-price=320k,min-beds=4,min-baths=2,min-sqft=1.5k-sqft,min-year-built=1990,has-garage
+
+## Baldwin
+https://www.amazon.com/dp/B00L367GG6/
+http://www.baldwinhardwaredirect.com/shop/pc/Baldwin-Key-Blank-5-Pin-C-Keyway-20p3829.htm
+http://www.baldwinhardwaredirect.com/shop/pc/Baldwin-SMARTKEY-Baldwin-Bow-Kwikset-Smartkey-Key-Blank-20p15252.htm
