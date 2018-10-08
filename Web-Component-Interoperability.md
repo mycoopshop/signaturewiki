@@ -20,9 +20,15 @@ ES6 Modules
 
 With CommonJS, on the other hand, the shape of a module is not known until after the code is evaluated. What this means is, without making significant changes to the ECMAScript language spec, it will not be possible to use Named Imports from a CommonJS module. 
 
+<pre>
+Pattern Category &#x9; Library &#x9; API Method Name &#x9; URL
+Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs.org/docs/error-boundaries.html
+
+</pre>
 REFERENCES
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
+* https://bugzilla.mozilla.org/buglist.cgi?quicksearch=product%3Adevtools+summary%3Areact+component%3Ageneral+resolution%3Afixed
 * https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293
 * http://vuetips.com/vue-web-components
 * https://marketing.adobe.com/resources/help/en_US/sc/implement/accelerated-mobile-pages.html
