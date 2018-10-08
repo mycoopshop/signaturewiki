@@ -12,6 +12,9 @@ Copy/Paste
 
 ## References:
 
+### Screen Capture
+1. screentogif
+
 ### Visualization
 1. https://labs.udacity.com/android-visualizer/
 https://cambridge-intelligence.com/visualizing-a-knowledge-graph/
