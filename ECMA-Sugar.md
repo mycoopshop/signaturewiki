@@ -6,3 +6,4 @@
 * Unicode Escapes: http://2ality.com/2016/09/template-literal-revision.html
 * Destructuring: http://2ality.com/2016/10/rest-spread-properties.html
 * Iteration: http://2ality.com/2016/10/asynchronous-iteration.html
+* Proper Tail-Calls: https://www.linkedin.com/pulse/tail-call-optimizations-es6-michael-clark
