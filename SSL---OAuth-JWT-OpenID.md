@@ -70,3 +70,7 @@ https://blog.crossjoin.co.uk/2017/10/15/exploring-the-new-ssrs-2017-api-in-power
 https://stackoverflow.com/questions/33225590/
 https://www.smashingmagazine.com/2017/06/guide-switching-http-https/
 https://www.gilesorr.com/blog/ocsp-hsts.html
+https://security.stackexchange.com/questions/182873/why-isnt-pkce-encouraged-for-single-page-apps
+https://docops.ca.com/ca-api-management-oauth-toolkit/3-6/en/openid-connect-implementation/open-id-connect-implementation-details
+https://www.netiq.com/documentation/access-manager-44/admin/data/b1dj6b2f.html
+https://security.stackexchange.com/questions/146572/is-cors-ever-needed-during-any-aspect-of-oauth-openidconnect-authentication
