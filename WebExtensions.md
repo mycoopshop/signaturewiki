@@ -5,10 +5,11 @@
 * Image to PDF
 
 ## CORS
-
+* ModHeader: https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj
 * https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
 * https://github.com/spenibus/cors-everywhere-firefox-addon
-
+* https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
+* https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc
 ## Redirection
 * URL Decode/Encode
 
