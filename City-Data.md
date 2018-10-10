@@ -6,6 +6,8 @@ elk grove
 
 https://en.wikipedia.org/wiki/California_State_Route_33
 
+https://ca-patterson.civicplus.com/FAQ.aspx
+
 https://www.valleyworx.com/
 
 http://www.racecounts.org/county/alameda/
