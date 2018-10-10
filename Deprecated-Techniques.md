@@ -55,6 +55,12 @@
 
 * https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a
 
+## Content Tracking
+* https://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAA/Help/EloquaAsynchronousTrackingScripts/Tasks/FlashContentTracking.htm
+
+## Release Planning
+* https://community.oracle.com/community/support/support-blogs/taleo-support-blog/
+
 ## Integration
 
 * https://www.slideshare.net/PankajBiswas3/uploading-files-using-selenium-web-driver
@@ -96,6 +102,10 @@
 ## Changelog
 
 * https://jenkins.io/changelog-old/
+
+## Troubleshooting
+
+* https://docs.oracle.com/cd/E18727_01/doc.121/e13575/T349071T350719.htm
 
 ## IDE
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=528725
