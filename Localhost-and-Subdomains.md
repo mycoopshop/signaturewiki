@@ -1,4 +1,6 @@
-Add localhost to the Access-Control-Allow-Origin header
+Add your subdomain to the Origin Request header, e.g. foo.bar.com
+Add the Access-Control-Allow-Origin Response header with your localhost value, e.g. localhost:9999
+Add the Access-Control-Allow-Credentials Response header with a value of `true`
 
 https://news.ycombinator.com/item?id=12595628
 https://github.com/nodejs/node/issues/14304
