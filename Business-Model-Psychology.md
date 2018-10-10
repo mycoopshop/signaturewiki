@@ -30,6 +30,9 @@
 * https://www.androidcentral.com/hq-words
 * https://www.apnews.com/d2314076a19c4e75aae3fead547abdea/Hall-of-Fame-members-threaten-boycott-of-inductions
 
+# Review Bias
+* https://www.schneier.com/blog/archives/2018/02/harassment_by_p.html
+
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
