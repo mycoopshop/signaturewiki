@@ -1,3 +1,5 @@
+Add localhost to the Access-Control-Allow-Origin header
+
 https://news.ycombinator.com/item?id=12595628
 https://github.com/nodejs/node/issues/14304
 https://www.hostingadvice.com/how-to/nodejs__dirname/
