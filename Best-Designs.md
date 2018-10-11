@@ -6,6 +6,8 @@
 # Usability
 * https://templated.co/faq#what-is-templated
 
+* https://blog.prototypr.io/the-best-prototyping-tool-ever-7c21c49c3353?gi=fc11b025bc53
+
 # Consistency
 * https://ethanschoonover.com/solarized/
 
@@ -19,6 +21,8 @@
 
 # Simplicity
 * https://www.afrihost.com/landing/mobile/apn/
+
+* https://anatone.net/links.aspx
 
 * http://www.weather.gov/
 
