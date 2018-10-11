@@ -1,3 +1,4 @@
+* https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
 * https://github.com/jonathanslenders/pyvim
 * https://pmihaylov.com/tmux-terminal-multiplexer/
 * https://www.systutorials.com/1419/vim-formatting-cc-code/
