@@ -131,6 +131,14 @@
 * https://maven.apache.org/shared/index.html
 * https://maven.apache.org/shared/maven-dependency-tree/dependencies.html
 
+## Annotations
+* https://docs.microsoft.com/en-us/sql/relational-databases/sqlxml/annotated-xsd-schemas/introduction-to-annotated-xsd-schemas-sqlxml-4-0?view=sql-server-2017
+* https://msdn.microsoft.com/en-us/library/aa468554.aspx
+* https://stevedonovan.github.io/lua-5.1.4/
+* https://github.com/google/closure-compiler/wiki/Annotating-JavaScript-for-the-Closure-Compiler
+* https://marionettejs.com/annotated-src/backbone.marionette
+* http://people.w3.org/mike/bugs/es5-spec/
+
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
 * ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
