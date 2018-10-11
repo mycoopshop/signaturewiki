@@ -52,6 +52,8 @@ security specialist
 accessibility specialist
 
 
+upwork: coldfusion mediawiki joomla perl vbscript sqlite xslt
+
 https://www.pacific.edu/Documents/student-life/crc/Cover_Letter_Handbook.pdf
 
 title:salesforce title:developer site:linkedin.com title:us +pulse
