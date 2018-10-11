@@ -34,6 +34,7 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 ### Test Code Generation
 1. https://www.npmjs.com/package/babel-plugin-s2s-jest-unit-test-case
 1. https://github.com/akameco/s2s
+1. https://en.wikipedia.org/wiki/Example-Centric_Programming
 
 ### Media File Format Conversion
 1. https://www.bugcodemaster.com/article/convert-videos-3gp-format-using-ffmpeg
