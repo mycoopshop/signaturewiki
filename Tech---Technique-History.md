@@ -1,4 +1,18 @@
+achsah keturah kezia jael
+
 https://techbridgegirls.org/index.php?id=231
+
+https://en.wikipedia.org/wiki/Elisheba
+
+https://en.wikipedia.org/wiki/Keturah
+
+https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1126&context=doctoral
+
+http://elibrary.bsu.az/books_163/N_78.pdf
+
+http://www.oldpaths.com/Archive/Johnson/Edna/Elizabeth/1939/BibleWomen-OT.pdf
+
+http://harvestime.org/translations/english/Women.pdf
 
 https://en.wikipedia.org/wiki/Mythical_origins_of_language
 
