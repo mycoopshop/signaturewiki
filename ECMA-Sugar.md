@@ -1,33 +1,31 @@
-<pre>
-// Template Literals
-var box = jsx`
-  <${Box}>
-    ${
-      shouldShowAnswer(user) ?
-      jsx`<${Answer} value=${false}>no</${Answer}>` :
-      jsx`
-        <${Box.Comment}>
-         Text Content
-        </${Box.Comment}>
-      `
-    }
-  </${Box}>
-`;
+    // Template Literals
+    var box = jsx`
+      <${Box}>
+        ${
+          shouldShowAnswer(user) ?
+          jsx`<${Answer} value=${false}>no</${Answer}>` :
+          jsx`
+            <${Box.Comment}>
+             Text Content
+            </${Box.Comment}>
+          `
+        }
+      </${Box}>
+    `;
 
 
 
-// JSX
-var box =
-  <Box>
-    {
-      shouldShowAnswer(user) ?
-      <Answer value={false}>no</Answer> :
-      <Box.Comment>
-         Text Content
-      </Box.Comment>
-    }
-  </Box>;
-</pre>
+    // JSX
+    var box =
+      <Box>
+        {
+          shouldShowAnswer(user) ?
+          <Answer value={false}>no</Answer> :
+          <Box.Comment>
+             Text Content
+          </Box.Comment>
+        }
+      </Box>;
 
 * Template Literals: https://facebook.github.io/jsx/
 * Namespacing: http://2ality.com/2014/12/es6-symbols.html
