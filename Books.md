@@ -12,6 +12,8 @@ https://www.bartleby.com/269/index2.html
 
 https://www.e-reading.club/bookreader.php/139986/Programming_Erlang.pdf
 
+https://archive.org/stream/economicprincipl00huan/economicprincipl00huan_djvu.txt
+
 https://universalflowuniversity.com/Books/Computer%20Programming/Intranet%20and%20Content%20Management%20Systems/Drupal%208:%20Enterprise%20Web%20Development:%20Harness%20the%20power%20of%20Drupal%208%20to%20create%20enterprise-grade%2C%20highly%20scalable%20websites.pdf
 
 https://the-eye.eu/public/Books/IT%20Various/OReilly%20Designing%20Evolvable%20Web%20APIs%20with%20ASP.NET%20%282014%29.pdf
