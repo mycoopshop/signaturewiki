@@ -22,3 +22,4 @@ toward others, regardless of artificial rites and justice.
 http://www.ijbssnet.com/journals/Vol._1_No._3_December_2010/22.pdf
 http://www.ifes.org/sites/default/files/seher_a_new_dawn_breaks_oct_2016.pdf
 http://uselesstree.typepad.com/useless_tree/2008/10/the-tao-of-debt.html
+https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1254&context=soss_research
