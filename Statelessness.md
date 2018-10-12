@@ -1,4 +1,11 @@
 * http://jamesknelson.com/state-react-1-stateless-react-app/
+* https://www.zsoltnagy.eu/container-components-and-stateless-functional-components-in-react/
+* https://www.sitepoint.com/optimizing-react-performance-stateless-components/
+* https://medium.com/@ethan_ikt/react-stateless-functional-component-with-typescript-ce5043466011
+* https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc?gi=80138541a906
+* https://www.zsoltnagy.eu/container-components-and-stateless-functional-components-in-react/
+* https://github.com/Microsoft/TypeScript/issues/8657
+* https://medium.com/@mogon2990/infinite-routes-recursion-with-react-router-cdc6a4bb8e1d
 * http://jsfiddle.net/cowboy/Ly3Luft4/
 * https://kyleshevlin.com/loading-state-trick-for-stateless-functional-components-in-react/
 * https://medium.com/@wwayne_me/how-to-manually-open-select-in-react-1169967eb33b
