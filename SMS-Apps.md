@@ -7,3 +7,7 @@ http://rion.io/2017/06/19/how-the-microsoft-bot-framework-changed-where-my-frien
 https://www.twilio.com/blog/2013/05/resurrecting-google-sms-search-using-twilio.html
 
 https://blog.bandwidth.com/top-5-reasons-why-text-messaging-is-gaining-popularity/
+
+https://usshortcodedirectory.com/faq/what-is-a-sms-short-code/
+
+https://www.quora.com/How-can-I-get-an-SMS-number-like-a-four-digit-number-instead-of-using-a-phone-number
