@@ -4,6 +4,10 @@
 ## Conversion
 * Image to PDF
 
+## Annotation
+* Kami: https://chrome.google.com/webstore/detail/kami-pdf-and-document-ann/iljojpiodmlhoehoecppliohmplbgeij
+* Hypothesis: https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek
+
 ## CORS
 * ModHeader: https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj
 * https://addons.mozilla.org/en-US/firefox/addon/access-control-allow-origin/
