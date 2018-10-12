@@ -1,7 +1,10 @@
 "To get portable data, you need to pick a representation that is usable in most programming languages"
 "To get portable behavior, you need a maintainable program standard that runs on most computer systems"
+"If something can be derived, store it as a function instead of a variable"
+"There should be a single 'source of truth'"
 
-Simplest Controllers
+## Simplest Controllers
+
 1. RegExp
 1. Recursion
 1. RewriteRule
@@ -12,7 +15,7 @@ Simplest Controllers
 1. WPAD
 1. XML Processing Instruction
 
-Simplest Domain Specific Language (DSL)
+## Simplest Domain Specific Language (DSL)
 
 <pre>
 Example Script: 
