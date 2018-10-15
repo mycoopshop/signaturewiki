@@ -87,3 +87,5 @@
 * http://docs.oasis-open.org/dita/LwDITA/v1.0/cnprd01/LwDITA-v1.0-cnprd01.html
 
 * http://www.softpedia.com/get/Internet/Other-Internet-Related/AltovaXML.shtml
+
+* https://www.tutorialspoint.com/aiml/aiml_think_tag.htm
