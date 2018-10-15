@@ -1,3 +1,5 @@
+Help: https://www.craigslist.org/about/help/user_accounts?lang=en&cc=us
+
 Contact Us: https://aws.amazon.com/contact-us/?nc1=f_m
 
 Autocomplete: https://sites.google.com/a/chromium.org/dev/user-experience/omnibox
