@@ -6,6 +6,7 @@
 ## Simplest Controllers
 
 1. RegExp
+1. Excel Formulas
 1. Recursion
 1. RewriteRule
 1. SetEnv/UnsetEnv/PassEnv
@@ -161,6 +162,12 @@ http://csis.pace.edu/~marchese/SE735/L1/L1.htm
 https://www.sqlite.org/requirements.html
 
 https://sqlite.org/fts5.html
+
+# Spreadsheet-style programming
+
+https://en.wikipedia.org/wiki/Datalog
+
+https://sites.google.com/site/pydatalog/
 
 # Game Architecture (Scoring, Interaction, Binding)
 
