@@ -669,6 +669,8 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 
 * https://medium.com/@boriscoder/the-hidden-power-of-jest-matchers-f3d86d8101b0
 
+* https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest
+
 * https://github.com/mobxjs/mobx/issues/494
 
 * https://github.com/mobxjs/mobx-react/issues/194
