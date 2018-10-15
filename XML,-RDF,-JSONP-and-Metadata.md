@@ -89,3 +89,5 @@
 * http://www.softpedia.com/get/Internet/Other-Internet-Related/AltovaXML.shtml
 
 * https://www.tutorialspoint.com/aiml/aiml_think_tag.htm
+
+* https://blog.recime.io/using-aiml-and-nlp-to-create-a-conversation-flow-for-your-chatbot-fea63d09b2e6?gi=e5952217341
