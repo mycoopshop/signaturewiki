@@ -7,6 +7,7 @@ Pass the hat, don't complain
 Be the best, never stress
 SMS, peace and rest
 
+https://en.wikipedia.org/wiki/Scratchcard
 https://www.ftb.ca.gov/businesses/Exempt-organizations/
 https://www.ftb.ca.gov/forms/misc/927.pdf
 https://www.ftb.ca.gov/Archive/Law/fedchanges/14FedTax.pdf
