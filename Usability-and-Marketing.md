@@ -16,7 +16,6 @@ Use a CSV based search box instead of a nav
 
 http://www.jbsa.mil/Portals/102/Documents/Protocol/AFH%2033-337_Tonguue%20and%20Quill_May%2015.pdf?ver=2015-06-12-102017-283
 
-
 https://www.makeuseof.com/tag/10-domain-name-search-websites/
 
 http://www.nameboy.com/stepsearch.php?primary=blackmovietv&secondary=film&x=0&y=0&dosearch=yes&forsale=yes&PHPSESSID=60d51abd6ae58a7c41e849cc573fc001
