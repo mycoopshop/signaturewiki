@@ -4,3 +4,4 @@
 1. https://jestjs.io/docs/en/troubleshooting#tests-are-failing-and-you-don-t-know-why
 1. https://airbnb.io/enzyme/docs/api/ShallowWrapper/contains.html
 1. https://github.com/airbnb/enzyme/issues/1683
+1. https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/
