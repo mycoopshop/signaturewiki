@@ -214,6 +214,7 @@ https://markets.cboe.com/resource/industry_education/how_trading_works/
 * https://www.fsf.org/about
 * https://www.mercurial-scm.org/wiki/MercurialHosting
 * https://bugs.launchpad.net/launchpad
+* https://en.wikipedia.org/wiki/Mozdev.org
 * https://savannah.gnu.org/people/
 * https://bocoup.com/blog/so-youd-like-to-start-an-open-source-project
 
