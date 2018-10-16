@@ -68,6 +68,10 @@ In React, this is also achieved by composition, where a more “specific” comp
 
 **References**
 
+* https://discuss.reactjs.org/t/controlling-checked-state-for-a-form-checkbox/11482
+
+* https://reactjs.org/docs/dom-elements.html
+
 * [Angular 1.5 $Filter and $CacheFactory](https://www.youtube.com/watch?v=YMReoK4h1qA)
 
 * [Understanding Angular's $templateCache](https://thinkster.io/templatecache-tutorial)
