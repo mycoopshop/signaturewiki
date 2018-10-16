@@ -488,10 +488,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
 * https://help.salesforce.com/articleView?id=custommetadatatypes_accessing.htm&type=5
 * https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000B5V2gEAF
+* https://www.salesforce.com/blog/2017/11/mytrailhead-reinventing-trailblazer-learning.html
 
 ## Subcontractor Market
 * https://www.ceptes.com/
 * http://www.provenworks.com/
+* https://www.salesforceben.com/my-trailhead-prediction/
+* https://www.paulbfischer.com/recapping-a-big-week-of-salesforce-events-in-washington-dc/
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003JBggEAG
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DqDOXUA3
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EJHn5UAH
 
 ## Recovery
 * https://developer.salesforce.com/blogs/developer-relations/2014/11/enterprise-data-architecture.html
