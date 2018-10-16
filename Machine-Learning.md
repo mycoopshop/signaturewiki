@@ -2,6 +2,7 @@
 
 * https://dalibornasevic.com/posts/61-intro-to-machine-learning-in-ruby
 * http://blogs.perl.org/users/sergey_kolychev/2017/02/machine-learning-in-perl.html
+* https://code.msdn.microsoft.com/windowsdesktop/Getting-Started-with-34722da0#content
 * http://pdl.perl.org/?docs=FAQ
 * https://automatedinsights.com/customer-stories/associated-press/
 * https://www.slideshare.net/judederick/whitepaper-1-butterfly-effect-and-big-data
