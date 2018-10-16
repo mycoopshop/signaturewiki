@@ -40,3 +40,7 @@ Calderon
 Glenn Robinson III
 Shelvin Mack
 Tony Parker
+
+https://www.si.com/nfl/scoreboard
+https://pro32.ap.org/
+https://usatoday.com/sports/nfl/injuries/
