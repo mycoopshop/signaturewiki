@@ -4,6 +4,7 @@
 * http://blogs.perl.org/users/sergey_kolychev/2017/02/machine-learning-in-perl.html
 * https://code.msdn.microsoft.com/windowsdesktop/Getting-Started-with-34722da0#content
 * http://pdl.perl.org/?docs=FAQ
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3111592/
 * https://automatedinsights.com/customer-stories/associated-press/
 * https://www.slideshare.net/judederick/whitepaper-1-butterfly-effect-and-big-data
 * https://gigazine.net/gsc_news/en/20180420-machine-learning-predict-chaos/
