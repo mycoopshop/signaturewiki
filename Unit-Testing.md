@@ -624,6 +624,22 @@ expect() defines the number of assertions we should be triggered once start() is
 
 
 
+## Jest
+
+* https://stackoverflow.com/questions/49886244/how-to-test-class-constructor-in-jest
+
+* https://stackoverflow.com/questions/29975815/react-unit-test-with-jest-in-es6
+
+* http://www.hackingwithreact.com/read/1/32/how-to-configure-jest-to-test-react-and-es6
+
+* https://stackoverflow.com/questions/49656706/test-es6-modules-with-jest
+
+* http://www.kevinfodness.com/using-jest-to-validate-json-data-shape
+
+* https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
+
+* http://www.softwareishard.com/blog/testing/modern-react-component-testing-with-create-react-app-jest-and-enzyme/#more-1181
+
 **References**
 
 * https://sites.google.com/site/unclebobconsultingllc/ant-jspc-and-other-horrors
@@ -638,10 +654,6 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://medium.com/@skidding/testing-react-components-30516bc6a1b3
 
 * https://dev.to/elaziziyoussouf/tools-you-need-to-use-in-your-react-components-development--13a7
-
-* https://blog.benestudio.co/test-driven-react-js-development-react-js-unit-testing-with-enzyme-and-jest-366190741169
-
-* http://www.softwareishard.com/blog/testing/modern-react-component-testing-with-create-react-app-jest-and-enzyme/#more-1181
 
 * https://github.com/jasmine/jasmine/issues/1430
 
