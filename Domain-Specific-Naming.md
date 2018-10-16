@@ -11,3 +11,5 @@
 * http://www.jsoniq.org/docs/JSONiq-usecases/html-single/index.html
 
 * https://github.com/hhvm/xhp-lib
+
+* https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/utils/package.html
