@@ -388,11 +388,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
+* https://www.salesforce.com/blog/2014/07/3-steps-to-turn-your-faqs-into-valuable-knowledge-base-articles.html
 
-## Communities
+## Community
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/blogs/2018/06/integrate-external-content-into-communities-using-cms-connect-json.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
+* https://www.salesforce.com/products/community-cloud/features/templates/
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
