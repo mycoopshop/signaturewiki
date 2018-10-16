@@ -643,6 +643,8 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 
 * http://www.softwareishard.com/blog/testing/modern-react-component-testing-with-create-react-app-jest-and-enzyme/#more-1181
 
+* https://github.com/jasmine/jasmine/issues/1430
+
 * https://codeburst.io/revisiting-node-js-testing-part-1-84c33bb4d711
 
 * https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12
