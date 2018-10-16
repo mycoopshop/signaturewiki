@@ -92,6 +92,7 @@
 
 * https://violentmonkey.github.io
 * https://github.com/chrispederick/web-developer
+* https://adblockplus.org/en/contribute
 
 ## Authentication
 
