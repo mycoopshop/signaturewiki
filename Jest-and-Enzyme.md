@@ -5,3 +5,4 @@
 1. https://airbnb.io/enzyme/docs/api/ShallowWrapper/contains.html
 1. https://github.com/airbnb/enzyme/issues/1683
 1. https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/
+1. https://github.com/mobxjs/mobx-react/blob/master/test/propTypes.test.js
