@@ -11,3 +11,5 @@
 * http://learnvimscriptthehardway.stevelosh.com/
 * https://github.com/neovim/neovim/blob/master/runtime/doc/api.txt
 * https://lamsh.github.io/slide/2017/20171104_VimConf2017/index.html
+* https://blog.codepen.io/2014/02/21/vim-key-bindings/
+
