@@ -33,6 +33,9 @@
 # Review Bias
 * https://www.schneier.com/blog/archives/2018/02/harassment_by_p.html
 
+# Obscure Bias
+* https://www.upi.com/Odd_News/2018/10/01/Machine-uses-intricate-chain-reaction-to-dispense-lemonade/9171538418382/
+
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
 * https://en.wikipedia.org/wiki/Gaston_Means
