@@ -14,3 +14,5 @@
 1. https://discuss.reactjs.org/t/historic-reasons-behind-setstate-not-being-immediately-visible/8487
 1. https://discuss.reactjs.org/t/should-we-drop-immutable-records-for-flow/12122
 1. https://discuss.reactjs.org/t/constructor-props-and-super-props-vs-constructor-and-super/9036
+1. http://slides.com/johnlynch/reactjs#/28
+1. http://www.rigelgroupllc.com/blog/2014/01/04/reactjs-roundup/
