@@ -6,6 +6,13 @@
 * https://www.w3.org/People/howcome/
 * https://www.w3.org/People/Bos/
 
+## Standard Libraries
+
+* CoreJS: https://github.com/zloirock/core-js
+* XSLTSL: http://xsltsl.sourceforge.net/
+* ClassNames: http://jedwatson.github.io/classnames/
+* XHTML2: https://www.w3.org/TR/xhtml2/
+
 ## Adoption Rates
 
 * https://w3techs.com/technologies/details/ce-http2/all/all
