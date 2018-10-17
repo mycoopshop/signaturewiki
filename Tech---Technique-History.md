@@ -2,6 +2,8 @@ achsah keturah kezia jael
 
 https://techbridgegirls.org/index.php?id=231
 
+https://en.wikipedia.org/wiki/Etymology_of_California
+
 https://en.wikipedia.org/wiki/Elisheba
 
 https://en.wikipedia.org/wiki/Keturah
