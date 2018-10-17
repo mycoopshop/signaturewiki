@@ -2,6 +2,8 @@ Add your subdomain to the Origin Request header, e.g. foo.bar.com
 Add the Access-Control-Allow-Origin Response header with your localhost value, e.g. localhost:9999
 Add the Access-Control-Allow-Credentials Response header with a value of `true`
 
+1. https://help.crossbrowsertesting.com/faqs/testing/invalid-host-header-error/
+1. https://medium.com/@BillFienberg/tunnels-and-proxies-and-headers-oh-my-5088e1ee11fa
 1. https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-http.html
 1. https://developer.tizen.org/development/guides/web-application/w3chtml5supplementary-features/security/cross-origin-resource-sharing
 1. https://w3c.github.io/webappsec-cors-for-developers/
