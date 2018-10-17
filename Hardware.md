@@ -18,3 +18,7 @@ Antennae
 
 1. https://www.fcc.gov/media/engineering/dtvmaps
 1. https://nocable.org/compare-long-range-outdoor-antenna-reviews
+
+Mower
+
+1. https://thewirecutter.com/reviews/best-reel-mower/
