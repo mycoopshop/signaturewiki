@@ -41,3 +41,10 @@ https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=33178
 http://www.dtic.mil/dtic/tr/fulltext/u2/a480069.pdf
 
 https://share-ng.sandia.gov/news/resources/releases/2006/images/wireless-fingerprinting.pdf
+
+https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/22920-dhcp-ser.html
+
+https://www.debian.org/doc/manuals/debian-reference/ch05
+
+http://www.ni.com/white-paper/12558/en/
+
