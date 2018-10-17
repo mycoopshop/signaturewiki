@@ -13,3 +13,9 @@ http://sawja.inria.fr/
 https://github.com/HaxeCheckstyle/haxe-checkstyle
 http://erlang.org/doc/man/dialyzer.html
 https://structurizr.com/
+https://hal.inria.fr/tel-01102401/document
+https://hal.inria.fr/hal-00643075/document
+https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009xZ3WEAU
+https://www.darkreading.com/vulnerabilities---threats/why-its-insane-to-trust-static-analysis/a/d-id/1322274
+https://blog.parasoft.com/false-positives-in-static-code-analysis
+https://mrjoelkemp.com/2014/06/js-auto-generate-grunt-tasks-using-static-analysis/
