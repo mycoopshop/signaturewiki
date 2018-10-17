@@ -1,0 +1,15 @@
+https://github.com/webpack/docs/wiki/Motivation
+https://www.owasp.org/index.php/Source_Code_Analysis_Tools
+https://www.nasa.gov/sites/default/files/ivv_markle_use_xlst_static_code_analysis_090114.pdf
+https://wiki.haskell.org/The_JavaScript_Problem
+https://github.com/cyrus-and/comb
+http://www.vbdepend.com/
+https://github.com/cflint/CFLint
+https://hal.inria.fr/tel-01673074/document
+http://www.aosabook.org/en/500L/static-analysis.html
+https://ndmitchell.com/downloads/slides-static_analysis_of_haskell-11_jul_2017.pdf
+https://www.shellcheck.net/
+http://sawja.inria.fr/
+https://github.com/HaxeCheckstyle/haxe-checkstyle
+http://erlang.org/doc/man/dialyzer.html
+https://structurizr.com/
