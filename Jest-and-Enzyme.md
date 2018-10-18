@@ -16,3 +16,4 @@
 1. https://discuss.reactjs.org/t/constructor-props-and-super-props-vs-constructor-and-super/9036
 1. http://slides.com/johnlynch/reactjs#/28
 1. http://www.rigelgroupllc.com/blog/2014/01/04/reactjs-roundup/
+1. https://stackoverflow.com/questions/39067004/monkey-patching-react-components
