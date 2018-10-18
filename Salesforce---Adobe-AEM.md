@@ -803,7 +803,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://salesforce.stackexchange.com/questions/187314/
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_username_password_flow.htm&type=5
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_device_flow.htm&type=5
-* https://help.salesforce.com/articleView?id=connected_app_continuous_ip.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2011/11/revoking-oauth-2-0-access-tokens-and-refresh-tokens.html
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_einstein_platform_services_refresh_token.htm
 
@@ -983,6 +982,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Enterprise_Describe_SObject
 * https://developer.salesforce.com/page/Enterprise_Query_More
 * https://developer.salesforce.com/page/Enterprise_Query
+
+## Connected Apps
+* https://help.salesforce.com/articleView?id=connected_app_continuous_ip.htm&type=5
+* https://kb.builtwith.com/category/salesforce/
 
 ## Authentication
 * https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
