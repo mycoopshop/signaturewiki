@@ -48,3 +48,10 @@ https://www.debian.org/doc/manuals/debian-reference/ch05
 
 http://www.ni.com/white-paper/12558/en/
 
+https://superuser.com/questions/876301/cascading-routers-lan-to-wan-and-dns
+
+https://superuser.com/questions/978667/static-dns-when-connected-to-vpn-loses-internet-connection 
+
+https://superuser.com/questions/1288878/dns-server-unreachable-from-one-client
+
+eventvwr.msc
