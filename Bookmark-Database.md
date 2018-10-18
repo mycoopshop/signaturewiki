@@ -40,3 +40,5 @@ https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/
 https://jeffhandley.com/2018-09-13/graphql-is-not-odata
 https://www.algoworks.com/blog/develop-salesforce-visualforce-apps-using-angularjs/
 https://twitter.com/search?q=%23visualforce
+http://blogs.adobe.com/techcomm/2017/11/xslt-support-in-framemaker-2017.html
+https://www.le-tex.de/en/thissite.html
