@@ -26,6 +26,12 @@
 * http://www.esd.whs.mil/Portals/54/NARA%20Social%20Media%20Capture.pdf
 * http://www.dla.mil/Portals/104/Documents/LandAndMaritime/V/VA/PSMC/Spring%2017/LM_SWISS%20-%20What%20do%20you%20Hire%20A%20Standard%20to%20do_Spring%202017%20PSMC170526.pdf
 
+# Generational Bias
+* https://tinyurl.com/ycufg2ks
+* https://www.builderonline.com/builder-100/analysis-why-lennars-looking-to-sell-rialto_o
+* http://www.crenews.com/top_stories_-_free/top_stories_subscriber/lennar-formally-puts-rialto-capital-management-on-sales-block.html
+* https://www.mba.org/cmf-newslinks/2018/october/mba-cmf-newslink-10-11-18/top-national-news/lennar-is-in-advanced-talks-to-sell-its-real-estate-lending-unit-rialto-capital
+
 # Holiday Bias
 * https://www.androidcentral.com/hq-words
 * https://www.apnews.com/d2314076a19c4e75aae3fead547abdea/Hall-of-Fame-members-threaten-boycott-of-inductions
