@@ -54,4 +54,6 @@ https://superuser.com/questions/978667/static-dns-when-connected-to-vpn-loses-in
 
 https://superuser.com/questions/1288878/dns-server-unreachable-from-one-client
 
+https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn800669(v=ws.11)
+
 eventvwr.msc
