@@ -8,6 +8,8 @@ wiki:yes deleted:1
 
 title:default site:discuss.reactjs.org
 
++contest +win +poem +prize +grand
+
 "style-loader css-loader" "webpack.config.js" "index.js" -chrome -less -worker -scss -sass -postcss -angular site:github.com example boostrap
 
 humorous visual financial education
