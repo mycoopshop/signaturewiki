@@ -1,4 +1,5 @@
 * https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities
+* http://www.dtic.mil/dtic/tr/fulltext/u2/1021683.pdf
 * https://developer.android.com/docs/quality-guidelines/core-app-quality
 * https://developer.android.com/guide/components/intents-filters#Types
 * https://developer.android.com/training/articles/security-tips#DynamicCode
