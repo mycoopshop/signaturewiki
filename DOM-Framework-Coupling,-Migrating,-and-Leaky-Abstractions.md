@@ -58,6 +58,15 @@
 * https://github.com/facebook/react/issues/10420
 * https://msdn.microsoft.com/en-us/library/bg142799
 
+## Vendor Specific Components
+https://blogs.msdn.microsoft.com/partnercatalystteam/2015/06/19/optimizing-ember-and-ember-cli-on-windows/
+https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1
+https://engineering.linkedin.com/blog/2017/06/glimmer--blazing-fast-rendering-for-ember-js--part-2
+https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience
+https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs
+https://engineering.salesforce.com/software-is-about-people-cf5b813e0f67
+https://blog.heroku.com/future-of-emberjs
+
 ## Canvas Abstractions
 
 ## Vendor Specific CSS
