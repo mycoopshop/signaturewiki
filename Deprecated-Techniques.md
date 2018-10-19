@@ -112,10 +112,18 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://docs.oracle.com/cd/E18727_01/doc.121/e13575/T349071T350719.htm
 
 ## IDE
+* https://projects.eclipse.org/projects/technology
+* https://wiki.eclipse.org/Eclipse_Corner
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=528725
 * https://www.mankier.com/1/ecj
 * http://blog.deepakazad.com/2010/05/ecj-eclipse-java-compiler.html
+* https://wiki.eclipse.org/EclipseLink/UserGuide/JPA/Basic_JPA_Development/Querying/JPQL
 * https://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.user/tasks/task-using_batch_compiler.htm
+* https://www.eclipse.org/swt/snippets/
+* https://wiki.eclipse.org/EGit/User_Guide
+* https://wiki.eclipse.org/Evolving_Java-based_APIs
+* https://wiki.eclipse.org/Eclipse_Doc_Style_Guide
+* http://rdf4j.eclipse.org/
 
 ## Build Automation
 * https://www.mkyong.com/ant/ant-spring-mvc-and-war-file-example/
@@ -196,6 +204,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * Tools Reference: https://docs.oracle.com/javase/10/tools/JSWOR.pdf
 * Migration Guide: http://www.oracle.com/technetwork/java/javase/community/jm-white-paper-r6a-149981.pdf
 * Enhancements: https://docs.oracle.com/javase/7/docs/technotes/guides/lang/index.html
+* Semantics: http://www.eclipse.org/community/eclipse_newsletter/2016/november/article3.php
+* Standards: https://wiki.eclipse.org/Authoring_Eclipse_Help_Using_DITA
 
 ## Testing
 
