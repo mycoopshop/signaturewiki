@@ -1,3 +1,4 @@
+* https://developer.yahoo.com/oauth2/guide/flows_authcode/
 * https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm
 * https://www.oreilly.com/library/view/identity-and-data/9781491937006/ch04.html
 * https://tools.ietf.org/id/draft-ietf-oauth-security-topics-05.html
