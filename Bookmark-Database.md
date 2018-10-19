@@ -42,3 +42,4 @@ https://www.algoworks.com/blog/develop-salesforce-visualforce-apps-using-angular
 https://twitter.com/search?q=%23visualforce
 http://blogs.adobe.com/techcomm/2017/11/xslt-support-in-framemaker-2017.html
 https://www.le-tex.de/en/thissite.html
+http://www.dtic.mil/dtic/tr/fulltext/u2/a326493.pdf
