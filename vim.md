@@ -1,5 +1,8 @@
 * https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
 * https://vimconfig.com/
+* http://vimdoc.sourceforge.net/htmldoc/usr_41.html#script
+* https://www.reddit.com/r/vim/wiki/vimrctips
+* https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language
 * https://github.com/jonathanslenders/pyvim
 * https://pmihaylov.com/tmux-terminal-multiplexer/
 * https://www.systutorials.com/1419/vim-formatting-cc-code/
