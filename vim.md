@@ -3,6 +3,10 @@
 * http://vimdoc.sourceforge.net/htmldoc/usr_41.html#script
 * https://www.reddit.com/r/vim/wiki/vimrctips
 * https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language
+* https://blog.semanticart.com/2017/01/05/lets-write-a-basic-vim-plugin/
+* https://www.slideshare.net/ZendCon/vim-for-php-programmers-presentation
+* https://www.vim.org/scripts/script.php?script_id=4454
+* http://www.snowfrog.net/2009/01/08/vim-modelines/
 * https://github.com/jonathanslenders/pyvim
 * https://pmihaylov.com/tmux-terminal-multiplexer/
 * https://www.systutorials.com/1419/vim-formatting-cc-code/
