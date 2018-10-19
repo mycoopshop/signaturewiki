@@ -116,6 +116,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://wiki.eclipse.org/Eclipse_Corner
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=528725
 * https://www.mankier.com/1/ecj
+* http://www.eclipse.org/mylyn/
 * http://blog.deepakazad.com/2010/05/ecj-eclipse-java-compiler.html
 * https://wiki.eclipse.org/EclipseLink/UserGuide/JPA/Basic_JPA_Development/Querying/JPQL
 * https://help.eclipse.org/neon/topic/org.eclipse.jdt.doc.user/tasks/task-using_batch_compiler.htm
