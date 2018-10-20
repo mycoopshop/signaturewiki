@@ -23,3 +23,13 @@ http://www.ijbssnet.com/journals/Vol._1_No._3_December_2010/22.pdf
 http://www.ifes.org/sites/default/files/seher_a_new_dawn_breaks_oct_2016.pdf
 http://uselesstree.typepad.com/useless_tree/2008/10/the-tao-of-debt.html
 https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1254&context=soss_research
+https://theorthodoxlife.wordpress.com/2014/01/27/the-lord-of-quantum-mechanics-and-teleportation/
+https://medium.com/sant-mat-meditation-and-spirituality/evidence-that-jesus-and-the-original-aramaic-christians-were-vegetarians-b8784ac42506
+https://www.forbes.com/sites/startswithabang/2018/02/13/chaos-theory-the-butterfly-effect-and-the-computer-glitch-that-started-it-all/
+https://plato.stanford.edu/entries/chaos/
+https://fs.blog/2017/08/the-butterfly-effect/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2446457/
+http://mpe.dimacs.rutgers.edu/2013/03/17/chaos-in-an-atmosphere-hanging-on-a-wall/
+https://curiosity.com/topics/the-butterfly-effect-is-why-its-impossible-to-predict-the-weather-curiosity/
+https://history.aip.org/climate/chaos.htm
+https://www.popsci.com/is-climate-too-complex-to-model-or-predict
