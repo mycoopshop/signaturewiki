@@ -40,6 +40,7 @@
 * https://tools.ietf.org/html/rfc7231
 * https://tools.ietf.org/html/rfc7903
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+https://trends.builtwith.com/docinfo/Purl
 https://caniuse.com/#feat=css-containment
 https://caniuse.com/#feat=css-read-only-write
 https://caniuse.com/#feat=css-reflections
