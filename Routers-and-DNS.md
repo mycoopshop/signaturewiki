@@ -56,4 +56,10 @@ https://superuser.com/questions/1288878/dns-server-unreachable-from-one-client
 
 https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn800669(v=ws.11)
 
+https://technet.microsoft.com/pt-pt/library/cc772774(v=ws.10).aspx
+
+https://tools.ietf.org/html/rfc1034
+
+
 eventvwr.msc
+
