@@ -334,3 +334,4 @@ When I look through the PouchDB source code, this enormous accomplishment still 
 * https://svn.apache.org/repos/asf/couchdb/trunk/
 * https://medium.com/@ensby/a-possible-couchdb-application-ecosystem-e39ac4397cea
 * https://apigee.com/about/blog/technology/nosql-noproblem-mapping-your-sql-thinking-nosql
+* http://docs.couchdb.org/en/stable/replication/conflicts.html
