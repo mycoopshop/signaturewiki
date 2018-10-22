@@ -1,5 +1,6 @@
 ## Authors
 
+* https://ericlawrence.com/eric/
 * https://homepages.cwi.nl/~steven/
 * https://dbaron.org
 * https://florian.rivoal.net
