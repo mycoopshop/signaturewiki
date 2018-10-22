@@ -17,3 +17,9 @@ https://leanpub.com/gradle-goodness-notebook/read
 https://vertx.io/blog/tcp-client-using-eclipse-vert-x-kotlin-and-gradle-build/
 
 http://www.alexmedearis.com/junit-mockito-powermock-eclipse/
+
+http://eguides.sprint.com/support/eguides/samsunggalaxys8s8plus/content/samsung_galaxy_s8_s8_plus_ug/transfer_files_between_your_phone_and_a_computer.html
+
+https://www.android.com/results/?q=transfer
+
+https://support.google.com/android/answer/9064445?hl=en
