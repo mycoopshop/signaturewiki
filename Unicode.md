@@ -1,3 +1,5 @@
+https://www.w3.org/International/articles/definitions-characters/
+
 https://en.wikipedia.org/wiki/Unicode_equivalence
 
 https://www.w3.org/International/questions/qa-html-encoding-declarations
@@ -15,3 +17,11 @@ https://news.ycombinator.com/item?id=12041562
 https://help.salesforce.com/articleView?id=000003837&type=1
 
 https://dzone.com/articles/the-programmers-way-to-convert-excel-to-csv
+
+https://www.w3.org/TR/xml-entity-names/bycodes.html
+
+https://www.w3.org/TR/xml-entity-names/026.html
+
+https://www.w3.org/TR/charmod-norm/
+
+https://www.w3.org/International/articles/unicode-migration/
