@@ -33,6 +33,9 @@
 * https://www.mba.org/cmf-newslinks/2018/october/mba-cmf-newslink-10-11-18/top-national-news/lennar-is-in-advanced-talks-to-sell-its-real-estate-lending-unit-rialto-capital
 * https://www.reed.edu/slx-artifacts/
 
+# Gamification
+* https://scratch.mit.edu/projects/202338438/#editor
+
 # Holiday Bias
 * https://www.androidcentral.com/hq-words
 * https://www.apnews.com/d2314076a19c4e75aae3fead547abdea/Hall-of-Fame-members-threaten-boycott-of-inductions
