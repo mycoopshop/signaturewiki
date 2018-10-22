@@ -79,14 +79,14 @@ Reset the local branch HEAD to the remote branch HEAD
     git reset --hard FETCH_HEAD
  
 
-Cherry pick
+## Cherry pick
 Create branch called misc/foo
 
     git fetch # sync to remote
     git checkout misc/foo # change branches
     git cherry-pick 533c2093200 #merge; Run git status, resolve conflicts, Run git add, then commit and push
 
-Log Search
+## Log Search
 
     git log --since 2017-08-06 --remotes='*' --author=Sweatte*
 
@@ -152,8 +152,14 @@ Resolve the conflicts again
     git commit
     git push
  
+## Ours Merge Strategies
 
-Revert Local Git Changes
+For starters, git merge -s ours xyz is not the same as git merge -X ours xyz. The first uses merge strategy called “ours”, and the second uses default ‘recursive’ merge strategy, but with “ours” option. Creating two entities named “ours” that do similar, but subtly different things is the epitome of  bad interface design.
+
+The “-s” variant creates a commit that merges current branch and “xyz”, but ignores all changes from xyz, so the resulting content would be identical to the current branch. This is useful for getting rid of unwanted branches when force-pushes and deletes are disabled. The “-X” variant only ignores changes from xyz that cause a conflict. Changes from xyz that do not cause a conflict will be included in the end result.
+
+## Revert Local Git Changes
+
 To fix an invalid commit message(no iTrack, no whitespace, etc), do the following:
 
   git commit --amend
@@ -352,3 +358,11 @@ https://mirrors.edge.kernel.org/pub/software/scm/git/docs/technical/api-index.ht
 https://libgit2.org/libgit2/
 
 https://help.github.com/articles/error-permission-denied-publickey/
+
+https://coderwall.com/p/ovjobq/git-merge-strategy-if-you-have-a-conflict
+
+https://ikriv.com/blog/?p=2419
+
+https://verboselogging.com/2010/06/25/copy-merge-with-git
+
+https://blog.tankywoo.com/2014/05/20/git-merge-strategy-ours-and-theirs.html
