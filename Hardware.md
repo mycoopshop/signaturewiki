@@ -14,6 +14,12 @@ RFID
 1. https://www.pretzellogix.net/2015/08/15/the-best-bluetooth-rfid-finder-for-iphone-android-smartphone/
 1. http://eie.uonbi.ac.ke/sites/default/files/cae/engineering/eie/INTELLIGENT%20KEY%20FINDER.pdf
 
+RJ45
+1. https://en.wikipedia.org/wiki/HomePlug
+1. https://lifehacker.com/how-to-wire-your-house-with-cat5-or-cat6-ethernet-cable-480020760
+1. https://www.wikihow.com/Install-an-Ethernet-Jack-in-a-Wall
+1. https://diy.stackexchange.com/questions/7270/how-do-i-run-ethernet-cable-through-a-wall-cavity
+
 Antennae
 
 1. https://www.fcc.gov/media/engineering/dtvmaps
