@@ -2,6 +2,10 @@
 1. https://tools.ietf.org/html/rfc4949
 1. https://www.bmc.com/blogs/itsm-or-itil-that-isnt-the-question/
 1. https://it.toolbox.com/blogs/erpdesk/etl-made-easy-with-erp-093015
+1. https://www.axelos.com/corporate/media/files/glossaries/itil_2011_glossary_gb-v1-0.pdf
+1. https://www.alaska.edu/files/oit/ITIL_2011_English_glossary_v1.0.pdf
+1. http://itil.it.utah.edu/downloads/ITIL_Glossary_May_v2_2007.pdf
+1. https://www.foxit.com/glossary/
 1. https://www.radicore.org/glossary.php
 1. https://documentation.cpanel.net/display/CKB/cPanel+Glossary#cPanelGlossary-D
 1. https://smc-python.readthedocs.io/en/latest/pages/reference.htmlhttps://smc-python.readthedocs.io/en/latest/pages/reference.html
