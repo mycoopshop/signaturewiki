@@ -31,6 +31,7 @@
 * https://www.builderonline.com/builder-100/analysis-why-lennars-looking-to-sell-rialto_o
 * http://www.crenews.com/top_stories_-_free/top_stories_subscriber/lennar-formally-puts-rialto-capital-management-on-sales-block.html
 * https://www.mba.org/cmf-newslinks/2018/october/mba-cmf-newslink-10-11-18/top-national-news/lennar-is-in-advanced-talks-to-sell-its-real-estate-lending-unit-rialto-capital
+* https://www.reed.edu/slx-artifacts/
 
 # Holiday Bias
 * https://www.androidcentral.com/hq-words
