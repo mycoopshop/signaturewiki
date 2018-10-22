@@ -19,6 +19,9 @@ RJ45
 1. https://lifehacker.com/how-to-wire-your-house-with-cat5-or-cat6-ethernet-cable-480020760
 1. https://www.wikihow.com/Install-an-Ethernet-Jack-in-a-Wall
 1. https://diy.stackexchange.com/questions/7270/how-do-i-run-ethernet-cable-through-a-wall-cavity
+1. http://www.siemon.com/us/white_papers/97-10-02-presentation.asp
+1. https://en.wikipedia.org/wiki/Structured_cabling#Standards
+
 
 Antennae
 
