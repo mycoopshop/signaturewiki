@@ -785,6 +785,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Chatter
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_collab_emojis.htm
 * https://admin.salesforce.com/5-ways-you-can-use-emoji-to-delight-your-users-and-drive-adoption
+* https://help.salesforce.com/articleView?id=collab_group_layout_customize.htm&type=5
+
+## Content Deliveries
+* https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
 
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
