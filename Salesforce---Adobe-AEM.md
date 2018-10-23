@@ -125,8 +125,9 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm?search_text=valueof
 * https://help.salesforce.com/articleView?id=faq_apex_classes_triggers.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
-
+* https://help.salesforce.com/articleView?id=000005995&language=en_US&type=1 (Record ID Prefixes)
 **Defects**
+* https://success.salesforce.com/issues_view?id=a1p30000000T0tvAAC&title=when-performing-several-soql-queries-from-different-apex-classes-no-such-column-lastvieweddate-on-entity-entity-name-is-thrown
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
 * https://success.salesforce.com/issues_view?id=a1p3A000000mCHfQAM
@@ -372,6 +373,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://aws.amazon.com/blogs/security/tag/salesforce/
 
 ## Marketing Cloud
+* https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
+* https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
 * https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
@@ -779,8 +782,15 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
 * https://quip.com/D0xhA7L33hxy
 
+## Chatter
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_collab_emojis.htm
+* https://admin.salesforce.com/5-ways-you-can-use-emoji-to-delight-your-users-and-drive-adoption
+
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
+
+## Chatbot
+* https://www.salesforce.com/blog/2017/06/improved-chatbot-user-experiences.html
 
 ## Field Validation
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
