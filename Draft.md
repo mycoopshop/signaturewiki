@@ -6,6 +6,16 @@ Oakland
 Philadelphia
 Tennessee
 
+Good Rationale:
+A. Peterson - Needed an RB due to injury to D. Freeman
+L. Blount - Needed a replacement for J. Hill
+N. Foles - Needed a replacement for D. Walker
+T. Yeldon - Greedy
+J. Brown - Upgrade for A. Hurns
+L. Murray - Greedy
+P. Lindsay - Upgrade for L. Blount
+
+
 Jay Ajayi
 Derrick Henry
 Todd Gurley
