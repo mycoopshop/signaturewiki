@@ -335,3 +335,8 @@ When I look through the PouchDB source code, this enormous accomplishment still 
 * https://medium.com/@ensby/a-possible-couchdb-application-ecosystem-e39ac4397cea
 * https://apigee.com/about/blog/technology/nosql-noproblem-mapping-your-sql-thinking-nosql
 * http://docs.couchdb.org/en/stable/replication/conflicts.html
+https://npme.npmjs.com/docs/workflow/whitelisting.html
+https://medium.com/@jotadeveloper/five-use-cases-where-a-npm-private-proxy-fits-in-your-workflow-632a81779c14
+https://www.npmjs.com/package/local-npm
+https://strongloop.com/strongblog/deploy-a-private-npm-registry-without-couchdb-or-redis/
+https://medium.com/engenharia-noalvo/ways-to-have-your-private-npm-registry-and-a-final-diy-solution-eed001a88e74
