@@ -459,6 +459,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
+## Change Set Deployment
+* https://help.salesforce.com/articleView?id=changesets_about_connection.htm&type=5
+* https://help.salesforce.com/articleView?id=changesets_inbound_deploy.htm&type=5
+* https://success.salesforce.com/issues_view?id=a1p3A000000mCaKQAU&title=change-set-validation-deployment-stuck-on-in-progress
+* https://success.salesforce.com/issues_view?id=a1p300000001AHTAA2&title=unable-to-find-list-view-to-add-to-change-set-to-outbound-changesets-if-it-is-a-member-of-a-queue
+* https://help.salesforce.com/articleView?id=changesets_outbound_dependencies.htm&type=5
+* https://help.salesforce.com/articleView?id=Change-Set-Error-Duplicate-case-team-entry-for-case-team-name&language=en_US&type=1
+* https://developer.salesforce.com/forums/?id=906F0000000BaEhIAK
 
 ## IDE
 * https://cloud9-salesforce.readme.io/docs/getting-started
