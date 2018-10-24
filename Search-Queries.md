@@ -6,6 +6,8 @@ wiki:yes deleted:1
 
 +component +util +src +test title:structure +react +images +css +sass
 
+title:camera +openvpn +amazon +raspberry
+
 title:default site:discuss.reactjs.org
 
 +contest +win +poem +prize +grand
