@@ -159,6 +159,7 @@ Excellent verbal and written communication skills
 
 **Certification**
 * https://www.salesforce.com/dreamforce/certification/
+* https://trailhead.salesforce.com/credentials/developeroverview
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
@@ -495,6 +496,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2017/11/mytrailhead-reinventing-trailblazer-learning.html
 
 ## Subcontractor Market
+* https://appexchange.salesforce.com/consulting
+* https://www.salesforce.org/nonprofit/find-partner/
+* https://powerofus.force.com/ProBonoServices
 * https://www.ceptes.com/
 * http://www.provenworks.com/
 * https://www.salesforceben.com/my-trailhead-prediction/
