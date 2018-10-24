@@ -314,6 +314,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.linkedin.com/pulse/salesforce-security-review-my-3x-failure-dave-rasmussen/
 * https://aws.amazon.com/blogs/apn/enabling-amazon-connect-with-salesforce-service-and-sales-cloud/
 * https://trailhead.salesforce.com/modules/
+* https://www.salesforce.com/ap/
 * https://developer.salesforce.com/page/Multi_Tenant_Architecture
 * http://ernestoolivares.com/interactivity/samples/TCOEquinix/docs/SaaS_Delivery_Guidebook_EQX_V1.1_(1).pdf
 * https://www.tsgconsulting.co.uk/AcuCustom/Sitename/DAM/002/Managing_Testing_in_SFE.pdf
