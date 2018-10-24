@@ -27,6 +27,7 @@ The [W3 Word Processor Filters page](http://www.w3.org/Tools/Word_proc_filters.h
 * https://doc-snapshots.qt.io/qtivi/template-syntax.html
 * https://shripadk.github.io/react/docs/jsx-gotchas.html
 * http://blog.vjeux.com/2013/javascript/jsx-e4x-the-good-parts.html
+* https://css-tricks.com/render-children-in-react-using-fragment-or-array-components/
 * https://github.com/facebook/react/issues/11845
 * https://stackoverflow.com/questions/30852751/expected-corresponding-jsx-closing-tag-for-input-reactjs
 * https://stackoverflow.com/questions/26354600/how-do-you-make-react-js-output-valid-xml-instead-of-html
