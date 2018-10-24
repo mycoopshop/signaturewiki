@@ -103,6 +103,7 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/field_service_dev.pdf
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/collaboration_admin.pdf
 
 ## Team Building
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
@@ -731,6 +732,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Salesforce_APIs
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
+* https://wordpress.org/plugins/salesforce-wordpress-to-lead/
 * https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit/
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
 * https://developer.salesforce.com/blogs/developer-relations/2013/03/mashing-up-force-com-apis-with-ql-io-part-1.html
