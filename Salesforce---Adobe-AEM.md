@@ -91,6 +91,7 @@ Excellent verbal and written communication skills
 * https://help.salesforce.com/articleView?id=000001053&type=1
 * https://help.salesforce.com/articleView?id=How-to-Platform-Backup-and-Manage-Salesforce-Data&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000176287&type=3
+* https://www.salesforce.com/blog/2017/03/tools-build-secure-online-presence.html
 
 ## Specifications
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/object_reference.pdf
@@ -170,8 +171,15 @@ Excellent verbal and written communication skills
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://www.salesforce.com/products/marketing-cloud/best-practices/html-email-tips/
+* https://www.salesforce.com/ca/blog/2015/01/mobile-friendly-email.html
+* https://help.salesforce.com/articleView?id=email_my_email_2_sfdc_considerations.htm&type=0
+* https://help.salesforce.com/articleView?id=email_my_email_2_sfdc_guidelines.htm&type=0
+* https://help.salesforce.com/articleView?id=My-email-looks-bad-in-Outlook&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=emailadmin_send_email_from_salesforce_options.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_viewing_emailtemplates.htm&type=5
+* https://help.salesforce.com/articleView?id=code_email_services_editing.htm&type=0
+* https://success.salesforce.com/ideaView?id=087300000007uOSAAY
 * https://help.salesforce.com/articleView?id=000199287&type=1
 * https://help.salesforce.com/articleView?id=000187156&language=en_US&type=1
 * https://developer.salesforce.com/blogs/engineering/2013/04/improving-your-case-management-response-time-with-sms.html
@@ -500,6 +508,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://appexchange.salesforce.com/consulting
 * https://www.salesforce.org/nonprofit/find-partner/
 * https://powerofus.force.com/ProBonoServices
+* https://success.salesforce.com/answers?id=90630000000h1bhAAA
 * https://www.ceptes.com/
 * http://www.provenworks.com/
 * https://www.salesforceben.com/my-trailhead-prediction/
@@ -799,6 +808,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
 * https://help.salesforce.com/articleView?id=admin_files_connect_google_auth.htm&type=5
 * https://support.salesforce.com/articleView?id=admin_files_connect_search.htm&type=0
+* https://developer.salesforce.com/forums/?id=906F00000008z1rIAA
+* https://help.salesforce.com/articleView?id=lightning_for_gmail_user_overview.htm&type=0
+* https://www.salesforce.com/hub/service/gmail-for-small-businesses/
+* https://help.salesforce.com/articleView?id=Which-Email-Setup-is-Best-for-My-Org&type=1
+* https://www.salesforce.com/blog/2014/10/gmail-moves-to-2-in-email-client-market-share.html
+* https://help.salesforce.com/articleView?id=Salesforce-Outbound-Emails-Impacted-by-Google-DMARC-Policy-Adoption&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=emailadmin_send_through_salesforce_setup.htm&type=5
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003JuTlEAK
 
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
@@ -852,6 +869,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
 ## Configuration
+* https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000007225&type=1
 * https://help.salesforce.com/articleView?id=users_licenses_overview.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_sessions.htm&type=5
