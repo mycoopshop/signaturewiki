@@ -787,8 +787,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://admin.salesforce.com/5-ways-you-can-use-emoji-to-delight-your-users-and-drive-adoption
 * https://help.salesforce.com/articleView?id=collab_group_layout_customize.htm&type=5
 
-## Content Deliveries
+## Content Deliveries / Google Suite
 * https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
+* https://help.salesforce.com/articleView?id=admin_files_connect_google_auth.htm&type=5
 
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
