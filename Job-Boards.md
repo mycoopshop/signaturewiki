@@ -108,4 +108,6 @@ https://www.import.io/post/analysts-scientists-and-engineers-who-does-what-in-da
 
 https://www.analyticsvidhya.com/blog/2015/12/job-roles-data-science-industry-who-what/
 
+https://www.salesforce.com/blog/2017/01/resume-strategies-senior-level-jobs.html
+
 https://searchbusinessanalytics.techtarget.com/news/450421696/Data-analytics-tool-for-data-scientists-goes-beyond-BI-visualization
