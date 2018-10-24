@@ -32,3 +32,10 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://dev.to/andrewusher17/react-164-experimental-profiler-what-is-it-4nfe
 1. https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html
 1. https://css-tricks.com/render-children-in-react-using-fragment-or-array-components/
+
+## Mobx
+1. https://github.com/mobxjs/mobx/blob/master/src/api/when.ts
+1. https://github.com/mobxjs/mobx/blob/master/src/utils/utils.ts
+1. https://github.com/mobxjs/mobx/blob/master/test/base/intercept.js
+1. https://github.com/mobxjs/mobx/blob/master/test/base/map.js
+1. https://medium.com/@mweststrate/mobx-2-2-explicit-actions-controlled-mutations-and-improved-dx-45cdc73c7c8d
