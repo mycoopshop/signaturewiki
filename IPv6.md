@@ -1,4 +1,11 @@
 * https://test-ipv6.comcast.net
+* https://www.internetsociety.org/blog/2012/04/comcast-rolling-out-home-gateway-support-for-ipv6-and-nothings-controversial-about-a-64/
+* https://cromwell-intl.com/open-source/ipv6-comcast-surfboard.html
+* https://idndx.com/2016/07/20/routeros-meets-comcast-ipv6/
+* https://www.phildev.net/phil/blog/?p=308
+* https://networkengineering.stackexchange.com/questions/50747/slow-performance-with-cisco-comcast-business-router-with-static-ip-address
+* http://ipvsix.me/?tag=comcast
+* https://techielibrarians.com/index.php/2017/06/08/native-ipv6-with-comcast-business-and-pfsense-2-3/
 * https://medium.com/a-data-driven-guy/why-ipv6-matters-mobile-performance-4f9cab673dad
 * https://medium.com/@richardoosterhof/optimize-php-and-mysql-for-ipv6-daab664962e2
 * https://medium.com/google-cloud/connecting-to-google-cloud-sql-using-ipv6-f854f064489e
