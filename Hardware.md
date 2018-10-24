@@ -22,6 +22,12 @@ RJ45
 1. http://www.siemon.com/us/white_papers/97-10-02-presentation.asp
 1. https://en.wikipedia.org/wiki/Structured_cabling#Standards
 
+IP Camera
+https://www.codingepiphany.com/2015/02/10/easy-secure-home-ip-camera-access-with-your-own-vpn/
+https://www.privacydusk.com/other-privacy/review-spy-camera-watch-flylink-hd-1080p/
+https://www.reddit.com/r/PFSENSE/comments/7mo03i/finally_moved_ip_cameras_to_restricted_vlan_and/
+https://www.vueville.com/blog/how-we-built-our-diy-home-security-camera-system/
+https://dzone.com/articles/easyiot-cloud-and-camera
 
 Antennae
 
