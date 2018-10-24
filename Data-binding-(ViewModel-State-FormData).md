@@ -70,6 +70,14 @@ In React, this is also achieved by composition, where a more “specific” comp
 
 * https://discuss.reactjs.org/t/controlling-checked-state-for-a-form-checkbox/11482
 
+* https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+
+* https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/
+ 
+* https://github.com/facebook/react/issues/955
+
+* https://stackoverflow.com/questions/30677134/react-keyboard-events-not-firing
+
 * https://reactjs.org/docs/dom-elements.html
 
 * [Angular 1.5 $Filter and $CacheFactory](https://www.youtube.com/watch?v=YMReoK4h1qA)
