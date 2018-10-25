@@ -16,6 +16,11 @@
 1. WPAD
 1. XML Processing Instruction
 
+## Simplest Specification
+Hypertext Application Language (HAL) 
+* http://stateless.co/hal_specification.html
+* https://www.slideshare.net/kiphampton/magpie-13369038
+
 ## Simplest Domain Specific Language (DSL)
 
 <pre>
