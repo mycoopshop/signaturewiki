@@ -14,6 +14,7 @@ https://mobx.js.org/refguide/autorun.html
 https://github.com/mobxjs/mobx/issues/300
 https://github.com/mobxjs/mobx-react-todomvc
 https://github.com/ryanatkn/react-mobx-typescript-experiments
+https://libraries.io/github/mobxjs/mobx-react
 https://codepen.io/evgen/pen/NgpVMw
 
 
