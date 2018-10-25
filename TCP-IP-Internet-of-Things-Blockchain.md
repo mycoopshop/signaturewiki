@@ -1,3 +1,7 @@
+## Use Cases for Raspberry Pi / Arduino
+* https://bsmulders.com/2017/06/serverless-iot/
+* https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/
+
 ## Protocols
 * https://tools.ietf.org/html/rfc7228
 * https://rcpmag.com/articles/2017/04/01/why-iot-sucks.aspx
