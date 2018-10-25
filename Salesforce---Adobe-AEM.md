@@ -55,6 +55,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/page/Cheat_Sheets
 * https://developer.salesforce.com/page/Wiki
 * http://developer.force.com/codeshare/
+* https://developer.secure.force.com/cookbook/
 * https://developer.salesforce.com/page/Packaging
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Separation_of_Concerns
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
