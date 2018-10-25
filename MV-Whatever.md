@@ -13,5 +13,7 @@ https://swizec.com/blog/awkward-thing-mobx-complex-models/swizec/7260
 https://mobx.js.org/refguide/autorun.html
 https://github.com/mobxjs/mobx/issues/300
 https://github.com/mobxjs/mobx-react-todomvc
+https://github.com/ryanatkn/react-mobx-typescript-experiments
+https://codepen.io/evgen/pen/NgpVMw
 
 
