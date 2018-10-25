@@ -19,3 +19,4 @@ https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009xZ3WEAU
 https://www.darkreading.com/vulnerabilities---threats/why-its-insane-to-trust-static-analysis/a/d-id/1322274
 https://blog.parasoft.com/false-positives-in-static-code-analysis
 https://mrjoelkemp.com/2014/06/js-auto-generate-grunt-tasks-using-static-analysis/
+https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33
