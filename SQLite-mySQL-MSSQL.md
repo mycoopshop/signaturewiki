@@ -19,6 +19,7 @@ SQLite
 * https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite/
 * https://pythonspot.com/sqlite-database-with-pandas/
 
+
 MySQL
 * https://jugad2.blogspot.com/2014/03/database-to-json-in-python.html
 * https://www.ibm.com/developerworks/library/ws-simplelogin/
@@ -35,3 +36,7 @@ MSSQL
 * https://www.sqlskills.com/blogs/erin/sql-server-maintenance-plans-and-parallelism-index-rebuild/
 * https://sqlperformance.com/2013/08/t-sql-queries/parallel-select-into
 * https://www.red-gate.com/simple-talk/sql/learn-sql-server/understanding-and-using-parallelism-in-sql-server/
+
+* Serverless
+* https://www.sqlite.org/serverless.html
+* https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
