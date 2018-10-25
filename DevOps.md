@@ -97,6 +97,27 @@ Perl Jenkins Redis
 * http://www.oracle.com/technetwork/middleware/weblogic/overview/weblogic-server-docker-containers-2491959.pdf
 * https://www.oracle.com/technetwork/middleware/tuxedo/overview/tuxedo-docker-containers-v1-2966620.pdf
 
+**Functions as a Service**
+* https://medium.com/adobetech/2017-will-be-the-year-of-the-cgi-bin-err-serverless-f5d99671bc99
+* https://www.darkreading.com/cloud/appsec-in-the-world-of-serverless/a/d-id/1332078
+* https://www.jeremydaly.com/event-injection-a-new-serverless-attack-vector/
+* https://blog.waylay.io/cloud-function-orchestration-made-easy/
+* https://www.intwixt.com/blog/2018/1/18/why-serverless-doesnt-always-mean-stateless
+* http://www.doria.fi/bitstream/handle/10024/147672/Developing%20Web%20Services%20With%20Serverless%20Architecture.pdf?sequence=1
+* https://dzone.com/articles/serverless-and-api-gateways-1
+* https://dzone.com/articles/serverless-and-api-gateways-1
+* https://github.com/poga/spacer
+
+**Backend as a Service**
+* https://loige.co/from-bare-metal-to-serverless/
+* https://codeburst.io/building-a-serverless-api-using-firebase-cloud-functions-e5a6be42144c
+* https://firebase.google.com/docs/firestore/manage-data/enable-offline
+* https://developer.telerik.com/products/nativescript/going-off-the-grid-with-nativescript/
+* https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa
+* https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-offline-data-sync
+* https://github.com/firebase/firebase-js-sdk/issues/17
+* https://www.joshmorony.com/offline-syncing-in-ionic-2-with-pouchdb-couchdb/
+
 **References**
 
 * [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
