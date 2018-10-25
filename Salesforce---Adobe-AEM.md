@@ -783,6 +783,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
 ## Webhooks
+* https://get.slack.help/hc/en-us/articles/227838227-Salesforce-for-Slack
 * https://developer.salesforce.com/blogs/developer-relations/2016/05/slack-salesforce-integration.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/02/quick-tip-public-restful-web-services-on-force-com-sites.html
 * https://devcenter.heroku.com/articles/app-webhooks-schema
