@@ -1,9 +1,15 @@
 ## Annotations
+
 https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67
 
 https://dzone.com/articles/java-annotations-are-a-big-mistake
 
 https://www.oracle.com/technetwork/java/javase/9-notes-3745703.html
+
+## Partial Emulation
+https://pythonrants.wordpress.com/2013/12/06/why-i-hate-virtualenv-and-pip/
+
+https://cordova.apache.org/howto/2018/02/02/cordova-simulate.html
 
 ## Lifecycle Callbacks
 
