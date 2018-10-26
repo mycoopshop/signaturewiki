@@ -151,6 +151,7 @@
 * https://www.researchgate.net/publication/236376796_Ontology-driven_mindmapping
 
 # Team Building
+* https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
 * http://fortune.com/2015/08/18/most-likely-to-succeed/
 * https://resources.sei.cmu.edu/asset_files/Presentation/2006_017_001_22322.pdf
 * https://resources.sei.cmu.edu/asset_files/TechnicalNote/2015_004_001_446198.pdf
