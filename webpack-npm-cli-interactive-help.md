@@ -73,6 +73,10 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 **References**
 
 * https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
+* http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
+* https://blog.scottlogic.com/2018/02/13/npm-shrikwrap-merges-and-conflicts.html
+* https://objectpartners.com/2016/08/02/how-to-not-be-afraid-of-transitive-dependencies-in-npm/
+* http://jonnyreeves.co.uk/2016/npm-shrinkwrap-sucks/
 * http://www.grulic.org.ar/~mdione/glob/posts/installing-npm-on-debian-testing/
 * https://blog.packagecloud.io/eng/2018/01/11/inspect-download-extract-npm-packages/
 * https://docs.npmjs.com/cli/run-script
