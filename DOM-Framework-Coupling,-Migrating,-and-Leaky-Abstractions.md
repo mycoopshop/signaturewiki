@@ -17,7 +17,7 @@
 
 ## Design Languages
 * https://ant.design/
-* https://watson-developer-cloud.github.io/
+* https://watson-developer-cloud.github.io/react-components/
 * https://github.com/SalesforceLabs/sldsx
 * https://github.com/OfficeDev/office-ui-fabric-react#readme
 * https://github.com/facebook/react/blob/master/packages/react-art/src/ReactART.js
