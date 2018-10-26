@@ -3,6 +3,10 @@
 * http://v3.jasonsantamaria.com/
 * http://www.peachpit.com/
 
+## Enterprise Architecture
+
+* https://www.torsten-horn.de/techdocs/jee-spring-mvc.htm
+
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
 
