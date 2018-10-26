@@ -30,9 +30,11 @@
 1. http://itelementaryschool.com/glossary-of-it-terms/
 1. https://en.wikipedia.org/wiki/Category:Workflow_technology
 1. http://support.lexmark.com/library/LEXMARK/primus/files/PATTLNK_2212008_1122-Wireless%20Glossary%20v1.0.PDF
+1. https://www.spellitout.xyz/glossary/
 
 ## Equities
 1. https://markets.cboe.com/us/equities/market_statistics/market_quality/
+1. http://markets.ap.org/glossary.htm
 1. https://cdn.batstrading.com/resources/membership/BATS_US_Equities_Limit_Up_Limit_Down_FAQ.pdf
 1. https://www.sec.gov/rules/sro.shtml
 1. http://www.cboe.com/rmc/2013/day3session1fowler.pdf
