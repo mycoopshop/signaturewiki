@@ -12,6 +12,10 @@
 * https://www.springbyexample.org/static/1.03/pdf/SpringByExample.pdf
 * https://resources.whitesourcesoftware.com/blog-whitesource/apache-struts-spring-vulnerabilities
 * http://www.devx.com/print/Java/Article/29208
+* https://www.codeproject.com/Articles/1239668/A-Note-on-Webpack-Maven
+* http://lvtutorial.com/spring-mvc/angularjs-spring-mvc-crud-example.html
+* https://dzone.com/articles/hybrid-spring-boot-and-react-or-angular-a-better-w
+* https://stackoverflow.com/questions/38532210/how-to-integrate-angular-2-java-maven-web-application
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
