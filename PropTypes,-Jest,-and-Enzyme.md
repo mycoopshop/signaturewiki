@@ -39,3 +39,9 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://github.com/mobxjs/mobx/blob/master/test/base/intercept.js
 1. https://github.com/mobxjs/mobx/blob/master/test/base/map.js
 1. https://medium.com/@mweststrate/mobx-2-2-explicit-actions-controlled-mutations-and-improved-dx-45cdc73c7c8d
+
+## Enzyme
+* https://github.com/facebook/jest/blob/master/docs/SnapshotTesting.md
+* https://btholt.github.io/complete-intro-to-react-v2/2016/01/11/react-testing.html
+* https://medium.com/@luisvieira_gmr/snapshot-testing-react-components-with-jest-best-practices-dd1585b2b93d
+* https://www.jstwister.com/post/jest-snapshot-testing-with-enzyme/
