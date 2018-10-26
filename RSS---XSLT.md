@@ -4,6 +4,7 @@ https://www.dailymail.co.uk/home/rssMenu.html
 
 ## Bookmarks
 * http://rssfeeds.packersnews.com/packersnews/home&x=1
+* https://www.mysportsfeeds.com/data-feeds/
 * http://feeds.bbci.co.uk/news/rss.xml
 * https://rss.upi.com/news/news.rss
 * http://feeds.arstechnica.com/arstechnica/index/
