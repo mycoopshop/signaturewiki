@@ -5,6 +5,10 @@ https://dzone.com/articles/java-annotations-are-a-big-mistake
 
 https://www.oracle.com/technetwork/java/javase/9-notes-3745703.html
 
+## Lifecycle Callbacks
+
+https://reactjs.org/blog/2015/12/16/ismounted-antipattern.html
+
 ## String formatting
 http://www.cse.psu.edu/~trj1/cse544-f15/docs/aeg-current.pdf
  
