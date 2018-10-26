@@ -1,6 +1,7 @@
 ## UI
 
 * http://v3.jasonsantamaria.com/
+* http://emacspeak.sourceforge.net/raman/
 * http://www.peachpit.com/
 
 ## Enterprise Architecture
