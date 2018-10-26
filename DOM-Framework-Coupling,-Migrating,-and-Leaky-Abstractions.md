@@ -28,6 +28,10 @@
 * https://vuejs.org/v2/cookbook/form-validation.html
 * http://www.ericfeminella.com/blog/2014/01/19/quick-tip-backbone-collection-validation/
 
+## React
+* https://reactjs.org/docs/design-principles.html
+* https://reactjs.org/docs/accessibility.html
+
 ## Polyglot Integration
 * https://blogs.oracle.com/geertjan/from-knockout-to-vue-in-oracle-jet
 * https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e
