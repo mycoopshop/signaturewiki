@@ -32,6 +32,10 @@
 * https://reactjs.org/docs/design-principles.html
 * https://reactjs.org/docs/accessibility.html
 
+## Animation
+* https://codepen.io/mosson/pen/zGENPx
+* https://medium.com/@bjorn.holdt/react-animations-101-css-transitions-9c1050c2bc9d
+
 ## Polyglot Integration
 * https://blogs.oracle.com/geertjan/from-knockout-to-vue-in-oracle-jet
 * https://medium.com/nthrive-analytics/introducing-react-into-an-existing-application-17490841796e
