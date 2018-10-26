@@ -37,6 +37,8 @@
 * https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-vila.pdf
 * https://www.sans.org/reading-room/whitepapers/forensics/forensic-primer-usenet-evidence-32829
 
+# Binary
+https://crypto.stackexchange.com/questions/63450/why-doesnt-steganography-increase-the-size-of-an-uncompressed-image
 
 # Templating
 https://html5sec.org
