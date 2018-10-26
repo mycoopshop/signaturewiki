@@ -6,7 +6,14 @@
 * https://www.telerik.com/blogs/developer-digest-bootstrap-4-build-2018-and-killer-robots
 * https://www.slideshare.net/e2m/react-example-bootstrap
 
+## UIKit
+* https://github.com/uikit/uikit/blob/master/src/js/api/boot.js
+* https://github.com/uikit/uikit/blob/master/src/js/util/fastdom.js
+* https://github.com/uikit/uikit/blob/master/src/js/util/player.js
+
 ## Server-Side Rendering
+* https://strongloop.com/strongblog/template-systems-in-node/
+* https://www.npmjs.com/package/jsoniq
 
 ## Design Languages
 * https://ant.design/
