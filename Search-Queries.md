@@ -1,3 +1,5 @@
+Author + Glossary + Philosophy + Comparison + Diagram + Example
+
 ## StackExchange
 
 wiki:yes deleted:1
