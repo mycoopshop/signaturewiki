@@ -6,6 +6,7 @@
 ## Enterprise Architecture
 
 * https://www.torsten-horn.de/techdocs/jee-spring-mvc.htm
+* http://www.ijettcs.org/Volume2Issue2/IJETTCS-2013-04-10-091.pdf
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
