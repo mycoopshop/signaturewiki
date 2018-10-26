@@ -10,6 +10,8 @@
 * http://www.ijettcs.org/Volume2Issue2/IJETTCS-2013-04-10-091.pdf
 * https://media.techtarget.com/tss/static/articles/content/AgileJavaDev/SpringMVC.pdf
 * https://www.springbyexample.org/static/1.03/pdf/SpringByExample.pdf
+* https://resources.whitesourcesoftware.com/blog-whitesource/apache-struts-spring-vulnerabilities
+* http://www.devx.com/print/Java/Article/29208
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
