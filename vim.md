@@ -1,6 +1,8 @@
 * https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
 * https://vimconfig.com/
 * http://vimdoc.sourceforge.net/htmldoc/usr_41.html#script
+* https://vi.stackexchange.com/questions/10939/how-to-see-if-a-plugin-is-active
+* https://vi.stackexchange.com/questions/2791/how-to-design-a-command-in-a-plugin-that-can-be-called-from-vimrc
 * https://www.reddit.com/r/vim/wiki/vimrctips
 * https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/VimL_Script_language
 * https://blog.semanticart.com/2017/01/05/lets-write-a-basic-vim-plugin/
