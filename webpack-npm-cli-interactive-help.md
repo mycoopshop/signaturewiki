@@ -77,6 +77,9 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://blog.scottlogic.com/2018/02/13/npm-shrikwrap-merges-and-conflicts.html
 * https://objectpartners.com/2016/08/02/how-to-not-be-afraid-of-transitive-dependencies-in-npm/
 * http://jonnyreeves.co.uk/2016/npm-shrinkwrap-sucks/
+* http://www.nikola-breznjak.com/blog/javascript/nodejs/npm-err-peerinvalid-the-package-node-inspector-does-not-satisfy-its-siblings-peerdependencies-requirements/
+* https://futurestud.io/tutorials/how-to-fix-npm-package-does-not-satisfy-its-siblings-peerdependencies-requirements
+* https://medium.com/@jacob.h.page/common-npm-mistakes-51bf8989079f
 * http://www.grulic.org.ar/~mdione/glob/posts/installing-npm-on-debian-testing/
 * https://blog.packagecloud.io/eng/2018/01/11/inspect-download-extract-npm-packages/
 * https://docs.npmjs.com/cli/run-script
