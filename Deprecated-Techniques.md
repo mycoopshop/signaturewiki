@@ -28,6 +28,14 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 * https://www-01.ibm.com/support/docview.wss?uid=swg27045455&aid=5
 
+## VB
+* http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
+* https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
+* https://www.example-code.com/vb6/sharepoint_online_authentication.asp
+* https://msdn.microsoft.com/en-us/library/aa730836(v=vs.80).aspx
+* http://depressedpress.com/2014/04/05/accessing-sharepoint-lists-with-visual-basic-for-applications/
+* https://social.technet.microsoft.com/wiki/contents/articles/36038.sharepoint-online-authentication-for-soap-service-calls.aspx
+
 ## Project File Structure
 
 * https://cwiki.apache.org/confluence/display/MAVENOLD/Repository+Layout+-+Final
