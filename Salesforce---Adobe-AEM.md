@@ -506,6 +506,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2017/05/introducing-apex-metadata-api.html
 * https://developer.salesforce.com/blogs/engineering/2017/07/build-powerful-setup-apps-new-apex-metadata-api.html
 * https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_api_other_changes.htm
 * https://developer.salesforce.com/blogs/engineering/2017/10/platform-on-the-platform.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
@@ -646,6 +647,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=lightning_components_roadmap.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_videos.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_videos.htm
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_lc.htm
 * https://help.salesforce.com/articleView?id=sf1_requirements.htm&type=5
 * https://developer.salesforce.com/blogs/2018/08/all-about-custom-lightning-page-templates.html
 * https://www.lightningdesignsystem.com/release-notes/
@@ -751,6 +755,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Salesforce_APIs
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
+* https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_api_objects_new.htm
 * https://wordpress.org/plugins/salesforce-wordpress-to-lead/
 * https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit/
 * https://help.salesforce.com/articleView?id=code_version_settings_apex.htm&type=0
@@ -827,6 +832,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=Salesforce-Outbound-Emails-Impacted-by-Google-DMARC-Policy-Adoption&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=emailadmin_send_through_salesforce_setup.htm&type=5
 * https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003JuTlEAK
+* https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sales_lightning_s_g_event_scope.htm
+* https://gsuite.google.com/customers/salesforce.html
+* https://support.google.com/docs/answer/9073952
 
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
@@ -838,6 +847,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 
 ## Tooling
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
 * https://github.com/simple-salesforce/simple-salesforce
 * https://github.com/mailtoharshit/awesome-salesforce
 * https://github.com/exiahuang/SalesforceXyTools
@@ -936,6 +946,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/passing-objects-to-future-annotated-methods.html
 * https://developer.salesforce.com/blogs/engineering/2015/05/platform-cache.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_apex.htm
 * https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2016/09/take-the-first-steps-ways-you-can-replace-javascript-buttons.html
 * https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
@@ -955,6 +966,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2017/01/salesforce-console-performance.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/introducing-salesforce-lightning-inspector.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/06/salesforce-console-performance-internet-explorer-firefox-chrome.html
+* https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_api_lightning_console.htm
 * https://developer.salesforce.com/blogs/engineering/2016/06/remote-process-invocation-continuations.html
 * https://developer.salesforce.com/blogs/engineering/2013/04/apex-test-code-segregation.html
 * https://help.salesforce.com/articleView?id=process_troubleshoot_debuglogs.htm&type=5
