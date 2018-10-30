@@ -1,5 +1,6 @@
 * http://jamesknelson.com/state-react-1-stateless-react-app/
 * https://www.zsoltnagy.eu/container-components-and-stateless-functional-components-in-react/
+* https://www.jstwister.com/post/react-stateless-functional-components-best-practices/
 * https://www.sitepoint.com/optimizing-react-performance-stateless-components/
 * https://medium.com/@ethan_ikt/react-stateless-functional-component-with-typescript-ce5043466011
 * https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc?gi=80138541a906
