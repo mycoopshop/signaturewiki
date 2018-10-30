@@ -307,6 +307,9 @@ https://www.oasis-open.org/events/sites/oasis-open.org.events/files/Borderless_C
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
 
+# Mobile Bias
+https://medium.com/swlh/american-local-buying-selling-startups-will-soon-hit-the-monetization-wall-bd7f6ef349b7
+
 # Flawed Testing Tool Bias
 https://www.ejog.org/article/0028-2243(92)90313-N/pdf
 https://pdfs.semanticscholar.org/cc1f/40577f371ac72437b2257d1d8d29fa57f09e.pdf
