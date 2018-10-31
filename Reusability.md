@@ -59,6 +59,7 @@ ES6 Template Literals:
 * https://reactjs.org/docs/composition-vs-inheritance.html
 * https://joecritchley.svbtle.com/transclusion-in-react
 * https://basarat.gitbooks.io/typescript/docs/template-strings.html
+* https://codeburst.io/why-coffeescript-is-still-alive-aeb369b91b85?source=false---------0
 * https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/
 * https://book.klipse.tech/how-to-create-interactive-reactjs-snippets.html
 * https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0
