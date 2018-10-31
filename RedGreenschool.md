@@ -1,19 +1,3 @@
-
-Fwd: Please format and print & Call home
-
-amilah@aol.com
-to me
-14 minutes agoDetails
-
-
-
------Original Message-----
-From: amilah <amilah@aol.com>
-To: paul.sweatte <paul.sweatte@etrade.com>
-Sent: Wed, Oct 31, 2018 11:59 am
-Subject: Please format and print & Call home
-
-
 October 31, 2018
 
 
