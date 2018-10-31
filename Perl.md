@@ -10,6 +10,9 @@
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
 
+## XML
+https://culturedperl.com/perl-5-xml-validation-with-dtd-and-xsd-ec2d90f7c434
+
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
