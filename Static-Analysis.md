@@ -1,22 +1,23 @@
-https://github.com/webpack/docs/wiki/Motivation
-https://www.owasp.org/index.php/Source_Code_Analysis_Tools
-https://www.nasa.gov/sites/default/files/ivv_markle_use_xlst_static_code_analysis_090114.pdf
-https://wiki.haskell.org/The_JavaScript_Problem
-https://github.com/cyrus-and/comb
-http://www.vbdepend.com/
-https://github.com/cflint/CFLint
-https://hal.inria.fr/tel-01673074/document
-http://www.aosabook.org/en/500L/static-analysis.html
-https://ndmitchell.com/downloads/slides-static_analysis_of_haskell-11_jul_2017.pdf
-https://www.shellcheck.net/
-http://sawja.inria.fr/
-https://github.com/HaxeCheckstyle/haxe-checkstyle
-http://erlang.org/doc/man/dialyzer.html
-https://structurizr.com/
-https://hal.inria.fr/tel-01102401/document
-https://hal.inria.fr/hal-00643075/document
-https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009xZ3WEAU
-https://www.darkreading.com/vulnerabilities---threats/why-its-insane-to-trust-static-analysis/a/d-id/1322274
-https://blog.parasoft.com/false-positives-in-static-code-analysis
-https://mrjoelkemp.com/2014/06/js-auto-generate-grunt-tasks-using-static-analysis/
-https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33
+* https://github.com/webpack/docs/wiki/Motivation
+* https://www.owasp.org/index.php/Source_Code_Analysis_Tools
+* https://www.nasa.gov/sites/default/files/ivv_markle_use_xlst_static_code_analysis_090114.pdf
+* https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3?source=false---------0
+* https://wiki.haskell.org/The_JavaScript_Problem
+* https://github.com/cyrus-and/comb
+* http://www.vbdepend.com/
+* https://github.com/cflint/CFLint
+* https://hal.inria.fr/tel-01673074/document
+* http://www.aosabook.org/en/500L/static-analysis.html
+* https://ndmitchell.com/downloads/slides-static_analysis_of_haskell-11_jul_2017.pdf
+* https://www.shellcheck.net/
+* http://sawja.inria.fr/
+* https://github.com/HaxeCheckstyle/haxe-checkstyle
+* http://erlang.org/doc/man/dialyzer.html
+* https://structurizr.com/
+* https://hal.inria.fr/tel-01102401/document
+* https://hal.inria.fr/hal-00643075/document
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009xZ3WEAU
+* https://www.darkreading.com/vulnerabilities---threats/why-its-insane-to-trust-static-analysis/a/d-id/1322274
+* https://blog.parasoft.com/false-positives-in-static-code-analysis
+* https://mrjoelkemp.com/2014/06/js-auto-generate-grunt-tasks-using-static-analysis/
+* https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33
