@@ -2,6 +2,8 @@
 * https://www.tutorialspoint.com/assembly_programming/assembly_quick_guide.htm
 * https://stackoverflow.com/questions/43996835/assembly-8086-dosbox-how-to-produce-beep-sound
 * https://www.c64-wiki.com/wiki/Assembly_Language_for_Kids_Commodore_64_-_Sanders
+* https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for
+* https://wiki.osdev.org/Virtual_8086_Mode
 * http://infocenter.arm.com/help/topic/com.arm.doc.dai0235c/DAI0235C_migrating_from_mips_to_arm.pdf
 * https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-0-8.pdf
 * https://kripken.github.io/emscripten-site/docs/porting/connecting_cpp_and_javascript/WebIDL-Binder.html
