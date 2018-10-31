@@ -9,6 +9,10 @@ E-Reader
 1. https://wiki.mobileread.com/wiki/PocketBook
 1. https://www.aliexpress.com/category/2204/ebook-reader.html
 
+Universal Remote
+
+1. https://electronics.stackexchange.com/questions/404238/how-do-universal-ir-remote-codes-work
+
 RFID
 
 1. https://www.pretzellogix.net/2015/08/15/the-best-bluetooth-rfid-finder-for-iphone-android-smartphone/
