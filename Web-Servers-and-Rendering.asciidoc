@@ -66,3 +66,4 @@
 . https://xebialabs.com/periodic-table-of-devops-tools/
 . https://support.globaldots.com/hc/en-us/articles/115003996705-Akamai-Pragma-Headers-overview
 . https://github.com/webpack/webpack-dev-server/issues/533
+. https://medium.com/@RichHewlett/preventing-browser-caching-using-http-headers-52610e1327e8
