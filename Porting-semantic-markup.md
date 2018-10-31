@@ -311,15 +311,16 @@ Create filters to replace directives
 
 `div.page-wrapper => div.row + div.col-xs-12 col-sm-12 col-md-6 col-md-offset-3`
 
-
-http://demo.bootstraptor.com/blocks.html
-https://webdesign.tutsplus.com/tutorials/bootstrap-3-succinctly-migrating-from-version-2-to-version-3--cms-23132
-http://upgrade-bootstrap.bootply.com
-https://webmuch.com/upgrade-bootstrap-2-twitter-bootstrap3-build/
-https://github.com/angular/angular.js/issues/15484
-https://hackernoon.com/bye-2k16-and-bye-angular-ca627861839
-http://blog.adamcameron.me/2017/04/cfml-lucee-13-v-4-14-v-6-coldfusion-we.html
-http://plnkr.co/edit/eudIJbVsKl3xoEiLmyp3?p=preview
-http://yz.mit.edu/wp/introducing-reactive-coffee/
-https://confluence.atlassian.com/confcloud/keyboard-shortcuts-markdown-and-autocomplete-724764956.html
-https://confluence.atlassian.com/bitbucketserver040/markdown-syntax-guide-785329478.html
+**References**
+* http://demo.bootstraptor.com/blocks.html
+* https://webdesign.tutsplus.com/tutorials/bootstrap-3-succinctly-migrating-from-version-2-to-version-3--cms-23132
+* http://upgrade-bootstrap.bootply.com
+* https://webmuch.com/upgrade-bootstrap-2-twitter-bootstrap3-build/
+* https://github.com/angular/angular.js/issues/15484
+* https://hackernoon.com/bye-2k16-and-bye-angular-ca627861839
+* http://blog.adamcameron.me/2017/04/cfml-lucee-13-v-4-14-v-6-coldfusion-we.html
+* http://plnkr.co/edit/eudIJbVsKl3xoEiLmyp3?p=preview
+* http://yz.mit.edu/wp/introducing-reactive-coffee/
+* https://confluence.atlassian.com/confcloud/keyboard-shortcuts-markdown-and-autocomplete-724764956.html
+* https://confluence.atlassian.com/bitbucketserver040/markdown-syntax-guide-785329478.html
+* https://codeburst.io/the-most-uncommon-html5-tags-52273fabc0a7
