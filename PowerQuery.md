@@ -1,0 +1,15 @@
+https://blog.crossjoin.co.uk/2016/12/05/power-query-power-bi-and-the-allow-data-preview-to-download-in-the-background-option/
+http://salesforce.topowerbi.com/
+https://www.slideshare.net/Netwoven/learn-how-to-use-microsoft-power-bi-for-office-365-to-analyze-salesforce-data
+https://superuser.com/questions/1265142/excel-using-sql-command-on-power-query-data
+https://www.salesforceben.com/enabler4excel-reports-and-refresh/
+https://www.excelcampus.com/powerquery/power-query-overview/
+https://help.salesforce.com/articleView?id=000004410&language=en_US&type=1
+https://support.office.com/en-us/article/import-data-from-external-data-sources-power-query-be4330b3-5356-486c-a168-b68e9e616f5a
+https://success.salesforce.com/ideaView?id=08730000000Dg1BAAS
+https://cloud4good.com/announcements/ms-excel-tools-salesforce/
+http://blog.pragmaticworks.com/tales-from-sales-hurdles-with-salesforce-connectors-in-power-bi
+https://stackoverflow.com/questions/48747108/m-language-power-query-salesforce-web-api-passing-collections
+https://datachant.com/2016/12/27/analyze-salesforce-opportunities-in-excel/
+https://www.reddit.com/r/salesforce/comments/5u5evi/salesforce_report_building_and_power_query/
+https://tddprojects.atlassian.net/wiki/spaces/SF/pages/58819651/Excel+Power+Query
