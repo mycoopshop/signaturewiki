@@ -1,4 +1,4 @@
-SQLite
+## SQLite
 * https://kailaspatil.blogspot.com/2013/07/python-script-to-convert-json-file-into.html
 * https://www.phparch.com/2011/11/full-text-search-with-sqlite/
 * https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
@@ -20,7 +20,7 @@ SQLite
 * https://pythonspot.com/sqlite-database-with-pandas/
 
 
-MySQL
+## MySQL
 * https://jugad2.blogspot.com/2014/03/database-to-json-in-python.html
 * https://www.ibm.com/developerworks/library/ws-simplelogin/
 * http://blogs.perl.org/users/joel_berger/2014/09/mojolicious-do-it-for-the-candy.html
@@ -32,11 +32,21 @@ MySQL
 * https://news.ycombinator.com/item?id=15605669
 * https://www.percona.com/blog/2013/01/16/sphinx-search-performance-optimization-multi-threaded-search/
 
-MSSQL
+## MSSQL
 * https://www.sqlskills.com/blogs/erin/sql-server-maintenance-plans-and-parallelism-index-rebuild/
 * https://sqlperformance.com/2013/08/t-sql-queries/parallel-select-into
 * https://www.red-gate.com/simple-talk/sql/learn-sql-server/understanding-and-using-parallelism-in-sql-server/
 
-* Serverless
+## Replication
+https://kb.promise.com/thread/what-s-the-difference-between-asynchronous-and-synchronous-mirrors/
+https://library.netapp.com/ecmdocs/ECMP12404965/html/GUID-B513B031-D524-4E0D-8FB1-3984C9D9FA20.html
+https://www.brianstorti.com/replication/
+http://www.cattell.net/datastores/Datastores.pdf
+http://www.cs.sjsu.edu/faculty/kim/nosql/contents/presentation/slides/ScalableSQLandNoSQLDataStores.pdf
+
+## Serverless
 * https://www.sqlite.org/serverless.html
 * https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+## NoSQL / NewSQL
+* http://nosql-database.org/
