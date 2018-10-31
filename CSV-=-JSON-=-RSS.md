@@ -5,6 +5,9 @@
 * https://tools.ietf.org/html/rfc6902
 * https://tools.ietf.org/id/draft-pbryan-zyp-json-ref-03.html
 
+## Code
+* https://medium.com/@MedvedevTheDev/xmlparser-working-with-rss-feeds-in-swift-86224fc507dc
+
 ## Tutorials
 * https://readlearncode.com/java-ee/java-ee-8-json-processing-1-1-json-patch-overview/
 * https://news.ycombinator.com/item?id=7703585
