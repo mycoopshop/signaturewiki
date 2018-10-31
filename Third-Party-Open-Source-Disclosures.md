@@ -1,0 +1,10 @@
+https://www.adobe.com/content/dam/acom/en/products/eula/third_party/pdfs/EdgeCodePreview_thirdpartypage_2013-02-07.pdf
+https://www.adobe.com/content/dam/acom/en/products/eula/third_party/pdfs/flex4_5_sdk_opensource_legal_notices.pdf
+https://docs.citrix.com/en-us/xenapp-and-xendesktop/current-release/downloads/fnp-licensing-11-15-0-ncsd-summary.pdf
+https://www.citrix.com/content/dam/citrix/en_us/documents/buy/xenmobile-server-components-third-party-notices.pdf
+https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cucm/os_license/CUCM_862asu2.pdf
+https://www.cisco.com/c/dam/en/us/td/docs/switches/lan/open_source_licenses/166/Cisco_IOS_XE_Everest_1661-opensource.pdf
+https://www.oracle.com/technetwork/java/javase/documentation/java-se-lium-2017-09-18-3900135.pdf
+https://www.microsoft.com/en-us/legal/products/notices/win
+https://support.microsoft.com/en-us/help/4100994/accessories-open-source-software-license
+https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/Commerce-Cloud-Open-Source.pdf
