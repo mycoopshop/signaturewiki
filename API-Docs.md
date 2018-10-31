@@ -1,4 +1,5 @@
 * https://github.com/zloirock/core-js
+* https://developer.valvesoftware.com/wiki/Steam_Web_API
 * https://stackoverflow.com/questions/43354897/what-is-the-importance-of-default-exports-in-reactjs
 * https://stackoverflow.com/questions/46636300/using-javascript-es6-import-and-export-functionality-in-codepen-projects
 * https://www.npmjs.com/package/babel-standalone
