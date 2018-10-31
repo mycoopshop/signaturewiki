@@ -1,4 +1,8 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
+* https://www.w3.org/wiki/WebID
+* https://www.reddit.com/r/Steam/comments/8a7gsu/steam_openid_broken_for_many_websites_fix_inside/
+* https://github.com/omniauth/omniauth/wiki/List-of-Strategies
+* https://pythonhosted.org/Flask-OpenID/
 * https://help.salesforce.com/articleView?id=remoteaccess_authenticate_overview.htm
 * https://www.oreilly.com/library/view/identity-and-data/9781491937006/ch04.html
 * https://tools.ietf.org/id/draft-ietf-oauth-security-topics-05.html
@@ -75,3 +79,5 @@ https://security.stackexchange.com/questions/182873/why-isnt-pkce-encouraged-for
 https://docops.ca.com/ca-api-management-oauth-toolkit/3-6/en/openid-connect-implementation/open-id-connect-implementation-details
 https://www.netiq.com/documentation/access-manager-44/admin/data/b1dj6b2f.html
 https://security.stackexchange.com/questions/146572/is-cors-ever-needed-during-any-aspect-of-oauth-openidconnect-authentication
+https://developer.okta.com/docs/api/resources/oidc
+https://www.gartner.com/reviews/market/access-management/compare/okta-vs-ping-identity
