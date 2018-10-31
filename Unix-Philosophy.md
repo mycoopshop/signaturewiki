@@ -1,3 +1,4 @@
+* https://blogs.gnome.org/jrb/files/2017/07/A-Brief-History-of-GNOME-1.pdf
 * https://opensource.apple.com/source/cups/cups-86/doc/overview.pdf
 *  https://news.ycombinator.com/item?id=12589281
 * https://chiefio.wordpress.com/2016/05/18/systemd-it-keeps-getting-worse/
