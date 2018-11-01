@@ -172,6 +172,29 @@ Excellent verbal and written communication skills
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://help.salesforce.com/articleView?id=000228273&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000250391&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000240875&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000232181&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000193813&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000004032&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000188545&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000233055&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=emailadmin_email_relay_considerations.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_send_through_salesforce_setup.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_deliverability.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_email2salesforce.htm&type=5
+* https://help.salesforce.com/articleView?id=code_email_services_editing.htm&type=5
+* https://success.salesforce.com/issues_view?id=a1p3A0000018BJAQA2
+* https://success.salesforce.com/answers?id=90630000000CwWsAAK
+* https://success.salesforce.com/answers?id=9063A000000lMm8QAE
+* https://help.salesforce.com/articleView?id=000270493&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000133743&type=1&language=en_US
+* https://success.salesforce.com/answers?id=9063A000000iVgxQAE
+* https://success.salesforce.com/answers?id=906300000010xSIAAY
+* https://success.salesforce.com/ideaView?id=08730000000l03uAAA
+* https://help.salesforce.com/articleView?id=000239741&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000268564&type=1&language=en_US
 * https://www.salesforce.com/products/marketing-cloud/best-practices/html-email-tips/
 * https://www.salesforce.com/ca/blog/2015/01/mobile-friendly-email.html
 * https://help.salesforce.com/articleView?id=email_my_email_2_sfdc_considerations.htm&type=0
@@ -188,6 +211,11 @@ Excellent verbal and written communication skills
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
 * https://stackoverflow.com/questions/43885939/visualforce-email-template-unit-test
 * https://success.salesforce.com/answers?id=90630000000gyFzAAI
+
+## Feeds
+* https://success.salesforce.com/Answer_rss
+* https://appexchange.salesforce.com/services/xml/NewListings
+* https://developer.salesforce.com/forums/ForumsCategories
 
 ## IoT
 * https://github.com/developerforce/Force.com-Toolkit-for-Jasper
@@ -388,6 +416,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
+* https://help.salesforce.com/articleView?id=mc_es_sender_policy_framework_faq.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
 * https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_es_best_practices_data_extensions_query_activities.htm&type=5
@@ -413,6 +442,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
+* https://help.salesforce.com/articleView?id=000271319&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000269324&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=pardot_email_authentication_add_spf_dkim_to_dns.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
 * https://help.salesforce.com/articleView?id=pardot_create_email_template.htm&type=0
@@ -817,6 +849,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Chatter
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_collab_emojis.htm
+* https://help.salesforce.com/articleView?id=000004478&type=1&language=en_US
 * https://admin.salesforce.com/5-ways-you-can-use-emoji-to-delight-your-users-and-drive-adoption
 * https://help.salesforce.com/articleView?id=collab_group_layout_customize.htm&type=5
 * https://success.salesforce.com/ideaView?id=08730000000LhC6AAK
