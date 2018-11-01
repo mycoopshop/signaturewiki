@@ -166,6 +166,8 @@
 * https://www.rhymedb.com/word/glove
 * https://www.commondreams.org/views/2017/07/10/eating-our-way-disease
 * https://www.truthdig.com/articles/james-cones-gospel-of-the-penniless-jobless-marginalized-and-despised/
+* https://money.stackexchange.com/questions/2301/what-are-the-best-software-tools-for-personal-finance/4503#4503
+* https://money.stackexchange.com/questions/45877/why-use-accounting-software-like-quickbooks-instead-of-excel-spreadsheets/46059#46059
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
