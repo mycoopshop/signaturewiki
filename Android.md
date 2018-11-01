@@ -1,3 +1,5 @@
+https://www.wikihow.tech/Use-Google-Translate-Android-App-As-OCR
+
 http://appinventor.mit.edu/explore/ai2/setup.html
 
 http://www.android-ide.com/tutorial_androidapp.html
