@@ -1,4 +1,6 @@
 * https://rosettacode.org/wiki/Terminal_control/Ringing_the_terminal_bell
+* https://en.wikipedia.org/wiki/Fork_bomb
+* http://files.catwell.info/misc/mirror/lua-5.2-bytecode-vm-dirk-laurie/lua52vm.html
 * https://www.tutorialspoint.com/assembly_programming/assembly_quick_guide.htm
 * https://stackoverflow.com/questions/43996835/assembly-8086-dosbox-how-to-produce-beep-sound
 * https://www.c64-wiki.com/wiki/Assembly_Language_for_Kids_Commodore_64_-_Sanders
