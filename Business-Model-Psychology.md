@@ -246,6 +246,11 @@ Geolocation: http://www.fanmail.biz/
 Muscles:
 http://legacy.ymaa.com/articles/muscle-tendon-changing-and-brain-marrow-washing-qigong
 https://petarsmi.com/en/2016/12/22/in-qigong-we-use-tendons/
+Resumes:
+https://www.quora.com/What-are-the-top-10-online-recruitment-portals
+https://www.reviews.com/job-sites/
+https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-need-to-know-about
+
 
 # Gender Bias
 * http://www.devouard.org/english/public-speaker
