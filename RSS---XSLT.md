@@ -2,6 +2,8 @@
 
 https://www.dailymail.co.uk/home/rssMenu.html
 
+https://newsroom.courts.ca.gov/rss
+
 ## Bookmarks
 * http://rssfeeds.packersnews.com/packersnews/home&x=1
 * https://www.mysportsfeeds.com/data-feeds/
