@@ -36,6 +36,9 @@
 # Gamification
 * https://scratch.mit.edu/projects/202338438/#editor
 
+# JavaScript Developer job
+* https://www.infoq.com/profile/Charles-Humble
+
 # Holiday Bias
 * https://www.androidcentral.com/hq-words
 * https://www.apnews.com/d2314076a19c4e75aae3fead547abdea/Hall-of-Fame-members-threaten-boycott-of-inductions
