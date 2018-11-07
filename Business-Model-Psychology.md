@@ -150,6 +150,7 @@
 * https://www.pmi.org/learning/library/mind-mapping-advantage-think-creatively-6554
 * https://www.lifehack.org/articles/productivity/5-reasons-stop-mind-mapping-immediately.html
 * https://www.researchgate.net/publication/236376796_Ontology-driven_mindmapping
+* http://www.image-net.org/
 
 # Team Building
 * https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
