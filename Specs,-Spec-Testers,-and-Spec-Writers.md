@@ -7,6 +7,18 @@
 * https://www.w3.org/People/howcome/
 * https://www.w3.org/People/Bos/
 
+
+## Organizations
+
+* https://developer.mozilla.org/en-US/docs/Archive/Web_Standards/Choosing_Standards_Compliance_Over_Proprietary_Practices
+* https://enterprisearchitecture.dk/links/files/FEA-RM_TRMv1.pdf
+* https://www.colleaga.org/sites/default/files/attachments/Standards-Catalogue-v1_0%281%29%5B1%5D.pdf
+ 
+## Naming Conventions
+* https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations
+* https://aspe.hhs.gov/report/inventory-health-care-information-standards
+* https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfStandards/results.cfm?start_search=1&productcode=&category=&type=&title=&organization=&referencenumber=&regulationnumber=&recognitionnumber=&effectivedatefrom=&effectivedateto=&pagenum=50&sortcolumn=ind
+
 ## Standard Libraries
 
 * CoreJS: https://github.com/zloirock/core-js
