@@ -41,3 +41,4 @@ https://newsroom.courts.ca.gov/rss
 * http://www.jillesvangurp.com/2007/10/18/semantic-vs-semantic/
 * https://wiki.thingsandstuff.org/Open_social#Web_Intents
 * http://docs.oasis-open.org/xri/xrd/v1.0/os/xrd-1.0-os.html
+* https://www.w3.org/TR/xslt20/Overview-diff.html
