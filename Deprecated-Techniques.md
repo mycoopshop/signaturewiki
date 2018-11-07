@@ -77,9 +77,10 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
 * http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
 
-## Abstracting
+## Tooling
 
 * https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a
+* https://www.buraks.com/asv/5.html
 
 ## Content Tracking
 * https://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAA/Help/EloquaAsynchronousTrackingScripts/Tasks/FlashContentTracking.htm
