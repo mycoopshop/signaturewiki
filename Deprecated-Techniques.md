@@ -194,6 +194,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * http://developer.classpath.org/doc/java/util/Properties-source.html
 * http://www.docjar.com/html/api/java/util/Properties.java.html
 * https://docs.oracle.com/javase/9/docs/api/java/util/package-use.html
+* https://www.oracle.com/technetwork/java/javase/9-deprecated-features-3745636.html
+* https://docs.oracle.com/javase/9/docs/api/jdk.javadoc-summary.html
+
 
 ## MVC
 
@@ -237,7 +240,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://github.com/andirdju/spring-mvc-unit-test-sample/blob/develop/src/test/java/org/andird/controller/RestTimeControllerTest.java
 * https://infinitescript.com/2014/05/unit-testing-of-spring-mvc-controllers/
 * https://stackoverflow.com/questions/1401128/how-to-unit-test-a-spring-mvc-controller-using-pathvariable/2457902
-* 
+
+## Hardware Abstraction
+* https://docs.oracle.com/cd/E17802_01/products/products/javacomm/reference/api/javax/comm/ParallelPort.html
 
 ## TLS
 
