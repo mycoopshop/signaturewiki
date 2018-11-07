@@ -243,6 +243,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 ## Hardware Abstraction
 * https://docs.oracle.com/cd/E17802_01/products/products/javacomm/reference/api/javax/comm/ParallelPort.html
+* https://medium.com/@shehanb/java-code-snippets-send-receive-messages-using-a-hspa-dongle-thread-safe-21d702c56eec
+* http://www.kuligowski.pl/java/rs232-in-java-for-windows,1
 
 ## TLS
 
