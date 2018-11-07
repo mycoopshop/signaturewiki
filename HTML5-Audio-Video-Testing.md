@@ -8,6 +8,10 @@ https://benramsey.com/blog/2008/05/206-partial-content-and-range-requests/
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Protocol_upgrade_mechanism
 
+https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Audio_and_video_delivery/Live_streaming_web_audio_and_video
+
+https://www.keycdn.com/support/http-live-streaming
+
 https://www.maxcdn.com/one/tutorial/pseudo-streaming-maxcdn/
 
 https://nordicapis.com/dont-underutilize-these-5-amazing-http-performance-features/
