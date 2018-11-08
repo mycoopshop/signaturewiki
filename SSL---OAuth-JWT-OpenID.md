@@ -1,5 +1,7 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
 * https://www.joyofdata.de/blog/talking-to-twitters-rest-api-v1-1-with-r/
+* https://developer.atlassian.com/server/jira/platform/oauth/
+* https://docs.microsoft.com/en-us/windows/desktop/winhttp/authentication-using-script
 * https://www.w3.org/wiki/WebID
 * https://www.reddit.com/r/Steam/comments/8a7gsu/steam_openid_broken_for_many_websites_fix_inside/
 * https://github.com/omniauth/omniauth/wiki/List-of-Strategies
