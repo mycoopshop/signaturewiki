@@ -103,3 +103,9 @@
 * https://www.scriptorium.com/2010/01/removing-whitespace-structured-framemaker/
 
 * https://www.oracle.com/technetwork/articles/wang-whitespace-092897.html
+
+* https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Frame/fminit2.0/www_and_frame.html
+
+* https://www.w3.org/Tools/fm2html.html
+
+* https://www.w3.org/MarkUp/htmlplus_paper/htmlplus.html
