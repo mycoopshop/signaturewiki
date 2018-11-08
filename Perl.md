@@ -1,3 +1,6 @@
+https://blogs.msdn.microsoft.com/azureossds/2015/04/23/converting-apache-htaccess-rules-to-iis-web-config-using-iis-manager-for-azure-websites/
+https://blogs.msdn.microsoft.com/africaapps/2013/11/05/creating-a-wimp-stack-windows-server-iis-mysql-php-on-windows-azure/
+
 ## Glob/Map/Grep
 * http://blogs.perl.org/users/sid_burn/2014/03/the-mapgrepsort-dead-end-street.html
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
@@ -9,6 +12,13 @@
 
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
+
+## Command Line
+* https://www.perl.com/pub/2004/08/09/commandline.html/
+* http://perl101.org/command-line-switches.html
+* https://affy.blogspot.com/p5be/ch17.htm
+* http://www.cs.cmu.edu/afs/cs/usr/rgs/mosaic/pl-opt.html
+* https://www.perlmonks.org/?node_id=324749
 
 ## XML
 https://culturedperl.com/perl-5-xml-validation-with-dtd-and-xsd-ec2d90f7c434
