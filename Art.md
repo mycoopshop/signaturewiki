@@ -1,3 +1,4 @@
+* http://eyesofesca.com/
 * https://hiphopdx.com/editorials/id.4019/title.art-of-rap-20-black-artists-inspired-by-hip-hop
 * https://www.brainpickings.org/2015/07/15/nikki-giovanni-love-friendship-loneliness/
 * https://www.soundtrack.net/album/panther/
