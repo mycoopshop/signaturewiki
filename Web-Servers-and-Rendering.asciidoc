@@ -67,3 +67,5 @@
 . https://support.globaldots.com/hc/en-us/articles/115003996705-Akamai-Pragma-Headers-overview
 . https://github.com/webpack/webpack-dev-server/issues/533
 . https://medium.com/@RichHewlett/preventing-browser-caching-using-http-headers-52610e1327e8
+. https://blogs.msdn.microsoft.com/azureossds/2015/04/23/converting-apache-htaccess-rules-to-iis-web-config-using-iis-manager-for-azure-websites/
+. https://blogs.msdn.microsoft.com/africaapps/2013/11/05/creating-a-wimp-stack-windows-server-iis-mysql-php-on-windows-azure/
