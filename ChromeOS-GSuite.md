@@ -52,6 +52,9 @@ https://gsuite.google.com/marketplace/app/google_apps_script/629453589428
 
 https://sites.google.com/site/scriptsexamples/tools-for-google-sites/responsive-youtube-video-gadget
 
+https://ctrlq.org/dev/google-apps-script
+
+
 ## References
 * https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
 * https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
