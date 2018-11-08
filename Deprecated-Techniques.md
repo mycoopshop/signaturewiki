@@ -3,6 +3,8 @@
 * http://v3.jasonsantamaria.com/
 * http://emacspeak.sourceforge.net/raman/
 * http://www.peachpit.com/
+* https://www.tf.uni-kiel.de/matwis/amat/iss/
+
 
 ## Enterprise Architecture
 
