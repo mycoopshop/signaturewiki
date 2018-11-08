@@ -7,7 +7,7 @@
 
 
 ## Enterprise Architecture
-
+* https://msdn.microsoft.com/en-us/library/ms525913
 * https://www.torsten-horn.de/techdocs/jee-spring-mvc.htm
 * http://www.ijettcs.org/Volume2Issue2/IJETTCS-2013-04-10-091.pdf
 * https://media.techtarget.com/tss/static/articles/content/AgileJavaDev/SpringMVC.pdf
