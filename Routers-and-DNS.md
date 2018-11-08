@@ -60,4 +60,6 @@ https://technet.microsoft.com/pt-pt/library/cc772774(v=ws.10).aspx
 
 https://tools.ietf.org/html/rfc1034
 
+https://tools.ietf.org/html/rfc2136
+
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.9416&rep=rep1&type=pdf
