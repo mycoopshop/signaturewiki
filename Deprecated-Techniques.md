@@ -35,6 +35,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://msdn.microsoft.com/en-us/library/aa730836(v=vs.80).aspx
 * http://depressedpress.com/2014/04/05/accessing-sharepoint-lists-with-visual-basic-for-applications/
 * https://social.technet.microsoft.com/wiki/contents/articles/36038.sharepoint-online-authentication-for-soap-service-calls.aspx
+* https://blog.freedom-man.com/vba-salesforce-api/
+* https://github.com/VBA-tools/VBA-Web/wiki/Url-Encoding
+* https://azlav.wordpress.com/2012/05/22/project-vba-and-azure-better-together/
 
 ## Project File Structure
 
