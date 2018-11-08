@@ -93,3 +93,13 @@
 * https://blog.recime.io/using-aiml-and-nlp-to-create-a-conversation-flow-for-your-chatbot-fea63d09b2e6?gi=e5952217341
 
 * https://medium.com/@joepairman/visualizing-complex-content-models-with-spatial-schemas-d8ac3f81564a
+
+* https://www.ibm.com/developerworks/library/x-tipwhitesp/
+
+* https://www.strehle.de/tim/weblog/archives/2016/03/10/1590
+
+* https://www.oreilly.com/library/view/xslt-2nd-edition/9780596527211/ch04s07s04.html
+
+* https://www.scriptorium.com/2010/01/removing-whitespace-structured-framemaker/
+
+* https://www.oracle.com/technetwork/articles/wang-whitespace-092897.html
