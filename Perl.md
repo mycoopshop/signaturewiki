@@ -1,6 +1,3 @@
-https://blogs.msdn.microsoft.com/azureossds/2015/04/23/converting-apache-htaccess-rules-to-iis-web-config-using-iis-manager-for-azure-websites/
-https://blogs.msdn.microsoft.com/africaapps/2013/11/05/creating-a-wimp-stack-windows-server-iis-mysql-php-on-windows-azure/
-
 ## Glob/Map/Grep
 * http://blogs.perl.org/users/sid_burn/2014/03/the-mapgrepsort-dead-end-street.html
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
