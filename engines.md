@@ -1,5 +1,6 @@
 * https://searx.me
 * http://gibiru.com
+* https://guides.lib.uni.edu/on-beyond-google/other-search-engines
 * https://medium.com/@QwantCom/5-reasons-to-be-brave-and-choose-qwant-3dba31cf0777
 * https://mashable.com/2008/08/10/ixquick-privacy/#HKQZIYNXxZqR
 * https://www.singleplatform.com/
