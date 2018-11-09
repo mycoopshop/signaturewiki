@@ -33,6 +33,7 @@ Perl Jenkins Redis
 
 * https://hub.openshift.com/quickstarts/100-perl-5-10
 * https://tech.mybuilder.com/virtual-hosts-with-docker/
+* https://www.nearform.com/blog/develop-in-minishift-deploy-to-openshift/
 
 **Build Pipelines**
 * https://www.agiletestingframework.com/ultimate-devops-toolchain/
