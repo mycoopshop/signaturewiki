@@ -835,6 +835,12 @@ Format:2xx0xx000
 * https://devcenter.heroku.com/articles/app-webhooks-schema
 
 ## Einstein
+* https://einstein.ai/terms-of-service
+* https://tutorials.botsfloor.com/creating-a-simple-chatbot-in-salesforce-lightning-using-api-ai-in-less-than-60-mins-4dd79777b246
+* https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f
+* https://www.bluewolf.com/bluewolf-now/not-all-chatbots-are-created-equal-part-ii-watson-and-einstein
+* https://elements.heroku.com/addons/einstein-platform-services
+* https://www.slideshare.net/partnerforce/einstein-partner-webinar-february-13-2017
 * https://www.salesforce.com/products/marketing-cloud/best-practices/data-mining-predictive-analytics/
 * https://www.forcetalks.com/blog/hello-world-code-for-salesforce-einstein/
 * https://blogs.absyz.com/2018/02/27/einstein-intent-analysis-using-einstein-language-on-salesforce-chatter/
