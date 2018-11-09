@@ -700,3 +700,5 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 * https://github.com/showell/Game-Of-Life/blob/master/game.coffee
 
 http://www.oracle.com/us/technologies/java/assertions-139853.html
+
+* [Avoiding Common Hurdles in Unit Testing - NearForm](https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/)
