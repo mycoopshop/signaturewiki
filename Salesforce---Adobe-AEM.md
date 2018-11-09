@@ -1,4 +1,4 @@
-BS with or MS in Computer Science or related technical field
+rBS with or MS in Computer Science or related technical field
 At least 8+ years of engineering experience in global software development and deployment
 Must have 4+ years of experience with SFDC platform and partner ecosystem
 Played the role of a Technical lead in 1-2 SFDC projects
@@ -768,10 +768,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000212606&language=en_US&type=1
 * https://s3-us-west-1.amazonaws.com/sftrusthomecomplianc/docs/Salesforce-Processor-BCR.pdf
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf
+
 ## Blogs
 * https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
 * http://www.sfdcpanther.com/summer-18-gems-for-salesforce-developer/
 * https://jetbi.com/salesforce-summer-2018-release-overview
+
+## Known Issues
+Format:2xx0xx000
+* https://success.salesforce.com/issues_releases_view?release=212000000
+* https://success.salesforce.com/issues_releases_view?release=212010000
+* https://success.salesforce.com/issues_releases_view?release=210000000
 
 ## Release Notes
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
