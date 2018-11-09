@@ -781,6 +781,7 @@ Format:2xx0xx000
 * https://success.salesforce.com/issues_releases_view?release=210000000
 
 ## Release Notes
+* https://www.salesforce.com/campaign/releases/winter-19/overview/
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/salesforce_release_notes.htm
 * https://www.salesforce.com/campaign/releases/summer-18/
 * https://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_feature_impact.htm
