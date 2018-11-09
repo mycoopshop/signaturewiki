@@ -1,4 +1,5 @@
 * http://eyesofesca.com/
+* http://www.mtv.com/news/2208227/rappers-who-sound-like-other-rappers/
 * https://hiphopdx.com/editorials/id.4019/title.art-of-rap-20-black-artists-inspired-by-hip-hop
 * https://www.buzzfeed.com/aj8/11-fairytales-you-loved-as-a-child-that-are-actual-cfe3
 * https://www.brainpickings.org/2015/07/15/nikki-giovanni-love-friendship-loneliness
