@@ -45,6 +45,8 @@
 
 # Review Bias
 * https://www.schneier.com/blog/archives/2018/02/harassment_by_p.html
+* http://www.aapl.org/docs/newsletter/September%202014%20Vol%2039%20No%203.pdf
+* http://web.mit.edu/~dcltdw/AOW/6.html
 
 # Obscure Bias
 * https://www.upi.com/Odd_News/2018/10/01/Machine-uses-intricate-chain-reaction-to-dispense-lemonade/9171538418382/
