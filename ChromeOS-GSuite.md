@@ -80,6 +80,7 @@ https://ctrlq.org/dev/google-apps-script
 * https://hubpages.com/business/How-to-Create-a-Strong-RSS-Feed-for-Facebook-or-Twitter
 * https://gsuiteupdates.googleblog.com
 * https://v8project.blogspot.com
+https://trends.builtwith.com/websitelist/Google-Sites
 https://stackoverflow.com/questions/46452365/how-can-i-get-system-uptime-programmatically-on-the-chrome-os-platform
 https://developer.chrome.com/native-client/migration
 https://code.visualstudio.com/docs/languages/csharp
