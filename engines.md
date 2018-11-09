@@ -1,5 +1,8 @@
 https://searx.me
 http://gibiru.com
+https://medium.com/@QwantCom/5-reasons-to-be-brave-and-choose-qwant-3dba31cf0777
+https://mashable.com/2008/08/10/ixquick-privacy/#HKQZIYNXxZqR
+
 https://www.crunchbase.com/organization/picfog#section-recent-news-activity
 https://www.quora.com/What-is-the-best-reverse-image-search-engine
 https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/
