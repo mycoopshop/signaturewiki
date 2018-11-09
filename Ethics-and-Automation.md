@@ -23,16 +23,7 @@ The bottom line is this is a social contract, and [EAch](https://venturebeat.com
 
 https://delimiter.com.au/2013/11/19/ibm-accenture-risk-factors-disasters-claims-techone/
 
+https://www.nearform.com/blog/methods-for-improving-your-decision-making-process/
+
 https://www.texastribune.org/2015/02/01/cost-overruns-and-bungles-state-contracting/
 
-https://einstein.ai/terms-of-service
-
-https://tutorials.botsfloor.com/creating-a-simple-chatbot-in-salesforce-lightning-using-api-ai-in-less-than-60-mins-4dd79777b246
-
-https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f
-
-https://www.bluewolf.com/bluewolf-now/not-all-chatbots-are-created-equal-part-ii-watson-and-einstein
-
-https://elements.heroku.com/addons/einstein-platform-services
-
-https://www.slideshare.net/partnerforce/einstein-partner-webinar-february-13-2017
