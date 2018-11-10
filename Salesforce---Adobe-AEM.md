@@ -595,6 +595,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.slideshare.net/developerforce/df121306-ready
 
 ## VisualForce
+* https://help.salesforce.com/articleView?id=000194152&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/lightning-components-visualforce-lightning.html
 * https://developer.salesforce.com/blogs/tech-pubs/2013/06/updating-visualforce-chart-data.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
