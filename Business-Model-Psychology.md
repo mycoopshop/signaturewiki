@@ -291,6 +291,8 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/kelly-14-rules.html
 * https://foxtrotalpha.jalopnik.com/legendary-skunk-work-founder-kelly-johnsons-rules-of-ma-1708050659
 
+# T-shirt Bias
+xkcd t-shirts
 
 # Enterprise Bias
 http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
