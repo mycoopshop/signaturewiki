@@ -368,3 +368,9 @@ https://verboselogging.com/2010/06/25/copy-merge-with-git
 https://blog.tankywoo.com/2014/05/20/git-merge-strategy-ours-and-theirs.html
 
 https://www.reddit.com/r/programming/comments/kt058/gits_merge_recursive_strategy_explained/
+
+https://git.seveas.net/the-meaning-of-refs-and-refspecs.html
+
+https://aboullaite.me/deep-dive-into-git-git-refs/
+
+http://gitolite.com/tips-3.html
