@@ -361,6 +361,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=glossary.htm&type=0
 * https://help.salesforce.com/articleView?id=bi_glossary.htm&type=0
 * https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_platform_glossary.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_glossary.pdf?title=page/Apex_Developer_Glossary
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/visualforce_glossary.htm
 * https://resources.docs.salesforce.com/sfdc/pdf/canvas_framework.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_soql_sosl.pdf
