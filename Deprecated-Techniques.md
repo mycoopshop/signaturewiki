@@ -30,6 +30,11 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 * https://www-01.ibm.com/support/docview.wss?uid=swg27045455&aid=5
 
+## C#
+* https://www.xmlfiles.com/articles/xsl-transformations-in-net-2-0/
+* https://www.xmlfiles.com/articles/transforming-xml-with-xslt-and-asp/
+* http://www.dirigodev.com/blog/web-development-execution/your-first-xsl-transformation-in-aspnet-4/
+
 ## VB
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
