@@ -926,6 +926,8 @@ Format:2xx0xx000
 
 ## Integration
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
+* https://community.boomi.com/s/article/Salesforce-Integration-Guide
+* https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
 * https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90690_.htm
 * https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90710_.htm
 * https://www.ibm.com/support/knowledgecenter/SSZJPZ_11.7.0/com.ibm.swg.im.iis.ds.entpak.salesf.doc/topics/SFQueryStatusBulkLoad.html
