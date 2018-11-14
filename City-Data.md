@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/California_State_Route_33
 
 https://ca-patterson.civicplus.com/FAQ.aspx
 
+https://krebsonsecurity.com/2017/10/usps-informed-delivery-is-stalkers-dream/
+
 https://www.valleyworx.com/
 
 http://www.racecounts.org/county/alameda/
