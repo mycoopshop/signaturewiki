@@ -10,6 +10,12 @@ https://ca-patterson.civicplus.com/FAQ.aspx
 
 https://krebsonsecurity.com/2017/10/usps-informed-delivery-is-stalkers-dream/
 
+http://www.capradio.org/articles/2017/07/31/stockton-co-working-space-to-offer-business-incubator-program-for-startups/
+
+https://thebusinessjournal.com/news/technology/
+
+http://centralcalifornia.org/2018/01/
+
 https://www.valleyworx.com/
 
 http://www.racecounts.org/county/alameda/
