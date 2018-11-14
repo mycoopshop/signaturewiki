@@ -1,4 +1,9 @@
 * http://eyesofesca.com/
+* https://www.oakland.edu/Assets/Oakland/religiousstudies/files-and-documents/faculty-research/Klein,%20Rabbi%20Joe%20-%20Superheroes%20Lecture%20March%208,%202016.pdf
+* https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1428&context=etd_hon_theses
+* https://tinyurl.com/create.php?source=indexpage&url=https%3A%2F%2Fwww.toptenz.net%2F10-times-comic-book-creators-screwed.php&submit=Make+TinyURL%21&alias=
+* https://xkcd.com/1110/
+* https://cran.r-project.org/web/packages/xkcd/vignettes/xkcd-intro.pdf
 * http://www.mtv.com/news/2208227/rappers-who-sound-like-other-rappers/
 * https://hiphopdx.com/editorials/id.4019/title.art-of-rap-20-black-artists-inspired-by-hip-hop
 * https://www.buzzfeed.com/aj8/11-fairytales-you-loved-as-a-child-that-are-actual-cfe3
