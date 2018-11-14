@@ -71,6 +71,7 @@ Perl Jenkins Redis
 
 **Containers**
 * https://sqlsailor.com/
+* https://www.infoworld.com/article/3234531/application-testing/testing-with-the-inmemory-provider-in-entity-framework-core.html
 * https://mscloudinfo.files.wordpress.com/2017/07/windows_server_containers_101_poster.pdf
 * https://pedronsite.files.wordpress.com/2016/06/docker-documentationtechnique.pdf
 * https://itjumpstart.files.wordpress.com/2015/03/15-06-15_dockercheatsheet_a2.pdf
