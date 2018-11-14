@@ -6,6 +6,10 @@ elk grove
 
 https://en.wikipedia.org/wiki/California_State_Route_33
 
+https://data.huffingtonpost.com/
+
+https://benchmark-management.com/is-the-office-building-dead/
+
 https://ca-patterson.civicplus.com/FAQ.aspx
 
 https://krebsonsecurity.com/2017/10/usps-informed-delivery-is-stalkers-dream/
