@@ -12,6 +12,9 @@ Copy/Paste
 
 ## References:
 
+### Time Travel Debugger
+1. https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/time-travel-debugging-overview#what-is-time-travel-debugging
+
 ### Screen Capture
 1. screentogif
 
