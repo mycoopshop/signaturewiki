@@ -51,6 +51,19 @@ network administration
 security specialist
 accessibility specialist
 
+## Marketplaces
+
+https://codecanyon.net/category/html5/media
+
+https://www.fiverr.com/gigs/xml
+
+https://www.quora.com/What-is-an-alternative-to-CodeCanyon-to-buy-software-or-pieces-of-code
+
+https://skillcrush.com/2015/11/19/25-top-sites-for-finding-freelance-jobs/
+
+https://www.quora.com/Can-you-give-me-a-list-of-marketplaces-like-ThemeForest-or-CodeCanyon-where-I-can-sell-desktop-software
+
+## Searches
 
 upwork: coldfusion mediawiki joomla perl vbscript sqlite xslt
 
@@ -61,6 +74,8 @@ title:salesforce title:developer site:linkedin.com title:us +pulse
 sac: sunrun kings lennar vsp
 
 solano: community-college bio-rad thatsmybank statefundca
+
+## Bookmarks
 
 https://www.fremont.k12.ca.us/Page/325
 
