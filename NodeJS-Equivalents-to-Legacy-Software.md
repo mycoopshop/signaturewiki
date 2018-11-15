@@ -9,6 +9,6 @@
 * JavaDoc => JSDoc
 * Apache Flex => Apache Cordova
 
-* **References**
+## References
 
 * https://libraries.io/
