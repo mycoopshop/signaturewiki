@@ -702,3 +702,7 @@ https://ant.apache.org/manual/api/org/apache/tools/ant/taskdefs/optional/jsp/Jsp
 http://www.oracle.com/us/technologies/java/assertions-139853.html
 
 * [Avoiding Common Hurdles in Unit Testing - NearForm](https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/)
+
+* https://codeburst.io/a-skeptics-guide-to-frontend-testing-part-1-5de4806ad300
+
+* https://medium.com/@jeantimex/how-to-open-source-your-react-components-a2128c75b5b6
