@@ -1,4 +1,5 @@
 * https://blog.crossjoin.co.uk/2016/12/05/power-query-power-bi-and-the-allow-data-preview-to-download-in-the-background-option/
+* https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/
 * http://salesforce.topowerbi.com/
 * https://www.slideshare.net/Netwoven/learn-how-to-use-microsoft-power-bi-for-office-365-to-analyze-salesforce-data
 * https://superuser.com/questions/1265142/excel-using-sql-command-on-power-query-data
