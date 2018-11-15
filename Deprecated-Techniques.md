@@ -29,6 +29,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://help.salesforce.com/articleView?id=Retirement-of-Default-Certificate-affects-SAML-Single-Sign-On-into-Salesforce&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 * https://www-01.ibm.com/support/docview.wss?uid=swg27045455&aid=5
+* http://www.decosta.com/Nomad/library/nsp.html
 
 ## C#
 * https://www.xmlfiles.com/articles/xsl-transformations-in-net-2-0/
