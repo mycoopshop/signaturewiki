@@ -36,6 +36,20 @@
 * https://www.sqlskills.com/blogs/erin/sql-server-maintenance-plans-and-parallelism-index-rebuild/
 * https://sqlperformance.com/2013/08/t-sql-queries/parallel-select-into
 * https://www.red-gate.com/simple-talk/sql/learn-sql-server/understanding-and-using-parallelism-in-sql-server/
+* https://www.red-gate.com/simple-talk/sql/t-sql-programming/creating-cross-tab-queries-and-pivot-tables-in-sql/
+
+## PostgreSQL
+
+* https://severalnines.com/blog/migrating-mssql-postgresql-what-you-should-know
+* https://www.convert-in.com/mysql-to-postgres-types-mapping.htm
+* https://www.periscopedata.com/blog/how-to-format-numbers-as-currency-in-postgres-mysql-and-redshift
+
+## Abstraction
+* http://media.datadirect.com/download/docs/ddxquery/allddxq/reference/wwhelp/wwhimpl/common/html/wwhelp.htm?context=reference&file=database_support3.html
+* https://www.xaprb.com/blog/2006/08/13/four-types-of-database-abstraction-layers/
+* http://www.postgresonline.com/journal/archives/21-SQL-Math-Idiosyncracies.html
+* https://www.mediawiki.org/wiki/Manual:Database_access
+* https://www.sqlite.org/sqllogictest/wiki?name=Differences+Between+Engines
 
 ## Replication
 https://kb.promise.com/thread/what-s-the-difference-between-asynchronous-and-synchronous-mirrors/
@@ -47,6 +61,9 @@ http://www.cs.sjsu.edu/faculty/kim/nosql/contents/presentation/slides/ScalableSQ
 ## Serverless
 * https://www.sqlite.org/serverless.html
 * https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+## Excel
+* https://www.loopandbreak.com/calculate-ratio-from-two-numbers/
 
 ## NoSQL / NewSQL
 * http://nosql-database.org/
