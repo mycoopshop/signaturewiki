@@ -38,6 +38,9 @@ Antennae
 1. https://www.fcc.gov/media/engineering/dtvmaps
 1. https://nocable.org/compare-long-range-outdoor-antenna-reviews
 
+Hotspot
+1. https://turbofuture.com/computers/Use-a-4g-Hotspot-for-Internet-in-Your-Home-Network
+
 Mower
 
 1. https://thewirecutter.com/reviews/best-reel-mower/
