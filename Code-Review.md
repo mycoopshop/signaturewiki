@@ -14,7 +14,6 @@ https://www.techgig.com/practice/swift
 
 http://www.programmr.com/api
 
-
 ## References
 
 * https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
