@@ -13,6 +13,7 @@
 * TinyMCE => QuillJS 
 * OData => WebSub (https://www.npmjs.com/search?q=websub)
 * IRC => WebChat (https://www.npmjs.com/package/twitch-webchat)
+* FTP => Torrent (https://www.npmjs.com/package/bittorrent-tracker)
 * Jabber => Converse.js (https://www.npmjs.com/package/converse.js)
 * unMHT => MHTML Parser (https://www.npmjs.com/package/mhtml-parser)
 * xmllint => node-xmllint (https://www.npmjs.com/package/node-xmllint)
