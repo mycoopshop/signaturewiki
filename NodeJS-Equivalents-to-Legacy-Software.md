@@ -1,6 +1,7 @@
 * Rails => Sails (https://github.com/balderdashy/sails/)
 * phpBB => EpochTalk (https://github.com/epochtalk/epochtalk)
 * MediaWiki => TiddlyWiki (https://www.npmjs.com/package/tiddlywiki)
+* OpenSocial => ActivityStreams (https://github.com/pump-io/pump.io)
 * Gollum => Jingo (https://github.com/claudioc/jingo)
 * Jekyll => Hyde (https://github.com/anulman/hyde)
 * Mojo => Hexo (https://hexo.io/docs/)
