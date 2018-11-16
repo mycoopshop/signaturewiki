@@ -54,6 +54,9 @@ https://sites.google.com/site/scriptsexamples/tools-for-google-sites/responsive-
 
 https://ctrlq.org/dev/google-apps-script
 
+## Marketplace
+
+https://www.upwork.com/o/jobs/browse/skill/chrome-extension/?client_hires=0
 
 ## References
 * https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
