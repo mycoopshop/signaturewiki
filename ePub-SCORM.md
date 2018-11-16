@@ -15,3 +15,9 @@ And here are a couple of tutorials:
 
 ## SCORM
 * https://www.elearninglearning.com/flash-to-html5-conversion/scorm/
+
+* https://scorm.com/scorm-explained/technical-scorm/
+
+## PhoneGap
+
+* https://cordova.apache.org/docs/en/latest/guide/appdev/security/
