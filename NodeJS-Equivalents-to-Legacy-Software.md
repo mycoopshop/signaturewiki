@@ -7,6 +7,7 @@
 * Solr => Lunr (https://www.npmjs.com/package/lunr)
 * Apache Commons => CoreJS
 * JavaDoc => JSDoc
+* ICU MessageFormat => JSX/ES6 Macros (https://www.npmjs.com/package/@lingui/macro)
 * Apache Flex => Apache Cordova
 
 ## References
