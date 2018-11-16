@@ -9,6 +9,8 @@
 * JavaDoc => JSDoc
 * ICU MessageFormat => JSX/ES6 Macros (https://www.npmjs.com/package/@lingui/macro)
 * Apache Flex => Apache Cordova
+* ActionScript => CreateJS (https://www.npmjs.com/package/@createjs/core)
+* TinyMCE => QuillJS 
 * OData => WebSub (https://www.npmjs.com/search?q=websub)
 * IRC => WebChat (https://www.npmjs.com/package/twitch-webchat)
 * Jabber => Converse.js (https://www.npmjs.com/package/converse.js)
