@@ -1152,6 +1152,30 @@ Format:2xx0xx000
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
 
 # Adobe 
+## Headless Architecture
+* Aggregation
+ * RSS => XSLT
+* Asset management 
+ * imgur => cloudflare
+* Access control and security
+ * Github API => Chrome extension UI
+* Workflow management
+ * Cloud9 => Heroku
+* Version control
+ * Git
+* Translations
+ * MessageFormat
+* Personalization
+ * MessageFormat + IndexedDB
+* Single-page applications
+ * JSON => React
+* Mobile apps
+ * JSON => React Native
+* Roku apps
+ * JSON => XML +> BrightScript 
+What does "decoupled" mean?
+Content authoring and editorial functionality is separate from front-end development capabilities. Content is stored within a shared repository that both IT and marketing teams can access.
+
 * https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/ht-projects-maven.html
 * https://helpx.adobe.com/experience-manager/using/querying-experience-manager-data-using1.html
 * https://helpx.adobe.com/experience-manager/using/oak-login.html
