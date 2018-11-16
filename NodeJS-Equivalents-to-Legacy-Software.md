@@ -16,6 +16,7 @@
 * Jabber => Converse.js (https://www.npmjs.com/package/converse.js)
 * unMHT => MHTML Parser (https://www.npmjs.com/package/mhtml-parser)
 * xmllint => node-xmllint (https://www.npmjs.com/package/node-xmllint)
+* didYouMean => ngl (https://www.npmjs.com/package/nlg)
 
 ## References
 
