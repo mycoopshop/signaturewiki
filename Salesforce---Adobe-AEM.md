@@ -1211,11 +1211,10 @@ Content authoring and editorial functionality is separate from front-end develop
 * https://repo.adobe.com/nexus/content/groups/public/com/adobe/granite/com.adobe.granite.workflow.console/1.0.0/com.adobe.granite.workflow.console-1.0.0.pom
 * https://wwwimages2.adobe.com/content/dam/acom/en/marketing-cloud/experience-manager/pdfs/experience-fragments-for-headless.pdf
 * https://www.adobe.com/content/dam/acom/en/marketing-cloud/enterprise-content-management/pdfs/54658.en.aem-mobile.brief.using-third-party-content.pdf
-* 
 * http://www.tothenew.com/blog/content-migration-in-aem-using-slingpostservlet/
 * https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/model-data.html
 
-#Drupal
+## Drupal
 
 * https://www.drupal.org/blog/three-ways-we-can-improve-drupals-evaluator-experience
 * https://www.drupal.org/node/2365547
