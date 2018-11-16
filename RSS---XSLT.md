@@ -42,3 +42,4 @@ https://newsroom.courts.ca.gov/rss
 * https://wiki.thingsandstuff.org/Open_social#Web_Intents
 * http://docs.oasis-open.org/xri/xrd/v1.0/os/xrd-1.0-os.html
 * https://www.w3.org/TR/xslt20/Overview-diff.html
+* https://blogs.sap.com/2018/08/20/monday-morning-thoughts-odata/
