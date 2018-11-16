@@ -11,6 +11,7 @@
 * Apache Flex => Apache Cordova
 * OData => WebSub (https://www.npmjs.com/search?q=websub)
 * IRC => WebChat (https://www.npmjs.com/package/twitch-webchat)
+* Jabber => Converse.js (https://www.npmjs.com/package/converse.js)
 
 ## References
 
