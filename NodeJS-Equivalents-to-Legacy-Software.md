@@ -18,6 +18,8 @@
 * unMHT => MHTML Parser (https://www.npmjs.com/package/mhtml-parser)
 * xmllint => node-xmllint (https://www.npmjs.com/package/node-xmllint)
 * didYouMean => ngl (https://www.npmjs.com/package/nlg)
+* sched => agenda (https://www.npmjs.com/package/agenda)
+
 
 ## References
 
