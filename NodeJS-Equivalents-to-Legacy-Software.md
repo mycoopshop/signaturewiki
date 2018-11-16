@@ -9,6 +9,7 @@
 * JavaDoc => JSDoc
 * ICU MessageFormat => JSX/ES6 Macros (https://www.npmjs.com/package/@lingui/macro)
 * Apache Flex => Apache Cordova
+* OData => WebSub (https://www.npmjs.com/search?q=websub)
 
 ## References
 
