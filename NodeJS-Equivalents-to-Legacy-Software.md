@@ -22,6 +22,7 @@
 * xsltproc => xslt-processor (https://www.npmjs.com/package/xslt-processor)
 * didYouMean => nlg (https://www.npmjs.com/package/nlg)
 * sched => agenda (https://www.npmjs.com/package/agenda)
+* Perl One Liner => Regex-Parser (https://www.npmjs.com/package/regex-parser)
 
 ## References
 
