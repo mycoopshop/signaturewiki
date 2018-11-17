@@ -9,6 +9,7 @@
 * Solr => Lunr (https://www.npmjs.com/package/lunr)
 * Apache Commons => CoreJS
 * JavaDoc => JSDoc
+* WSH => Win32OLE (https://www.npmjs.com/package/win32ole)
 * ICU MessageFormat => JSX/ES6 Macros (https://www.npmjs.com/package/@lingui/macro)
 * Apache Flex => Apache Cordova
 * ActionScript => CreateJS (https://www.npmjs.com/package/@createjs/core)
