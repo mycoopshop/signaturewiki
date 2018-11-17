@@ -55,3 +55,11 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 * https://btholt.github.io/complete-intro-to-react-v2/2016/01/11/react-testing.html
 * https://medium.com/@luisvieira_gmr/snapshot-testing-react-components-with-jest-best-practices-dd1585b2b93d
 * https://www.jstwister.com/post/jest-snapshot-testing-with-enzyme/
+
+## ReactDOM
+* https://www.slideshare.net/ronalfy/introduction-to-react-for-jquery-developers-75536302
+* https://dev.to/vonheikemen/creating-react-components-using-only-es5-features-52a1
+* http://www.jstips.co/en/react/
+* https://blog.jfo.click/how-react-do/
+* https://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html
+* https://www.slideshare.net/ronalfy/introduction-to-react-for-jquery-developers-75536302
