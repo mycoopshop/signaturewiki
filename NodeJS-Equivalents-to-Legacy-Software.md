@@ -3,6 +3,7 @@
 * MediaWiki => TiddlyWiki (https://www.npmjs.com/package/tiddlywiki)
 * OpenSocial => ActivityStreams (https://github.com/pump-io/pump.io)
 * Gollum => Jingo (https://github.com/claudioc/jingo)
+* CouchDB => PouchDB (https://www.npmjs.com/package/pouchdb)
 * Jekyll => Hyde (https://github.com/anulman/hyde)
 * Mojo => Hexo (https://hexo.io/docs/)
 * Solr => Lunr (https://www.npmjs.com/package/lunr)
