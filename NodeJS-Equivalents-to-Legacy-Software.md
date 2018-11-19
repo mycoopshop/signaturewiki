@@ -24,6 +24,9 @@
 * didYouMean => nlg (https://www.npmjs.com/package/nlg)
 * sched => agenda (https://www.npmjs.com/package/agenda)
 * Perl One Liner => Regex-Parser (https://www.npmjs.com/package/regex-parser)
+* Sonar => auditjs (https://www.npmjs.com/package/auditjs)
+* Jira => semantic-kanban (https://www.npmjs.com/package/semantic-kanban)
+
 
 ## References
 
