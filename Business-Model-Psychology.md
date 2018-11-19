@@ -68,6 +68,10 @@
 * https://en.wikipedia.org/wiki/Lost-wax_casting
 * https://en.wikipedia.org/wiki/United_States_Senate_Select_Committee_on_Nutrition_and_Human_Needs
 * http://news.sma.org.sg/4102/SunTzu.pdf
+* https://en.wikipedia.org/wiki/Arturo_Alfonso_Schomburg
+* https://en.wikipedia.org/wiki/Jessie_Carney_Smith
+* https://en.wikipedia.org/wiki/Jessie_Carney_Smith
+* https://en.wikipedia.org/wiki/Category:African-American_librarians
 * https://www.theindependent.co.zw/2017/12/21/art-war-business-leadership/
 * http://www.doonething.org/quotes/enemies-quotes.htm
 * https://files.eric.ed.gov/fulltext/ED130948.pdf
