@@ -63,3 +63,17 @@ https://tools.ietf.org/html/rfc1034
 https://tools.ietf.org/html/rfc2136
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.479.9416&rep=rep1&type=pdf
+
+https://support.apple.com/en-us/HT202944
+
+https://openconnect.netflix.com/en/network-configuration/
+
+https://docs.aws.amazon.com/workspaces/latest/adminguide/workspaces-port-requirements.html
+
+https://corporate.comcast.com/images/Comcast_Innovation_Fund_-_2016_Annual_Report_PKlPHJY.pdf
+
+https://business.comcast.com/help-and-support/internet/comcast-business-ip-gateway-static-firewall/
+
+https://www.xfinity.com/support/articles/run-traceroute-command
+
+https://support.xbox.com/en-US/xbox-360/networking/network-ports-used-xbox-live
