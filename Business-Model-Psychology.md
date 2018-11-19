@@ -1,6 +1,7 @@
 * https://www.computerworld.com/article/2485087/emerging-technology-case-study-3-heavyweights-give-gamification-a-go.html?page=2
 * https://medium.com/aws-enterprise-collection/6-strategies-for-migrating-applications-to-the-cloud-eb4e85c412b4
 * https://yourstory.com/2014/03/ultimate-master-list-revenue-models-web-mobile-companies/
+* https://www.apnews.com/4a8c30e18ec84f60a0aa0178d8485355
 * https://producthabits.com/atlassian-built-10-billion-growth-engine/
 * https://blogs.oracle.com/marketingcloud/5-ways-you-can-bring-more-creativity-into-brainstorming-and-kick-start-the-flow-of-ideas
 * https://www.barrons.com/articles/morgan-stanley-bullish-on-salesforce-com-servicenow-after-tmt-conference-1488901606
