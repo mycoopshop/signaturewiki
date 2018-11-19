@@ -36,6 +36,14 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://www.xmlfiles.com/articles/transforming-xml-with-xslt-and-asp/
 * http://www.dirigodev.com/blog/web-development-execution/your-first-xsl-transformation-in-aspnet-4/
 
+## TCL
+* https://en.wikipedia.org/wiki/ArsDigita_Community_System
+* https://openacs.org/forums/message-view?message_id=395016
+
+## Literate Programming
+* http://www.ross.net/funnelweb/
+* https://ashkenas.com/docco/
+
 ## VB
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
