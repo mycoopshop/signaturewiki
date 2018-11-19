@@ -100,6 +100,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 ## Release Planning
 * https://community.oracle.com/community/support/support-blogs/taleo-support-blog/
 
+* http://www.ecma-international.org/news/PressReleases/White%20Paper%20on%20TC39%20PR%2019%20August%202008.pdf
+
 ## Integration
 
 * https://www.slideshare.net/PankajBiswas3/uploading-files-using-selenium-web-driver
