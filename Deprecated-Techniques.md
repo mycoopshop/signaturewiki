@@ -115,6 +115,14 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://www.mkyong.com/spring-mvc/spring-mvc-log4j-integration-example/
 * http://mrbool.com/integrating-log4j-spring-mvc/33464
 
+## Scripting
+
+* https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/fw8ace91(v=vs.100)
+* https://docs.microsoft.com/en-us/dotnet/api/microsoft.jscript?redirectedfrom=MSDN&view=netframework-4.7.2
+* https://blogs.msdn.microsoft.com/gauravseth/2007/08/16/difference-between-jscript-jscript-net-and-managed-jscript/
+* https://blogs.msdn.microsoft.com/ericlippert/2003/11/14/the-jscript-type-system-part-six-even-more-on-arrays-in-jscript-net/
+* https://blogs.msdn.microsoft.com/jscript/2008/04/02/reading-xml-file-with-jscript/
+
 ## GUI
 
 * https://www.angryadmin.co.uk/?p=936
