@@ -44,7 +44,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * http://www.ross.net/funnelweb/
 * https://ashkenas.com/docco/
 
-## VB
+## VB/ASP
+* https://docs.microsoft.com/en-us/previous-versions/office/developer/server-technologies/aa286483(v=msdn.10)
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
 * https://www.example-code.com/vb6/sharepoint_online_authentication.asp
@@ -72,6 +73,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 
 ## Architecture
+
+* https://trends.builtwith.com/framework/traffic/Top-100k
 
 * https://hiper.cis.udel.edu/lp/lib/exe/fetch.php/courses/cisc879/eclipse-platform-whitepaper.pdf
 
