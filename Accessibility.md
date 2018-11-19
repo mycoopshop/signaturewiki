@@ -53,3 +53,5 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * http://www.webaxe.org/category/testing/
 
 * https://tink.uk/using-the-aria-application-role/
+
+* http://www.weba11y.com/blog/2015/02/24/creating-and-editing-captions/
