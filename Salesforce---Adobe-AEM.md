@@ -1222,5 +1222,8 @@ Content authoring and editorial functionality is separate from front-end develop
 
 * https://www.drupal.org/blog/three-ways-we-can-improve-drupals-evaluator-experience
 * https://www.drupal.org/node/2365547
+* https://dri.es/how-to-decouple-drupal-in-2018
+* https://dri.es/announcing-node-js-on-acquia-cloud
 * https://builtwith.com/ancestry.com
 * https://css-tricks.com/what-is-a-headless-cms/
+*
