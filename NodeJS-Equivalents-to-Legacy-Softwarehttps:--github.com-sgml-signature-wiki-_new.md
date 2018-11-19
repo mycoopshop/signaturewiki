@@ -7,6 +7,7 @@
 * Jekyll => Hyde (https://github.com/anulman/hyde)
 * Mojo => Hexo (https://hexo.io/docs/)
 * Solr => Lunr (https://www.npmjs.com/package/lunr)
+* Lucene => itemsjs (https://github.com/itemsapi/itemsjs)
 * Apache Commons => CoreJS
 * JavaDoc => JSDoc
 * WSH => Win32OLE (https://www.npmjs.com/package/win32ole)
