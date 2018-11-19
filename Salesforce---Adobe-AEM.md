@@ -164,6 +164,7 @@ Excellent verbal and written communication skills
 **Certification**
 * https://www.salesforce.com/dreamforce/certification/
 * https://trailhead.salesforce.com/credentials/developeroverview
+* https://trailhead.salesforce.com/help?article=Link-Your-Trailhead-and-Webassessor-Accounts
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
