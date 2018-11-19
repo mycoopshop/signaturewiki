@@ -1,5 +1,7 @@
 >You can boost your brand authority and earn quality backlinks by leveraging link rot to your advantage. Comb through influential websites, online journals and even your competitors’ websites to look for broken links and 404-error pages. Then create a similarly-themed resource and turn it into an epic, stand-alone post. Use graphs, statistics, research and interviews with influencers to really fill out your content.
 
+https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+
 http://amberlink.org/
 
 https://venturebeat.com/2017/01/13/the-internet-archive-launches-wayback-machine-chrome-extension-to-combat-link-rot/
