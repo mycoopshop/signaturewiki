@@ -78,7 +78,7 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 /page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
-
+* https://help.salesforce.com/articleView?id=000272809&type=1&language=en_US
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
 * https://help.salesforce.com/articleView?id=Best-Practices-to-Avoid-Excessive-SOAP-and-REST-API-DML&language=en_US&type=1
@@ -744,6 +744,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Accessibility
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
+* https://www.salesforce.com/company/legal/508_accessibility/
+* https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
 
 ## Automation
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
