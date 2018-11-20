@@ -40,6 +40,10 @@ Antennae
 
 Hotspot
 1. https://turbofuture.com/computers/Use-a-4g-Hotspot-for-Internet-in-Your-Home-Network
+1. http://www.tomshardware.com/answers/id-2221584/connect-mobile-hotspot-router-ethernet-connections.html
+1. https://www.reddit.com/r/NintendoSwitch/comments/6dggxe/using_your_android_smartphone_as_a_wifi_repeater/
+1. https://www.makeuseof.com/tag/usb-tethering-fix-laptops-bad-wifi-connection/
+1. https://www.quora.com/How-do-I-use-Android-as-a-WiFi-repeater
 
 Mower
 
