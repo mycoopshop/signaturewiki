@@ -10,6 +10,9 @@
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
 
+### Sort
+https://en.wikipedia.org/wiki/Schwartzian_transform
+
 ## Command Line
 * https://www.perl.com/pub/2004/08/09/commandline.html/
 * http://perl101.org/command-line-switches.html
