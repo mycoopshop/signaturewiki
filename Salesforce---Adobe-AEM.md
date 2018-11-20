@@ -781,6 +781,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://jetbi.com/salesforce-summer-2018-release-overview
 * https://www.forcetalks.com/
 
+## Investor Timeline
+* https://s1.q4cdn.com/454432842/files/doc_presentations/2016/2016-DF-Analyst-Day_FINAL_Website.pdf
+* https://steveblank.com/tools-and-blogs-for-entrepreneurs/
+* http://downloads.digitalmarketingdepot.com/rs/727-ZQE-044/images/MIR_1604_PredAnalyt.pdf?ref=emailmarketingtipps.de
+* https://timelines.issarice.com/wiki/Timeline_of_salesforce.com
+* https://en.wikipedia.org/wiki/Configure_Price_Quote
+
 ## Known Issues
 Format:2xx0xx000
 * https://success.salesforce.com/issues_releases_view?release=212000000
