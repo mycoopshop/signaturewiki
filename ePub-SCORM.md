@@ -15,7 +15,7 @@ And here are a couple of tutorials:
 
 ## SCORM
 * https://www.elearninglearning.com/flash-to-html5-conversion/scorm/
-
+* https://community.articulate.com/discussions/building-better-courses/reverse-engineering-scorm-packages-for-editing
 * https://scorm.com/scorm-explained/technical-scorm/
 
 ## PhoneGap
