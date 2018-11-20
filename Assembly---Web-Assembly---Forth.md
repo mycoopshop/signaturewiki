@@ -1,4 +1,5 @@
 * https://rosettacode.org/wiki/Terminal_control/Ringing_the_terminal_bell
+* http://cggallant.blogspot.com/2018/01/webassembly-caching-when-using.html
 * https://en.wikipedia.org/wiki/Fork_bomb
 * http://files.catwell.info/misc/mirror/lua-5.2-bytecode-vm-dirk-laurie/lua52vm.html
 * https://www.tutorialspoint.com/assembly_programming/assembly_quick_guide.htm
