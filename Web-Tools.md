@@ -1,4 +1,5 @@
 * https://microsoft.github.io/language-server-protocol/implementors/servers/
+* https://blogs.msdn.microsoft.com/oldnewthing/20181115-01/?p=100235
 * https://htaccess.madewithlove.be
 * https://validatejavascript.com
 * http://beautifytools.com/css-validator.php
