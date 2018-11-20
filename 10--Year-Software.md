@@ -1,0 +1,5 @@
+Perl: Bugzilla (https://www.bugzilla.org/docs/developer.html)
+C: SQLite (https://www.sqlite.org)
+Java: Rhino (https://github.com/mozilla/rhino)
+C++: Scintilla (https://www.scintilla.org/)
+Ruby: Rake (https://github.com/ruby/rake)
