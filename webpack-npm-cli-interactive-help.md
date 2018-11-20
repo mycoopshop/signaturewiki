@@ -234,6 +234,9 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9
 * http://xabikos.com/2015/10/03/Webpack-aliases-and-relative-paths/
 
+# Localhost
+* https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a
+
 # Optimization
 * https://webpack.js.org/configuration/optimization/
 * https://webpack.js.org/configuration/devtool/
