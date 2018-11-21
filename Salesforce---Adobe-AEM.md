@@ -226,6 +226,10 @@ Excellent verbal and written communication skills
 * https://developer.salesforce.com/blogs/2018/05/the-making-of-the-robotics-ridge-at-trailheadx.html
 * https://help.salesforce.com/articleView?id=remoteaccess_identity_iot.htm&type=5
 
+**Samples**
+* https://github.com/developerforce/LEXComponentsBundle
+* https://github.com/developerforce/LightningContainerExamples
+
 **Tutorials**
 * https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
 * https://developer.salesforce.com/page/Developing_Cloud_Apps_—_Coding_Optional
