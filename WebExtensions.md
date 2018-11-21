@@ -80,6 +80,9 @@
 * Nuff Tabs
 * Aesop Ipsum
 * https://chrome.google.com/webstore/detail/ecmascript-6-transpiler-e/pdhcmniladmhlgbonkemgneaajaegepe?hl=en
+* https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android
+* https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities
+* https://developer.chrome.com/multidevice/faq
 * https://60devs.com/development-of-cross-browser-browser-extensions-using-es6-babeljs.html
 * https://addons.mozilla.org/en-US/firefox/addon/xpicompiler/
 * https://medium.com/@yuridrabik/create-chrome-devtools-extension-using-react-js-1b8e16e8dc72
