@@ -45,3 +45,9 @@ Have no friends not equal to yourself.
 * [A Study on Confucian View of the Superior Man](https://ci.nii.ac.jp/els/contentscinii_110008797162.pdf?id=ART0009846558)
 
 * [The Internet Classics Archive | The Great Learning by Confucius](http://classics.mit.edu/Confucius/learning.html)
+
+* https://www.headlineshirts.net/confucius-says-womens-t-shirt.html
+
+* http://management-quotes.net/authors/Confucius
+
+* https://www.quotes.wiki/author/confucius/
