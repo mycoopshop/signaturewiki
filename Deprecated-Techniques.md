@@ -92,6 +92,17 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 * https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1178/handouts/5-JAR-Files.pdf
 
+## UTF-16
+* https://knowledgebase.progress.com/articles/Article/P188708
+* https://www.xml.com/pub/a/2005/06/15/py-xml.html
+
+## XQuery
+* https://www.progress.com/tutorials/xquery/learn-xquery-in-10-minutes
+* https://www.progress.com/tutorials/xquery/working-with-other-data-sources
+* https://www.progress.com/tutorials/xquery/using-the-data-integration-suite
+* https://documentation.progress.com/output/rb/assets/lending-library_v7.xml
+* https://www.progress.com/tutorials/xml-converters/converting-edi
+
 ## Templating
 
 * https://www.baeldung.com/apache-velocity
