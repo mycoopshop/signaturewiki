@@ -5,6 +5,7 @@
 * https://xkcd.com/1110/
 * https://cran.r-project.org/web/packages/xkcd/vignettes/xkcd-intro.pdf
 * http://www.mtv.com/news/2208227/rappers-who-sound-like-other-rappers/
+* https://en.wikipedia.org/wiki/Coloring_Book_(mixtape)
 * https://hiphopdx.com/editorials/id.4019/title.art-of-rap-20-black-artists-inspired-by-hip-hop
 * https://www.buzzfeed.com/aj8/11-fairytales-you-loved-as-a-child-that-are-actual-cfe3
 * https://www.brainpickings.org/2015/07/15/nikki-giovanni-love-friendship-loneliness
