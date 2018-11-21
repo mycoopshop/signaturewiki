@@ -447,6 +447,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=000271319&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000269324&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=pardot_connectors_site_search_third_party_add.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_connector_social_connector_parent.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_email_authentication_add_spf_dkim_to_dns.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
@@ -639,6 +641,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * oauthToken
 
 ### References
+* https://help.salesforce.com/articleView?id=000181277&type=1
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
 * https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
