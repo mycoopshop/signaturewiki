@@ -77,3 +77,8 @@ https://business.comcast.com/help-and-support/internet/comcast-business-ip-gatew
 https://www.xfinity.com/support/articles/run-traceroute-command
 
 https://support.xbox.com/en-US/xbox-360/networking/network-ports-used-xbox-live
+
+https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000257627-What-are-Netflix-s-Aspera-IP-Addresses-and-Port-Ranges-
+
+http://shouldiblockicmp.com/
+33001
