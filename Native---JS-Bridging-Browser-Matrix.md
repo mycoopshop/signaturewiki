@@ -33,3 +33,9 @@ https://adtmag.com/articles/2017/10/02/walmart-react-native.aspx
 https://www.infoq.com/articles/affordable-react-native-development
 
 https://adtmag.com/articles/2017/06/07/enterprise-apps.aspx
+
+https://answers.syr.edu/display/blackboard01/Supported+Browsers+and+Operating+Systems
+
+https://www.w3schools.com/browsers/default.asp
+
+https://www.mediawiki.org/wiki/VisualEditor/Target_browser_matrix
