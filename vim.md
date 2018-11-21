@@ -1,3 +1,4 @@
+Delete between quotes: d/' + enter
 * https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
 * https://vimconfig.com/
 * http://vimdoc.sourceforge.net/htmldoc/usr_41.html#script
