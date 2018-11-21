@@ -166,3 +166,8 @@ https://mcculloughwebservices.com/2016/10/30/possible-eventemitter-memory-leak-d
 https://reactjs.org/docs/faq-functions.html
 https://www.webreflection.co.uk/blog/2015/10/22/how-to-add-dom-events-listeners
 https://github.com/facebook/react/issues/6901
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+https://github.com/zloirock/core-js/issues/86
+https://wiki.mozilla.org/Gecko:Overview
+https://firefox-source-docs.mozilla.org/toolkit/content/toolkit_widgets/ua_widget.html
+https://yahooeng.tumblr.com/post/122162710056/easier-instrumentation-with-react-i13n
