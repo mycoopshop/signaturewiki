@@ -18,6 +18,19 @@ Excellent verbal and written communication skills
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-faq.html
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-training-materials.html
 
+**Architecture**
+url:servlet ext:pdf site:salesforce.com
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041B37QAE
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041d62QAA
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041asDQAQ
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041aWvQAI
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDGRQA2
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDELQA2
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDH0QAM
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDEzQAM
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002yIWjQAM
+ 
 **Syntax**
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://github.com/forceworkbench/forceworkbench/wiki
@@ -794,6 +807,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Investor Timeline
 * https://s1.q4cdn.com/454432842/files/doc_presentations/2016/2016-DF-Analyst-Day_FINAL_Website.pdf
+* http://www.oracle.com/us/corporate/analystreports/nucleus-crm-tech-value-matrix-4466326.pdf
 * https://steveblank.com/tools-and-blogs-for-entrepreneurs/
 * http://downloads.digitalmarketingdepot.com/rs/727-ZQE-044/images/MIR_1604_PredAnalyt.pdf?ref=emailmarketingtipps.de
 * https://timelines.issarice.com/wiki/Timeline_of_salesforce.com
