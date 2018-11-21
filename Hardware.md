@@ -13,6 +13,16 @@ Universal Remote
 
 1. https://electronics.stackexchange.com/questions/404238/how-do-universal-ir-remote-codes-work
 
+XP Hard Drive
+1. https://askleo.com/four-options-for-xp-die-hards/
+1. https://askleo.com/why_cant_i_connect_with_a_169254xx_ip_address/
+
+irDA
+1. http://ask-leo.com/whats_bluetooth.html
+
+SMTP Server
+1. https://askleo.com/someones-sending-email-address-stop/
+
 RFID
 
 1. https://www.pretzellogix.net/2015/08/15/the-best-bluetooth-rfid-finder-for-iphone-android-smartphone/
