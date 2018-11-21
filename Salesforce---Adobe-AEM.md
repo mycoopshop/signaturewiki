@@ -750,6 +750,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Lightning_Security
 * http://www.dannicholson.co.uk/2018/06/working-with-conditional-attribute.html
 
+## Background Utilities
+* https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_console_background_utility_items.htm
+* https://www.salesforce.com/blog/2018/04/introducing-proactive-monitoring.html
+
 ## Accessibility
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://www.salesforce.com/company/legal/508_accessibility/
