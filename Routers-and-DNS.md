@@ -80,5 +80,7 @@ https://support.xbox.com/en-US/xbox-360/networking/network-ports-used-xbox-live
 
 https://partnerhelp.netflixstudios.com/hc/en-us/articles/115000257627-What-are-Netflix-s-Aspera-IP-Addresses-and-Port-Ranges-
 
+https://frontier.com/helpcenter/categories/categories/internet/get-rid-of-problems#/collapse3
+
 http://shouldiblockicmp.com/
 33001
