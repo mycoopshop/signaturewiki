@@ -245,6 +245,8 @@ url:servlet ext:pdf site:salesforce.com
 * https://partners.salesforce.com/s/education/general/Salesforce_IoT
 * https://developer.salesforce.com/blogs/2018/05/the-making-of-the-robotics-ridge-at-trailheadx.html
 * https://help.salesforce.com/articleView?id=remoteaccess_identity_iot.htm&type=5
+* https://engineering.salesforce.com/meraki-rce-when-red-team-and-vulnerability-research-fell-in-love-9eeea8df531d
+
 
 **Samples**
 * https://github.com/developerforce/LEXComponentsBundle
@@ -441,6 +443,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Marketing Cloud
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
+* https://help.salesforce.com/articleView?id=mc_es_ftp_instruction_guide.htm&type=5
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_es_sender_policy_framework_faq.htm&type=5
@@ -496,6 +499,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_cli_reference.pdf
 
 ## CLI
+* https://developer.salesforce.com/search/?/#stq=dwnld
 * https://developer.salesforce.com/page/Tools
 * https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html
 * https://developer.salesforce.com/blogs/2018/04/developing-plugins-for-the-salesforce-cli.html
@@ -595,6 +599,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003JBggEAG
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DqDOXUA3
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EJHn5UAH
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DoIabUAF
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003IlD7EAK
 
 ## Recovery
 * https://developer.salesforce.com/blogs/developer-relations/2014/11/enterprise-data-architecture.html
