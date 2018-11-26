@@ -68,3 +68,5 @@ or a HTTP header response, as per RFC 7231:
 Discovery Services for OGSA-based Grids](http://www.cs.virginia.edu/~gsw2c/research/UDDI_Grids.pdf)
 
 * [Importing the Semantic Web in UDDI](http://www.cs.cmu.edu/~terryp/Pubs/Paolucci-WSeBT2002.pdf)
+
+* [Prerequisites for performing top-down discovery using Service Mapping](https://docs.servicenow.com/bundle/london-it-operations-management/page/product/service-mapping/reference/prerequisites-service-mapping.html)
