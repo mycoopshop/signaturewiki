@@ -18,6 +18,10 @@
 * http://lvtutorial.com/spring-mvc/angularjs-spring-mvc-crud-example.html
 * https://dzone.com/articles/hybrid-spring-boot-and-react-or-angular-a-better-w
 * https://stackoverflow.com/questions/38532210/how-to-integrate-angular-2-java-maven-web-application
+* https://www.methoda.co.il/wp-content/uploads/2016/07/jsd-5-signs-wp.pdf
+* https://www.servicenow.com/content/dam/servicenow/other-documents/investor-relations/financial-analyst-day/servicenow-2018-financial-analyst-day.pdf
+* https://workday.gcs-web.com/static-files/68bfe493-5b5f-4caa-ac23-cf937f4645c2
+* https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/wp-data-encryption-with-servicenow.pdf
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
