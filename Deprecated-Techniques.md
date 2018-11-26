@@ -22,6 +22,12 @@
 * https://www.servicenow.com/content/dam/servicenow/other-documents/investor-relations/financial-analyst-day/servicenow-2018-financial-analyst-day.pdf
 * https://workday.gcs-web.com/static-files/68bfe493-5b5f-4caa-ac23-cf937f4645c2
 * https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/wp-data-encryption-with-servicenow.pdf
+* https://www.workday.com/content/dam/web/en-us/documents/investor/fiscal-2015-annual-report-and-proxy-statement.pdf
+* https://www.workday.com/content/dam/web/en-us/documents/datasheets/datasheet-workday-security.pdf
+* https://docs.servicenow.com/bundle/helsinki-security-management/page/product/splunk-integration/reference/servicenow-eula.html
+* https://blogs.workday.com/why-weve-moved-to-single-codeline-development-at-workday/
+* https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/data-sheet/servicenow-dpa-with-sccs.pdf
+* https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/analyst-report/analyst-status-quo-creates-security-risk.pdf
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
