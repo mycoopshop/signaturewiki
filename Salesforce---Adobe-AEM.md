@@ -560,6 +560,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003I2gDEAS
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/5-steps-transform-idea-appexchange-app.html
 
+## AppExchange Prospects
+* https://investor.salesforce.com/about-us/investor/investor-news/investor-news-details/2018/Pacers-Sports--Entertainment-Teams-Up-with-Salesforce-to-Create-the-Ultimate-Indiana-Pacers-Fan-Experience/default.aspx
+* https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
+
 ## ISV
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/dynamic-apex-class-instantiation-in-summer-12.html
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
@@ -578,6 +583,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2017/11/mytrailhead-reinventing-trailblazer-learning.html
 
 ## Subcontractor Market
+* http://www.0to1code.com/
 * https://appexchange.salesforce.com/consulting
 * https://www.salesforce.org/nonprofit/find-partner/
 * https://powerofus.force.com/ProBonoServices
