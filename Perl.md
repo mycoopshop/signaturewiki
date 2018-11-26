@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/Schwartzian_transform
 
 ## XML
 https://culturedperl.com/perl-5-xml-validation-with-dtd-and-xsd-ec2d90f7c434
+https://docs.servicenow.com/bundle/london-application-development/page/integrate/perl/task/t_InstallThePerlAPI.html
 
 ## CPAN
 * https://mojolicious.org/perldoc/CPAN
