@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/California_State_Route_33
 
 https://data.huffingtonpost.com/
 
+https://money.stackexchange.com/questions/62214/is-there-any-way-to-buy-a-new-car-directly-from-toyota-without-going-through-a-d
+
 https://benchmark-management.com/is-the-office-building-dead/
 
 https://ca-patterson.civicplus.com/FAQ.aspx
