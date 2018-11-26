@@ -518,6 +518,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://schemalister.herokuapp.com
 
 ## Heroku Connect
+* https://developer.salesforce.com/dreamhouse/pio/
 * https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
 * https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
 * https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/
