@@ -45,6 +45,13 @@ url:servlet ext:pdf site:salesforce.com
 * https://developer.salesforce.com/page/Apex_Wiki
 * https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml
 
+## OAuth/SAML
+* https://help.salesforce.com/articleView?id=000221207&type=1
+* https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
+* https://help.salesforce.com/articleView?id=000230807&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=identity_provider_examples_3p_adfs.htm
+* https://success.salesforce.com/issues_index?tag=Authentication
+
 ## Metadata Enumeration/Serialization
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
 * https://blog.jeffdouglas.com/2011/10/20/getting-salesforce-field-metadata-the-easy-way/
@@ -1051,6 +1058,7 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/engineering/2013/07/alert-salesforce-event-notification-designs-for-force-com-apps.html
 
 ## Logging/Debugging/Troubleshooting
+* https://success.salesforce.com/issues_index?tag=Performance
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/time-clean-unneeded-salesforce-customizations.html
 * https://developer.salesforce.com/blogs/engineering/2016/01/apex-interactive-debugger.html
 * https://developer.salesforce.com/blogs/engineering/2017/01/salesforce-console-performance.html
