@@ -32,3 +32,5 @@
 * https://blog.roku.com/developer/tutorial-channel-packaging
 * https://sdkdocs.roku.com/display/sdkdoc/Debugging+Your+Application
 * https://www.reddit.com/r/Roku/comments/2usq8o/whats_up_with_the_open_ports_on_roku_3/
+* https://blog.roku.com/developer/how-roku-channels-work
+* https://blog.roku.com/developer/2016/03/03/scenegraph-tutorial
