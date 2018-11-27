@@ -22,6 +22,9 @@
 * http://brightsignbiz.s3.amazonaws.com/documents/BrightScript%20Reference%20Manual%203.0.pdf
 * https://www.slideshare.net/invalidname/introduction-to-the-roku-sdk
 
+
+## Debugging 
+* https://github.com/belltown/violetbug
 * https://blog.roku.com/tips-to-improve-the-internet-and-wi-fi-connection-on-your-roku-player
 * https://sdkdocs.roku.com/display/sdkdoc/Roku+Plugin+for+Eclipse+IDE
 * https://blog.roku.com/developer/tutorial-roku-billing-services
