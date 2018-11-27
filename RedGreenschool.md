@@ -11,3 +11,5 @@
 >Why didn't I speak to more people?  The truth is that through eight months of being on the DevTools team I had been isolated to only working on the debugger, so I was timid when it came to interacting outside my team...and it cost me dearly.  I'll never attack a problem like this again without talking to more people in the future.  I had a wealth of people around me but being timid cost me so much mental anguish.
 
 https://workplace.stackexchange.com/questions/42726/in-usa-what-benefit-does-a-degree-from-a-more-prestigious-university-hold-when/78862#78862
+
+https://www.quora.com/How-true-is-the-quote-A-students-work-for-B-students-at-companies-founded-by-C-students
