@@ -21,3 +21,10 @@
 ## Documents
 * http://brightsignbiz.s3.amazonaws.com/documents/BrightScript%20Reference%20Manual%203.0.pdf
 * https://www.slideshare.net/invalidname/introduction-to-the-roku-sdk
+
+* https://blog.roku.com/tips-to-improve-the-internet-and-wi-fi-connection-on-your-roku-player
+* https://sdkdocs.roku.com/display/sdkdoc/Roku+Plugin+for+Eclipse+IDE
+* https://blog.roku.com/developer/tutorial-roku-billing-services
+* https://blog.roku.com/developer/tutorial-channel-packaging
+* https://sdkdocs.roku.com/display/sdkdoc/Debugging+Your+Application
+* https://www.reddit.com/r/Roku/comments/2usq8o/whats_up_with_the_open_ports_on_roku_3/
