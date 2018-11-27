@@ -230,6 +230,12 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
 
+# Dev Server
+* https://github.com/webpack/webpack-dev-server/issues/887
+* https://news.ycombinator.com/item?id=12406310
+* https://medium.com/0xcc/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability-8189e85b486b
+* https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a
+
 # Aliasing
 * https://medium.com/@justintulk/solve-module-import-aliasing-for-webpack-jest-and-vscode-74007ce4adc9
 * http://xabikos.com/2015/10/03/Webpack-aliases-and-relative-paths/
