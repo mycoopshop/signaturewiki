@@ -25,6 +25,7 @@
 
 ## Debugging 
 * https://github.com/belltown/violetbug
+* http://selil.com/archives/5367
 * https://blog.roku.com/tips-to-improve-the-internet-and-wi-fi-connection-on-your-roku-player
 * https://sdkdocs.roku.com/display/sdkdoc/Roku+Plugin+for+Eclipse+IDE
 * https://blog.roku.com/developer/tutorial-roku-billing-services
