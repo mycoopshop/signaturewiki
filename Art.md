@@ -1,4 +1,13 @@
+## Youth
 * http://eyesofesca.com/
+* https://en.wikipedia.org/wiki/Lil_Mosey
+* https://en.wikipedia.org/wiki/Kida_Burns
+* https://en.wikipedia.org/wiki/MC_Loma
+* https://en.wikipedia.org/wiki/MC_Pedrinho
+* https://en.wikipedia.org/wiki/Caleel_Harris
+* https://en.wikipedia.org/wiki/Storm_Reid
+
+## Projects
 * https://www.oakland.edu/Assets/Oakland/religiousstudies/files-and-documents/faculty-research/Klein,%20Rabbi%20Joe%20-%20Superheroes%20Lecture%20March%208,%202016.pdf
 * https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1428&context=etd_hon_theses
 * https://tinyurl.com/create.php?source=indexpage&url=https%3A%2F%2Fwww.toptenz.net%2F10-times-comic-book-creators-screwed.php&submit=Make+TinyURL%21&alias=
