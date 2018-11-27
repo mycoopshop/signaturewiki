@@ -589,6 +589,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Subcontractor Market
 * http://www.0to1code.com/
+* https://blog.koresoftware.com/blog/oakland-athletics
+* https://blog.koresoftware.com/blog/strategies-for-evolving-your-technology-stack
+* https://dtcforce.com/management/
 * https://appexchange.salesforce.com/consulting
 * https://www.salesforce.org/nonprofit/find-partner/
 * https://powerofus.force.com/ProBonoServices
