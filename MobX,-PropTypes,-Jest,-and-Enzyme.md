@@ -5,6 +5,11 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://reactjs.org/docs/error-decoder.html/?invariant=####
 1. https://github.com/facebook/react/blob/master/packages/react-dom/src/__tests__/ReactDOMComponent-test.js
 
+## Sample Projects
+1. https://appendto.com/2018/09/25-public-react-repos-apps-to-inspire-your-next-project-part-2/
+1. https://elijahmanor.com/react-devtools-profiler/
+1. https://appendto.com/2018/09/geocoding-with-google-sheets-importjson/
+
 ## References
 1. https://github.com/airbnb/enzyme/blob/master/packages/enzyme-test-suite/test/ShallowWrapper-spec.jsx
 1. https://airbnb.io/enzyme/docs/api/ShallowWrapper/contains.html
