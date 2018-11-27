@@ -25,3 +25,7 @@
 * https://newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you
 * https://www.poets.org/poetsorg/poet/sonia-sanchez
 * https://www.poets.org/poetsorg/poet/mart%C3%ADn-espada
+* https://en.wikipedia.org/wiki/James_earl_jones
+* https://en.wikipedia.org/wiki/Robert_Earl_Jones
+* https://en.wikipedia.org/wiki/Marley_Dias
+* https://en.wikipedia.org/wiki/Gitanjali_Rao_(scientist)
