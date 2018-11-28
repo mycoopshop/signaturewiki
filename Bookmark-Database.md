@@ -46,3 +46,9 @@
 * http://www.dtic.mil/dtic/tr/fulltext/u2/a326493.pdf
 * https://tiddlywiki.com/plugins/tiddlywiki/codemirror/
 * https://www.cs.indiana.edu/pub/techreports/TR161.pdf
+* https://www.businesspowertools.com/download/Handbook-of-Marketing.pdf
+* http://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.2/cs01/TOSCA-Simple-Profile-YAML-v1.2-cs01.pdf
+* https://www.oasis-open.org/committees/download.php/38692/DITA1.2FeatureDescriptionAcronym.pdf
+* https://www.oasis-open.org/committees/download.php/61524/dita13_a-z.pdf
+* https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/sn-state-of-work-report.pdf
+* https://mobx.js.org/best/react.html
