@@ -1,3 +1,14 @@
+Command decouples the object that invokes the operation from the one that knows how to perform it. It takes a function as a parameter and uses method dispatch based on the following naming convention: 
+* All clients of Command objects treat each object as a "black box"
+* The Command object's virtual execute() method is called whenever the client requires the object's "service".
+* execute takes a parameter that maps to a concrete implementation
+* Sequences of Command objects can be assembled into composite (or macro) commands.
+
+The following example queues 24 processes and waits on each to finish before launching another.
+
+    find /path -name '*.foo' | xargs -P 24 -I '{}' /cpu/bound/process '{}' -o '{}'.out
+
+
 DOM0 Events are declarative events defined in the HTML and XHTML specifications as Intrinsic Events:
 
 >Intrinsic events are attributes that are used in conjunction with elements that can have specific events occur when certain actions are performed by the user. The attributes indicated in the following table are added to the attribute set for their respective elements only when the modules defining those elements are selected.
@@ -85,3 +96,5 @@ HTML Events are imperative events defined in the DOM specification as HTMLEvents
 * [DOM handleEvent: a cross-platform standard since year 2000](https://medium.com/@WebReflection/dom-handleevent-a-cross-platform-standard-since-year-2000-5bf17287fd38)
 
 * [IDL interface rules - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Interface_development_guide/IDL_interface_rules)
+
+* [From Scheme to Java: Section 1.9 The Command Pattern](https://www.cs.rice.edu/~cork/book/node53.html)
