@@ -1,3 +1,9 @@
+// Chrome Extension
+Copy the URL
+Use the Github API
+Update the wiki
+Close the tab
+
 * https://www.npmjs.com/package/markdown-link-check
 * https://twitter.com/search?q=%23visualforce
 * https://github.com/DoclerLabs/HaxelibPackager
