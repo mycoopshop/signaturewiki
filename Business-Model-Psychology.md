@@ -36,6 +36,7 @@
 
 # Gamification
 * https://scratch.mit.edu/projects/202338438/#editor
+* https://help.tenderapp.com/kb/reports/advanced-csv-use
 
 # JavaScript Developer job
 * https://www.infoq.com/profile/Charles-Humble
