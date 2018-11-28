@@ -98,3 +98,5 @@ HTML Events are imperative events defined in the DOM specification as HTMLEvents
 * [IDL interface rules - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Interface_development_guide/IDL_interface_rules)
 
 * [From Scheme to Java: Section 1.9 The Command Pattern](https://www.cs.rice.edu/~cork/book/node53.html)
+
+* [Unix Interface Design Patterns](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch11s06.html)
