@@ -6,6 +6,9 @@ https://www.nrl.navy.mil/itd/aic/sites/www.nrl.navy.mil.itd.aic/files/pdfs/gockl
 https://pubs.usgs.gov/sir/2007/5199/SIR2007-5199.pdf
 https://files.eric.ed.gov/fulltext/EJ1098763.pdf
 https://files.eric.ed.gov/fulltext/EJ1130991.pdf
+https://medium.com/botsupply/rule-based-bots-vs-ai-bots-b60cdb786ffa
+https://www.quora.com/Whats-the-best-way-to-start-training-my-AIML-chatbot
+https://www.pandorabots.com/botmaster/en/tutorial
 https://tryolabs.com/blog/2017/01/25/building-a-chatbot-analysis--limitations-of-modern-platforms/
 https://blog.recime.io/using-aiml-and-nlp-to-create-a-conversation-flow-for-your-chatbot-fea63d09b2e6
 http://web.mit.edu/mecheng/pml/standards.htm
