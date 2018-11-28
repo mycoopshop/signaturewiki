@@ -51,6 +51,8 @@ Perl Jenkins Redis
 * https://www.gnu.org/software/hurd/microkernel/mach/gnumach/ports/xen.html
 
 **Clusters**
+* https://developer.ibm.com/code/2017/04/25/wordpress-and-kubernetes-a-natural-pairing/
+* https://developer.ibm.com/patterns/run-drupal-website-on-kubernetes/
 * https://community.toadworld.com/platforms/oracle/w/wiki/11683.creating-a-hello-world-kubernetes-application
 * https://blogs.oracle.com/weblogicserver/security-best-practices-for-weblogic-server-running-in-docker-and-kubernetes
 * https://cloud.google.com/files/whitepaper-running-your-modern-dotnet-app-on-kubernetes.pdf
