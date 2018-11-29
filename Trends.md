@@ -1,3 +1,4 @@
+## Software Trends
 * https://trends.builtwith.com/javascript/Retina-JS
 * https://trends.builtwith.com/javascript/charting
 * https://trends.builtwith.com/javascript/node.js
@@ -6,6 +7,14 @@
 * https://trends.builtwith.com/javascript/Babel
 * https://trends.builtwith.com/javascript/GSAP
 * https://trends.builtwith.com/javascript/Backbone.js
+
+## Skillset Trends
+* https://stackoverflow.com/tags/perl/topusers
+* https://stackexchange.com/users/10108/bobince?tab=accounts (InfoSec)
+* https://stackexchange.com/users/4243/vonc?tab=accounts (config management)
+* https://stackexchange.com/users/152400/cody-gray?tab=accounts ( windows admin)
+* https://stackexchange.com/users/13638/gbn?tab=accounts (sysadmin)
+* https://stackexchange.com/users/37082/remus-rusanu?tab=accounts (dba)
 
 **References**
 * https://www.wappalyzer.com/technologies
