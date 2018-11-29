@@ -4,6 +4,12 @@
 * https://tools.ietf.org/html/rfc6901
 * https://tools.ietf.org/html/rfc6902
 * https://tools.ietf.org/id/draft-pbryan-zyp-json-ref-03.html
+* https://doc.owncloud.org/server/8.2/developer_manual/core/ocs-share-api.html
+
+## Platforms
+* https://en.wikipedia.org/wiki/Pump.io
+* https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking#cite_note-55
+* https://en.wikipedia.org/wiki/Open_Collaboration_Services
 
 ## Code
 * https://medium.com/@MedvedevTheDev/xmlparser-working-with-rss-feeds-in-swift-86224fc507dc
