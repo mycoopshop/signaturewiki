@@ -1,3 +1,11 @@
+* https://ptolemy.berkeley.edu/eecs20/week3/declarative.html
+* http://academic.sun.ac.za/mathed/174/GainsAndPitfalls.pdf
+* http://grammar.ccc.commnet.edu/grammar/composition/abstract.stm
+* http://www.riversidelocalschools.com/Downloads/rhetorical20strategies.pdf
+* https://www.uni-due.de/ELE/LinguisticGlossary.html
+* https://www.ccsoh.us/cms/lib/OH01913306/Centricity/Domain/207/Rhetorical%20Strategies%20with%20Examples.pdf
+* https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1660&context=etd
+* https://www.encyclopediaofmath.org/index.php/Algebra_of_logic
 * https://theascent.pub/photography-and-calculus-eafd7c1e6a13
 * http://probability.infarom.ro/blackjack.html
 * https://betterexplained.com/articles/analogy-calculus-camera/
