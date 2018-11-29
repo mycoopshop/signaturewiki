@@ -5,6 +5,12 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://reactjs.org/docs/error-decoder.html/?invariant=####
 1. https://github.com/facebook/react/blob/master/packages/react-dom/src/__tests__/ReactDOMComponent-test.js
 
+## Tooling
+1. https://www.npmjs.com/package/react-is
+1. https://www.npmjs.com/package/react-visual-diff
+1. https://www.npmjs.com/package/react-source-render
+1. https://www.npmjs.com/package/react-angular-component
+
 ## Sample Projects
 1. https://appendto.com/2018/09/25-public-react-repos-apps-to-inspire-your-next-project-part-2/
 1. https://elijahmanor.com/react-devtools-profiler/
