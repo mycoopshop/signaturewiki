@@ -58,3 +58,16 @@ Close the tab
 * https://www.oasis-open.org/committees/download.php/61524/dita13_a-z.pdf
 * https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/sn-state-of-work-report.pdf
 * https://mobx.js.org/best/react.html
+* https://ngmdb.usgs.gov/Info/dmt/docs/DMT17_Bassett2.pdf
+* https://www.cabletv.com/
+* https://en.wikipedia.org/wiki/Curl_(programming_language)
+* https://www.ltdmgmt.com/value-proposition-a-missing-ingredient.php
+https://community.tableau.com/docs/DOC-7906
+http://d18rn0p25nwr6d.cloudfront.net/CIK-0001303652/3b0a8748-5b73-4de2-af7b-0b792b0b220e.pdf
+https://community.powerbi.com/t5/Desktop/Customer-Churn-Rate/td-p/181950
+https://trends.builtwith.com/websitelist/Angular/Historical
+https://allura.apache.org/
+http://www.jbkempf.com/blog/
+https://sites.google.com/view/jeffcoimpact
+http://open.sbcounty.gov/
+https://travel.state.gov/content/travel.html
