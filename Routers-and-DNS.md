@@ -1,5 +1,7 @@
 http://www.linux-magazine.com/Issues/2014/161/Security-and-SOHO-Routers
 
+https://en.wikipedia.org/wiki/Uniregistry
+
 https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Mobility/emob41dg/emob41dg-wrapper/ch3_WLAN.pdf
 
 http://ptgmedia.pearsoncmg.com/images/9780789753342/samplepages/9780789753342.pdf
