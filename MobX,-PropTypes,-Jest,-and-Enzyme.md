@@ -17,6 +17,9 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://elijahmanor.com/react-devtools-profiler/
 1. https://appendto.com/2018/09/geocoding-with-google-sheets-importjson/
 
+## Migration
+1. https://itnext.io/build-a-view-framework-free-data-layer-based-on-mobx-integration-with-vue-1-8b524b86c7b8
+
 ## References
 1. https://github.com/airbnb/enzyme/blob/master/packages/enzyme-test-suite/test/ShallowWrapper-spec.jsx
 1. https://airbnb.io/enzyme/docs/api/ShallowWrapper/contains.html
