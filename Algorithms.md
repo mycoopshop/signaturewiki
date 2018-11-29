@@ -1,3 +1,4 @@
+* https://tomassetti.me/guide-parsing-algorithms-terminology/
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5501319/
 * http://www.nytimes.com/2007/08/28/science/28conv.html
 * https://en.wikipedia.org/wiki/Lateral_computing
