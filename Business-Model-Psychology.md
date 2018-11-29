@@ -217,6 +217,12 @@
 * https://wiki.eclipse.org/Fostering_Community_Growth
 * https://en.wikipedia.org/wiki/Category:Hotchkiss_School_alumni
 
+# Ignorance Bias
+* https://support.apple.com/itunes-gift-card-scams
+* https://support.google.com/googleplay/answer/9057338?hl=en
+* https://www.amazon.com/gp/help/customer/display.html?nodeId=201138870
+* https://www.giftcards.com/gcgf/lost-gift-card
+
 # Game Bias
 * https://en.wikipedia.org/wiki/Game_tree
 * https://en.wikipedia.org/wiki/M,n,k-game
