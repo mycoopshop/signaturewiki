@@ -15,7 +15,8 @@
 * https://stackexchange.com/users/152400/cody-gray?tab=accounts ( windows admin)
 * https://stackexchange.com/users/13638/gbn?tab=accounts (sysadmin)
 * https://stackexchange.com/users/37082/remus-rusanu?tab=accounts (dba)
-
+* https://stackexchange.com/users/114869/crazy-eddie?tab=accounts (qa)
+* https://stackexchange.com/users/190624/bart-van-ingen-schenau?tab=accounts (architecture)
 **References**
 * https://www.wappalyzer.com/technologies
 * https://opensource.com
