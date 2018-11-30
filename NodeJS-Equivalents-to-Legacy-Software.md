@@ -1,5 +1,6 @@
 * Rails => Sails (https://github.com/balderdashy/sails/)
 * phpBB => EpochTalk (https://github.com/epochtalk/epochtalk)
+* phpMyAdmin => ExpressAdmin (https://www.npmjs.com/package/express-admin)
 * MediaWiki => TiddlyWiki (https://www.npmjs.com/package/tiddlywiki)
 * Bugzilla => Omega (https://www.npmjs.com/package/omega)
 * cPanel => Cloud Commander (https://www.npmjs.com/package/cloudcmd)
