@@ -1,4 +1,5 @@
 * https://ptolemy.berkeley.edu/eecs20/week3/declarative.html
+* https://en.wikipedia.org/wiki/Relational_calculus
 * http://academic.sun.ac.za/mathed/174/GainsAndPitfalls.pdf
 * http://grammar.ccc.commnet.edu/grammar/composition/abstract.stm
 * http://www.riversidelocalschools.com/Downloads/rhetorical20strategies.pdf
