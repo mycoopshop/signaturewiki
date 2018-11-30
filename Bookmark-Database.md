@@ -73,3 +73,5 @@ http://open.sbcounty.gov/
 https://travel.state.gov/content/travel.html
 https://en.wikipedia.org/wiki/Heisenbug
 https://hbcudigest.com/martin-luther-king-jr-just-an-average-morehouse-student/
+https://trends.builtwith.com/websitelist/PHP-7/Historical
+https://trends.builtwith.com/websitelist/Perl/Historical
