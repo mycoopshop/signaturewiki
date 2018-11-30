@@ -3,6 +3,7 @@
 * MediaWiki => TiddlyWiki (https://www.npmjs.com/package/tiddlywiki)
 * Bugzilla => Omega (https://www.npmjs.com/package/omega)
 * cPanel => Cloud Commander (https://www.npmjs.com/package/cloudcmd)
+* DropBox => NextCloud (https://www.npmjs.com/package/nextcloud-server)
 * CodeSmith Generator => System Designer (https://www.npmjs.com/package/system-designer)
 * Basecamp => nervatura (https://www.npmjs.com/package/nervatura)
 * Wikindx => citation.js (https://www.npmjs.com/package/citation-js)
