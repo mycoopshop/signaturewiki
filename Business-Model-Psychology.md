@@ -289,6 +289,13 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * http://self.gutenberg.org/articles/eng/Jah
 * http://aramaicnt.com/Research/Peshitta%20History.pdf
 
+# Carcinogen Bias
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3345192/
+* https://creativeloafing.com/content-184885-Cover-Story:-Orkin-under-siege
+* https://www.rand.org/content/dam/rand/pubs/monograph_reports/MR969/MR969.ch12.pdf
+* http://www.who.int/quantifying_ehimpacts/publications/en/ebd6.pdf
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3812823/
+
 # Cultural Bias
 * https://en.wikipedia.org/wiki/Croatan
 * https://en.wikipedia.org/wiki/Sweatt_v._Painter
