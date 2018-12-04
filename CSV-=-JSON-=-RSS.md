@@ -11,10 +11,17 @@
 * https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking#cite_note-55
 * https://en.wikipedia.org/wiki/Open_Collaboration_Services
 
+## Tools
+* https://csvconverter.biz/
+
 ## Code
 * https://medium.com/@MedvedevTheDev/xmlparser-working-with-rss-feeds-in-swift-86224fc507dc
+* https://sitestory.dk/excel_vba/csv-file-import.htm
+* https://softeng.oicr.on.ca/robert_tisma/2017/07/19/writing-csv-files/
+* https://hexdocs.pm/csv/CSV.html
 
 ## Tutorials
+* tsv title:csv -domain:uk -domain:edu -domain:ch -domain:au -domain:jp -domain:ie -domain:br -domain:it -domain:me -domain:info -domain:net -domain:io -domain:org -domain:com
 * https://readlearncode.com/java-ee/java-ee-8-json-processing-1-1-json-patch-overview/
 * https://news.ycombinator.com/item?id=7703585
 * https://www.tbray.org/ongoing/When/201x/2017/04/14/JsonPath-Needs-Work
