@@ -54,3 +54,5 @@ Tony Parker
 https://www.si.com/nfl/scoreboard
 https://pro32.ap.org/
 https://usatoday.com/sports/nfl/injuries/
+https://en.hispanosnba.com/stats/players/bench-players
+https://hashtagbasketball.com/advanced-nba-schedule-grid
