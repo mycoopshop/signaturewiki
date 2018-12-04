@@ -36,6 +36,10 @@ Perl Jenkins Redis
 * https://tech.mybuilder.com/virtual-hosts-with-docker/
 * https://www.nearform.com/blog/develop-in-minishift-deploy-to-openshift/
 
+**Electric Flow**
+* [ElectricCommander](http://docs.electric-cloud.com/commander_doc/CommanderIndex.html)
+* [Welcome to ElectricCommander](http://docs.electric-cloud.com/commander_doc/5_3/Mobile/Help/Advanced/Content/Welcome.htm)
+
 **Build Pipelines**
 * https://www.agiletestingframework.com/ultimate-devops-toolchain/
 * https://www.slideshare.net/perforce/perforce-on-tour-2015-optimising-the-developer-pipeline-deliver-faster-better
