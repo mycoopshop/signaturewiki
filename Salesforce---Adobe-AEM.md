@@ -570,6 +570,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
 
+## Salesforce Labs
+* github site:appexchange.salesforce.com -title:lightning title:labs
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009x7hPEAQ
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003IjwLEAS
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003GJFrEAO
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000000ps3jEAA
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003JBggEAG
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000FYEEWUA5
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000DptX2EAJ
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A000000s5BVUAY
+
 ## ISV
 * https://developer.salesforce.com/blogs/developer-relations/2012/05/dynamic-apex-class-instantiation-in-summer-12.html
 * https://developer.salesforce.com/blogs/isv/2015/05/integrating-salesforce-primer-isvs.html
