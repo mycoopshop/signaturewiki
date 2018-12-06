@@ -16,7 +16,9 @@ title:default site:discuss.reactjs.org
 
 +contest +win +poem +prize +grand
 
-"style-loader css-loader" "webpack.config.js" "index.js" -chrome -less -worker -scss -sass -postcss -angular site:github.com example boostrap
++title:senior +experience +"web extension"
+
+style-loader css-loader" "webpack.config.js" "index.js" -chrome -less -worker -scss -sass -postcss -angular site:github.com example boostrap
 
 "This behavior is By Design" site:support.microsoft.com
 
