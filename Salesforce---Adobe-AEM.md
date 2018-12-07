@@ -1040,6 +1040,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000036AisAAE
 
 ## Development Edition / Scratch Org Sync
+* https://help.salesforce.com/articleView?id=000230820&language=en_US&type=1
 * http://www.wadewegner.com/2017/09/deploy-to-salesforce-dx/
 * https://help.salesforce.com/articleView?id=code_tools_ant_using.htm&type=5
 * https://deploy-to-sfdx.com/
