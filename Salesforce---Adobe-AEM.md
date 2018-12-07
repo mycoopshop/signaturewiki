@@ -250,6 +250,7 @@ url:servlet ext:pdf site:salesforce.com
 
 **Samples**
 * title:developer.force.com site:salesforce.com
+* https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
 
