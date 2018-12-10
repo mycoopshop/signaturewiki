@@ -643,6 +643,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developers.google.com/gdata/articles/salesforce
 * https://developer.salesforce.com/page/Earlier_Reference_Documentation
 
+## JSForce
+* https://jsforce.github.io/
+* https://codepen.io/sanooj/pen/WQMGbV.html
+* https://github.com/stomita/sformula
+* https://github.com/jsforce/jsforce/blob/master/test/package/JSforceTestSuite/workflows/Account.workflow
+
 ## Remoting
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
 * https://balkishankachawa.wordpress.com/2015/10/31/lightning-component-javascript-remoting-and-visualforce-page/
