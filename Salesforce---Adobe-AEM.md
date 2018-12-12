@@ -1,4 +1,4 @@
-rBS with or MS in Computer Science or related technical field
+BS with or MS in Computer Science or related technical field
 At least 8+ years of engineering experience in global software development and deployment
 Must have 4+ years of experience with SFDC platform and partner ecosystem
 Played the role of a Technical lead in 1-2 SFDC projects
@@ -250,6 +250,8 @@ url:servlet ext:pdf site:salesforce.com
 
 **Samples**
 * title:developer.force.com site:salesforce.com
+* developerforce salesforcelabs forcedotcom site:github.com
+* https://github.com/trending/apex
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
@@ -574,6 +576,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Salesforce Labs
 * github site:appexchange.salesforce.com -title:lightning title:labs
+* https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003I9j1EAC
 * https://appexchange.salesforce.com/listingDetail?listingId=a0N30000009x7hPEAQ
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000003IjwLEAS
 * https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003GJFrEAO
@@ -875,6 +878,7 @@ Format:2xx0xx000
 
 ## Rest API
 * https://developer.salesforce.com/page/Salesforce_APIs
+* https://berlin2017.codemotionworld.com/wp-content/uploads/2017/11/The-Power-of-Salesforce-APIs.pdf
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_api_objects_new.htm
@@ -981,6 +985,7 @@ Format:2xx0xx000
 * https://github.com/simple-salesforce/simple-salesforce
 * https://github.com/mailtoharshit/awesome-salesforce
 * https://github.com/exiahuang/SalesforceXyTools
+
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
