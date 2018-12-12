@@ -4,6 +4,7 @@
 * https://www.odata.org/getting-started/understand-odata-in-6-steps/
 * https://apis.guru/
 * http://agile-iot.github.io/agile-api-spec/docs/html/api.html
+* https://developer.trade.gov/de-minimis.html
 * https://www.ibm.com/developerworks/library/wa-use-swagger-to-document-and-define-restful-apis/
 * https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D/%7Brepo_slug%7D
 * https://www.ibm.com/support/knowledgecenter/en/SS4SVW_beta/com.ibm.zosconnect.doc/designing/api_install_cert.html
