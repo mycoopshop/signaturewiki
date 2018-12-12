@@ -817,6 +817,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/company/legal/508_accessibility/
 * https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
 
+## Beta/Pilot Programs
+* -title:beta -title:salesforce +pilot title:release site:salesforce.com
+
 ## Automation
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
 
