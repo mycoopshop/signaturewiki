@@ -848,6 +848,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://medium.com/@swayamchouksey/top-new-feature-coming-in-salesforce-summer18-release-a60b76714dfc
 * http://www.sfdcpanther.com/summer-18-gems-for-salesforce-developer/
 * https://jetbi.com/salesforce-summer-2018-release-overview
+* https://jenwlee.wordpress.com
 * https://www.forcetalks.com/
 
 ## Investor Timeline
