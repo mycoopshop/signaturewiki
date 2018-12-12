@@ -14,8 +14,10 @@
 * https://github.com/spenibus/cors-everywhere-firefox-addon
 * https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 * https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc
-## Redirection
-* URL Decode/Encode
+
+## URL Encoding
+* The QR Code Generator: https://chrome.google.com/webstore/detail/the-qr-code-generator/gcmhlmapohffdglflokbgknlknnmogbb?hl=en
+* URL Decode/Encode: https://chrome.google.com/webstore/detail/gato-url-encoder-decoder/ickbkdcodlofikmijhddajkepopjlfag?hl=en
 
 ## History
 * Clipboard History
