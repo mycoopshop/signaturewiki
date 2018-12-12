@@ -20,6 +20,7 @@ Copy/Paste
 
 ### QR Code
 1. QR Code Creator: https://createqrcode.appspot.com/
+1. QR Code Generator: http://atomurl.net/qrcode/
 
 ### Visualization
 1. https://labs.udacity.com/android-visualizer/
