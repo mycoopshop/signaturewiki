@@ -1,4 +1,5 @@
 * https://docs.oasis-open.org/security/saml/v2.0/saml-core-2.0-os.pdf
+* https://medium.com/@Ratnaparkhi/testing-saml-flow-in-your-node-js-application-1ab82f95b69d
 * https://developer.okta.com/standards/SAML/index
 * https://help.salesforce.com/articleView?id=identity_provider_about.htm&type=5
 * https://developer.okta.com/standards/SAML/index
