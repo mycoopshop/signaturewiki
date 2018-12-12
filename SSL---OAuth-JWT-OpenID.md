@@ -1,4 +1,5 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
+* https://www.uml-diagrams.org/google-sign-on-uml-activity-diagram-example.html
 * https://www.joyofdata.de/blog/talking-to-twitters-rest-api-v1-1-with-r/
 * https://developer.atlassian.com/server/jira/platform/oauth/
 * https://docs.microsoft.com/en-us/windows/desktop/winhttp/authentication-using-script
