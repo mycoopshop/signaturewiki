@@ -15,6 +15,10 @@ https://www.ftb.ca.gov/forms/misc/3500.pdf
 https://www.ftb.ca.gov/forms/2017/17_100bk.pdf
 https://www.ci.east-palo-alto.ca.us/DocumentCenter/View/2823
 
+https://www.irs.gov/pub/irs-tege/eotopicm81.pdf
+
+https://www.irs.gov/pub/irs-wd/9949031.pdf
+
 https://apps.irs.gov/app/freeFile/jsp/wizard.jsp
 
 https://taxfoundation.org
