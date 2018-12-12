@@ -18,6 +18,9 @@ Copy/Paste
 ### Screen Capture
 1. screentogif
 
+### QR Code
+1. QR Code Creator: https://createqrcode.appspot.com/
+
 ### Visualization
 1. https://labs.udacity.com/android-visualizer/
 https://cambridge-intelligence.com/visualizing-a-knowledge-graph/
