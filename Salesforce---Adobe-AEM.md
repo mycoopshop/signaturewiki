@@ -168,6 +168,7 @@ url:servlet ext:pdf site:salesforce.com
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=console_lex_limitations.htm&type=5
+* http://resources.docs.salesforce.com/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
 * https://developer.salesforce.com/blogs/2018/07/whats-new-with-locker-service.html
 * https://developer.salesforce.com/blogs/tech-pubs/2015/09/login-ip-ranges-security.html
 * https://developer.salesforce.com/page/Secure_Coding_WebSockets
@@ -943,7 +944,8 @@ Format:2xx0xx000
 * https://theneuralperspective.com/2016/12/20/highlights-and-tutorials-for-concepts-discussed-in-richard-socher-on-the-future-of-deep-learning/
 
 ## Analytics
-* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_saql.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data_format.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_analytics_rest_api.pdf
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
 * https://help.salesforce.com/articleView?id=bi.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
@@ -1076,6 +1078,11 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/developer-relations/2013/01/responsive-visualforce-using-streaming-api-and-asynchronous-apex.html
 * https://developer.salesforce.com/blogs/tech-pubs/2012/05/three-force-com-streaming-api-techniques.html
 * https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
+
+## Big Data
+* json asynchronous domain:salesforce.com ext:pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/big_objects_guide.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/async_soql_guide.pdf
 
 ## Concurrency
 * https://developer.salesforce.com/page/Asynchronous_Processing_in_Force_com
