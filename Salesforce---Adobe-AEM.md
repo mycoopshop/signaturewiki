@@ -865,6 +865,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Known Issues
 Format:2xx0xx000
+* https://success.salesforce.com/ideaView?id=0873A000000TpuoQAC
 * https://success.salesforce.com/issues_releases_view?release=212000000
 * https://success.salesforce.com/issues_releases_view?release=212010000
 * https://success.salesforce.com/issues_releases_view?release=210000000
@@ -1017,6 +1018,8 @@ Format:2xx0xx000
 
 ## API Integration 
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf
+* https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=5
 * https://community.boomi.com/s/article/Salesforce-Integration-Guide
 * https://developer.financialforce.com/technical-reference/using-the-salesforce-api/
 * https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
@@ -1150,6 +1153,7 @@ Format:2xx0xx000
 * https://www.salesforce.com/video/297000/
 
 ## WSDL
+* https://help.salesforce.com/articleView?id=000250959&language=en_US&type=1
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
 * https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
 * http://mvnrepository.com/artifact/com.force.api/force-wsc
