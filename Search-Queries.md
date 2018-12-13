@@ -24,6 +24,8 @@ title:default site:discuss.reactjs.org
 
 "This behavior is By Design" site:support.microsoft.com
 
+json asynchronous domain:salesforce.com ext:pdf
+
 "jack kirby" "bill finger" "joe shuster" domain:edu
 
 plugin autoload title:vim +vimrc -vundle -pathogen -manager -personal +wiki
