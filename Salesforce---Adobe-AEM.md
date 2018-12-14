@@ -18,7 +18,7 @@ Excellent verbal and written communication skills
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-faq.html
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-training-materials.html
 
-**Architecture**
+## Architecture
 url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041B37QAE
@@ -31,7 +31,15 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDEzQAM
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002yIWjQAM
  
-**Syntax**
+## Admin
+* https://admin.salesforce.com/posts
+* https://developer.salesforce.com/events/webinars/
+* https://help.salesforce.com/articleView?id=000214805&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=lex_find_your_way_around_setup.htm&type=5
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
+
+## Syntax
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://github.com/forceworkbench/forceworkbench/wiki
 * https://developer.salesforce.com/blogs/2018/05/summer18-rethink-trigger-logic-with-apex-switch.html
@@ -44,6 +52,10 @@ url:servlet ext:pdf site:salesforce.com
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 * https://developer.salesforce.com/page/Apex_Wiki
 * https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml
+
+## REPL
+https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_overlaying_soql.htm&type=5
+https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-coding-for-admins/instantiate-and-invoke
 
 ## OAuth/SAML
 * https://help.salesforce.com/articleView?id=000221207&type=1
@@ -574,6 +586,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://investor.salesforce.com/about-us/investor/investor-news/investor-news-details/2018/Pacers-Sports--Entertainment-Teams-Up-with-Salesforce-to-Create-the-Ultimate-Indiana-Pacers-Fan-Experience/default.aspx
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EO5smUAD
+
 
 ## Salesforce Labs
 * github site:appexchange.salesforce.com -title:lightning title:labs
