@@ -1,5 +1,6 @@
 1. https://docs.marklogic.com/guide/copyright/glossary
 1. https://tools.ietf.org/html/rfc4949
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1732636/pdf/v058p00971.pdf
 1. https://www.bmc.com/blogs/itsm-or-itil-that-isnt-the-question/
 1. https://it.toolbox.com/blogs/erpdesk/etl-made-easy-with-erp-093015
 1. https://www.axelos.com/corporate/media/files/glossaries/itil_2011_glossary_gb-v1-0.pdf
