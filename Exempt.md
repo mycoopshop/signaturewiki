@@ -21,6 +21,38 @@ https://www.irs.gov/pub/irs-wd/9949031.pdf
 
 https://apps.irs.gov/app/freeFile/jsp/wizard.jsp
 
+https://www.irs.gov/irm/part5/irm_05-010-003
+
+https://www.irs.gov/pub/irs-trty/belgium.pdf
+
+https://www.irs.gov/pub/irs-trty/belgtech.pdf
+
+https://www.irs.gov/irm/part9/irm_09-005-013
+
+https://taxmap.irs.gov/taxmap/pubs/p519-033.htm
+
+https://www.federalregister.gov/documents/2011/10/17/2011-26743/bank-secrecy-act-regulations-definition-of-monetary-instrument
+
+https://www.irs.gov/pub/irs-prior/p519--2012.pdf
+
+https://www.irs.gov/businesses/small-businesses-self-employed/irs-form-8300-reference-guide
+
+https://www.irs.gov/publications/p1544
+
+https://www.irs.gov/pub/irs-pdf/p515.pdf
+
+http://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleC/chapter24&edition=prelim
+
+https://www.irs.gov/irm/part5/irm_05-006-001
+
+https://www.irs.gov/pub/irs-tege/2013cpe_compensation.pdf
+
+https://www.irs.gov/pub/irs-tege/TEB_phase_1_training.pdf
+
+https://www.irs.gov/pub/irs-mssp/pal.pdf
+
+https://www.irs.gov/pub/default_path_no_value/guide_irsap_interim.pdf
+
 https://taxfoundation.org
 
 https://calhoun.nps.edu/bitstream/handle/10945/1067/01Dec_Morrow.pdf;sequence=1
