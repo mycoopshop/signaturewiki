@@ -15,6 +15,20 @@ https://www.ftb.ca.gov/forms/misc/3500.pdf
 https://www.ftb.ca.gov/forms/2017/17_100bk.pdf
 https://www.ci.east-palo-alto.ca.us/DocumentCenter/View/2823
 
+https://www.gao.gov/assets/80/76911.pdf
+
+https://www.gao.gov/assets/80/76911.pdf
+
+https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs
+
+http://www.taxpayeradvocate.irs.gov/2013-annual-report/downloads/Toward-a-More-Perfect-Tax-System-A-Taxpayer-Bill-of-Rights-as-a-Framework-for-Effective-Tax-Administration.pdf
+
+https://www.irs.gov/pub/irs-utl/irs_advancing_e-file_study_phase_2_report.pdf
+
+https://www.irs.gov/pub/irs-pdf/p3319.pdf
+
+https://www.irs.gov/pub/irs-pdf/p970.pdf
+
 https://www.irs.gov/pub/irs-tege/eotopicm81.pdf
 
 https://www.irs.gov/pub/irs-wd/9949031.pdf
