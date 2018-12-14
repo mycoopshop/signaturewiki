@@ -8,6 +8,7 @@ NVG443B Version: 9.2.4h1d27
 58152704
 
 title:email title:communications customer +service time -site:frontier.com "frontier communications"
+https://gethuman.com/email/Frontier-Communications
 https://frontier.com/helpcenter/categories/account/manage-my-account/how-to-return-frontier-equipment
 https://blog.roku.com/developer/tutorial-deep-linking
 https://blog.roku.com/developer/new-web-tools-for-faster-development-on-roku
