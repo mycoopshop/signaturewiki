@@ -583,6 +583,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/5-steps-transform-idea-appexchange-app.html
 
 ## AppExchange Prospects
+* https://partners.salesforce.com/partnerNews?id=a033A00000FcUVoQAN
 * https://investor.salesforce.com/about-us/investor/investor-news/investor-news-details/2018/Pacers-Sports--Entertainment-Teams-Up-with-Salesforce-to-Create-the-Ultimate-Indiana-Pacers-Fan-Experience/default.aspx
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
@@ -872,6 +873,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Investor Timeline
 * https://s1.q4cdn.com/454432842/files/doc_presentations/2016/2016-DF-Analyst-Day_FINAL_Website.pdf
 * http://www.oracle.com/us/corporate/analystreports/nucleus-crm-tech-value-matrix-4466326.pdf
+* https://s1.q4cdn.com/454432842/files/doc_downloads/goverance/sfdc-Corporate-Governance-Guidelines-(CURRENT)-March-16-2016.pdf
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/Salesforce-Processor-BCR.pdf
+* https://www.salesforce.com/content/dam/web/en_us/events-master/dreamforce-2018/dreampitch/dreampitch2018-rules.pdf
+* https://s1.q4cdn.com/454432842/files/doc_downloads/Salesforce-Code-of-Conduct_FINAL_CURRENT.pdf
+* https://www.salesforce.com/content/dam/web/en_us/dreamforce/resources/DF16Prospectus.pdf
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/salesforce_MSA.pdf
 * https://steveblank.com/tools-and-blogs-for-entrepreneurs/
 * http://downloads.digitalmarketingdepot.com/rs/727-ZQE-044/images/MIR_1604_PredAnalyt.pdf?ref=emailmarketingtipps.de
 * https://timelines.issarice.com/wiki/Timeline_of_salesforce.com
