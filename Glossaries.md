@@ -7,6 +7,8 @@
 1. https://www.alaska.edu/files/oit/ITIL_2011_English_glossary_v1.0.pdf
 1. http://itil.it.utah.edu/downloads/ITIL_Glossary_May_v2_2007.pdf
 1. https://www.foxit.com/glossary/
+1. https://iextrading.com/docs/A%20Comparison%20of%20Execution%20Quality%20across%20U.S.%20Stock%20Exchanges.pdf
+1. https://data.pershing.com/email/pdf/trading-services.html
 1. https://dir.texas.gov/View-Resources/Pages/Content.aspx?id=64
 1. https://www.radicore.org/glossary.php
 1. https://documentation.cpanel.net/display/CKB/cPanel+Glossary#cPanelGlossary-D
