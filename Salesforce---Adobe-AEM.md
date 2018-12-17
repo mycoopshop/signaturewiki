@@ -586,6 +586,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## AppExchange Prospects
 * https://partners.salesforce.com/partnerNews?id=a033A00000FcUVoQAN
+* https://platform-roi-calculator.salesforce.com/IDC-ROI-of-Building-Apps-on-Salesforce.pdf
 * https://www.codescience.com/blog/2016/where-to-start-4-things-to-know-before-building-your-appexchange-app
 * https://investor.salesforce.com/about-us/investor/investor-news/investor-news-details/2018/Pacers-Sports--Entertainment-Teams-Up-with-Salesforce-to-Create-the-Ultimate-Indiana-Pacers-Fan-Experience/default.aspx
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
