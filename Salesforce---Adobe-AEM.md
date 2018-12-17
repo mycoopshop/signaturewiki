@@ -162,7 +162,9 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=faq_apex_classes_triggers.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
 * https://help.salesforce.com/articleView?id=000005995&language=en_US&type=1 (Record ID Prefixes)
-**Defects**
+
+## Defects
+* https://hackerone.com/salesforce
 * https://success.salesforce.com/issues_view?id=a1p30000000T0tvAAC&title=when-performing-several-soql-queries-from-different-apex-classes-no-such-column-lastvieweddate-on-entity-entity-name-is-thrown
 * https://success.salesforce.com/issues_index?page=1&status=nofix&tag=Apex
 * https://success.salesforce.com/issues_index?page=3&status=nofix&tag=Platform
