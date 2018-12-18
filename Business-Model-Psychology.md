@@ -217,6 +217,11 @@
 * https://wiki.eclipse.org/Fostering_Community_Growth
 * https://en.wikipedia.org/wiki/Category:Hotchkiss_School_alumni
 
+# Generational Bias
+* https://en.wikipedia.org/wiki/Hudson%27s_Bay_Company
+* https://en.wikipedia.org/wiki/Brooks_Brothers
+* https://en.wikipedia.org/wiki/Parallels_Workstation
+
 # Ignorance Bias
 * https://support.apple.com/itunes-gift-card-scams
 * https://support.google.com/googleplay/answer/9057338?hl=en
