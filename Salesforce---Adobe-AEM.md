@@ -1297,6 +1297,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=000025298&language=en_US&type=1
 
 ## Migration
+* https://developer.salesforce.com/page/An_Introduction_to_Builder
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
 
