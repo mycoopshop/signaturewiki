@@ -93,6 +93,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Separation_of_Concerns
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 * https://developer.salesforce.com/page/Best_Practice:_Iterate_over_Large_Data_Sets
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/collaboration.pdf
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_formulas_cheatsheet.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_large_data_volumes_bp.pdf
 * https://developer.salesforce.com/page/Apex_Code_Best_Practices
 * https://developer.salesforce.com/page/Apex_Design_Patterns
@@ -209,6 +211,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_HTMLtemplates_cheatsheet.pdf
+* https://help.salesforce.com/articleView?id=000071170&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000228273&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000250391&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000240875&type=1&language=en_US
@@ -222,6 +226,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=emailadmin_deliverability.htm&type=5
 * https://help.salesforce.com/articleView?id=emailadmin_email2salesforce.htm&type=5
 * https://help.salesforce.com/articleView?id=code_email_services_editing.htm&type=5
+* https://success.salesforce.com/ideaview?id=08730000000BrGmAAK
 * https://success.salesforce.com/issues_view?id=a1p3A0000018BJAQA2
 * https://success.salesforce.com/answers?id=90630000000CwWsAAK
 * https://success.salesforce.com/answers?id=9063A000000lMm8QAE
@@ -672,6 +677,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/stomita/sformula
 * https://github.com/jsforce/jsforce/blob/master/test/package/JSforceTestSuite/workflows/Account.workflow
 
+## WorkBench
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_workbench_cheatsheet.pdf
+
+## DML Data Deduplication
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_data_quality_duplicate_prevention.pdf
+
 ## Remoting
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
 * https://balkishankachawa.wordpress.com/2015/10/31/lightning-component-javascript-remoting-and-visualforce-page/
@@ -703,6 +714,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 * https://www.commerceworks.net/blog/salesforce-enterprise-professional-editions
 * https://salesforce.stackexchange.com/questions/51622/how-does-one-test-visualforce-components-with-custom-controllers
+
+## Permissions
+* https://help.salesforce.com/articleView?id=000198725&language=en_US&type=1
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_pagelayouts_cheatsheet.pdf
 
 ## SOQL
 
@@ -833,6 +848,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2018/04/introducing-proactive-monitoring.html
 
 ## Accessibility
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://www.salesforce.com/company/legal/508_accessibility/
 * https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
@@ -905,6 +921,7 @@ Format:2xx0xx000
 * http://releasenotes.docs.salesforce.com/en-us/spring15/release-notes/rn_api_rest.htm
 * http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
 * https://resources.docs.salesforce.com/170/latest/en-us/sfdc/pdf/salesforce_spring11_release_notes.pdf
+* https://resources.docs.salesforce.com/144/latest/en-us/sfdc/pdf/salesforce_winter07_release_notes.pdf
 
 
 ## Rest API
@@ -934,6 +951,7 @@ Format:2xx0xx000
 * https://api.status.salesforce.com/v1/docs/
 
 ## User Interface API
+* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_pubs_style_guide.pdf
 * https://releasenotes.docs.salesforce.com/en-us/summer17/release-notes/rn_api_ui.htm
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/api_ui.pdf
 
