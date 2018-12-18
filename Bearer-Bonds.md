@@ -1,9 +1,9 @@
-https://www.irs.gov/pub/irs-drop/n-12-20.pdf
-https://www.irs.gov/pub/irs-tege/teb_phase_1_course_11204_-4module_c.pdf
-https://taxmap.irs.gov/taxmap/pubs/p550-026.htm
-https://www.irs.gov/pub/irs-mssp/obligations_form_d.pdf
-https://www.irs.gov/pub/irs-utl/Chapters-3-4-61-coordinatingregs.pdf
-https://www.irs.gov/pub/irs-mssp/obligations.pdf
-https://www.irs.gov/pub/irs-tege/teb1_lesson8.pdf
-https://www.irs.gov/pub/irs-utl/cashchapter11_211031.pdf
-https://www.hg.org/legal-articles/letters-of-credit-bills-of-lading-and-international-trade-finance-documentation-issues-important-in-litigation-18850
+* https://www.irs.gov/pub/irs-drop/n-12-20.pdf
+* https://www.irs.gov/pub/irs-tege/teb_phase_1_course_11204_-4module_c.pdf
+* https://taxmap.irs.gov/taxmap/pubs/p550-026.htm
+* https://www.irs.gov/pub/irs-mssp/obligations_form_d.pdf
+* https://www.irs.gov/pub/irs-utl/Chapters-3-4-61-coordinatingregs.pdf
+* https://www.irs.gov/pub/irs-mssp/obligations.pdf
+* https://www.irs.gov/pub/irs-tege/teb1_lesson8.pdf
+* https://www.irs.gov/pub/irs-utl/cashchapter11_211031.pdf
+* https://www.hg.org/legal-articles/letters-of-credit-bills-of-lading-and-international-trade-finance-documentation-issues-important-in-litigation-18850
