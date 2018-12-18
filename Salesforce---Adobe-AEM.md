@@ -1204,6 +1204,10 @@ Format:2xx0xx000
 
 ## OData
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
+* https://help.salesforce.com/articleView?id=odata_type_mapping_v2.htm&type=5
+* https://help.salesforce.com/articleView?id=platform_connect_considerations.htm&type=5
+* https://help.salesforce.com/articleView?id=security_pe_considerations_apps.htm&type=5
+* https://help.salesforce.com/articleView?id=bi_integrate_connectors_limits_limitations.htm&type=5
 
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
