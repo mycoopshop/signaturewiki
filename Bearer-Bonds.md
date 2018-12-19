@@ -7,3 +7,5 @@
 * https://www.irs.gov/pub/irs-tege/teb1_lesson8.pdf
 * https://www.irs.gov/pub/irs-utl/cashchapter11_211031.pdf
 * https://www.hg.org/legal-articles/letters-of-credit-bills-of-lading-and-international-trade-finance-documentation-issues-important-in-litigation-18850
+* https://www.treasury.gov/press-center/press-releases/Documents/shl2016_final_20170421.pdf
+* http://www.jag.navy.mil/distrib/instructions/2015EthicsCounselorsDeskbook.pdf
