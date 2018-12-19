@@ -27,6 +27,11 @@
 * http://www.esd.whs.mil/Portals/54/NARA%20Social%20Media%20Capture.pdf
 * http://www.dla.mil/Portals/104/Documents/LandAndMaritime/V/VA/PSMC/Spring%2017/LM_SWISS%20-%20What%20do%20you%20Hire%20A%20Standard%20to%20do_Spring%202017%20PSMC170526.pdf
 
+# Resource Bias
+* https://academic.oup.com/jla/article/9/1/51/3572441
+* http://www.dla.mil/Portals/104/Documents/J8Finance/DLA%20WCF%20FY18%20AFR%20Master.pdf
+* https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0029_MEILINGER_PATHS_OF_HEAVEN.pdf
+
 # Generational Bias
 * https://tinyurl.com/ycufg2ks
 * https://www.builderonline.com/builder-100/analysis-why-lennars-looking-to-sell-rialto_o
