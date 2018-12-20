@@ -1194,6 +1194,11 @@ Format:2xx0xx000
 * https://addons.mozilla.org/en-US/firefox/addon/salesforce-inspector/?src=search
 * https://addons.mozilla.org/en-US/firefox/addon/organizer/?src=search
 
+## OpenSearch Federation
+* https://help.salesforce.com/articleView?id=search_federated_parent.htm&type=5
+* https://help.salesforce.com/articleView?id=search_configure_solr_federated_search.htm&type=5
+* https://resources.docs.salesforce.com/sfdc/pdf/federated_search.pdf
+
 ## Mocking
 * https://engineering.salesforce.com/flaky-tests-and-how-to-avoid-them-25b84b756f60
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_apex_callouts_tests.htm
