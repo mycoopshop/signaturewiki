@@ -892,6 +892,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Investor Timeline
 * https://s1.q4cdn.com/454432842/files/doc_presentations/2016/2016-DF-Analyst-Day_FINAL_Website.pdf
+* https://investor.salesforce.com/about-us/investor/investor-resources/default.aspx
 * http://www.oracle.com/us/corporate/analystreports/nucleus-crm-tech-value-matrix-4466326.pdf
 * https://s1.q4cdn.com/454432842/files/doc_downloads/goverance/sfdc-Corporate-Governance-Guidelines-(CURRENT)-March-16-2016.pdf
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/Salesforce-Processor-BCR.pdf
@@ -924,6 +925,10 @@ Format:2xx0xx000
 * https://resources.docs.salesforce.com/170/latest/en-us/sfdc/pdf/salesforce_spring11_release_notes.pdf
 * https://resources.docs.salesforce.com/144/latest/en-us/sfdc/pdf/salesforce_winter07_release_notes.pdf
 
+## Exporting
+* https://help.salesforce.com/articleView?id=exporting_data.htm&type=5
+* https://help.salesforce.com/articleView?id=000206083&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=pardot_export_prospects.htm&type=5
 
 ## Rest API
 * https://developer.salesforce.com/page/Salesforce_APIs
