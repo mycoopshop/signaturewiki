@@ -26,6 +26,7 @@ Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs
 </pre>
 
 ## REFERENCES
+* https://itnext.io/a-wicked-custom-elements-alternative-6d1504b5857f?source=user_profile---------2------------------&gi=a1ec46e1619f
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
 * https://bugzilla.mozilla.org/buglist.cgi?quicksearch=product%3Adevtools+summary%3Areact+component%3Ageneral+resolution%3Afixed
