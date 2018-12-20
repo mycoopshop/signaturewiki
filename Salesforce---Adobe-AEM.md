@@ -1198,6 +1198,8 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=search_federated_parent.htm&type=5
 * https://help.salesforce.com/articleView?id=search_configure_solr_federated_search.htm&type=5
 * https://resources.docs.salesforce.com/sfdc/pdf/federated_search.pdf
+* https://help.salesforce.com/articleView?id=search_define_federated_search.htm&type=5
+* https://help.salesforce.com/articleView?id=networks_search_federated.htm&type=5
 
 ## Mocking
 * https://engineering.salesforce.com/flaky-tests-and-how-to-avoid-them-25b84b756f60
@@ -1207,6 +1209,7 @@ Format:2xx0xx000
 * https://www.salesforce.com/video/297000/
 
 ## WSDL
+* https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000250959&language=en_US&type=1
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
 * https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
