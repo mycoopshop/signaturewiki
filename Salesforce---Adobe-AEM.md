@@ -117,6 +117,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com
 * https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 /page/Best_Practice:_Use_of_the_Limits_Apex_Methods_to_avoid_Hitting_Governor_Limits
+* https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/limits_limitations.pdf
 * https://help.salesforce.com/articleView?id=000272809&type=1&language=en_US
 * https://developer.salesforce.com/page/Best_Practice:_Use_future_Appropriately
 * https://developer.salesforce.com/page/Best_Practices_for_Salesforce_to_Salesforce
