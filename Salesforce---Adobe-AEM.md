@@ -920,6 +920,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Audio/Video
 * https://developer.salesforce.com/dreamforce/2016-recap
+* https://www.youtube.com/watch?v=Yc5FrviQqO8
 
 ## Known Issues
 Format:2xx0xx000
@@ -1237,6 +1238,7 @@ Format:2xx0xx000
 
 ## OData
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
+* https://success.salesforce.com/issues_view?id=a1p3A0000008gA2QAI&title=unable-to-retrieve-results-from-a-query-when-using-count-on-an-external-object-in-json-format
 * https://help.salesforce.com/articleView?id=odata_type_mapping_v2.htm&type=5
 * https://help.salesforce.com/articleView?id=platform_connect_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=security_pe_considerations_apps.htm&type=5
