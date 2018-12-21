@@ -1043,6 +1043,7 @@ Format:2xx0xx000
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sales_lightning_s_g_event_scope.htm
 * https://gsuite.google.com/customers/salesforce.html
 * https://support.google.com/docs/answer/9073952
+* https://www.benchmarkemail.com/blogs/detail/how-to-create-a-diy-crm-system-with-google-docs
 
 ## Live Agent
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/beyond-point-click-quick-development-tips-live-agent.html
