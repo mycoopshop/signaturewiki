@@ -867,6 +867,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Formula Fields
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
+* https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_formula_size_tipsheet.pdf
+* https://help.salesforce.com/articleView?id=merge_fields_syntax.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
 * https://developer.salesforce.com/blogs/engineering/2013/02/force-com-soql-best-practices-nulls-and-formula-fields.html
@@ -910,6 +912,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://downloads.digitalmarketingdepot.com/rs/727-ZQE-044/images/MIR_1604_PredAnalyt.pdf?ref=emailmarketingtipps.de
 * https://timelines.issarice.com/wiki/Timeline_of_salesforce.com
 * https://en.wikipedia.org/wiki/Configure_Price_Quote
+
+## Audio/Video
+* https://developer.salesforce.com/dreamforce/2016-recap
 
 ## Known Issues
 Format:2xx0xx000
@@ -1191,6 +1196,7 @@ Format:2xx0xx000
 * https://bluecanvas.io/2017/02/13/debugging-apex-salesforce-debug-log-checkpoints.html
 * http://www.laceysnr.com/break-the-rules-to-avoid-breaking-the-limits/
 * https://developer.salesforce.com/page/An_Introduction_to_Exception_Handling
+* https://developer.salesforce.com/blogs/2017/09/error-handling-best-practices-lightning-apex.html
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_exception_methods.htm
 * https://help.salesforce.com/articleView?id=000232681&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000004186&type=1
