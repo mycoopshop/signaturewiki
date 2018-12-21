@@ -22,6 +22,7 @@ Excellent verbal and written communication skills
 url:servlet ext:pdf site:salesforce.com
 * https://www.sundoginteractive.com/blog/salesforces-apex-runtime-design
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_apex_inherited_sharing.htm
+* https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=0
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041B37QAE
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041d62QAA
@@ -475,6 +476,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Marketing Cloud
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
+* https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/gtlWorkbook.htm
 * https://help.salesforce.com/articleView?id=mc_es_ftp_instruction_guide.htm&type=5
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
