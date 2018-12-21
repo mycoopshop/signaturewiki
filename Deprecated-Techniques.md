@@ -86,6 +86,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 * https://trends.builtwith.com/framework/traffic/Top-100k
 
+* http://www.thinkmoore.net/papers/2009-PLAS-co-logic-verification.pdf
+
 * https://hiper.cis.udel.edu/lp/lib/exe/fetch.php/courses/cisc879/eclipse-platform-whitepaper.pdf
 
 * http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6F74F60FF7B857FDECD5B2032693C892?doi=10.1.1.421.7211&rep=rep1&type=pdf
