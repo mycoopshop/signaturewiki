@@ -20,6 +20,7 @@ Excellent verbal and written communication skills
 
 ## Architecture
 url:servlet ext:pdf site:salesforce.com
+* https://www.sundoginteractive.com/blog/salesforces-apex-runtime-design
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041B37QAE
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041d62QAA
