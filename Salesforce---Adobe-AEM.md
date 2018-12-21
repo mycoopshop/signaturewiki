@@ -44,6 +44,7 @@ url:servlet ext:pdf site:salesforce.com
 
 ## Syntax
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
+* https://resources.docs.salesforce.com/sfdc/pdf/dbcom_apex_language_reference.pdf?major=178
 * https://github.com/forceworkbench/forceworkbench/wiki
 * https://developer.salesforce.com/blogs/2018/05/summer18-rethink-trigger-logic-with-apex-switch.html
 * https://github.com/forcedotcom/idecore/blob/master/com.salesforce.ide.ui.editors/config/apexModel.xml#L4128
