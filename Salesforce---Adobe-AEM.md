@@ -1130,6 +1130,9 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=code_tools_ant_using.htm&type=5
 * https://deploy-to-sfdx.com/
 
+## Cost Structure
+* https://www.turnkeytec.com/wp-content/uploads/2015/09/Hidden-Costs-of-Salesforce-White-Paper.pdf
+
 ## Messaging / Chaining
 * https://developer.salesforce.com/page/Streaming_API
 * http://docs.releasenotes.salesforce.com/en-us/spring15/release-notes/rn_apex_queueable_chaining.htm
