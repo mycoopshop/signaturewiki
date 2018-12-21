@@ -57,6 +57,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 ## VB/ASP
 * https://docs.microsoft.com/en-us/previous-versions/office/developer/server-technologies/aa286483(v=msdn.10)
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
+* https://bitbucket.org/DanRoberts/vbscripttranslator
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
 * https://www.example-code.com/vb6/sharepoint_online_authentication.asp
 * https://msdn.microsoft.com/en-us/library/aa730836(v=vs.80).aspx
