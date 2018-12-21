@@ -1,5 +1,7 @@
 https://content.iospress.com/articles/information-services-and-use/isu859
 
+https://www.newslookup.com/
+
 http://gameslikefinder.com/games-like-directory/
 
 https://www.tapscape.com/category/android-2/android-games-2/
