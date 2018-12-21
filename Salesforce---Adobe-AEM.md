@@ -52,6 +52,11 @@ url:servlet ext:pdf site:salesforce.com
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 * https://developer.salesforce.com/page/Apex_Wiki
 * https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml
+* [TextMate Grammar: apex.tmLanguage.yml](https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml)
+* [Atom IDE Grammar: apex.cson](https://github.com/vazexqi/atom-ide-apex/blob/master/grammars/apex.cson)
+* [ANTLR Grammar: apex.g4](https://github.com/antlr/grammars-v4/blob/master/apex/apex.g4)
+* [Vim plugin: vim-force.com/force.com.txt at master · neowit/vim-force.com](https://github.com/neowit/vim-force.com/blob/master/doc/force.com.txt)
+* [Did you know Apex has a new compiler?](https://www.reddit.com/r/salesforce/comments/8do5ix/did_you_know_apex_has_a_new_compiler/)
 
 ## REPL
 https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_overlaying_soql.htm&type=5
