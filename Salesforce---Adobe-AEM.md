@@ -594,6 +594,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Bestpractices:Continuous_Integration_Techniques
 * https://developer.salesforce.com/blogs/developer-relations/2013/03/setting-up-jenkins-for-force-com-continuous-integration.html
 
+## Chrome Extensions
+* https://business.linkedin.com/sales-solutions/compare-plans/sales-navigator-for-gmail#
+* https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
+
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000ErH8oUAF
@@ -814,7 +818,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-inter-component-communication-patterns.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
-* https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
 * https://medium.com/salesforcesummaries/visualforce-in-lightning-experience-32d024e72d36
 * https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
 * https://www.codescience.com/blog/2017/ultimate-lightning-guide-defining-the-differences-in-salesforce-lightning
