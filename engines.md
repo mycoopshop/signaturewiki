@@ -1,9 +1,12 @@
 * https://searx.me
 * http://gibiru.com
 * https://about.qwant.com/
+* https://www.unbubble.eu/info/en-GB/advanced-search
 * https://guides.lib.uni.edu/on-beyond-google/other-search-engines
 * https://medium.com/@QwantCom/5-reasons-to-be-brave-and-choose-qwant-3dba31cf0777
 * https://mashable.com/2008/08/10/ixquick-privacy/#HKQZIYNXxZqR
+* https://medium.freecodecamp.org/how-crowd-curation-improved-our-search-quality-by-27-84d500e751bc?gi=54e3ca76e95d
+* https://www.nngroup.com/articles/internal-website-search/
 * https://www.singleplatform.com/
 * https://www.tomsguide.com/us/qwant-music-lovers-search-engine,news-26759.html
 * https://www.owler.com/company/qwant
