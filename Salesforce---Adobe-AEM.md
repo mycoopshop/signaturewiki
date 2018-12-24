@@ -1054,6 +1054,7 @@ Format:2xx0xx000
 * https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data_format.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_json.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_analytics_rest_api.pdf
+* https://help.salesforce.com/articleView?id=bi_integrate_connectors_remote.htm&type=5
 * https://help.salesforce.com/articleView?id=bi_integrate_salesforce_extract_transformation_operation.htm&type=5
 * https://help.salesforce.com/articleView?id=bi.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_bi_design_step_apex.htm
