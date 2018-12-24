@@ -286,6 +286,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
+* https://github.com/salesforceidentity
 * https://github.com/SalesforceFoundation
 * https://github.com/SFDO-Tooling
 
@@ -1104,6 +1105,7 @@ Format:2xx0xx000
 
 ## Mobile SDK
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
+* https://help.salesforce.com/articleView?id=000192840&type=1
 * https://resources.docs.salesforce.com/servicesdk/214/0/en-us/pdf/service_sdk_android.pdf
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
 * https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
@@ -1419,6 +1421,12 @@ Format:2xx0xx000
 * https://developer.salesforce.com/page/An_Introduction_to_Builder
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
+
+## NPM
+* https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127?gi=ea5741f2ccb
+* https://engineering.salesforce.com/open-sourcing-violet-a-voice-application-framework-744f7c660655
+* https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-sample-app-part-2-salesforce-node-js-integration-platform-events.html
+* https://developer.salesforce.com/blogs/2018/05/using-salesforce-cli-with-windows-subsystem-for-linux-in-10-easy-steps.html
 
 # Trailhead
 * https://force.desk.com/customer/portal/articles/2659738-how-to-get-a-password-for-my-trailhead-playground?b_id=13478
