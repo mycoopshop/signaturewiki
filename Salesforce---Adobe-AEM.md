@@ -1215,6 +1215,9 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=000004186&type=1
 * https://help.salesforce.com/articleView?id=code_dev_console_view_checkpoints.htm&type=5
 
+## Developer Console
+* https://success.salesforce.com/ideaView?id=08730000000iALkAAM
+
 ## Browser Extensions
 * https://addons.mozilla.org/en-US/firefox/addon/salesforce-inspector/?src=search
 * https://addons.mozilla.org/en-US/firefox/addon/organizer/?src=search
