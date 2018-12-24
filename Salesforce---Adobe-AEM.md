@@ -221,6 +221,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://help.salesforce.com/articleView?id=mc_overview_content_and_email_creation_tools.htm&type=5
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_HTMLtemplates_cheatsheet.pdf
 * https://help.salesforce.com/articleView?id=000071170&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000228273&type=1&language=en_US
@@ -285,6 +286,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
+* https://github.com/SalesforceFoundation
+* https://github.com/SFDO-Tooling
 
 **Tutorials**
 * https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
@@ -477,8 +480,17 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## DITA / SFDOC
 * https://github.com/SalesforceFoundation/sfdoc
+* https://www.slideshare.net/suitesolutions/dita-quickstartsystemarchitectureofabasicditatoolset
 * https://www.nimbleams.com/blog/customizing-salesforce-help-part-3/
 * https://idratherbewriting.com/2015/09/29/how-are-you-doing-docs/
+
+## SOAP/REST
+* https://www.petefreitag.com/item/653.cfm
+* https://www.slideshare.net/ArnaudBouchez1/a2-from-soap-to-rest-48837831
+* https://www.infoworld.com/article/3236391/cloud-computing/rest-or-soap-in-a-cloud-native-environment.html
+* https://news.ycombinator.com/item?id=17026215
+* https://www.w3.org/TR/soap12-part0/
+* https://www.w3.org/TR/wsdl/wsdl20-z.html
 
 ## APEXDOC
 
@@ -649,6 +661,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/isv/2017/08/federated-search-for-salesforce-isvs.html
 * https://appexchange.salesforce.com/listingDetail?listingId=a0N3000000B5V2gEAF
 * https://www.salesforce.com/blog/2017/11/mytrailhead-reinventing-trailblazer-learning.html
+
+## EEO
+* https://www.salesforce.com/blog/2018/12/salesforce-equality-annual-update.html
 
 ## Subcontractor Market
 * http://www.0to1code.com/
@@ -873,10 +888,20 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2018/04/introducing-proactive-monitoring.html
 
 ## Accessibility
-* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
+* https://developer.salesforce.com/blogs/2018/01/promote-equality-building-accessible-content.html
 * https://releasenotes.docs.salesforce.com/en-us/winter16/release-notes/rn_general_accessibility_lex.htm
 * https://www.salesforce.com/company/legal/508_accessibility/
 * https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
+* https://developer.salesforce.com/blogs/2018/01/promote-equality-building-accessible-content.html
+* https://developer.salesforce.com/blogs/2018/08/new-density-settings-for-the-lightning-experience-ui-in-winter-19.html
+
+## Internationalization / Localization
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
+* https://www.salesforce.com/blog/2017/04/how-to-localize-your-content-marketing
+* https://www.salesforce.com/blog/2014/09/5-tips-engaging-international-audiences-gp.html
+* https://developer.salesforce.com/docs/atlas.en-us.noversion.service_sdk_ios.meta/service_sdk_ios/localization.htm
+* https://www.salesforce.com/products/commerce-cloud/partner-marketplace/partners/datawords/
+* https://www.salesforce.com/products/commerce-cloud/partner-marketplace/partners/global-e/
 
 ## Beta/Pilot Programs
 * -title:beta -title:salesforce +pilot title:release site:salesforce.com
@@ -1114,7 +1139,7 @@ Format:2xx0xx000
 * https://community.boomi.com/s/article/Salesforce-Integration-Guide
 * https://www.salesforce.com/products/einstein-analytics/etl-partners/
 * https://www.salesforce.com/blog/2018/11/21-salesforce-customers-review-integration-apps
-
+* https://help.salesforce.com/articleView?id=mc_mdc_2014_winter_release.htm&type=5
 * https://developer.financialforce.com/technical-reference/using-the-salesforce-api/
 * https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
 * https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90690_.htm
@@ -1291,8 +1316,14 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=security_pe_considerations_apps.htm&type=5
 * https://help.salesforce.com/articleView?id=bi_integrate_connectors_limits_limitations.htm&type=5
 
+## Test Data
+* https://developer.salesforce.com/page/Generating_and_Loading_Representative_Test_Data_for_Salesforce_and_Force.com_Orgs
+* https://saramorgan.net/2015/07/01/best-way-to-generate-lots-of-fake-test-data-for-force-com-orgs/
+* https://www.reddit.com/r/salesforce/comments/7ca8j7/dummy_data/
+
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
+* http://www.sfdcpoint.com/salesforce/testsetup-method-in-apex-test-classes/
 * https://www.salesforce.com/video/294751/
 * http://bobbuzzard.blogspot.com/2017/07/lightning-testing-service-part-1.html
 * http://bobbuzzard.blogspot.com/2017/08/lightning-testing-service-part-2-custom.html
