@@ -1086,7 +1086,16 @@ Format:2xx0xx000
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_einstein_platform_services_refresh_token.htm
 
 ## Watson
-*  https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
+* https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
+* https://www.ibm.com/watson/ibm-salesforce/
+* https://www.ibm.com/blogs/watson/2018/09/introducing-watson-discovery-for-salesforce-an-ai-powered-insight-engine-for-crm/
+* https://www.ibm.com/blogs/watson/2018/06/watson-and-salesforce-embedded-ai-solutions-for-your-customer-service-and-sales-needs/
+* https://www.ibm.com/support/knowledgecenter/en/SSWU4L/Integrations/imc_Integrations/Integrations_q_a_watson_assistant/SalesforceCRMiOverview.html
+* https://developer.ibm.com/dwblog/2017/watson-discovery-apex-sdk-salesforce/
+* https://www.ibm.com/blogs/watson/2018/03/watson-ai-helps-deliver-sales-intelligence-with-salesforce/
+* https://developer.ibm.com/patterns/integrate-watson-ai-into-salesforce-apps/
+* https://www.ibm.com/support/knowledgecenter/en/SSWU4L/Integrations/imc_Integrations/Integrations_q_a_watson_assistant/002_FAQs143.html
+* https://www.ibm.com/communities/analytics/watson-analytics-blog/how-do-i-connect-watsonanalytics-to-my-instance-of-salesforce-so-it-may-be-used-as-a-data-source/
 
 ## Alexa
 * https://engineering.salesforce.com/open-sourcing-violet-a-voice-application-framework-744f7c660655
@@ -1329,6 +1338,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=remoteaccess_asset_token_using_validating.htm&type=5
 * https://help.salesforce.com/articleView?id=000193647&type=1
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=5
+* https://developer.salesforce.com/blogs/developer-relations/2013/05/mobile-development-with-connected-apps.html
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_refresh_token_oauth.htm
 * https://developer.salesforce.com/blogs/engineering/2015/11/restrict-access-lightning-applications-step-authentication.html
 * https://help.salesforce.com/articleView?id=sso_delauthentication_configuring.htm&type=5
