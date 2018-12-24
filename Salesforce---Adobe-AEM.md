@@ -540,7 +540,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/platform/dx
 * https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/07/migrating-existing-projects-salesforce-dx.html
-* https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
 * https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-1.html
 * https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-2.html
 * https://developer.salesforce.com/blogs/2018/02/announcing-unlocked-packages-beta.html
@@ -1326,6 +1325,7 @@ Format:2xx0xx000
 ## Testing
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * http://www.sfdcpoint.com/salesforce/testsetup-method-in-apex-test-classes/
+* https://developer.salesforce.com/blogs/2018/04/getting-started-with-the-lightning-testing-service.html
 * https://www.salesforce.com/video/294751/
 * https://github.com/forcedotcom/LightningTestingService/blob/master/lightning-component-tests/test/default/staticresources/jasmineExampleTests.resource
 * http://bobbuzzard.blogspot.com/2017/07/lightning-testing-service-part-1.html
