@@ -253,6 +253,7 @@ https://markets.cboe.com/us/equities/market_statistics/market_quality/
 https://markets.cboe.com/resource/industry_education/how_trading_works/
 
 # Recycling Bias
+* https://www.linkedin.com/feed/news/machines-may-run-on-liquid-sunshine-4542748/
 * https://www.bogleheads.org/wiki/Bogleheads®_investment_philosophy
 * https://www.apnews.com/5cb03458e9d446a996aaf9cce1a5dc5f
 * https://www.calcxml.com/do/savings-goal-calculator-how-much
