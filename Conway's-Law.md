@@ -8,6 +8,8 @@ Test          Test the program and fix and log all defects found
 Postmortem    Record actual time, defect, and size data on the plan
 </pre>
 
+* https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13751.pdf
+* http://wiki.c2.com/?PersonalSoftwareProcess
 * https://www.slideshare.net/alanmcsweeney/conways-law-cognitive-diversity-organisation-transformation-and-solution-design-66522207
 * https://developer.salesforce.com/blogs/engineering/2015/04/overcommitting-agile-11-practical-solutions-part-2.html
 * https://sites.google.com/a/scrumplop.org/published-patterns/product-organization-pattern-language/conway-s-law
