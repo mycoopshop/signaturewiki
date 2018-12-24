@@ -1253,7 +1253,9 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/engineering/2013/07/alert-salesforce-event-notification-designs-for-force-com-apps.html
 
 ## Logging/Debugging/Troubleshooting
-* https://success.salesforce.com/issues_index?tag=Performance
+* https://success.salesforce.com/issues_index?tag=Performance&status=inreview
+* https://success.salesforce.com/issues_index?status=nofix
+* https://developer.salesforce.com/blogs/engineering/2015/02/gack.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/01/time-clean-unneeded-salesforce-customizations.html
 * https://developer.salesforce.com/blogs/engineering/2016/01/apex-interactive-debugger.html
 * https://developer.salesforce.com/blogs/engineering/2017/01/salesforce-console-performance.html
