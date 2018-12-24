@@ -1327,6 +1327,7 @@ Format:2xx0xx000
 * https://developer.salesforce.com/page/An_Introduction_to_Apex_Code_Test_Methods
 * http://www.sfdcpoint.com/salesforce/testsetup-method-in-apex-test-classes/
 * https://www.salesforce.com/video/294751/
+* https://github.com/forcedotcom/LightningTestingService/blob/master/lightning-component-tests/test/default/staticresources/jasmineExampleTests.resource
 * http://bobbuzzard.blogspot.com/2017/07/lightning-testing-service-part-1.html
 * http://bobbuzzard.blogspot.com/2017/08/lightning-testing-service-part-2-custom.html
 * https://github.com/forcedotcom/LightningTestingService
