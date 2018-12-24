@@ -475,6 +475,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
 * https://aws.amazon.com/blogs/security/tag/salesforce/
 
+## DITA / SFDOC
+* https://github.com/SalesforceFoundation/sfdoc
+* https://www.nimbleams.com/blog/customizing-salesforce-help-part-3/
+* https://idratherbewriting.com/2015/09/29/how-are-you-doing-docs/
+
+## APEXDOC
+
 ## Marketing Cloud
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
 * https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/gtlWorkbook.htm
