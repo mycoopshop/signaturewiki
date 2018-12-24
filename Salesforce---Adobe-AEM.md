@@ -1418,6 +1418,10 @@ Format:2xx0xx000
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
 
+# Trailhead
+* https://force.desk.com/customer/portal/articles/2659738-how-to-get-a-password-for-my-trailhead-playground?b_id=13478
+* https://force.desk.com/customer/en/portal/topics/1063710-trailhead-challenges/articles?b_id=13478
+
 # Adobe 
 ## Headless Architecture
 * Aggregation
