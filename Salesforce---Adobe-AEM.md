@@ -692,6 +692,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://github.com/stomita/sformula
 * https://github.com/jsforce/jsforce/blob/master/test/package/JSforceTestSuite/workflows/Account.workflow
 
+## ESAPI
+* https://developer.salesforce.com/page/Testing_CRUD_and_FLS_Enforcement
+* https://developer.salesforce.com/page/Enforcing_CRUD_and_FLS
+
 ## WorkBench
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_workbench_cheatsheet.pdf
 
@@ -927,6 +931,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Known Issues
 Format:2xx0xx000
+* https://help.salesforce.com/articleView?id=000004410&language=en_US&type=1
 * https://success.salesforce.com/ideaView?id=0873A000000TpuoQAC
 * https://success.salesforce.com/issues_releases_view?release=212000000
 * https://success.salesforce.com/issues_releases_view?release=212010000
@@ -1091,6 +1096,9 @@ Format:2xx0xx000
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=5
 * https://community.boomi.com/s/article/Salesforce-Integration-Guide
+* https://www.salesforce.com/products/einstein-analytics/etl-partners/
+* https://www.salesforce.com/blog/2018/11/21-salesforce-customers-review-integration-apps
+
 * https://developer.financialforce.com/technical-reference/using-the-salesforce-api/
 * https://developer.ibm.com/integration/blog/2016/03/18/integrating-with-salesforce-using-a-rest-api-created-in-ibm-integration-bus/
 * https://www.ibm.com/support/knowledgecenter/en/SSMKHH_10.0.0/com.ibm.etools.mft.doc/bz90690_.htm
@@ -1154,6 +1162,22 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/developer-relations/2013/01/responsive-visualforce-using-streaming-api-and-asynchronous-apex.html
 * https://developer.salesforce.com/blogs/tech-pubs/2012/05/three-force-com-streaming-api-techniques.html
 * https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
+
+## StAX
+* http://tutorials.jenkov.com/java-xml/stax-xmleventwriter.html
+* https://www.oreilly.com/library/view/java-web-services/0596002696/ch04s02.html
+* https://sanaulla.info/2013/05/23/parsing-xml-using-dom-sax-and-stax-parser-in-java/
+* https://bugs.openjdk.java.net/browse/JDK-8145963
+* https://bugs.openjdk.java.net/browse/JDK-7148925
+* http://java.boot.by/ocewsd6-guide/ch10.html
+* http://developer.classpath.org/doc/javax/xml/stream/XMLInputFactory-source.html
+* http://www.xmlsh.org/FunctionsStax
+* https://www.xml.com/pub/a/2003/09/17/stax.html
+
+## JSONP
+* https://help.salesforce.com/articleView?id=000264418&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=remoteaccess_using_openid.htm&type=5
+* https://help.salesforce.com/articleView?id=remoteaccess_revoke_token.htm&type=5
 
 ## Big Data
 * json asynchronous domain:salesforce.com ext:pdf
