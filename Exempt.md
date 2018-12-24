@@ -21,6 +21,8 @@ https://www.gao.gov/assets/80/76911.pdf
 
 https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs
 
+https://www.irs.gov/businesses/international-businesses/country-by-country-reporting-guidance
+
 http://www.taxpayeradvocate.irs.gov/2013-annual-report/downloads/Toward-a-More-Perfect-Tax-System-A-Taxpayer-Bill-of-Rights-as-a-Framework-for-Effective-Tax-Administration.pdf
 
 https://www.irs.gov/pub/irs-utl/irs_advancing_e-file_study_phase_2_report.pdf
