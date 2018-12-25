@@ -1217,6 +1217,8 @@ Format:2xx0xx000
 * http://developer.classpath.org/doc/javax/xml/stream/XMLInputFactory-source.html
 * http://www.xmlsh.org/FunctionsStax
 * https://www.xml.com/pub/a/2003/09/17/stax.html
+* http://www.vogella.com/tutorials/RSSFeed/article.html
+* https://softwarecave.org/2014/02/18/parse-xml-document-using-streaming-api-for-xml-stax/
 
 ## JSONP
 * https://help.salesforce.com/articleView?id=000264418&language=en_US&type=1
