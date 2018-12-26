@@ -1,3 +1,5 @@
+* https://www.accessibilityassociation.org/wascertification
+* https://www.accessibilityassociation.org/certification
 * https://www.themuse.com/advice/43-classes-you-can-take-right-now-to-advance-your-career-and-theyre-free
 * https://www.neowin.net/news/microsoft-offering-two-free-courses-on-windows-server-2016-security
 * https://www.linuxfestnorthwest.org/2017/training/free-certification-exam-suse-certified-administrator-sca-enterprise-linux
