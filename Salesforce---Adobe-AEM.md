@@ -633,6 +633,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EO5smUAD
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000q7FrEAI
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EFozgUAD
 
 ## Salesforce Labs
 * github site:appexchange.salesforce.com -title:lightning title:labs
