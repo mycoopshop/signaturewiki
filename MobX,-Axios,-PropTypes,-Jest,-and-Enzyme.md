@@ -72,6 +72,10 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://blog.risingstack.com/handling-react-forms-with-mobx-observables/
 1. https://itnext.io/react-with-out-mobx-part-1-of-2-b540a7e631a9
 
+## Axios
+1. https://codereviewvideos.com/blog/7-things-i-learned-adding-jest-existing-project/
+1. https://www.leighhalliday.com/testing-asynchronous-components-mocks-jest
+
 ## Enzyme
 * https://github.com/facebook/jest/blob/master/docs/SnapshotTesting.md
 * https://btholt.github.io/complete-intro-to-react-v2/2016/01/11/react-testing.html
