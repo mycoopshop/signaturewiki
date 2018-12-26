@@ -419,6 +419,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
 * https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html
 * http://peterknolle.com/file-upload-lightning-component/
+* https://developer.salesforce.com/blogs/developer-relations/2017/05/build-lightning-file-uploader-component.html
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/aura_compref_lightning_fileUpload.htm
 * https://help.salesforce.com/articleView?id=search_configure_query_solr_federated_search.htm&type=0
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=0
