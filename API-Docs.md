@@ -1,3 +1,12 @@
+# Amazon
+
+* https://github.com/dmcquay/node-apac/tree/master/lib
+* https://github.com/fetchlogic/amz-products/blob/master/index.js
+* https://docs.aws.amazon.com/AWSECommerceService/latest/DG/use-your-existing-aws-security-credentials-for-the-product-advertising-api.html
+* https://docs.aws.amazon.com/AWSECommerceService/latest/GSG/GettingStarted.html
+* https://webservices.amazon.com/scratchpad/index.html
+
+# References
 * https://github.com/zloirock/core-js
 * https://developer.valvesoftware.com/wiki/Steam_Web_API
 * https://stackoverflow.com/questions/43354897/what-is-the-importance-of-default-exports-in-reactjs
