@@ -1,5 +1,7 @@
 achsah keturah kezia jael
 
+https://www.lessonplanet.com/search?keywords=tupac
+
 https://techbridgegirls.org/index.php?id=231
 
 https://en.wikipedia.org/wiki/Etymology_of_California
