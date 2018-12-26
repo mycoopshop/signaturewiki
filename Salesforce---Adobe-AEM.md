@@ -983,6 +983,7 @@ Format:2xx0xx000
 * http://releasenotes.docs.salesforce.com/en-us/summer16/release-notes/rn_mobile_s1_newfeat_bb_eos_reminder.htm
 * https://resources.docs.salesforce.com/186/latest/en-us/sfdc/pdf/salesforce_winter14_release_notes.pdf
 * https://resources.docs.salesforce.com/170/latest/en-us/sfdc/pdf/salesforce_spring11_release_notes.pdf
+* https://resources.docs.salesforce.com/160/latest/en-us/sfdc/pdf/salesforce_summer09_release_notes.pdf
 * https://resources.docs.salesforce.com/144/latest/en-us/sfdc/pdf/salesforce_winter07_release_notes.pdf
 
 ## Exporting
