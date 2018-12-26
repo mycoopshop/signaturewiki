@@ -1,0 +1,9 @@
+https://www.nationalmuseum.af.mil/Portals/7/documents/education/similar_paper_airplanes_lesson_plan.pdf
+https://math.wonderhowto.com/how-to/use-protractor-make-pie-chart-333915/
+http://www.homemadetools.net/tag/protractor
+http://www.mechscience.com/introduction-to-angular-measurement-protractor-and-sine-principle-collimators-angle-dekkor/
+https://grahamhancock.com/creightons6/
+http://www.easy-science-fair-projects.net/paper-airplane-science-fair-project.html
+https://www.goldennumber.net/bible/
+https://sites.google.com/site/derekjjung/math-poetry
+https://www.smashingmagazine.com/2010/02/applying-mathematics-to-web-design/
