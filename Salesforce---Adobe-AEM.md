@@ -592,6 +592,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## IDE
 * https://cloud9-salesforce.readme.io/docs/getting-started
+* https://github.com/ejholmes/vim-forcedotcom/blob/master/syntax/apex.vim
 * https://developer.salesforce.com/blogs/2018/06/salesforce-for-vs-code-apex-replay-debugger-and-more.html
 * https://developer.salesforce.com/blogs/2018/06/lets-talk-deployment-and-reasons-why-they-succeed-or-fail.html
 * https://github.com/forcedotcom/idecore/wiki/Downloading-the-Beta-Version-of-the-Force.com-IDE
