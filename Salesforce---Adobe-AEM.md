@@ -631,7 +631,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EO5smUAD
-
+* https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000000q7FrEAI
 
 ## Salesforce Labs
 * github site:appexchange.salesforce.com -title:lightning title:labs
@@ -1207,7 +1207,12 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/tech-pubs/2012/05/three-force-com-streaming-api-techniques.html
 * https://developer.salesforce.com/page/Streaming_Real_Time_Data_into_Visualforce
 
+## DOM
+* https://gist.github.com/abhinavguptas/1238904
+* http://blog.deadlypenguin.com/blog/2016/07/14/xml-parsing-apex/
+
 ## StAX
+* https://github.com/skolakan/Apex-XML-Serializer
 * http://tutorials.jenkov.com/java-xml/stax-xmleventwriter.html
 * https://www.oreilly.com/library/view/java-web-services/0596002696/ch04s02.html
 * https://sanaulla.info/2013/05/23/parsing-xml-using-dom-sax-and-stax-parser-in-java/
@@ -1219,11 +1224,22 @@ Format:2xx0xx000
 * https://www.xml.com/pub/a/2003/09/17/stax.html
 * http://www.vogella.com/tutorials/RSSFeed/article.html
 * https://softwarecave.org/2014/02/18/parse-xml-document-using-streaming-api-for-xml-stax/
+* https://www.xml.com/pub/a/2003/09/17/stax.html
 
 ## JSONP
 * https://help.salesforce.com/articleView?id=000264418&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=remoteaccess_using_openid.htm&type=5
 * https://help.salesforce.com/articleView?id=remoteaccess_revoke_token.htm&type=5
+
+## Web Components
+* http://amitsalesforce.blogspot.com/2018/12/Invoke-Apex-Controller-from-Lightning-Web-Component.html
+
+## Edition Licensing Comparison
+* https://help.salesforce.com/articleView?id=lex_supported_editions.htm&type=5
+* https://help.salesforce.com/articleView?id=overview_edition_lex_only.htm&type=5
+* https://help.salesforce.com/articleView?id=overview_limits_general.htm&type=5
+* https://help.salesforce.com/articleView?id=email_eds_perms.htm&type=5
+* https://help.salesforce.com/articleView?id=000005140&type=1
 
 ## Big Data
 * json asynchronous domain:salesforce.com ext:pdf
@@ -1325,6 +1341,7 @@ Format:2xx0xx000
 
 ## Test Data
 * https://developer.salesforce.com/page/Generating_and_Loading_Representative_Test_Data_for_Salesforce_and_Force.com_Orgs
+* http://www.tgerm.com/2011/09/testing-apex-webservice-callout.html
 * https://saramorgan.net/2015/07/01/best-way-to-generate-lots-of-fake-test-data-for-force-com-orgs/
 * https://www.reddit.com/r/salesforce/comments/7ca8j7/dummy_data/
 
