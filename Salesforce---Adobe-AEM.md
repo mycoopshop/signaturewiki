@@ -477,6 +477,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Single Sign On
 * https://help.salesforce.com/articleView?id=identity_provider_examples_servicenow.htm&type=5
+* https://developer.salesforce.com/page/Secure_Coding_Single_Sign_On
+* https://help.salesforce.com/articleView?id=security_frontdoorjsp.htm&type=5
+* https://help.salesforce.com/articleView?id=000268571&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=networks_cookie.htm&type=5
+* https://help.salesforce.com/articleView?id=security_user_session_info.htm&type=5
+* https://help.salesforce.com/articleView?id=remoteaccess_oauth_web_server_flow.htm&type=5
 * https://www.citrix.com/content/dam/citrix/en_us/documents/guide/single-sign-on-for-salesforce-with-citrix-netscaler.pdf
 * https://aws.amazon.com/blogs/security/tag/salesforce/
 
