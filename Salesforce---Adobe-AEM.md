@@ -577,6 +577,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
 * https://help.salesforce.com/articleView?id=dev_understanding_global_variables.htm&type=0
 * https://schemalister.herokuapp.com
+* https://presencepress.presencepg.com/team-development-options-for-force-com-47c90c183036?gi=e153bc3417a3
+* https://tddprojects.atlassian.net/wiki/spaces/SF/pages/58819731/MavensMate+and+Git+for+Non+Developers
+* https://dzone.com/articles/building-salesforce-using-atlassian-bitbucket-pipe
+* https://developer.salesforce.com/page/Syncing_Salesforce_Org_Metadata_to_Github
+* https://gearset.com/assets/version-control-for-salesforce-whitepaper.pdf
+* https://medium.com/slalom-technology/ant-vs-salesforce-dx-a-completed-guide-to-automated-deployments-using-salesforce-cli-ce2b1e2ff770
 
 ## Heroku Connect
 * https://developer.salesforce.com/dreamhouse/pio/
