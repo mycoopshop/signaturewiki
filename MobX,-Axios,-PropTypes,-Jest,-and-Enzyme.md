@@ -22,6 +22,11 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 
 ## Migration
 1. https://itnext.io/build-a-view-framework-free-data-layer-based-on-mobx-integration-with-vue-1-8b524b86c7b8
+1. https://stackoverflow.com/questions/45947741/how-to-test-a-mobx-store-function-asynchronously-with-jest
+
+## Mock Functions
+1. https://jestjs.io/docs/en/mock-function-api
+1. https://medium.com/@deanslamajr/jest-fn-all-the-things-d26f3b929986
 
 ## References
 1. https://github.com/airbnb/enzyme/blob/master/packages/enzyme-test-suite/test/ShallowWrapper-spec.jsx
