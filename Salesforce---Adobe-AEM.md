@@ -972,6 +972,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://timelines.issarice.com/wiki/Timeline_of_salesforce.com
 * https://en.wikipedia.org/wiki/Configure_Price_Quote
 
+## Comparison
+* https://financesonline.com/top-10-alternatives-salesforce-crm-popular-crm-software-solutions/
+
 ## Audio/Video
 * https://developer.salesforce.com/dreamforce/2016-recap
 * https://www.youtube.com/watch?v=Yc5FrviQqO8
