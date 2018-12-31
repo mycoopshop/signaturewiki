@@ -547,6 +547,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
+* http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
 * https://help.salesforce.com/articleView?id=000271319&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000269324&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=pardot_connectors_site_search_third_party_add.htm&type=5
