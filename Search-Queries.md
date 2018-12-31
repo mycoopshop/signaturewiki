@@ -8,6 +8,8 @@ wiki:yes deleted:1
 
 +component +util +src +test title:structure +react +images +css +sass
 
+ratio dividend adr otcpk site:seekingalpha.com "strong fundamentals"
+
 master build.xml gnu readme site:github.com ant
 
 title:camera +openvpn +amazon +raspberry
