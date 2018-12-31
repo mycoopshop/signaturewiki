@@ -1,4 +1,7 @@
 * https://wiki.saucelabs.com/display/DOCS/Annotating+Tests+with+Selenium%27s+JavaScript+Executor
+* https://www.swtestacademy.com/xpath-selenium/
+* https://appiumpro.com/editions/20
+* https://blog.mozilla.org/fxtesteng/2013/09/26/writing-reliable-locators-for-selenium-and-webdriver-tests/
 * https://stackoverflow.com/questions/18150593/selenium-multiple-tabs-at-once
 * https://www.testingexcellence.com/open-new-tab-browser-using-selenium-webdriver-java/
 * https://www.guru99.com/execute-javascript-selenium-webdriver.html
