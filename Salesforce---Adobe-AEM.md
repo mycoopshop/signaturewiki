@@ -213,6 +213,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://trailhead.salesforce.com/credentials/developeroverview
 * https://trailhead.salesforce.com/help?article=Link-Your-Trailhead-and-Webassessor-Accounts
 * https://developer.salesforce.com/blogs/2018/01/getting-certified-adventure-documentation-trailhead.html
+* http://image.mail.salesforce.com/lib/fe9d1c727563047c75/m/1/b694a346-3f5e-478d-acaa-79069b4024ac.pdf
 * https://admin.salesforce.com/preparing-certification-exam
 * https://www.shellblack.com/training-and-certification/get-certified-eight-free-salesforce-training-resources/
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
@@ -223,6 +224,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
 * https://help.salesforce.com/articleView?id=mc_overview_content_and_email_creation_tools.htm&type=5
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_HTMLtemplates_cheatsheet.pdf
+* https://help.salesforce.com/articleView?id=email_logs_format.htm&type=5
+* https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_objects_allowedemaildomain.htm
 * https://help.salesforce.com/articleView?id=000071170&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000228273&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000250391&type=1&language=en_US
@@ -264,6 +267,14 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
 * https://stackoverflow.com/questions/43885939/visualforce-email-template-unit-test
 * https://success.salesforce.com/answers?id=90630000000gyFzAAI
+* https://help.salesforce.com/articleView?id=000230807&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=emailadmin_email_relay_considerations.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_setup_dkim_key.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_considerations_dkim.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_create_secure_dkim.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_advantage_dkim.htm&type=5
+* https://help.salesforce.com/articleView?id=email_logs_format.htm&type=5
+
 
 ## Feeds
 * https://success.salesforce.com/Answer_rss
@@ -312,6 +323,7 @@ https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.me
 https://developer.salesforce.com/page/Earlier_Reference_Documentation
 https://developer.salesforce.com/blogs/tech-pubs/2013/05/our-award-winning-documentation-and-videos.html
 http://www.salesforce.com/assets/pdf/misc/Salesforce-Open-Source.pdf
+https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/Commerce-Cloud-Open-Source.pdf
 https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/misc/SalesforceIQ-Open-Source.pdf
 http://documentation.auraframework.org/
 https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/debug_intro.htm
@@ -506,6 +518,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
 * https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/gtlWorkbook.htm
 * https://help.salesforce.com/articleView?id=mc_es_ftp_instruction_guide.htm&type=5
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/mc_content_creation.pdf
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
 * https://help.salesforce.com/articleView?id=mc_es_sender_policy_framework_faq.htm&type=5
@@ -543,6 +556,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
 * https://help.salesforce.com/articleView?id=pardot_create_email_template.htm&type=0
 * https://help.salesforce.com/articleView?id=pardot_connectors_olark_add.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_email_authentication_implement.htm&type=5
 
 ## DX
 * https://developer.salesforce.com/platform/dx
