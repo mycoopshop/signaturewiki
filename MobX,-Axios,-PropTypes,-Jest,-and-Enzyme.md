@@ -30,6 +30,8 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://stackoverflow.com/questions/45947741/how-to-test-a-mobx-store-function-asynchronously-with-jest
 1. https://stackoverflow.com/questions/49623682/jest-framework-throwing-error-as-unexpected-identifier-for-jquery-import
 1. https://stackoverflow.com/questions/51261252/jest-unexpected-identifier-react
+1. https://stackoverflow.com/questions/53884561/jest-unit-test-function-returns-syntaxerror-unexpected-identifier-at-function
+1. https://stackoverflow.com/questions/28725955/how-do-i-test-a-single-file-using-jest
 
 ## Mock Functions
 1. https://jestjs.io/docs/en/mock-function-api
