@@ -102,6 +102,8 @@ Auto Conflict Resolution
 
     git checkout origin/dev-intgr --ours -- foo.bar
 
+    git checkout origin/feature/baseline --ours -- ApplicationMockData.js
+
 # Select the files and changes you want during each prompt
 
     Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]?
