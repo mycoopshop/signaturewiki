@@ -42,6 +42,7 @@
 # Gamification
 * https://scratch.mit.edu/projects/202338438/#editor
 * https://help.tenderapp.com/kb/reports/advanced-csv-use
+* https://seekingalpha.com/article/4230230-nintendo-intellectual-property-goldmine
 
 # JavaScript Developer job
 * https://www.infoq.com/profile/Charles-Humble
