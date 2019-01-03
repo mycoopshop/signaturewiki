@@ -326,6 +326,7 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * https://www.slideshare.net/StevenKotler/the-secrets-to-creating-a-killer-skunkworks
 * https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks/kelly-14-rules.html
 * https://foxtrotalpha.jalopnik.com/legendary-skunk-work-founder-kelly-johnsons-rules-of-ma-1708050659
+* https://www.apnews.com/084a90acf8a940379d13bd1c91cf9686
 
 # Redundancy Bias
 * https://www.crunchbase.com/organization/rstudio
