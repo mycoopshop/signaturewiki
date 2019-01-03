@@ -8,3 +8,5 @@ https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_UNIT_TESTS_TAP.html
 https://www.databasejournal.com/features/mysql/testing-your-mysql-stored-procedures-with-mytap.html
 https://tmcw.github.io/2014/03/11/tape-is-cool.html
 https://devcenter.heroku.com/articles/testpack-api
+https://keestalkstech.com/2016/08/convert-qunit-test-to-mocha-chai/
+http://blog.minimum.se/2017/06/05/javascript-unit-testing.html
