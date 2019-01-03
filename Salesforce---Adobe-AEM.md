@@ -194,6 +194,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=console_lex_limitations.htm&type=5
+* https://success.salesforce.com/answers?id=90630000000DMICAA4
 * http://resources.docs.salesforce.com/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
 * https://developer.salesforce.com/blogs/2018/07/whats-new-with-locker-service.html
 * https://developer.salesforce.com/blogs/tech-pubs/2015/09/login-ip-ranges-security.html
@@ -271,10 +272,12 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=emailadmin_email_relay_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=emailadmin_setup_dkim_key.htm&type=5
 * https://help.salesforce.com/articleView?id=emailadmin_considerations_dkim.htm&type=5
+* https://help.salesforce.com/articleView?id=emailadmin_create_dkim_key.htm&type=5
 * https://help.salesforce.com/articleView?id=emailadmin_create_secure_dkim.htm&type=5
 * https://help.salesforce.com/articleView?id=emailadmin_advantage_dkim.htm&type=5
 * https://help.salesforce.com/articleView?id=email_logs_format.htm&type=5
-
+* https://help.salesforce.com/articleView?id=security_test_email_delivery.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_es_email_deliverability_in_china.htm&type=5
 
 ## Feeds
 * https://success.salesforce.com/Answer_rss
@@ -543,6 +546,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/blogs/2018/06/integrate-external-content-into-communities-using-cms-connect-json.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
+* https://success.salesforce.com/issues_view?id=a1p3A000000EQJ1QAO&title=renaming-a-community-force-com-subdomain-results-in-url-no-longer-exists-error-message
 * https://www.salesforce.com/products/community-cloud/features/templates/
 
 ## Pardot
@@ -554,10 +558,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pardot_connector_social_connector_parent.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_email_authentication_add_spf_dkim_to_dns.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_best_practices_for_creating_email_templates.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_email_authentication_spf_dkim_verify.htm&type=5
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/review-pardot-health.pdf
 * https://help.salesforce.com/articleView?id=pardot_create_email_template.htm&type=0
 * https://help.salesforce.com/articleView?id=pardot_connectors_olark_add.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_email_authentication_implement.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_admin_add_tracker_domain.htm&type=0
+* https://help.salesforce.com/articleView?id=000271709&type=1&language=en_US
 
 ## DX
 * https://developer.salesforce.com/platform/dx
@@ -633,6 +640,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/modules/alm_deployment/units/alm_tools
 * https://trailhead.salesforce.com/en/modules/platform_dev_basics/units/platform_dev_basics_code
 
+## My Domain
+* https://help.salesforce.com/articleView?id=domain_name_guidelines.htm&type=5
+* https://help.salesforce.com/articleView?id=domain_name_app_url_changes.htm&type=5
+* https://help.salesforce.com/articleView?id=faq_domain_name_is_there_a_limit.htm&type=5
+
+
 ## Continuous Integration
 * https://developer.salesforce.com/blogs/developer-relations/2015/07/running-aura-app-docker.html
 * https://developer.salesforce.com/page/Continuous_Integration_How-To
@@ -645,6 +658,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Chrome Extensions
 * https://business.linkedin.com/sales-solutions/compare-plans/sales-navigator-for-gmail#
 * https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc
+* https://chrome.google.com/webstore/detail/salesforce-advanced-code/lnkgcmpjkkkeffambkllliefdpjdklmi?hl=en
 
 ## AppExchange API
 * https://resources.docs.salesforce.com/sfdc/pdf/sforce_API.pdf?major=142
@@ -694,6 +708,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## EEO
 * https://www.salesforce.com/blog/2018/12/salesforce-equality-annual-update.html
+
+## Partner Relationship Management
+* https://trailhead.salesforce.com/en/content/learn/modules/partner-relationship-management
+* https://trailhead.salesforce.com/en/content/learn/modules/sf_partner_community
+* https://trailhead.salesforce.com/en/content/learn/modules/consulting_partner_basics/
 
 ## Subcontractor Market
 * http://www.0to1code.com/
@@ -1106,6 +1125,7 @@ Format:2xx0xx000
 ## Content Deliveries / Google Suite
 * https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
 * https://help.salesforce.com/articleView?id=admin_files_connect_google_auth.htm&type=5
+* https://help.salesforce.com/articleView?id=000233055&type=1
 * https://support.salesforce.com/articleView?id=admin_files_connect_search.htm&type=0
 * https://developer.salesforce.com/forums/?id=906F00000008z1rIAA
 * https://help.salesforce.com/articleView?id=lightning_for_gmail_user_overview.htm&type=0
@@ -1194,6 +1214,8 @@ Format:2xx0xx000
 
 ## Configuration
 * https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=search_enhanced_lookup_enable.htm&type=5
+* https://help.salesforce.com/articleView?id=customize_search_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=000007225&type=1
 * https://help.salesforce.com/articleView?id=users_licenses_overview.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_sessions.htm&type=5
