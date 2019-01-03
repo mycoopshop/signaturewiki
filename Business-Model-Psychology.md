@@ -299,6 +299,7 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * https://cosmicktraveler.wordpress.com/2017/10/15/calcite-crystals-in-the-pineal-gland/
 * https://sites.google.com/site/naomiastral/ancient-kemet/the-pineal-gland---dmt---melanin-myth
 * https://hyperboreanhealth.com/mercury-fluoride-and-long-skulls-what-do-they-have-in-common/
+* https://blog.paleohacks.com/belly-boost-shot/
 
 # Language Bias
 * https://archive.org/details/aliteraltransla00unkngoog
