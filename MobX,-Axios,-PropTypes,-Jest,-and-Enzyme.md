@@ -28,6 +28,8 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 ## Migration
 1. https://itnext.io/build-a-view-framework-free-data-layer-based-on-mobx-integration-with-vue-1-8b524b86c7b8
 1. https://stackoverflow.com/questions/45947741/how-to-test-a-mobx-store-function-asynchronously-with-jest
+1. https://stackoverflow.com/questions/49623682/jest-framework-throwing-error-as-unexpected-identifier-for-jquery-import
+1. https://stackoverflow.com/questions/51261252/jest-unexpected-identifier-react
 
 ## Mock Functions
 1. https://jestjs.io/docs/en/mock-function-api
