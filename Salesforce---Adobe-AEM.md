@@ -1020,6 +1020,7 @@ Format:2xx0xx000
 * https://success.salesforce.com/issues_releases_view?release=212000000
 * https://success.salesforce.com/issues_releases_view?release=212010000
 * https://success.salesforce.com/issues_releases_view?release=210000000
+* https://www.us-cert.gov/sites/default/files/publications/Cloud_Security_Guidance-.gov_Cloud_Security_Baseline.pdf
 
 ## Release Notes
 * https://www.salesforce.com/campaign/releases/winter-19/overview/
@@ -1123,7 +1124,6 @@ Format:2xx0xx000
 * https://success.salesforce.com/ideaView?id=08730000000LhC6AAK
 
 ## Content Deliveries / Google Suite
-* https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/retrieving-the-history-of-a-new-salesforce-lead-from-ibm-db2-to-email-the-lead-owner/
 * https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
 * https://help.salesforce.com/articleView?id=admin_files_connect_google_auth.htm&type=5
 * https://help.salesforce.com/articleView?id=000233055&type=1
@@ -1508,6 +1508,12 @@ Format:2xx0xx000
 * https://force.desk.com/customer/portal/articles/2659738-how-to-get-a-password-for-my-trailhead-playground?b_id=13478
 * https://force.desk.com/customer/en/portal/topics/1063710-trailhead-challenges/articles?b_id=13478
 * https://partners.salesforce.com/s/education/general/Admin_Training
+
+# Non-Profit / Education
+* https://tech.ucsf.edu/salesforce-ucsf-build-simple-crms-fast
+* http://www4.uky.edu/lifecycle/sites/www.uky.edu.lifecycle/files/Salesforce.org%20for%20UK%20%28screenshots%29%201.17.17%20%281%29.pdf
+* https://aggieservice.ucdavis.edu/s/article/How-to-Access-the-Knowledge-Base
+
 
 # Adobe 
 ## Headless Architecture
