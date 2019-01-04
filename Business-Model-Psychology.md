@@ -343,6 +343,9 @@ https://cloud.gov/quickstart/
 https://alistapart.com/article/web-developer-representation-in-w3c
 https://www.quirksmode.org/blog/archives/2018/09/fronteers_consi_1.html
 
+# Credential Bias
+https://www.marketwatch.com/story/shark-robert-herjavec-college-could-be-a-big-waste-of-your-kids-time-2019-01-03
+
 # Housing Bias
 https://www.apnews.com/tag/Housingpolicy
 
