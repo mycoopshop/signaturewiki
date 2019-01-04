@@ -24,9 +24,14 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://elijahmanor.com/react-devtools-profiler/
 1. https://appendto.com/2018/09/geocoding-with-google-sheets-importjson/
 1. http://www.deadcoderising.com/react-16-render-a-child-component-into-another-dom-node-using-portals/
+1. https://hackernoon.com/building-a-blockchain-dapp-using-truffle-react-next-js-and-mobx-part-2-847193b497e4
+1. https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
+1. https://auth0.com/blog/managing-the-state-of-react-apps-with-mobx/
+1. https://github.com/taming-the-state-in-react/taming-the-state-in-react/blob/master/manuscript/06-mobx/00-mobx.md
 
 ## Migration
 1. https://itnext.io/build-a-view-framework-free-data-layer-based-on-mobx-integration-with-vue-1-8b524b86c7b8
+1. https://appendto.com/2017/08/journey-vue-mobx/
 1. https://stackoverflow.com/questions/45947741/how-to-test-a-mobx-store-function-asynchronously-with-jest
 1. https://stackoverflow.com/questions/49623682/jest-framework-throwing-error-as-unexpected-identifier-for-jquery-import
 1. https://stackoverflow.com/questions/51261252/jest-unexpected-identifier-react
