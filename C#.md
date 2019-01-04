@@ -1,3 +1,13 @@
+https://docs.microsoft.com/en-us/windows/deployment/planning/compatibility-fixes-for-windows-8-windows-7-and-windows-vista
+
+https://cloudblogs.microsoft.com/microsoftsecure/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/
+
+https://support.microsoft.com/en-us/help/164787/info-windows-rundll-and-rundll32-interface
+
+https://docs.microsoft.com/en-us/dotnet/framework/interop/consuming-unmanaged-dll-functions
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/assemblies-gac/how-to-create-and-use-assemblies-using-the-command-line
+
 https://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html
 
 https://blogs.msdn.microsoft.com/cbrumme/2003/10/01/the-exception-model/
