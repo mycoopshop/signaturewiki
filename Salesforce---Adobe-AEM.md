@@ -1123,6 +1123,7 @@ Format:2xx0xx000
 * https://success.salesforce.com/ideaView?id=08730000000LhC6AAK
 
 ## Content Deliveries / Google Suite
+* https://developer.ibm.com/integration/docs/app-connect/tutorials-for-ibm-app-connect/retrieving-the-history-of-a-new-salesforce-lead-from-ibm-db2-to-email-the-lead-owner/
 * https://help.salesforce.com/articleView?id=content_delivery_about.htm&type=0
 * https://help.salesforce.com/articleView?id=admin_files_connect_google_auth.htm&type=5
 * https://help.salesforce.com/articleView?id=000233055&type=1
