@@ -13,6 +13,9 @@ And here are a couple of tutorials:
  * [Polish the ePub](http://www.ibm.com/developerworks/opensource/library/x-polishepubs/index.html)
  * [How to Make a Kindle eBook from Scratch with HTML, XML and CSS | Alicia Ramirez](https://www.aliciaramirez.com/2014/05/how-to-make-a-kindle-ebook-from-scratch/)
 
+## ePub Generation Tools
+* https://www.xml.com/news/2018-08-xmlmind-ebook-compiler-v13/
+
 ## SCORM
 * https://www.elearninglearning.com/flash-to-html5-conversion/scorm/
 * https://community.articulate.com/discussions/building-better-courses/reverse-engineering-scorm-packages-for-editing
