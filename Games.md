@@ -195,6 +195,7 @@ Rodea the Sky Soldier - $10 https://www.pricecharting.com/game/wii-u/rodea-the-s
 * Tiger Woods 10 -  ( UPC: 014633190199 )
 * Wii Play -  ( UPC: 045496900069 )
 * Wii Music -  ( UPC: 045496901301 )
+* Pikmin 2
 * Mini Ninjas - 0 ( UPC: 788687300148 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74908
 * Rabbids Go Home - 0 ( UPC: 008888175537 ) http://www.ebgames.com/Catalog/ProductDetails.aspx?product_id=74523
 * Tatsunoko vs. Capcom - 5 ( UPC: 013388350162 )
