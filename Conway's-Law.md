@@ -19,3 +19,6 @@ Postmortem    Record actual time, defect, and size data on the plan
 * https://www.thoughtworks.com/insights/blog/demystifying-conways-law
 * http://dau.dodlive.mil/2015/09/21/requirements-engineering-in-an-agile-software-development-environment/
 * https://www.directives.doe.gov/draft/0415.1-EGuide-2-draft/@@images/file
+* https://apps.dtic.mil/dtic/tr/fulltext/u2/a512409.pdf
+* http://users.csc.calpoly.edu/~jdalbey/301/Forms/PSP0ProcessScript.pdf
+* https://www.lanl.gov/projects/CartaBlanca/webdocs/PhippsPaperOnJavaEfficiency.pdf
