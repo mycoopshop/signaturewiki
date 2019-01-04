@@ -31,6 +31,7 @@
 * https://www.postscapes.com/iot-voices/interviews/iot-data-modeling-and-remote-access-with-clarke-stevens-of-upnp-forum/
 * https://www.us-cert.gov/ncas/alerts/TA16-288A
 * https://www.theinquirer.net/inquirer/news/3036359/half-a-billion-iot-devices-in-the-office-vulnerable-to-dns-attacks-warns-armis
+* https://docs.microsoft.com/en-us/windows-hardware/drivers/install/container-ids-for-upnp-devices
 * https://www.routersecurity.org/upnp.php
 * https://www.gpo.gov/fdsys/pkg/GOVPUB-C13-5db24e87f9132e0807e4f9a92d2bc162/pdf/GOVPUB-C13-5db24e87f9132e0807e4f9a92d2bc162.pdf
 * https://www.sans.org/reading-room/whitepapers/hsoffice/securing-home-iot-network-37717
