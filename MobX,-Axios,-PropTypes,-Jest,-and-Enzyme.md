@@ -6,6 +6,7 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://github.com/facebook/react/blob/master/packages/react-dom/src/__tests__/ReactDOMComponent-test.js
 1. http://lefkowitz.me/2018/08/22/handle-react-native-crashes-with-componentdidcatch/
 1. https://dev.to/sarah_chima/error-boundaries-in-react-3eib
+1. https://github.com/mobxjs/mobx-react/issues/410
 
 ## Spy Limitations
 1. https://github.com/facebook/jest/issues/6798
