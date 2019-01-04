@@ -8,6 +8,10 @@ https://docs.microsoft.com/en-us/dotnet/framework/interop/consuming-unmanaged-dl
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/assemblies-gac/how-to-create-and-use-assemblies-using-the-command-line
 
+https://blogs.msdn.microsoft.com/oldnewthing/20130104-00/?p=5643/
+
+https://blogs.msdn.microsoft.com/oldnewthing/20040115-00/?p=41043
+
 https://www.infoworld.com/article/3180478/development-tools/net-framework-or-net-core-when-to-use-which.html
 
 https://blogs.msdn.microsoft.com/cbrumme/2003/10/01/the-exception-model/
