@@ -4,6 +4,8 @@ https://discourse.mozilla.org/t/extension-playing-audio-from-indexeddb-content-s
 
 https://www.w3.org/html/test/results/2dcontext/drawing-images-to-the-canvas/2d.drawImage.animated.gif.html
 
+https://blog.prototypr.io/get-started-with-the-web-audio-api-for-music-visualization-b6f594416a16
+
 https://www.codeproject.com/Articles/813480/HTTP-Partial-Content-In-Node-js
 
 https://benramsey.com/blog/2008/05/206-partial-content-and-range-requests/
