@@ -1,3 +1,5 @@
+eslint --config ../../../config/eslint/.eslintrc *.js
+
 * https://csvlint.io
 * http://xmlsoft.org/xmllint.html
 * http://linterrors.com/
