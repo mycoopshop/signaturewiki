@@ -14,6 +14,10 @@ https://blog.cloudflare.com/introducing-strict-ssl-protecting-against-a-man-in-t
 
 https://www.sunsetlearning.com/wp-content/uploads/2014/01/The-Next-Generation-of-Cisco-SSL-VPN-Solution-from-Sunset-Learning.pdf
 
+https://davidhamann.de/2017/09/27/vpn-connect-to-server-same-subnet/
+
+https://searchnetworking.techtarget.com/tip/Prevent-IP-address-conflicts-on-your-wireless-network-by-managing-DHCP-scopes
+
 https://docs.microsoft.com/en-us/previous-versions/tn-archive/dd261764(v=technet.10)
 
 https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/anyconnect40/administration/guide/b_AnyConnect_Administrator_Guide_4-0/configure-vpn.html
