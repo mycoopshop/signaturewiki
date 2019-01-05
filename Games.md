@@ -974,6 +974,7 @@ Sonic Advance + Sonic Pinball Party Combo Pack ( UPC: 010086600339 )
 Capcom Classics Mini Mix ( UPC: 013388280308 )
 Spider-Man: Mysterio's Menace
 Spider-Man 3
+Zelda: A Link to the Past
 
 GBC
 Canon Fodder
