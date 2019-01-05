@@ -1,3 +1,14 @@
+Mockgen:
+    var mock = 'window.name'.replace('.', '":{"').replace(/^/,'{"').replace(/$/,'":""}}')
+
+Stubgen:
+    function foo(value){ return /.*=.*=>.{/.exec(value) ? /.*=>.{/.exec(value).toString() : false}
+    function bar(value){ return value }
+    function baz(value){ return String("SearchViewModel." + value).trim().replace(/[\s=>{}]/g,"")}
+    var arrows = document.querySelector("pre").innerText.split("\n").map(foo).filter(bar)
+    var stubs = arrows.map(baz)
+    window.stubs = stubs;
+
 Installing Jasmine standalone
 
 Download the latest Jasmine release from the [Jasmine release page][1]: 
