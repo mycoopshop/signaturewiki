@@ -1257,6 +1257,13 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=code_apex_flex_queue.htm&type=5
 * https://success.salesforce.com/ideaView?id=08730000000kmjRAAQ
 * https://success.salesforce.com/ideaView?id=08730000000bDsmAAE
+
+## Streaming API (cometd/bayeux)
+* https://docs.cometd.org/current/reference/
+* https://searchnetworking.techtarget.com/tip/Prevent-IP-address-conflicts-on-your-wireless-network-by-managing-DHCP-scopes
+* https://blog.jeffdouglas.com/2013/01/16/force-com-streaming-api-with-ruby/
+* https://hub.appirio.com/tech-blog/the-salesforce-streaming-api-with-example
+* http://www.terrasky.com/quick-tips-on-streaming-api-for-salesforce-developers/
 * https://developer.salesforce.com/blogs/developer-relations/2013/11/dynamic-reporting-integrating-the-force-com-analytics-and-streaming-apis.html
 * https://developer.salesforce.com/blogs/developer-relations/2016/05/streaming-salesforce-events-heroku-kafka.html
 * https://developer.salesforce.com/blogs/tech-pubs/2014/02/pushing-the-limits-with-streaming-api-in-spring-14.html
