@@ -89,6 +89,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf
 
 ## Feature Parity
+* https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_file_previews_upgrade.htm
 * https://help.salesforce.com/articleView?id=approval_process_viewer_req.htm&type=5
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_technical_requirements.pdf
