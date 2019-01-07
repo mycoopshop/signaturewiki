@@ -33,6 +33,7 @@
 * https://www.kaggle.com/getting-started/23393
 * https://www.kaggle.com/docs/kernels
 * https://www.kaggle.com/mrisdal/brand-new-to-kernels-start-here
+* salesforce appexchange nba nfl
 
 # Resource Bias
 * https://academic.oup.com/jla/article/9/1/51/3572441
