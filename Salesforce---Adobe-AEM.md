@@ -93,6 +93,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/vf_dev_best_practices_slds_lightningstylesheets.htm
 * https://resources.docs.salesforce.com/sfdc/pdf/lex.pdf
+* https://trailhead.salesforce.com/en/content/learn/modules/workflow_migration/workflow_migration_intro
 * https://help.salesforce.com/articleView?id=lex_aloha_comparison.htm&type=5
 * https://help.salesforce.com/articleView?id=lex_considerations_intro.htm&type=5
 * https://help.salesforce.com/articleView?id=lex_gaps_limitations_service.htm&type=5
