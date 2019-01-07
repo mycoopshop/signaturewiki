@@ -1,4 +1,5 @@
 1. https://docs.marklogic.com/guide/copyright/glossary
+1. https://www.adha.org/sites/default/files/7773_PR_Journalism_Glossary.pdf
 1. https://tools.ietf.org/html/rfc4949
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1732636/pdf/v058p00971.pdf
 1. https://www.bmc.com/blogs/itsm-or-itil-that-isnt-the-question/
