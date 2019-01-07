@@ -44,6 +44,17 @@
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
 * https://files.consumerfinance.gov/f/201412_cfpb_reports_consumer-credit-medical-and-non-medical-collections.pdf
 
+# Editorial Bias
+* http://egyankosh.ac.in/bitstream/123456789/7454/3/Unit-1.pdf
+* http://etheses.lse.ac.uk/3658/1/Watanabe__Measuring-Bias.pdf
+* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.3488&rep=rep1&type=pdf
+* http://pdfproc.lib.msu.edu/?file=/DMC/African%20Journals/pdfs/africa%20media%20review/vol3no1/jamr003001010.pdf
+* https://eprints.soas.ac.uk/28509/1/10672668.pdf
+* http://www.globalmediajournal.collegium.edu.pl/artykuly/wiosna-2009/profozich-foreign-news-coverage-APA.pdf
+* https://pdfs.semanticscholar.org/57d1/76ec1a38ac8de9a6ade4a6193e7c9ff7320c.pdf
+* http://wiredspace.wits.ac.za/bitstream/handle/10539/8613/JANSEN_CHAPTER%20TWO.pdf?sequence=12&isAllowed=y
+* https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1839&context=jil
+
 # Generational Bias
 * https://tinyurl.com/ycufg2ks
 * https://www.builderonline.com/builder-100/analysis-why-lennars-looking-to-sell-rialto_o
