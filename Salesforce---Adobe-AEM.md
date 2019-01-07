@@ -1031,6 +1031,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Audio/Video
 * https://developer.salesforce.com/dreamforce/2016-recap
 * https://www.youtube.com/watch?v=Yc5FrviQqO8
+* https://success.salesforce.com/sessions?eventId=a1Q3000000qQOd9EAG#/
+* https://success.salesforce.com/ev_sitetos
 
 ## Known Issues
 Format:2xx0xx000
@@ -1039,6 +1041,9 @@ Format:2xx0xx000
 * https://success.salesforce.com/issues_releases_view?release=212000000
 * https://success.salesforce.com/issues_releases_view?release=212010000
 * https://success.salesforce.com/issues_releases_view?release=210000000
+* https://success.salesforce.com/ideaView?id=0873A000000E3ZTQA0
+* https://success.salesforce.com/answers?id=90630000000gyh3AAA
+* https://success.salesforce.com/ideaView?id=08730000000ZEucAAG
 * https://www.us-cert.gov/sites/default/files/publications/Cloud_Security_Guidance-.gov_Cloud_Security_Baseline.pdf
 
 ## Release Notes
