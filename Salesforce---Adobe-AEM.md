@@ -88,6 +88,12 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/blogs/engineering/2014/11/salesforce-anti-patterns-a-cautionary-tale.html
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf
 
+## Feature Parity
+* https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_file_previews_upgrade.htm
+* https://help.salesforce.com/articleView?id=approval_process_viewer_req.htm&type=5
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_technical_requirements.pdf
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/platform/salesforce-only-in-lightning-features.pdf
+
 ## Math
 * https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html
 * https://www.salesforce.com/blog/2012/04/include-keyboard-interactions-in-your-design-specifications.html
