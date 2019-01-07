@@ -29,6 +29,7 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://medium.com/react-native-training/ditching-setstate-for-mobx-766c165e4578
 1. https://auth0.com/blog/managing-the-state-of-react-apps-with-mobx/
 1. https://github.com/taming-the-state-in-react/taming-the-state-in-react/blob/master/manuscript/06-mobx/00-mobx.md
+1. http://engineering.pivotal.io/post/tdd-mobx/
 
 ## Migration
 1. https://itnext.io/build-a-view-framework-free-data-layer-based-on-mobx-integration-with-vue-1-8b524b86c7b8
@@ -43,10 +44,14 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 ## Mock Functions
 1. https://jestjs.io/docs/en/mock-function-api
 1. https://medium.com/@deanslamajr/jest-fn-all-the-things-d26f3b929986
+1. http://nicolerauch.de/posts/2016-05-16-shallow-rendering.html
+1. https://mateuszroth.pl/komp/article-react-jest-enzyme.php
 
 ## References
 1. https://github.com/airbnb/enzyme/blob/master/packages/enzyme-test-suite/test/ShallowWrapper-spec.jsx
 1. https://airbnb.io/enzyme/docs/api/ShallowWrapper/contains.html
+1. https://airbnb.io/enzyme/docs/api/shallow.html
+1. https://devhints.io/enzyme
 1. https://jestjs.io/docs/en/expect
 1. https://jestjs.io/docs/en/troubleshooting#tests-are-failing-and-you-don-t-know-why
 1. https://github.com/mobxjs/mobx-react/blob/master/test/propTypes.test.js
