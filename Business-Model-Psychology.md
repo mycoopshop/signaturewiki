@@ -43,6 +43,7 @@
 # Debt Bias
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
 * https://files.consumerfinance.gov/f/201412_cfpb_reports_consumer-credit-medical-and-non-medical-collections.pdf
+* https://www.sej.org/sites/default/files/SEJ-Guide-to-Diversity-in-Environmental-Reporting.pdf
 
 # Editorial Bias
 * http://egyankosh.ac.in/bitstream/123456789/7454/3/Unit-1.pdf
