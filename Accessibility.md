@@ -59,3 +59,7 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 * http://www.weba11y.com/blog/2015/02/24/creating-and-editing-captions/
 
 * https://www.w3.org/TR/UNDERSTANDING-WCAG20/conformance.html
+
+* https://docs.microsoft.com/en-us/microsoft-edge/accessibility/test
+
+* https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/elements/accessibility
