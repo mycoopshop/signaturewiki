@@ -76,6 +76,10 @@
 * https://en.wikipedia.org/wiki/Gaston_Means
 * https://en.wikipedia.org/wiki/Spike_Jones
 * https://en.wikipedia.org/wiki/Odoacer
+* https://en.wikipedia.org/wiki/George_Tillman,_Jr.
+* https://en.wikipedia.org/wiki/Maria_Mitchell
+* https://en.wikipedia.org/wiki/Lillian_Wald
+* Alan Naiman: https://www.apnews.com/7116c179308a4e8eb2a83693e4f3750a
 * http://www.historylink.org/File/7526
 * https://en.wikipedia.org/wiki/Larry_Pressler
 * https://www.youtube.com/watch?v=X4EmiyVKeiw
