@@ -4,6 +4,9 @@
 ## Conversion
 * Image to PDF
 
+## Accessibility
+* Chrome Accessibility Developer Tools: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
+
 ## Annotation
 * Kami: https://chrome.google.com/webstore/detail/kami-pdf-and-document-ann/iljojpiodmlhoehoecppliohmplbgeij
 * Hypothesis: https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek
