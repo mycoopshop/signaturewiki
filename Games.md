@@ -630,6 +630,7 @@ Fight Night Round 2
 Peter Jackson's King Kong
 Mega Man X Collection
 Teen Titans
+Batman: Rise of Sin Tzu
 The Incredibles: Rise of the Underminer
 TMNT
 
