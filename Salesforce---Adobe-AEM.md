@@ -89,6 +89,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_developer_environment_tipsheet.pdf
 
 ## Feature Parity
+* title:not title:lightning site:help.salesforce.com
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/vf_dev_best_practices_slds_lightningstylesheets.htm
 * https://help.salesforce.com/articleView?id=lex_aloha_comparison.htm&type=5
