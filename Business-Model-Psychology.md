@@ -48,6 +48,7 @@
 # Editorial Bias
 * http://egyankosh.ac.in/bitstream/123456789/7454/3/Unit-1.pdf
 * http://etheses.lse.ac.uk/3658/1/Watanabe__Measuring-Bias.pdf
+* https://earsiv.anadolu.edu.tr/xmlui/bitstream/handle/11421/1410/114130.pdf?sequence=1&isAllowed=y
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.3488&rep=rep1&type=pdf
 * http://pdfproc.lib.msu.edu/?file=/DMC/African%20Journals/pdfs/africa%20media%20review/vol3no1/jamr003001010.pdf
 * https://eprints.soas.ac.uk/28509/1/10672668.pdf
