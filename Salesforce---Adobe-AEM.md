@@ -90,6 +90,11 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 
 ## Feature Parity
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
+* https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/vf_dev_best_practices_slds_lightningstylesheets.htm
+* https://help.salesforce.com/articleView?id=lex_aloha_comparison.htm&type=5
+* https://help.salesforce.com/articleView?id=lex_considerations_intro.htm&type=5
+* https://help.salesforce.com/articleView?id=lex_gaps_limitations_service.htm&type=5
+* https://help.salesforce.com/articleView?id=lex_gaps_limitations_security.htm&type=5
 * https://www.salesforce.com/blog/2016/10/you-should-use-standard-objects
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/getstart_browser_aloha.htm
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_file_previews_upgrade.htm
