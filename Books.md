@@ -61,3 +61,7 @@ https://addyosmani.com/backbone-fundamentals/
 http://guide.couchdb.org
 
 https://www.amazon.com/dp/2884790217/
+
+https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)
+
+https://en.wikipedia.org/wiki/Working_with_the_Hands
