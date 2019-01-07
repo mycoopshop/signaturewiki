@@ -1,5 +1,7 @@
 http://slbkbs.org/jsgif/
 
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API
+
 https://discourse.mozilla.org/t/extension-playing-audio-from-indexeddb-content-security-policy-the-page-s-settings-blocked-the-loading-of-a-resource-at-blob-c2eb02dd-4249-724d-a725-286299b78933-7b5dea1e-5e40-b645-8217-49618e0d333a-media-src/31083
 
 https://www.w3.org/html/test/results/2dcontext/drawing-images-to-the-canvas/2d.drawImage.animated.gif.html
