@@ -962,6 +962,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://c1.sfdcstatic.com/content/dam/web/en_us/www/documents/legal/Agreements/policies/ExternalFacing_Services_Policy.pdf
 * https://developer.salesforce.com/blogs/2018/01/promote-equality-building-accessible-content.html
 * https://developer.salesforce.com/blogs/2018/08/new-density-settings-for-the-lightning-experience-ui-in-winter-19.html
+* https://medium.com/salesforce-ux/tagged/accessibility
 
 ## Internationalization / Localization
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
