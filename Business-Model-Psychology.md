@@ -363,8 +363,9 @@ http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
 * https://en.wikipedia.org/wiki/James_H._Cone
 * https://www.bibliomondo.com/america
 
-# Culture Bias
-http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
+# Regional Bias
+* http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
+* car+idling+illegal
 
 # Information Bias
 http://www.dtic.mil/dtic/tr/fulltext/u2/a275133.pdf
