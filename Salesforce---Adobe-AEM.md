@@ -92,6 +92,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * title:not title:lightning site:help.salesforce.com
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/vf_dev_best_practices_slds_lightningstylesheets.htm
+* https://resources.docs.salesforce.com/sfdc/pdf/lex.pdf
 * https://help.salesforce.com/articleView?id=lex_aloha_comparison.htm&type=5
 * https://help.salesforce.com/articleView?id=lex_considerations_intro.htm&type=5
 * https://help.salesforce.com/articleView?id=lex_gaps_limitations_service.htm&type=5
@@ -159,6 +160,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_field_names_reference.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_development_lifecycle.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce1_guide.pdf
+* http://resources.docs.salesforce.com/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_ide2.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
