@@ -13,6 +13,10 @@ Universal Remote
 
 1. https://electronics.stackexchange.com/questions/404238/how-do-universal-ir-remote-codes-work
 
+FOB
+
+1. https://www.wikihow.com/Replace-the-Battery-in-a-Key-Fob
+
 XP Hard Drive
 1. https://askleo.com/four-options-for-xp-die-hards/
 1. https://askleo.com/why_cant_i_connect_with_a_169254xx_ip_address/
