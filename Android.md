@@ -25,3 +25,13 @@ http://eguides.sprint.com/support/eguides/samsunggalaxys8s8plus/content/samsung_
 https://www.android.com/results/?q=transfer
 
 https://support.google.com/android/answer/9064445?hl=en
+
+https://www.gamespot.com/new-games/best-android-games/
+
+https://www.androidpit.com/new-android-games
+
+https://www.gamespace.com/category/all-games/android/
+
+https://www.reddit.com/r/patientgamers/comments/4qjdcn/what_older_games_have_great_ports_on_mobile/
+
+https://en.wikipedia.org/wiki/List_of_Android_games
