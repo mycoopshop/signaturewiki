@@ -1,3 +1,5 @@
++metacritic +android site:en.wikipedia.org +ios -film -office -playstation -ds -psp -vita -3ds -xbox -windows -dreamcast
+
 https://www.wikihow.tech/Use-Google-Translate-Android-App-As-OCR
 
 http://appinventor.mit.edu/explore/ai2/setup.html
