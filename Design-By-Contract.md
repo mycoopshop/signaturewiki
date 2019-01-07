@@ -16,3 +16,8 @@ https://news.ycombinator.com/item?id=15384351
 
 http://www.math.md/files/csjm/v25-n1/v25-n1-(pp44-74).pdf
 
+https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf
+
+http://prr.hec.gov.pk/jspui/bitstream/123456789/7454/1/wafa.basit.phd.thesis.pdf
+
+https://gleichmann.wordpress.com/2007/12/09/test-driven-development-and-design-by-contract-friend-or-foe/
