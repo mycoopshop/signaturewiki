@@ -4,6 +4,7 @@
 * http://emacspeak.sourceforge.net/raman/
 * http://www.peachpit.com/
 * https://www.tf.uni-kiel.de/matwis/amat/iss/
+* https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
 
 
 ## Enterprise Architecture
