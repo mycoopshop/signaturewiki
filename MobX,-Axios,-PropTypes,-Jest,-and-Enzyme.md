@@ -20,7 +20,27 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://www.npmjs.com/package/react-angular-component
 1. https://raw.githubusercontent.com/facebook/react/master/packages/react-is/src/__tests__/ReactIs-test.js
 
+## Cheatsheets
+1. https://github.com/sapegin/jest-cheat-sheet
+1. https://engineering.classdojo.com/blog/2017/01/12/integration-testing-react-redux/
+1. https://github.com/airbnb/enzyme/blob/master/docs/guides/jsdom.md
+1. https://stackoverflow.com/questions/25472665/watch-and-rerun-jest-js-tests
+1. https://stackoverflow.com/questions/49576635/how-to-wait-in-enzyme-for-a-promise-from-a-private-function
+1. https://github.com/airbnb/enzyme/issues/1213
+1. https://github.com/WebReflection/redefine
+1. https://medium.com/@juanlizarazo/how-to-spy-on-a-property-getter-or-setter-with-jasmine-ad06c00ba612
+1. https://github.com/facebook/jest/issues/2227
+1. https://stackoverflow.com/questions/14047809/js-defineproperty-and-prototype
+1. https://dmitripavlutin.com/catch-the-xmlhttp-request-in-plain-javascript/
+1. https://medium.com/@gilfink/quick-tip-creating-an-xmlhttprequest-interceptor-1da23cf90b76
+1. https://medium.com/@matthew.holman/testing-url-hash-query-with-jest-8165f26ab94e
+1. https://github.com/kentcdodds/react-testing-library/issues/93
+1. https://stackoverflow.com/questions/43697455/how-to-mock-replace-getter-function-of-object-with-jest
+1. https://github.com/airbnb/enzyme/issues/1468
+1. https://stackoverflow.com/questions/46169824/intercept-navigation-change-with-jest-js-or-how-to-override-and-restore-locatio
+
 ## Sample Projects
+1. https://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 1. https://appendto.com/2018/09/25-public-react-repos-apps-to-inspire-your-next-project-part-2/
 1. https://elijahmanor.com/react-devtools-profiler/
 1. https://appendto.com/2018/09/geocoding-with-google-sheets-importjson/
