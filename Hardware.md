@@ -16,6 +16,7 @@ Universal Remote
 FOB
 
 1. https://www.wikihow.com/Replace-the-Battery-in-a-Key-Fob
+1. https://www.dw.com/en/opinion-when-it-comes-to-data-protection-we-have-to-do-better/a-46962525
 
 XP Hard Drive
 1. https://askleo.com/four-options-for-xp-die-hards/
