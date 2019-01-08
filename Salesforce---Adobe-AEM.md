@@ -170,6 +170,9 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/field_service_dev.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/collaboration_admin.pdf
+* http://resources.docs.salesforce.com/216/16/en-us/sfdc/pdf/salesforce_lead_implementation_guide.pdf
+* https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_forecastuser_cheatsheet.pdf
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041NEVQA2
 
 ## Team Building
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
@@ -229,6 +232,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/forums/?id=906F0000000BWZ0IAO
 
 **Certification**
+* http://certification.salesforce.com/OnlineProctoringGuide-MacintoshOperatingSystem.pdf
 * https://www.salesforce.com/dreamforce/certification/
 * https://trailhead.salesforce.com/credentials/developeroverview
 * https://trailhead.salesforce.com/help?article=Link-Your-Trailhead-and-Webassessor-Accounts
@@ -527,6 +531,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://idratherbewriting.com/2015/09/29/how-are-you-doing-docs/
 
 ## SOAP/REST
+* soap exception error site:trailhead.salesforce.com
+* https://success.salesforce.com/issues_view?id=a1p3A000000EQLlQAO&title=documentation-fields-described-in-soap-api-developer-guide-and-actual-eventlogfile-does-not-match
+* https://success.salesforce.com/ideaView?id=08730000000kjcwAAA
+* https://success.salesforce.com/ideaView?id=08730000000BqG9AAK
+* https://success.salesforce.com/issues_view?id=a1p30000000sXyr
+* https://success.salesforce.com/ideaView?id=08730000000ksYkAAI
+* https://success.salesforce.com/issues_view?id=a1p300000008XKUAA2
+* https://success.salesforce.com/issues_view?id=a1p3A000000eatxQAA&title=generated-wsdl-for-apex-webservices-is-malformed
 * https://www.petefreitag.com/item/653.cfm
 * https://www.slideshare.net/ArnaudBouchez1/a2-from-soap-to-rest-48837831
 * https://www.infoworld.com/article/3236391/cloud-computing/rest-or-soap-in-a-cloud-native-environment.html
@@ -534,6 +546,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.w3.org/TR/soap12-part0/
 * https://www.w3.org/TR/wsdl/wsdl20-z.html
 
+## 
 ## APEXDOC
 
 ## Marketing Cloud
@@ -550,7 +563,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=mc_bp_goal_and_exit_best_practices.htm&type=5
 * https://aws.amazon.com/partners/success/salesforce-case-study/
 
-## Service Cloud
+## Customer Support / Service Cloud
+* https://help.salesforce.com/articleView?id=000003910&type=1
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/salesforce-premierplans-with-accelerators.pdf
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
 * https://developer.salesforce.com/page/SnapinsMobile
 
@@ -613,6 +628,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://www.sfdcpoint.com/salesforce/step-by-step-guide-for-using-salesforce-command-line-interface-data-loader/
 * https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_params.htm
 * https://help.salesforce.com/articleView?id=Unable-to-connect-with-Data-Loader-and-receiving-failed-to-send-request-error&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000247371&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=code_system_log.htm&type=0
 * https://help.salesforce.com/articleView?id=code_dev_console_view_code_editor.htm&type=0
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=5
@@ -732,6 +748,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://trailhead.salesforce.com/en/content/learn/modules/partner-relationship-management
 * https://trailhead.salesforce.com/en/content/learn/modules/sf_partner_community
 * https://trailhead.salesforce.com/en/content/learn/modules/consulting_partner_basics/
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Terms%20of%20Service/salesforce-permission-to-use-copyrighted-work.pdf
 
 ## Subcontractor Market
 * http://www.0to1code.com/
@@ -827,6 +844,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Permissions
 * https://help.salesforce.com/articleView?id=000198725&language=en_US&type=1
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_pagelayouts_cheatsheet.pdf
+* https://help.salesforce.com/articleView?id=security_controlling_access_using_hierarchies.htm&type=5
+* https://success.salesforce.com/issues_view?id=a1p3A000000FmmaQAC&title=sharing-locks-are-not-released-during-change-set-deployment-of-objects-in-master-detail-relationship
 
 ## SOQL
 
@@ -916,7 +935,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
 * https://www.codescience.com/blog/2017/ultimate-lightning-guide-defining-the-differences-in-salesforce-lightning
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
-* https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/mutual-fund-explorer-new-lightning-components-sample-application.html
@@ -988,6 +1006,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=fields_lookup_filters_best_practices.htm&type=5
 
 ## Auditing
+* ext:pdf +above +below site:salesforce.com
 * https://github.com/salesforce/refocus/blob/master/view/admin/config/detail.js
 * https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
 * https://help.salesforce.com/articleView?id=security_overview_auditing.htm&type=5
@@ -1347,6 +1366,7 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/passing-objects-to-future-annotated-methods.html
 * https://developer.salesforce.com/blogs/engineering/2015/05/platform-cache.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
+* https://success.salesforce.com/issues_view?id=a1p3A0000018ByPQAU&title=cache-miss-on-js-controller-tends-to-give-error-for-lightning-component-used-in-lightning-out
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_apex.htm
 * https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2016/09/take-the-first-steps-ways-you-can-replace-javascript-buttons.html
