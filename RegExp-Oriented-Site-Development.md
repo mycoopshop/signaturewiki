@@ -10,6 +10,8 @@
 
 **References**
 
+* https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86
+
 * http://nshipster.com/nsregularexpression/
 
 * https://foundation.zurb.com/sites/docs/forms.html
