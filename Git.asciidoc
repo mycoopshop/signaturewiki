@@ -377,6 +377,8 @@ https://www.reddit.com/r/programming/comments/kt058/gits_merge_recursive_strateg
 
 https://git.seveas.net/the-meaning-of-refs-and-refspecs.html
 
+https://medium.com/@Sergeon/using-javascript-in-your-git-hooks-f0ce09477334
+
 https://aboullaite.me/deep-dive-into-git-git-refs/
 
 http://gitolite.com/tips-3.html
