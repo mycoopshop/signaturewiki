@@ -847,6 +847,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=000198725&language=en_US&type=1
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_pagelayouts_cheatsheet.pdf
 * https://help.salesforce.com/articleView?id=security_controlling_access_using_hierarchies.htm&type=5
+* https://help.salesforce.com/articleView?id=security_sharing_considerations.htm&type=5
 * https://success.salesforce.com/issues_view?id=a1p3A000000FmmaQAC&title=sharing-locks-are-not-released-during-change-set-deployment-of-objects-in-master-detail-relationship
 
 ## SOQL
