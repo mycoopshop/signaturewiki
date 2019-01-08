@@ -706,6 +706,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://platform-roi-calculator.salesforce.com/IDC-ROI-of-Building-Apps-on-Salesforce.pdf
 * https://www.codescience.com/blog/2016/where-to-start-4-things-to-know-before-building-your-appexchange-app
 * https://investor.salesforce.com/about-us/investor/investor-news/investor-news-details/2018/Pacers-Sports--Entertainment-Teams-Up-with-Salesforce-to-Create-the-Ultimate-Indiana-Pacers-Fan-Experience/default.aspx
+* https://www.bloomberg.com/news/articles/2017-06-08/real-estate-companies-ditch-the-paperwork-get-on-the-cloud
+* https://www.reuters.com/article/barrick-gold-moves-technology/barrick-to-eliminate-innovation-role-under-decentralization-idUSL2N1VY195
 * https://searchsalesforce.techtarget.com/feature/AppExchange-in-Salesforce-a-slam-dunk-for-Detroit-Pistons-workflow
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N300000055h1uEAA
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EO5smUAD
