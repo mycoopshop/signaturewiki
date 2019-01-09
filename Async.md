@@ -3,11 +3,14 @@
 * https://codeburst.io/throttling-and-debouncing-in-javascript-646d076d0a44?gi=4117630fb481
 * https://medium.com/@TCAS3/debounce-deep-dive-javascript-es6-e6f8d983b7a1
 
-
+## Refactoring
+* http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/
+* https://bytearcher.com/articles/not-everything-goes-to-worker-threads/
 * https://leanpub.com/javascriptallongesix/read
 * http://richardartoul.github.io/javascript/2015/07/16/promises-generators.html
 * http://blog.tabforacause.org/post/115245771331/using-reactjs-and-application-cache-for-a-fast
-* https://bytearcher.com/articles/not-everything-goes-to-worker-threads/
+
+## Idioms and Gotchas
 * https://github.com/facebook/react/issues/11508
 * https://github.com/facebook/react/issues/1159
 * https://github.com/facebook/react/issues/11911
