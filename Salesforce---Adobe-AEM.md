@@ -33,7 +33,12 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDH0QAM
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDEzQAM
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002yIWjQAM
- 
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pBVEQA2
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041B37QAE
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041d5xQAA
+* https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDI8QAM
+
+
 ## Admin
 * https://admin.salesforce.com/posts
 * https://developer.salesforce.com/events/webinars/
@@ -72,6 +77,10 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=000230807&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=identity_provider_examples_3p_adfs.htm
 * https://success.salesforce.com/issues_index?tag=Authentication
+
+## MIME Types (vCard, Calendar, Attachments)
+* https://help.salesforce.com/articleView?id=code_inbound_email.htm&type=5
+* https://help.salesforce.com/articleView?id=000193434&language=en_US&type=1
 
 ## Metadata Enumeration/Serialization
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
