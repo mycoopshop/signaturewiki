@@ -252,6 +252,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://quizlet.com/87821122/salesforce-advanced-developer-dev-501-apex-coding-10-flash-cards/
 * https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
 * https://www.safaribooksonline.com/library/view/learning-salesforce-lightning/9781787124677/
+* https://help.salesforce.com/articleView?id=pardot_admin_ampsea_parent.htm&type=5
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
@@ -608,6 +609,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=pardot_email_authentication_implement.htm&type=5
 * https://help.salesforce.com/articleView?id=pardot_admin_add_tracker_domain.htm&type=0
 * https://help.salesforce.com/articleView?id=000271709&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=pardot_admin_ampsea_parent.htm&type=5
+* https://www.pardot.com/blog/allow-multiple-prospects-email-address/
+* http://www.salesforceben.com/the-drip/time-to-reconsider-pardot-ampsea/
+* https://www.paulbfischer.com/what-pardot-got-wrong-with-the-allow-multiple-prospects-with-the-same-email-address-feature/
+* https://success.salesforce.com/ideaView?id=0873A000000E6zpQAC
+* https://help.salesforce.com/articleView?id=pardot_emails_preference_center_parent.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_sf_connector_settings_reference.htm&type=5
+* https://help.salesforce.com/articleView?id=pardot_default_prospect_field_mapping.htm&type=5
 
 ## DX
 * https://developer.salesforce.com/platform/dx
