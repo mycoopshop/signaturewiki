@@ -388,3 +388,26 @@ https://help.github.com/articles/ignoring-files/
 http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/
 
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+
+https://stackoverflow.com/questions/7751555/how-to-resolve-git-stash-conflict-without-commit
+
+https://stackoverflow.com/questions/16190387/when-applying-a-patch-is-there-any-way-to-resolve-conflicts
+
+https://git-scm.com/book/en/v1/Git-Tools-Stashing
+
+https://www.oliverdavies.uk/blog/git-format-patch/
+
+https://git.kernel.org/pub/scm/git/git.git/plain/Documentation/SubmittingPatches?id=master
+
+https://makandracards.com/makandra/2521-git-how-to-create-and-apply-patches
+
+https://www.tutorialspoint.com/git/git_patch_operation.htm
+
+https://www.lullabot.com/articles/git-best-practices-upgrading-the-patch-process
+
+https://cbx33.github.io/gitt/chap8-6.html
+
+https://jaytaylor.com/notes/node/1475947476000.html
+
+https://www.drupal.org/node/1129120
+
