@@ -630,10 +630,9 @@ Fight Night Round 2
 Peter Jackson's King Kong
 Mega Man X Collection
 Teen Titans
-Batman: Rise of Sin Tzu
 The Incredibles: Rise of the Underminer
-TMNT
-
+Kirby's Air Ride
+Battalion Wars
 Bomberman Generations  - $10 ( UPC: 096427012863 )
 Tales of Symphonia - $20 ( UPC: 722674300025 )
 Skies of Arcadia Legends - $30 ( UPC: 010086610185 )
