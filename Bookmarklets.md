@@ -1,0 +1,1 @@
+javascript:void(window.setInterval(function(){var foo = new XMLHttpRequest(); foo.open('GET', ''); foo.send(); }, 10000))
