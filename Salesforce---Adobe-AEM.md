@@ -669,6 +669,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
+## MuleSoft/AWS Proxy Setup 
+* https://www.youtube.com/watch?v=U_Oy_rD6aPs
+* https://www.youtube.com/watch?v=7C3-Nf-2dS8
+* https://www.youtube.com/watch?v=yuYDqFwSRIo
+
 ## Change Set Deployment
 * https://help.salesforce.com/articleView?id=changesets_about_connection.htm&type=5
 * https://help.salesforce.com/articleView?id=changesets_inbound_deploy.htm&type=5
