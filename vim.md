@@ -27,4 +27,4 @@ Delete without copying: _d + d or the number of lines
 * https://github.com/neovim/neovim/blob/master/runtime/doc/api.txt
 * https://lamsh.github.io/slide/2017/20171104_VimConf2017/index.html
 * https://blog.codepen.io/2014/02/21/vim-key-bindings/
-
+* https://superuser.com/questions/713413/vim-how-to-delete-a-vim-buffer-when-you-quit-a-file-in-vim
