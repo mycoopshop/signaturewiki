@@ -65,3 +65,4 @@ https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-
 https://reactjs.org/docs/integrating-with-other-libraries.html
 https://hackernoon.com/one-major-reason-vuejs-gt-react-4edcb400e383
 https://medium.com/engineering-housing/javascript-memory-profiling-for-backbone-and-react-5bffd5d6e6f
+http://2ality.com/2016/04/unhandled-rejections.html
