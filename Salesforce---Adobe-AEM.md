@@ -566,6 +566,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/mc_content_creation.pdf
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
 * https://www.salesforce.com/blog/2017/11/personalization-in-shopping-report.html
+* https://help.salesforce.com/articleView?id=mc_ceb_content_builder_best_practices.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_es_sender_policy_framework_faq.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_pb_personalization_builder.htm&type=5
 * https://help.salesforce.com/articleView?id=vpm_designer_elements_connector_fault_email.htm&type=5
@@ -669,7 +670,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
-## MuleSoft/AWS Proxy Setup 
+## MuleSoft/AWS Proxy Setup
+* https://blogs.mulesoft.com/dev/api-dev/salesforce-integration-inbound-outbound/
+* https://blogs.mulesoft.com/tag/odata/
 * https://www.youtube.com/watch?v=U_Oy_rD6aPs
 * https://www.youtube.com/watch?v=7C3-Nf-2dS8
 * https://www.youtube.com/watch?v=yuYDqFwSRIo
