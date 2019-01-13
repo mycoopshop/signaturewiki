@@ -1157,6 +1157,7 @@ Format:2xx0xx000
 
 ## Einstein
 * https://einstein.ai/terms-of-service
+* https://www.salesforce.com/blog/2017/08/ai-for-marketers
 * https://rctom.hbs.org/submission/salesforce-is-stealing-einsteins-thunder/
 * https://tutorials.botsfloor.com/creating-a-simple-chatbot-in-salesforce-lightning-using-api-ai-in-less-than-60-mins-4dd79777b246
 * https://dawidnaude.com/what-does-einstein-bots-mean-for-salesforce-customers-and-partners-80fdcb941a3f
