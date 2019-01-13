@@ -39,6 +39,7 @@ Perl Jenkins Redis
 **Electric Flow**
 * [ElectricCommander](http://docs.electric-cloud.com/commander_doc/CommanderIndex.html)
 * [Welcome to ElectricCommander](http://docs.electric-cloud.com/commander_doc/5_3/Mobile/Help/Advanced/Content/Welcome.htm)
+* http://electric-cloud.com/plugins/directory/p/jenkins/
 
 **Build Pipelines**
 * https://www.agiletestingframework.com/ultimate-devops-toolchain/
@@ -47,7 +48,7 @@ Perl Jenkins Redis
 * https://www.experoinc.com/post/multi-tenant-applications-reduce-the-complexity
 * https://wiki.jenkins.io/display/JENKINS/ElectricFlow+Plugin
 * http://downloads.electric-cloud.com/plugins/EC-Jenkins/latest/EC-Jenkins_help.xhtml
-* http://electric-cloud.com/plugins/directory/p/jenkins/
+* https://dzone.com/articles/jmeter-distributed-testing-with-docker
 
 **HyperVisors**
 * https://developer.apple.com/documentation/hypervisor
@@ -79,6 +80,7 @@ Perl Jenkins Redis
 **Containers**
 * https://sqlsailor.com/
 * https://www.infoworld.com/article/3234531/application-testing/testing-with-the-inmemory-provider-in-entity-framework-core.html
+* https://dzone.com/articles/creating-a-docker-container-host-on-windows-nano-s
 * https://mscloudinfo.files.wordpress.com/2017/07/windows_server_containers_101_poster.pdf
 * https://pedronsite.files.wordpress.com/2016/06/docker-documentationtechnique.pdf
 * https://itjumpstart.files.wordpress.com/2015/03/15-06-15_dockercheatsheet_a2.pdf
