@@ -25,8 +25,10 @@ Heisenbug             Message Passing Concurrency         Erlang
 </pre>
 
 
-**References**
+## References
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
+https://dzone.com/articles/top-10-javascript-errors-from-1000-projects-and-ho-1
 https://blog.sentry.io/2017/09/28/react-16-error-boundaries
 https://github.com/substack/tape/issues/59
 https://thefullstack.xyz/debug-exceptions-react-native
@@ -36,7 +38,7 @@ https://www.w3.org/MarkUp/Test/HTML401/current/assertions/assertions_toc.html
 https://www.infoq.com/news/2016/08/v8-ignition-javascript-inteprete
 https://webkit.org/blog/3846/type-profiling-and-code-coverage-profiling-for-javascript/
 
-**React**
+## React
 Events:https://github.com/facebook/react/blob/master/packages/react-dom/src/events/ReactBrowserEventEmitter.js
 Plugins: https://github.com/facebook/react/blob/master/packages/react-dom/src/events/ChangeEventPlugin.js
 Draconian Error Handling: https://github.com/facebook/react/issues/11846
