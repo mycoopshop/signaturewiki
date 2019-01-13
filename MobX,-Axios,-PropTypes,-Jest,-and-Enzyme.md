@@ -118,6 +118,8 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://alexhisen.gitbooks.io/mobx-recipes/content/use-observables-instead-of-state-in-react-components.html
 1. https://blog.risingstack.com/handling-react-forms-with-mobx-observables/
 1. https://itnext.io/react-with-out-mobx-part-1-of-2-b540a7e631a9
+1. https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc?gi=264ae55aa498
+1. https://mobx.js.org/refguide/api.html#enforceactions
 
 ## Axios
 1. https://codereviewvideos.com/blog/7-things-i-learned-adding-jest-existing-project/
