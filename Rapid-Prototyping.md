@@ -728,3 +728,5 @@ https://github.com/babel/babel-loader/issues/401
 https://github.com/zloirock/core-js#commonjs
 
 https://github.com/JeffreyWay/laravel-mix/issues/436
+
+https://reactpatterns.com/
