@@ -55,6 +55,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * http://www.ross.net/funnelweb/
 * https://ashkenas.com/docco/
 
+## Cookbooks
+* http://commons.apache.org/proper/commons-chain/cookbook.html
+
 ## VB/ASP
 * https://docs.microsoft.com/en-us/previous-versions/office/developer/server-technologies/aa286483(v=msdn.10)
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
