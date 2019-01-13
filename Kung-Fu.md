@@ -51,3 +51,5 @@ Have no friends not equal to yourself.
 * http://management-quotes.net/authors/Confucius
 
 * https://www.quotes.wiki/author/confucius/
+
+* http://www.linguanaut.com/japanese_sayings.htm
