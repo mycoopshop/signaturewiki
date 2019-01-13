@@ -121,3 +121,4 @@ Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs
 * https://github.com/reactjs/react-future/issues/35
 * https://stackoverflow.com/questions/36771017/what-is-the-equivalent-to-ng-if-in-react-js/36771363
 * https://reactjsnews.com/NgRepeat-Equivalent-in-React
+* https://docs.sencha.com/extjs/6.5.3/modern/Ext.field.Search.html
