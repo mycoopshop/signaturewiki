@@ -5,3 +5,5 @@
 * https://taylormarshall.com/2015/02/what-is-the-meaning-of-the-12-and-7-baskets-left-over-from-the-feeding-of-5000-and-4000.html
 * https://www.preachitteachit.org/articles/detail/what-did-jesus-really-write-in-the-sand/
 * https://www.rzim.org/read/just-thinking-magazine/jesus-the-path-to-human-flourishing
+* http://soul-side-out.com/third-eye-birthing-christ/
+* https://pilgrim777.wordpress.com/table-of-contents/the-pineal-the-holy-spirit-and-the-144-000/
