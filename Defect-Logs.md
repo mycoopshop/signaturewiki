@@ -14,3 +14,4 @@ Cached value was wrong - I cached a dynamic value in a variable instead of wrapp
 * https://news.ycombinator.com/item?id=3233526
 * https://www.reddit.com/r/reactjs/comments/3bjdoe/state_is_an_antipattern/
 * https://ariya.io/2016/09/anatomy-of-a-bug-report
+* https://reactjs.org/docs/strict-mode.html
