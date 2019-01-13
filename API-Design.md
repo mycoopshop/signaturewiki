@@ -115,6 +115,7 @@ https://toddysm.com/2017/02/02/are-enterprises-building-incomplete-cicd-pipeline
 https://creately.com/diagram/example/i7c02ojz1/DevOps%20-%20Infrastructure%20Architecture
 http://rundeck.org/stories/john_desposito.html
 http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
+https://www.w3.org/wiki/Activity_Streams/Examples
 https://www.w3.org/TR/activitystreams-vocabulary/
 https://www.w3.org/TR/social-web-protocols/#bib-Micropub
 https://www.w3.org/TR/pwp-ucr/
