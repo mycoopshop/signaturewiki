@@ -86,6 +86,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 
 ## Metadata Enumeration/Serialization
 * https://help.salesforce.com/articleView?id=000273888&type=1&language=en_US
+* https://medium.com/inside-the-salesforce-ecosystem/forbidden-secrets-of-the-metadata-api-c38208e9a818
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
 * https://blog.jeffdouglas.com/2011/10/20/getting-salesforce-field-metadata-the-easy-way/
 * https://success.salesforce.com/ideaview?id=08730000000GzMwAAK
