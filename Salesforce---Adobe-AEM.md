@@ -1605,7 +1605,8 @@ Format:2xx0xx000
 * https://tech.ucsf.edu/salesforce-ucsf-build-simple-crms-fast
 * http://www4.uky.edu/lifecycle/sites/www.uky.edu.lifecycle/files/Salesforce.org%20for%20UK%20%28screenshots%29%201.17.17%20%281%29.pdf
 * https://aggieservice.ucdavis.edu/s/article/How-to-Access-the-Knowledge-Base
-
+* http://academic-alliance.salesforce.com/
+* https://www.salesforce.org/salesforces-academic-alliance/
 
 # Adobe 
 ## Headless Architecture
