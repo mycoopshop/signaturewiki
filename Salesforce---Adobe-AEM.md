@@ -183,10 +183,11 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/field_service_dev.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/collaboration_admin.pdf
+* https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
 * http://resources.docs.salesforce.com/216/16/en-us/sfdc/pdf/salesforce_lead_implementation_guide.pdf
 * https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_forecastuser_cheatsheet.pdf
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041NEVQA2
-
+ 
 ## Team Building
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
 * https://help.salesforce.com/articleView?id=000212993&type=1
@@ -581,6 +582,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Customer Support / Service Cloud
 * https://help.salesforce.com/articleView?id=000003910&type=1
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/salesforce-premierplans-with-accelerators.pdf
+* https://help.salesforce.com/articleView?id=service_resources.htm&type=5
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
 * https://developer.salesforce.com/page/SnapinsMobile
 
