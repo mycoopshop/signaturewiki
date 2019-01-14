@@ -46,6 +46,8 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/articleView?id=lex_find_your_way_around_setup.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
+* https://admin.salesforce.com/insight-be-a-builder
+* https://admin.salesforce.com/the-value-of-having-a-dedicated-salesforce-integration-user
 
 ## Syntax
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
@@ -83,6 +85,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=000193434&language=en_US&type=1
 
 ## Metadata Enumeration/Serialization
+* https://help.salesforce.com/articleView?id=000273888&type=1&language=en_US
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
 * https://blog.jeffdouglas.com/2011/10/20/getting-salesforce-field-metadata-the-easy-way/
 * https://success.salesforce.com/ideaview?id=08730000000GzMwAAK
@@ -663,7 +666,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Heroku Connect
 * https://developer.salesforce.com/dreamhouse/pio/
 * https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
-* https://access.redhat.com/documentation/en-us/red_hat_jboss_fuse/6.1/html/apache_camel_component_reference/idu-salesforce
+* https://devcenter.heroku.com/articles/heroku-connect-logs-errors
+* https://devcenter.heroku.com/articles/heroku-connect-faq
 * https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/
 * https://www.redhat.com/files/summit/session-assets/2017/S102611-hu.pdf
 * https://docs.workato.com/connectors/salesforce.html#using-real-time-triggers
@@ -876,6 +880,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=security_controlling_access_using_hierarchies.htm&type=5
 * https://help.salesforce.com/articleView?id=security_sharing_considerations.htm&type=5
 * https://success.salesforce.com/issues_view?id=a1p3A000000FmmaQAC&title=sharing-locks-are-not-released-during-change-set-deployment-of-objects-in-master-detail-relationship
+* http://www.salesforcehacker.com/2013/01/comparing-profiles-and-permission-sets.html
+* https://developer.salesforce.com/blogs/engineering/2012/06/using-soql-to-determine-your-users-permissions-2.html
+* https://admin.salesforce.com/simplify-your-permissions-with-the-profile-and-permission-set-helper
+* http://www.salesforcehacker.com/2013/05/dude-wheres-my-permission.html
 
 ## SOQL
 
