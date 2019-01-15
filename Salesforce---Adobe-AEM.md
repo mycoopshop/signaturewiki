@@ -186,6 +186,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
 * http://resources.docs.salesforce.com/216/16/en-us/sfdc/pdf/salesforce_lead_implementation_guide.pdf
 * https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_forecastuser_cheatsheet.pdf
+* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf
+* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/service_presence_administrators.pdf
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041NEVQA2
  
 ## Team Building
