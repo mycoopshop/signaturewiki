@@ -1042,6 +1042,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Beta/Pilot Programs
 * -title:beta -title:salesforce +pilot title:release site:salesforce.com
+* https://help.salesforce.com/articleView?id=admin_setup_search.htm&type=5
 
 ## Automation
 * http://resources.docs.salesforce.com/200/12/en-us/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
