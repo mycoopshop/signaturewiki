@@ -1,6 +1,7 @@
 MVC
 * http://www.oracle.com/technetwork/articles/java/mvc-2280472.html
 * https://www.mvc-spec.org/learn/
+* https://github.com/openfl/openfl-samples/blob/master/script.hx
 
 MVVM
 * https://moduscreate.com/blog/ext-js-to-react-handling-application-state-with-mobx/
