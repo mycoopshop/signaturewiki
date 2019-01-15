@@ -772,6 +772,8 @@ PERSONA 4: DANCING ALL NIGHT
 
 
 ## PS3
+https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles#endnote_a
+
 ###  Co-Op
 * Rayman Legends
 * LittleBigPlanet
