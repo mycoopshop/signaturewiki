@@ -246,6 +246,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/forums/?id=906F0000000BWZ0IAO
 
 **Certification**
+* https://www.oreilly.com/library/view/salesforce-platform-app/9781785283697/
 * http://certification.salesforce.com/OnlineProctoringGuide-MacintoshOperatingSystem.pdf
 * https://www.salesforce.com/dreamforce/certification/
 * https://trailhead.salesforce.com/credentials/developeroverview
@@ -887,6 +888,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/engineering/2012/06/using-soql-to-determine-your-users-permissions-2.html
 * https://admin.salesforce.com/simplify-your-permissions-with-the-profile-and-permission-set-helper
 * http://www.salesforcehacker.com/2013/05/dude-wheres-my-permission.html
+* https://www.slideshare.net/SunilKumar67/profiles-and-permission-sets-in-salesforce
+* https://help.salesforce.com/articleView?id=admin_insufficient_privileges_object.htm&type=5
+* https://help.salesforce.com/articleView?id=perm_sets_search.htm&type=5
 
 ## SOQL
 
