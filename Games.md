@@ -633,7 +633,9 @@ Teen Titans
 The Incredibles: Rise of the Underminer
 Kirby's Air Ride
 Battalion Wars
+Naruto: Clash of Ninja
 Bomberman Generations  - $10 ( UPC: 096427012863 )
+Bomberman Jetters 
 Tales of Symphonia - $20 ( UPC: 722674300025 )
 Skies of Arcadia Legends - $30 ( UPC: 010086610185 )
 Paper Mario - $10 ( UPC: 045496962050 )
