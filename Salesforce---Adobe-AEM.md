@@ -842,9 +842,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## WorkBench
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_workbench_cheatsheet.pdf
+* https://elements.heroku.com/buttons/jdrishe/salesforce-workbench
 
 ## DML Data Deduplication
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_data_quality_duplicate_prevention.pdf
+* https://douglascayers.com/2016/03/20/salesforce-easy-ways-to-export-data-as-csv/
 
 ## Remoting
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
@@ -1029,6 +1031,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Internationalization / Localization
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
+* http://resources.docs.salesforce.com/204/12/en-us/sfdc/pdf/salesforce_workbench_export_import_cheatsheet.pdf
 * https://www.salesforce.com/blog/2017/04/how-to-localize-your-content-marketing
 * https://www.salesforce.com/blog/2014/09/5-tips-engaging-international-audiences-gp.html
 * https://developer.salesforce.com/docs/atlas.en-us.noversion.service_sdk_ios.meta/service_sdk_ios/localization.htm
@@ -1205,6 +1208,9 @@ Format:2xx0xx000
 * https://www.salesforce.com/assets/pdf/misc/BPWP_10Mistakes_0408.pdf
 * https://quip.com/D0xhA7L33hxy
 * https://help.salesforce.com/articleView?id=admin_files_quip_oauth_configuration.htm&type=0
+* https://marketing.adobe.com/resources/help/en_US/insight/client/client.pdf
+* https://marketing.adobe.com/resources/help/en_US/target/target/c_common-ab-testing-pitfalls.html
+* https://marketing.adobe.com/resources/help/en_US/target/target/c_sample_size_determination.html
 
 ## Chatter
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_collab_emojis.htm
