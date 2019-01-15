@@ -7,6 +7,14 @@
 * https://en.wikipedia.org/wiki/Caleel_Harris
 * https://en.wikipedia.org/wiki/Storm_Reid
 
+## OGs
+* https://medium.com/@93/chi-modu-fed003924f9
+* https://en.wikipedia.org/wiki/Joel_Augustus_Rogers
+
+# Philosophies
+* https://en.wikipedia.org/wiki/Stalking_horse
+* https://en.wikipedia.org/wiki/Psychological_manipulation
+
 ## Projects
 * https://www.oakland.edu/Assets/Oakland/religiousstudies/files-and-documents/faculty-research/Klein,%20Rabbi%20Joe%20-%20Superheroes%20Lecture%20March%208,%202016.pdf
 * https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1428&context=etd_hon_theses
