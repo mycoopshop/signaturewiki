@@ -253,11 +253,22 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://blog.benestudio.co/remove-console-log-statements-from-production-javascript-apps-7376adc89c7a
 * https://github.com/webpack/webpack/issues/6586
 
+# Deployment
+* https://devcenter.heroku.com/articles/nodejs-support
+* https://devcenter.heroku.com/articles/node-best-practices
+* https://www.dynatrace.com/news/blog/the-drastic-effects-of-omitting-node_env-in-your-express-js-applications/
+
+# Transpilers
+* https://www.sitepoint.com/javascript-modules-bundling-transpiling/
+* https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/
+* https://www.reddit.com/r/javascript/comments/2is81v/why_is_not_systemjs_dominating_the_field_of/
+
 # Transpiler Plugins
 * https://babeljs.io/docs/en/next/babel-helper-module-imports.html
 * https://babeljs.io/docs/en/next/babel-plugin-syntax-export-default-from.html
 * https://babeljs.io/docs/en/next/babel-plugin-syntax-export-namespace-from.html
 * https://babeljs.io/docs/en/next/babel-plugin-transform-classes.html
+
 
 # Internals
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
