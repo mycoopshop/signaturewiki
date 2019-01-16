@@ -48,6 +48,7 @@ url:servlet ext:pdf site:salesforce.com
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
 * https://admin.salesforce.com/insight-be-a-builder
 * https://admin.salesforce.com/the-value-of-having-a-dedicated-salesforce-integration-user
+* https://help.salesforce.com/articleView?id=search_index_considerations.htm&type=5
 
 ## Syntax
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
@@ -855,7 +856,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
 * https://balkishankachawa.wordpress.com/2015/10/31/lightning-component-javascript-remoting-and-visualforce-page/
 * https://developer.salesforce.com/blogs/developer-relations/2011/05/tale-of-two-visualforce-pages-actionfunction-and-javascript-remoting.html
-* https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
 * https://developer.salesforce.com/forums/?id=906F0000000BHAHIA4
 * https://www.slideshare.net/developerforce/df121335-birk
 * https://www.slideshare.net/developerforce/df121306-ready
@@ -897,6 +897,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.slideshare.net/SunilKumar67/profiles-and-permission-sets-in-salesforce
 * https://help.salesforce.com/articleView?id=admin_insufficient_privileges_object.htm&type=5
 * https://help.salesforce.com/articleView?id=perm_sets_search.htm&type=5
+* https://help.salesforce.com/articleView?id=000233962&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000269448&type=1&language=en_US
 
 ## SOQL
 
@@ -1236,6 +1238,7 @@ Format:2xx0xx000
 * https://www.salesforce.com/blog/2014/10/gmail-moves-to-2-in-email-client-market-share.html
 * https://help.salesforce.com/articleView?id=Salesforce-Outbound-Emails-Impacted-by-Google-DMARC-Policy-Adoption&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=emailadmin_send_through_salesforce_setup.htm&type=5
+* https://help.salesforce.com/articleView?id=000268388&type=1&language=en_US
 * https://appexchange.salesforce.com/listingDetail?listingId=a0N30000003JuTlEAK
 * https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_sales_lightning_s_g_event_scope.htm
