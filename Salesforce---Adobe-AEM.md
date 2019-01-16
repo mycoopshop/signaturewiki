@@ -682,6 +682,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
+## External Services
+* https://help.salesforce.com/articleView?id=external_services.htm&type=5
+* https://help.salesforce.com/articleView?id=external_services_schema.htm&type=5
+* https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_forcecom_ext_services.htm?edition=&impact=
+* https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
+* https://www.npmjs.com/package/muenzpraeger-sfdx-plugin
+
 ## MuleSoft/AWS Proxy Setup
 * https://blogs.mulesoft.com/dev/api-dev/salesforce-integration-inbound-outbound/
 * https://blogs.mulesoft.com/tag/odata/
