@@ -1,5 +1,7 @@
 * https://en.wikipedia.org/wiki/Common_Crawl#cite_note-semanticweb_1-7
 
+* https://github.com/brentsimmons/JSONFeed/issues/49
+
 * https://ccdsupport.com/confluence/display/help/XML+Reporting+Instructions
 
 * https://confluence.atlassian.com/doc/confluence-storage-format-790796544.html
