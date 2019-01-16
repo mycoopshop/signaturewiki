@@ -53,3 +53,5 @@ Have no friends not equal to yourself.
 * https://www.quotes.wiki/author/confucius/
 
 * http://www.linguanaut.com/japanese_sayings.htm
+
+* https://www.wikihow.com/Cure-a-Stomach-Ache
