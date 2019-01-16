@@ -2,6 +2,10 @@
 
 * https://github.com/brentsimmons/JSONFeed/issues/49
 
+* http://docs.datalad.org/en/latest/metadata.html
+
+* https://github.com/w3c/respec/issues/1503
+
 * https://ccdsupport.com/confluence/display/help/XML+Reporting+Instructions
 
 * https://confluence.atlassian.com/doc/confluence-storage-format-790796544.html
