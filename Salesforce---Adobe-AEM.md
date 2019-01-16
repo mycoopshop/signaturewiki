@@ -94,6 +94,14 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/blogs/developer-relations/2008/12/using-the-metadata-api-to-retrieve-picklist-values.html
 * https://developer.salesforce.com/forums/?id=9060G0000005UXVQA2
 
+## Omnichannel (OpenSearch, JSON-LD, MHTML, RFC822) 
+* https://www.salesforce.com/blog/2017/12/multi-channel-support
+* https://www.salesforce.com/blog/2018/08/customer-experience-personalization-state-marketing-report
+* https://www.salesforce.com/blog/2016/07/content-marketing-mistakes
+* https://resources.docs.salesforce.com/sfdc/pdf/service_presence_administrators.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/service_presence_developer_guide.pdf
+* https://technoplanet.com/my-green-it-day/
+
 ## Type Checking
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
 * https://help.salesforce.com/articleView?id=How-to-find-Object-Type-from-Record-ID-Prefix&language=en_US&type=1
@@ -187,8 +195,6 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
 * http://resources.docs.salesforce.com/216/16/en-us/sfdc/pdf/salesforce_lead_implementation_guide.pdf
 * https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_forecastuser_cheatsheet.pdf
-* https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf
-* https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/service_presence_administrators.pdf
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041NEVQA2
  
 ## Team Building
@@ -1303,7 +1309,6 @@ Format:2xx0xx000
 
 ## API Integration 
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
-* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/service_presence_developer_guide.pdf
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=5
 * https://community.boomi.com/s/article/Salesforce-Integration-Guide
 * https://www.salesforce.com/products/einstein-analytics/etl-partners/
