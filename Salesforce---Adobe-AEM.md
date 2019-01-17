@@ -700,6 +700,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## MuleSoft/AWS Proxy Setup
 * https://blogs.mulesoft.com/dev/api-dev/salesforce-integration-inbound-outbound/
 * https://blogs.mulesoft.com/tag/odata/
+* https://docs.mulesoft.com/mule-runtime/3.6/cmis-connector
 * https://www.youtube.com/watch?v=U_Oy_rD6aPs
 * https://www.youtube.com/watch?v=7C3-Nf-2dS8
 * https://www.youtube.com/watch?v=yuYDqFwSRIo
