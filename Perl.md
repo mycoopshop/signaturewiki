@@ -10,6 +10,9 @@
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
 
+## Error Messaging
+http://blogs.perl.org/users/zoffix_znet/2016/08/the-awesome-errors-of-perl-6.html
+
 ### Sort
 https://en.wikipedia.org/wiki/Schwartzian_transform
 
