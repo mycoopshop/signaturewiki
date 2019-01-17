@@ -1,5 +1,8 @@
 * https://makezine.com/2018/05/24/john-collins-paper-airplanes-interview/
 * https://www.nationalmuseum.af.mil/Portals/7/documents/education/similar_paper_airplanes_lesson_plan.pdf
+* https://docs.kde.org/trunk5/en/kdeedu/kig/kig.pdf
+* https://docs.microsoft.com/en-us/bingmaps/articles/bing-maps-tile-system
+* http://php.net/manual/en/function.imagefilledellipse.php
 * http://robertbauval.co.uk/articles/articles/anchor.html
 * https://math.wonderhowto.com/how-to/use-protractor-make-pie-chart-333915/
 * http://www.homemadetools.net/tag/protractor
