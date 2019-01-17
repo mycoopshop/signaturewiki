@@ -345,12 +345,14 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * title:developer.force.com site:salesforce.com
 * developerforce salesforcelabs forcedotcom site:github.com
 * https://github.com/trending/apex
+* https://github.com/trailheadapps
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
 * https://github.com/salesforceidentity
 * https://github.com/SalesforceFoundation
 * https://github.com/SFDO-Tooling
+* https://github.com/mulesoft?utf8=%E2%9C%93&q=&type=&language=css
 
 **Tutorials**
 * https://github.com/developerforce/lightning-app-builder-tutorial/blob/gh-page2/print.md
