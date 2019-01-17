@@ -4,6 +4,10 @@
 ## Conversion
 * Image to PDF
 
+# Archives
+* Page Cache Archiver
+* SingleFile
+
 ## Accessibility
 * Chrome Accessibility Developer Tools: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
 
