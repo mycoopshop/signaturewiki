@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/California_State_Route_33
 
 https://data.huffingtonpost.com/
 
+https://www.ci.patterson.ca.us/AgendaCenter
+
 https://www.stancounty.com/tr-tax/pdf/secured-legal-ad-2017.pdf
 
 https://money.stackexchange.com/questions/62214/is-there-any-way-to-buy-a-new-car-directly-from-toyota-without-going-through-a-d
