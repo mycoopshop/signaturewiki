@@ -195,6 +195,8 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
 * http://resources.docs.salesforce.com/216/16/en-us/sfdc/pdf/salesforce_lead_implementation_guide.pdf
 * https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_forecastuser_cheatsheet.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/apex_ajax.pdf
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041NEVQA2
  
 ## Team Building
@@ -579,6 +581,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Marketing Cloud
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
+* https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_tenant_specific_subdomains.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_xml_api.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/gtlWorkbook.htm
 * https://help.salesforce.com/articleView?id=mc_es_ftp_instruction_guide.htm&type=5
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/mc_content_creation.pdf
@@ -1294,6 +1298,12 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_device_flow.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2011/11/revoking-oauth-2-0-access-tokens-and-refresh-tokens.html
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_einstein_platform_services_refresh_token.htm
+
+## MobilePush
+* https://help.salesforce.com/articleView?id=mc_rn_october_2018_mp_mobilepush.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_rn_october_2018_mp_mobilepush.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_rn_october_2018_mp_firebase.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_mp_provisioning_info.htm&type=5
 
 ## Watson
 * https://developer.salesforce.com/blogs/2017/11/introducing-ibm-watson-sdk-salesforce.html
