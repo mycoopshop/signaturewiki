@@ -1,5 +1,8 @@
 1. http://blog.rangle.io/how-to-track-analytics-with-redux-and-google-tag-manager/
 1. https://www.npmjs.com/package/react-redux-analytics-sitecatalyst
+1. https://it.toolbox.com/blogs/vincentwong/compare-6-types-and-14-data-visualization-tools-091618
+1. https://www.srijan.net/company/technology/data-visualization
+1. https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools/
 1. https://marketing.adobe.com/resources/help/en_US/whitepapers/rdc/regional_data_collection.pdf
 1. https://marketing.adobe.com/resources/help/en_US/sc/implement/analytics-implementation.pdf
 1. https://www.slideshare.net/itsvijay/pixel-tags-and-tag-management
