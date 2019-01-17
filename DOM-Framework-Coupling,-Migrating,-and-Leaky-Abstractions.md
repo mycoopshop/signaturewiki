@@ -31,6 +31,7 @@
 ## React
 * https://reactjs.org/docs/design-principles.html
 * https://reactjs.org/docs/accessibility.html
+* https://medium.com/@viacheslavlushchinskiy/breaking-out-of-the-matrix-with-react-portals-and-mutation-observer-b35b8d977235
 * https://github.com/facebook/draft-js/issues/325
 * https://github.com/facebook/react/issues/11387
 * https://github.com/facebook/react/issues/3964
