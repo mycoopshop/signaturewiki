@@ -5,3 +5,8 @@ http://www.abarim-publications.com/Meaning/Ariel.html
 http://www.jewishencyclopedia.com/articles/8603-jerusalem
 http://biblehub.com/topical/a/adversary.htm
 https://sidroth.org/articles/real-meaning-jerusalem/
+http://genesis6conspiracy.com/heroes-of-old/
+https://www.kingjamesbibleonline.org/Ecclesiasticus-20-25/
+http://www.auburn.edu/~allenkc/fbf/sonman.html
+https://www.postost.net/2015/11/priest-forever-after-order-melchizedek
+https://staleyfamilyministries.com/the-melchizedek-two-book-theory-debunked.html
