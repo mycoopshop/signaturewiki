@@ -1,3 +1,5 @@
+https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+https://www.wired.com/2009/08/0825-torvalds-starts-linux/
 https://www.ratemyteachers.com/matthew-gironda/7905967-t
 https://github.com/Microsoft/PowerBI-JavaScript
 https://github.com/Microsoft/PowerBI-Angular
