@@ -595,8 +595,16 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=mc_bp_goal_and_exit_best_practices.htm&type=5
 * https://aws.amazon.com/partners/success/salesforce-case-study/
 
+## GDPR Compliance
+* https://help.salesforce.com/articleView?id=data_portability_platform.htm&type=5
+* https://www.salesforceben.com/problem-emails-salesforce/
+
 ## Customer Support / Service Cloud
 * https://help.salesforce.com/articleView?id=000003910&type=1
+* https://help.salesforce.com/articleView?id=support_channels.htm&type=5
+* https://help.salesforce.com/articleView?id=quick_text_setting_up.htm&type=5
+* https://help.salesforce.com/articleView?id=data_portability_service.htm&type=5
+* http://pages.mail.salesforce.com/gettingstarted/service-cloud/essentials/import-your-data/
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/salesforce-premierplans-with-accelerators.pdf
 * https://help.salesforce.com/articleView?id=service_resources.htm&type=5
 * https://help.salesforce.com/articleView?id=rules_escalation_best_practices.htm&type=5
