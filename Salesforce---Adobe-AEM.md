@@ -136,6 +136,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/page/Wiki
 * http://developer.force.com/codeshare/
 * https://developer.secure.force.com/cookbook/
+* https://developer.secure.force.com/cookbook/recipe/storing-form-field-values-with-the-apex-cookie-class
 * https://developer.salesforce.com/page/Packaging
 * https://developer.salesforce.com/page/Apex_Enterprise_Patterns_-_Separation_of_Concerns
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
