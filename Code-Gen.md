@@ -1,4 +1,6 @@
 * https://homes.cs.washington.edu/~mernst/pubs/feedback-testgen-icse2017-mip-slides.pdf
+* https://www.sitepoint.com/getting-started-with-codemods/
+* https://benmccormick.org/2018/06/18/codemod-survival/
 * https://news.ycombinator.com/item?id=3033446
 * https://blogs.oracle.com/sundararajan/implementing-java-interfaces-in-javascript
 * https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/JavaScript_Compiler
