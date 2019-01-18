@@ -579,6 +579,18 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## 
 ## APEXDOC
 
+## Sales Cloud
+* https://www.salesforce.com/eu/products/sales-cloud/features/crm-email-connector/
+* https://help.salesforce.com/articleView?id=inbound_email_snapshots.htm&type=5
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/salesforce_leads_cheatsheet.pdf
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/sales_core.pdf
+* https://help.salesforce.com/articleView?id=path_create.htm
+* https://help.salesforce.com/articleView?id=mc_co_troubleshoot_email_sends_and_tracking.htm&type=5
+
+## License Management
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_lma_guide.pdf
+* https://success.salesforce.com/issues_view?id=a1p300000008YmVAAU&title=performance-edition-orgs-showing-as-base-edition-in-lma
+
 ## Marketing Cloud
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
 * https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_tenant_specific_subdomains.htm&type=5
@@ -628,6 +640,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/pardot_get_start.pdf
+* https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/pardot_salesforce_engage_implementation_guide.pdf
 * https://help.salesforce.com/articleView?id=000271319&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000269324&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=pardot_connectors_site_search_third_party_add.htm&type=5
@@ -1138,6 +1152,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.youtube.com/watch?v=Yc5FrviQqO8
 * https://success.salesforce.com/sessions?eventId=a1Q3000000qQOd9EAG#/
 * https://success.salesforce.com/ev_sitetos
+* https://www.youtube.com/playlist?list=PLB39017CE69F42E50&feature=view_all
 
 ## Known Issues
 Format:2xx0xx000
