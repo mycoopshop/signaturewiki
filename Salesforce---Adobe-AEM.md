@@ -693,11 +693,13 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
-## External Services
+## External Services (Swagger/RAML)
 * https://help.salesforce.com/articleView?id=external_services.htm&type=5
 * https://help.salesforce.com/articleView?id=external_services_schema.htm&type=5
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_forcecom_ext_services.htm?edition=&impact=
 * https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
+* https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
+* https://developer.salesforce.com/blogs/2018/08/getting-started-with-mulesoft-a-quick-start-guide-for-salesforce-developers.html
 * https://www.npmjs.com/package/muenzpraeger-sfdx-plugin
 
 ## MuleSoft/AWS Proxy Setup
@@ -1589,7 +1591,6 @@ Format:2xx0xx000
 * https://kb.builtwith.com/category/salesforce/
 
 ## Authentication
-* https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
 * https://help.salesforce.com/articleView?id=admin_insufficient_privileges_map.htm&type=5
 * https://help.salesforce.com/articleView?id=How-to-prepare-for-additional-login-pools&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=networks_auth_configure_saml.htm&type=5
