@@ -42,6 +42,10 @@ title:kubernetes +security ext:pdf -domain:com
 
 +genrsa +pem +java +format
 
+java pattern class util -se domain:com println out
+
+c# regex using writeline class -se domain:com pattern
+
 "defined benefit" +district +county +state +city -liabilities -affected 
 
 linkedin.com apex lightning visualforce html
