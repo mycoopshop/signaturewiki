@@ -45,7 +45,6 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/articleView?id=000214805&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=lex_find_your_way_around_setup.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
-* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_anonymous_block.htm
 * https://admin.salesforce.com/insight-be-a-builder
 * https://admin.salesforce.com/the-value-of-having-a-dedicated-salesforce-integration-user
 * https://help.salesforce.com/articleView?id=search_index_considerations.htm&type=5
@@ -1276,6 +1275,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 
 ## Tooling
+* http://json2apex.herokuapp.com/
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_tooling.pdf
 * https://github.com/simple-salesforce/simple-salesforce
 * https://github.com/mailtoharshit/awesome-salesforce
