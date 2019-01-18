@@ -500,6 +500,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/sfdc/pdf/canvas_framework.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_soql_sosl.pdf
 * http://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/salesforce_query_search_optimization_developer_cheatsheet.pdf
+* https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/salesforce_limits_practices.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_bulk_v2.pdf
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
 * https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/glossary_meta.htm
