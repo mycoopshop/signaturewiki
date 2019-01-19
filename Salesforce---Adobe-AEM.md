@@ -734,6 +734,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.youtube.com/watch?v=7C3-Nf-2dS8
 * https://www.youtube.com/watch?v=yuYDqFwSRIo
 
+## ServiceNow/Workday Integration
+* https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/wp-data-encryption-with-servicenow.pdf
+* https://community.workday.com/api
+
 ## Change Set Deployment
 * https://help.salesforce.com/articleView?id=changesets_about_connection.htm&type=5
 * https://help.salesforce.com/articleView?id=changesets_inbound_deploy.htm&type=5
