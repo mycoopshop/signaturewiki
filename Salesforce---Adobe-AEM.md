@@ -736,6 +736,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## ServiceNow/Workday Integration
 * https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/wp-data-encryption-with-servicenow.pdf
+* https://www.servicenow.com/workflow/glossary.html
+* https://www.workday.com/content/dam/web/en-us/documents/datasheets/datasheet-touchpoints-kit-us.pdf
+* https://workday.nevada.edu/workday-glossary/
 * https://community.workday.com/api
 
 ## Change Set Deployment
