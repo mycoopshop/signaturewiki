@@ -39,6 +39,7 @@
 * https://academic.oup.com/jla/article/9/1/51/3572441
 * http://www.dla.mil/Portals/104/Documents/J8Finance/DLA%20WCF%20FY18%20AFR%20Master.pdf
 * https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0029_MEILINGER_PATHS_OF_HEAVEN.pdf
+* https://dspace.mit.edu/bitstream/handle/1721.1/56570/15-912Spring-2005/NR/rdonlyres/Sloan-School-of-Management/15-912Spring-2005/2A031E19-78E3-4D5E-BE0A-F8B8183651B3/0/integratedenvrmt.pdf
 
 # Debt Bias
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
