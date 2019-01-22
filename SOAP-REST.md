@@ -2,6 +2,14 @@ https://aws.amazon.com/blogs/compute/redirection-in-a-serverless-api-with-aws-la
 
 http://developer.ebay.com/devzone/finding/concepts/MakingACall.html
 
+http://webreference.com/authoring/web_service/index-2.html
+
+https://www.nativescript.org/blog/handle-xml-response-from-soap-service-in-nativescript
+
+http://blog.getpostman.com/2014/08/22/making-soap-requests-using-postman/
+
+https://www.bennadel.com/blog/1853-posting-xml-soap-requests-with-jquery.htm
+
 https://msdn.microsoft.com/en-us/library/hh454950.aspx
 
 https://msdn.microsoft.com/en-us/library/ff470410.aspx
