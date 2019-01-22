@@ -28,6 +28,9 @@
 * https://www.w3.org/2009/Talks/0615-qbe/
 * https://www.w3.org/TR/ld-glossary/
 * https://www.w3.org/2003/glossary/subglossary/rdf-mt.rdf/
+* https://docs.oracle.com/en/database/oracle/oracle-database/12.2/rdfrm/rdf-semantic-graph-overview.html#GUID-55180C4B-7B8B-4F45-A948-A46D227935FA
+* https://docs.oracle.com/en/database/oracle/oracle-database/12.2/rdfrm/spatial-and-graph-rdf-semantic-graph-developers-guide.pdf
+* http://www.hpl.hp.com/techreports/2007/HPL-2007-102.pdf
 * https://en.wikibooks.org/wiki/SPARQL/FILTER
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial
 * https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/suggestions
