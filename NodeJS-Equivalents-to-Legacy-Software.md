@@ -3,6 +3,7 @@
 * phpMyAdmin => ExpressAdmin (https://www.npmjs.com/package/express-admin)
 * MediaWiki => TiddlyWiki (https://www.npmjs.com/package/tiddlywiki)
 * Bugzilla => Omega (https://www.npmjs.com/package/omega)
+* Venkman => debugger (https://github.com/nodejs/node/issues/10457)
 * cPanel => Cloud Commander (https://www.npmjs.com/package/cloudcmd)
 * DropBox => NextCloud (https://www.npmjs.com/package/nextcloud-server)
 * CodeSmith Generator => System Designer (https://www.npmjs.com/package/system-designer)
