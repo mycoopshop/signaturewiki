@@ -16,6 +16,7 @@ http://www.programmr.com/api
 
 ## References
 * https://daedtech.com/aggressively-trying-automate-code-review/
+* https://securitycommunity.tcs.com/infosecsoapbox/articles/2015/11/19/ide-plug-ins-security-testing-way-automate-code-review
 * https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
 * http://repository.cmu.edu/cgi/viewcontent.cgi?article=1208&context=sei
 * https://resources.sei.cmu.edu/asset_files/TechnicalNote/2009_004_001_15089.pdf
