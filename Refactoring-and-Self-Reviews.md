@@ -19,3 +19,9 @@ Limit code to declarative and interrogative array methods:
  * some
  * indexOf
  * every
+
+## References
+
+* https://github.com/facebook/jest/pull/3668
+
+* https://github.com/facebook/jest/issues/4362
