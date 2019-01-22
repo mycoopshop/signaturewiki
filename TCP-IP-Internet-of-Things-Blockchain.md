@@ -18,8 +18,8 @@
 * https://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/
 * https://www.codeproject.com/Articles/1195419/Reverse-tunneling-port-forwarding-with-Node-js
 
-* Implementations
-
+## Implementations
+* https://w3c.github.io/wot-security/
 * https://support.microsoft.com/en-us/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip
 
 ## Blockchain
