@@ -33,3 +33,4 @@ http://mpe.dimacs.rutgers.edu/2013/03/17/chaos-in-an-atmosphere-hanging-on-a-wal
 https://curiosity.com/topics/the-butterfly-effect-is-why-its-impossible-to-predict-the-weather-curiosity/
 https://history.aip.org/climate/chaos.htm
 https://www.popsci.com/is-climate-too-complex-to-model-or-predict
+http://www.marcandangel.com/2014/01/29/10-painfully-obvious-truths-everyone-forgets-too-soon/
