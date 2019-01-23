@@ -26,6 +26,10 @@ Copy/Paste
 ### Screen Capture
 1. screentogif
 
+### CSV to Tab / Tab to CSV
+1. https://www.w3.org/TR/tabular-data-model/
+1. http://code.activestate.com/recipes/579091-csv-to-flat-file-converter/
+
 ### QR Code
 1. QR Code Creator: https://createqrcode.appspot.com/
 1. QR Code Generator: http://atomurl.net/qrcode/
