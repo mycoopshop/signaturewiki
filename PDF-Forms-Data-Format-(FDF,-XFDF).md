@@ -1,5 +1,6 @@
 * https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
-* https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
+* https://wiki.scribus.net/canvas/Adding_Hyperlinks_to_your_Scribus_PDF_document
+* https://training.fema.gov/devres/docs/508/pdf%20authoring%20document.pdf
 * https://developer.salesforce.com/page/Adobe_XFDF
 * https://developer.salesforce.com/page/Adobe_XFDF_Ids_Determination
 * https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/manipulating-pdf-forms-in-coldfusion/populating-a-pdf-form-with-xml-data.html
