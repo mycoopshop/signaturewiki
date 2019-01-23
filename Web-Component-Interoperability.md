@@ -124,3 +124,10 @@ Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs
 * https://docs.sencha.com/extjs/6.5.3/modern/Ext.field.Search.html
 * https://slonoed.net/react-animation-done-right
 * https://stackoverflow.com/questions/51223592/triggering-imperative-animations-using-react-refs
+https://vuejsdevelopers.com/2017/04/22/vue-js-libraries-plugins/
+https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxies/
+https://dev.to/solkimicreb/the-ideas-behind-react-easy-state-utilizing-es6-proxies-1dc7
+https://medium.com/intrinsic/proxies-and-reflection-in-javascript-334412028f69
+https://reactjsnews.com/proxies-with-redux-types
+https://github.com/tshaddix/react-chrome-redux/wiki/Advanced-Usage
+https://redux.js.org/introduction/ecosystem
