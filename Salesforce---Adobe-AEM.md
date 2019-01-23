@@ -38,9 +38,15 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041d5xQAA
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M000002pDI8QAM
 
+## DTD
+* https://github.com/salesforce/grammaticus/wiki/Entity-Definition
+* https://www.forcetalks.com/blog/automate-salesforce-data-import-export-using-data-loader-cli
 
 ## Admin
 * https://admin.salesforce.com/posts
+* https://admin.salesforce.com/lightning-champions
+* https://developer.salesforce.com/blogs/developer-relations/2013/07/five-essentials-for-new-salesforce-platform-developers.html
+* https://success.salesforce.com/featuredGroupDetail?id=a1z3A000007SBrQQAW#a0L3000000RuJKwEAN 
 * https://developer.salesforce.com/events/webinars/
 * https://help.salesforce.com/articleView?id=000214805&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=lex_find_your_way_around_setup.htm&type=5
