@@ -40,6 +40,7 @@ url:servlet ext:pdf site:salesforce.com
 
 ## DTD
 * https://github.com/salesforce/grammaticus/wiki/Entity-Definition
+* https://resources.docs.salesforce.com/186/latest/en-us/sfdc/pdf/salesforce_winter14_release_notes.pdf
 * https://www.forcetalks.com/blog/automate-salesforce-data-import-export-using-data-loader-cli
 
 ## Admin
