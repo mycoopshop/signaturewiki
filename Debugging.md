@@ -31,3 +31,9 @@ Set breakpoints on all:
 * https://zetafleet.com/blog/2010/06/improve-javascript-error-reporting-with-tracekit.html
 * https://webpack.js.org/contribute/debugging/
 * http://erikaybar.name/webpack-source-maps-in-chrome/
+* https://www.reddit.com/r/javascript/comments/9u4kis/basics_how_to_stop_using_consolelog_and_start/
+* https://nodejs.org/api/events.html#events_error_events
+* https://stackoverflow.com/questions/5178869/listen-to-all-emitted-events-in-node-js
+* https://strongloop.com/strongblog/comparing-node-js-promises-trycatch-zone-js-angular/
+* https://nodejs.org/en/docs/guides/debugging-getting-started/
+* https://github.com/forcedotcom/LightningTestingService/blob/master/lightning-component-tests/test/default/staticresources/lts_mochaJs.resource
