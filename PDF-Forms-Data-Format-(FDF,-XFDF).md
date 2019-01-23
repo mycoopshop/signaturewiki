@@ -1,0 +1,9 @@
+* https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
+* https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
+* https://developer.salesforce.com/page/Adobe_XFDF
+* https://developer.salesforce.com/page/Adobe_XFDF_Ids_Determination
+* https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/manipulating-pdf-forms-in-coldfusion/populating-a-pdf-form-with-xml-data.html
+* https://helpx.adobe.com/pdf/aem-forms/6-3/ddxRef.pdf
+* https://helpx.adobe.com/acrobat/kb/acrobat-forms-form-data-web.html
+* https://www.adobe.com/devnet/acrobat/security.html
+* https://www.dst.defence.gov.au/sites/default/files/publications/documents/DSTO-TR-2730.pdf
