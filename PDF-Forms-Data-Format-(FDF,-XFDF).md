@@ -1,3 +1,4 @@
+* https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf
 * https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
 * https://wiki.scribus.net/canvas/Adding_Hyperlinks_to_your_Scribus_PDF_document
 * https://training.fema.gov/devres/docs/508/pdf%20authoring%20document.pdf
