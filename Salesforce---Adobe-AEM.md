@@ -1358,6 +1358,7 @@ Format:2xx0xx000
 * https://resources.docs.salesforce.com/sfdc/pdf/integration_patterns_and_practices.pdf
 * https://help.salesforce.com/articleView?id=integrate_what_is_api.htm&type=5
 * https://community.boomi.com/s/article/Salesforce-Integration-Guide
+* https://theblog.adobe.com/data-mapping-and-merge-mapping-in-salesforce/
 * https://www.salesforce.com/products/einstein-analytics/etl-partners/
 * https://www.salesforce.com/blog/2018/11/21-salesforce-customers-review-integration-apps
 * https://help.salesforce.com/articleView?id=mc_mdc_2014_winter_release.htm&type=5
