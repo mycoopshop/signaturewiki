@@ -141,8 +141,10 @@
 * http://www.salesforce.org/highered/advancement-software/
 * http://www.salesforce.org/highered/recruiting/
 
-# Elementary Bias
+# Humanity Bias
 * https://www.naviance.com/solutions/middle-schools
+* https://www.fremontbank.com/about/core-standards
+* https://www.fremontbank.com/about/community-relations/fremont-bank-foundation/funding-focus
 
 # Historical Bias
 * https://scholar.lib.vt.edu/ejournals/JOTS/v30/v30n4/pdf/johnson.pdf
