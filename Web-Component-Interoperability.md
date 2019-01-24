@@ -131,3 +131,19 @@ https://medium.com/intrinsic/proxies-and-reflection-in-javascript-334412028f69
 https://reactjsnews.com/proxies-with-redux-types
 https://github.com/tshaddix/react-chrome-redux/wiki/Advanced-Usage
 https://redux.js.org/introduction/ecosystem
+
+## Examples
+* https://www.sitepen.com/blog/web-components-in-2018/
+* https://www.npmjs.com/package/component-literal
+* https://code.haxe.org/category/beginner/strings.html
+* https://medium.com/@aravishack/es6-features-a-walk-through-1ffd8eb82f6
+* https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
+* https://ayushgp.github.io/html-web-components-using-vanilla-js-part-3/
+* https://ayushgp.github.io/html-web-components-using-vanilla-js/
+* https://www.balisage.net/Proceedings/vol13/html/Milowski01/BalisageVol13-Milowski01.html
+* https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/
+* https://dev.to/ben/why-the-react-community-is-missing-the-point-about-web-components-1ic3
+* https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots
+* https://medium.com/@wilsotobianco/es6-template-literal-use-cases-e20458992fe
+* https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4
+* https://github.com/Microsoft/vscode/issues/51171
