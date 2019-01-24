@@ -21,6 +21,9 @@
 **References**
 1. https://www.soundclick.com/docs/WhatIsSc.cfm
 1. http://hiphopspeakeasy.com/2017/02/alternatives-soundcloud-ultimate-guide/
+1. https://www.complex.com/music/2015/07/no-id-interview-vince-staples-logic
+1. https://medium.com/@bradcallas/power-ranking-hip-hops-defining-generations-59fd6739caab
+1. https://www.earhustlesq.com/
 1. https://medium.com/feed/@wilsotobianco/
 1. https://www.youtube.com/watch?v=vz98QAkmFjo
 1. https://www.nytimes.com/2015/07/12/arts/music/vince-staples-and-j-cole-outsiders-in-the-middle-of-hip-hop.html
