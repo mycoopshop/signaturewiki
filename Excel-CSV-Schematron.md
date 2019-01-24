@@ -15,3 +15,7 @@
 * https://www.w3.org/wiki/Co-occurrence_constraints
 * https://docstore.mik.ua/orelly/xml/schema/ch09_04.htm
 * https://www.xml.com/articles/2017/04/29/epischemas/
+* http://www.informit.com/articles/article.aspx?p=24032&seqNum=8
+* http://xmlbench.sourceforge.net/
+* https://www.spec.org/cpu2017/Docs/benchmarks/523.xalancbmk_r.html
+* https://xml.apache.org/xalan-j/overview.html
