@@ -135,6 +135,8 @@ https://redux.js.org/introduction/ecosystem
 ## Examples
 * https://www.sitepen.com/blog/web-components-in-2018/
 * https://www.npmjs.com/package/component-literal
+* https://stackoverflow.com/questions/41408477/nested-element-web-component-cant-get-its-template
+* https://codepen.io/trentmwillis/pen/NaBYWN/
 * https://code.haxe.org/category/beginner/strings.html
 * https://medium.com/@aravishack/es6-features-a-walk-through-1ffd8eb82f6
 * https://medium.com/content-uneditable/implementing-single-file-web-components-22adeaa0cd17
