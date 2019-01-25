@@ -79,6 +79,9 @@ Perl Jenkins Redis
 
 **Containers**
 * https://sqlsailor.com/
+* https://www.shiphp.com/blog/2018/php-sqlite-docker
+* https://devopsheaven.com/sqlite/backup/restore/dump/databases/docker/2017/10/10/sqlite-backup-restore-docker.html
+* https://docs.docker.com/samples/library/httpd/
 * https://www.infoworld.com/article/3234531/application-testing/testing-with-the-inmemory-provider-in-entity-framework-core.html
 * https://dzone.com/articles/creating-a-docker-container-host-on-windows-nano-s
 * https://mscloudinfo.files.wordpress.com/2017/07/windows_server_containers_101_poster.pdf
