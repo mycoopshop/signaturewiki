@@ -12,6 +12,7 @@
 
 ## Idioms and Gotchas
 * https://itnext.io/a-pragmatic-overview-of-async-hooks-api-in-node-js-e514b31460e9
+* https://medium.com/@ian.mundy/async-event-handlers-in-react-a1590ed24399
 * https://github.com/facebook/react/issues/11508
 * https://github.com/facebook/react/issues/1159
 * https://github.com/facebook/react/issues/11911
