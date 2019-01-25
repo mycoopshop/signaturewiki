@@ -24,6 +24,7 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 
 ## Cheatsheets
 1. https://github.com/sapegin/jest-cheat-sheet
+1. https://medium.com/@paulanthonysalvatore/jest-my-summer-approaching-various-problems-with-jest-enzyme-fc1ad992aece
 1. https://engineering.classdojo.com/blog/2017/01/12/integration-testing-react-redux/
 1. https://github.com/airbnb/enzyme/blob/master/docs/guides/jsdom.md
 1. https://stackoverflow.com/questions/25472665/watch-and-rerun-jest-js-tests
