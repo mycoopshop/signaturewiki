@@ -2,6 +2,11 @@
 browser.newtabpage.enabled - false
 
 
+## Firefox Extensions
+https://medium.muz.li/things-designers-should-know-about-seo-7f228998e539
+
+https://medium.com/@zorzini/mozillas-light-weight-web-design-tools-5cc983f715c3
+
 ## Mozilla APIs
 https://wiki.mozilla.org/Firefox/Activity_Stream
 
