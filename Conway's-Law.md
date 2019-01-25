@@ -8,7 +8,8 @@ Test          Test the program and fix and log all defects found
 Postmortem    Record actual time, defect, and size data on the plan
 </pre>
 
-2. Common Mistakes
+## Common Mistakes
+<blockquote>
 When working on a specification, there are common mistakes an editor can make when writing conformance requirements that makes them difficult, if not impossible, to test. For technical specifications, the testability of a conformance requirement is imperative: conformance requirements eventually become the test cases that implementations rely on to claim conformance to a specification. If no implementation can claim conformance, or if aspects of the specification are not testable, then the probability of a specification becoming a ratified standard, and, more importantly, achieving interoperability among implementations, is significantly reduced.
 
 The most common mistakes that editors make when writing conformance requirements include, but are not limited to:
@@ -18,7 +19,9 @@ Creating conformance requirements for products that don’t have behavior, e.g. 
 Using a passive voice for describing the behavior, e.g. “an invalid XML file must be ignored” — this hides what product is supposed to follow the prescribed behavior.
 
 Using under-defined behaviors, e.g. “a user agent must reject malformed XML” without defining the algorithmic process that is to “reject” something — this makes it impossible to define the outcome of the testable assertion.
+</blockquote>
 
+## References
 * https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13751.pdf
 * http://wiki.c2.com/?PersonalSoftwareProcess
 * https://www.slideshare.net/GurbakashPhonsa/software-quality-isocmmpsp
