@@ -1,3 +1,5 @@
+title:firefox title:chrome +webextension site:github.com -title:issue
+
 ## Feeds
 * Mercury Reader
 
