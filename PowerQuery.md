@@ -1,3 +1,4 @@
+* https://www.itprotoday.com/office-365/using-power-query-office-365-power-bi-creating-sharing-and-managing-queries
 * https://blog.crossjoin.co.uk/2016/12/05/power-query-power-bi-and-the-allow-data-preview-to-download-in-the-background-option/
 * https://www.sqlbi.com/books/analyzing-data-with-microsoft-power-bi-and-power-pivot-for-excel/
 * https://www.npmjs.com/package/powerbi-client
