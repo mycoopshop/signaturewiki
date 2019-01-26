@@ -490,7 +490,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://salesforce.stackexchange.com/questions/159866/any-way-to-include-keyframes-in-lightning-component-css-file
 * https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/quickstart_oauth.htm
 * https://help.salesforce.com/articleView?id=remoteaccess_oauth_SAML_bearer_flow.htm&type=0
-* https://developer.salesforce.com/page/Inside_OpenID_Connect_on_Force.com
+* https://help.salesforce.com/articleView?id=remoteaccess_using_userinfo_endpoint.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2014/01/python-and-the-force-com-rest-api-simple-simple-salesforce-example.html
 * http://peterknolle.com/file-upload-lightning-component/
 * https://developer.salesforce.com/blogs/developer-relations/2017/05/build-lightning-file-uploader-component.html
@@ -650,6 +650,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/pardot_get_start.pdf
 * https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/pardot_salesforce_engage_implementation_guide.pdf
+* https://help.salesforce.com/articleView?id=000264418&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000271319&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=000269324&type=1&language=en_US
 * https://help.salesforce.com/articleView?id=pardot_connectors_site_search_third_party_add.htm&type=5
@@ -939,6 +940,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/extend_code.pdf
 * https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5
 * https://help.salesforce.com/articleView?id=pages_browser_security_settings.htm&type=0
+* https://help.salesforce.com/articleView?id=configuring_remoteproxy.htm&type=5
 * https://developer.salesforce.com/page/Secure_Coding_Secure_Communications
 * https://www.commerceworks.net/blog/salesforce-enterprise-professional-editions
 * https://salesforce.stackexchange.com/questions/51622/how-does-one-test-visualforce-components-with-custom-controllers
