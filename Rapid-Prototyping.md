@@ -277,20 +277,26 @@ Build instance
 Start server
 [edit]Setup session
 
+## Putty Flow
 Find an account
 Login
-update svn
-deploy new code
-restart server
-find a bug
 restart putty and rebuild last night's checkins
-[edit]Update JIRA
+fork your local branch to match the user story 
+change a line of code
+save the new code
+refresh the page
+find a bug
+write a test
+checkin tests and code
+Update the user story
 
+## Story Flow
 Find stories assigned to you
-Related stories assigned to others
-Comments on related stories
-[edit]Update QC
+Link related stories assigned to others
+Comment on related stories
+Update the status of stories in progress
 
+## Defect Flow
 Check email for reopened defects
 Find QC client on desktop
 Open QC and search for the defect ID from the email
