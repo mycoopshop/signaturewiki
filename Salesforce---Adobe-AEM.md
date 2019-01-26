@@ -21,6 +21,7 @@ Excellent verbal and written communication skills
 ## Architecture
 url:servlet ext:pdf site:salesforce.com
 * https://www.sundoginteractive.com/blog/salesforces-apex-runtime-design
+* https://engineering.salesforce.com/meet-the-all-stars-alex-dimitropoulos-2cfea6b73abb
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_apex_inherited_sharing.htm
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=0
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
@@ -92,6 +93,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=000193434&language=en_US&type=1
 
 ## Metadata Enumeration/Serialization
+* https://engineering.salesforce.com/metadata-software-the-way-you-want-it-2367b179558d
 * https://help.salesforce.com/articleView?id=000273888&type=1&language=en_US
 * https://medium.com/inside-the-salesforce-ecosystem/forbidden-secrets-of-the-metadata-api-c38208e9a818
 * http://sfdcsrini.blogspot.com/2014/11/dynamic-apex-in-salesforce.html
@@ -280,6 +282,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
+* https://help.salesforce.com/articleView?id=000006731&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=mc_overview_content_and_email_creation_tools.htm&type=5
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_HTMLtemplates_cheatsheet.pdf
 * https://help.salesforce.com/articleView?id=email_logs_format.htm&type=5
@@ -1083,6 +1086,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Lightning_Security
 * http://www.dannicholson.co.uk/2018/06/working-with-conditional-attribute.html
 
+## Lightning Web Components
+* https://developer.salesforce.com/blogs/tag/lightning-web-components
+
 ## Background Utilities
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_console_background_utility_items.htm
 * https://www.salesforce.com/blog/2018/04/introducing-proactive-monitoring.html
@@ -1115,6 +1121,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Formula Fields
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_useful_formula_fields.pdf
 * https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_formula_size_tipsheet.pdf
+* https://help.salesforce.com/articleView?id=useful_advanced_formulas_commission.htm&type=5
 * https://help.salesforce.com/articleView?id=merge_fields_syntax.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/cross-object-owner-fields-a-powerful-new-formula-option.html
 * https://developer.salesforce.com/blogs/engineering/2013/05/dealing-with-exception-filters-in-force-com.html
