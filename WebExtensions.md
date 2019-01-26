@@ -7,8 +7,8 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 * Image to PDF
 
 # Archives
-* Page Cache Archiver
-* SingleFile
+* Page Cache Archiver: https://addons.mozilla.org/en-US/firefox/addon/archiver-menu/
+* SingleFile: https://addons.mozilla.org/en-US/firefox/addon/single-file/
 
 ## Accessibility
 * Chrome Accessibility Developer Tools: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en
