@@ -26,6 +26,8 @@ https://thebusinessjournal.com/news/technology/
 
 http://centralcalifornia.org/2018/01/
 
+http://www.igateihub.org/startuptrivalley/
+
 https://www.valleyworx.com/
 
 http://www.racecounts.org/county/alameda/
