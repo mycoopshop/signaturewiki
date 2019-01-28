@@ -1,5 +1,9 @@
 +metacritic +android site:en.wikipedia.org +ios -film -office -playstation -ds -psp -vita -3ds -xbox -windows -dreamcast
 
+https://techcrunch.com/2016/03/05/mit-spin-out-thunkable-hopes-its-drag-and-drop-app-builder-can-be-a-money-spinner-too/
+
+https://www.edsurge.com/news/2018-06-05-thunkable-launches-cross-platform-app-maker-that-lets-kids-drag-drop-and-build
+
 https://www.wikihow.tech/Use-Google-Translate-Android-App-As-OCR
 
 http://appinventor.mit.edu/explore/ai2/setup.html
