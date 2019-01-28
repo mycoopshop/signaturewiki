@@ -1,5 +1,9 @@
 +metacritic +android site:en.wikipedia.org +ios -film -office -playstation -ds -psp -vita -3ds -xbox -windows -dreamcast
 
+https://www.quora.com/How-can-I-easily-create-an-Android-app-for-free-without-coding-and-Java-skills
+
+https://gurubox.org/2018/10/29/how-can-i-create-a-free-android-apps-without-coding-skills/
+
 https://techcrunch.com/2016/03/05/mit-spin-out-thunkable-hopes-its-drag-and-drop-app-builder-can-be-a-money-spinner-too/
 
 https://www.edsurge.com/news/2018-06-05-thunkable-launches-cross-platform-app-maker-that-lets-kids-drag-drop-and-build
