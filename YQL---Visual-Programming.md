@@ -1,3 +1,7 @@
+* https://en.wikipedia.org/wiki/WebMethods_Flow
+* https://en.wikipedia.org/wiki/GNU_Radio
+* https://en.wikipedia.org/wiki/OpenMusic
+* https://en.wikipedia.org/wiki/Morphic_(software)
 * http://docs.vespa.ai/documentation/query-language.html
 * https://medium.com/@black_duck_sw/power-shell-to-the-people-43ad589f0700
 * https://medium.com/@KyraTaylor/this-developer-wants-to-open-source-stock-charts-3d51b8f47554
