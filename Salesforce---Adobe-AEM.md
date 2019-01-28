@@ -653,6 +653,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
+* https://help.salesforce.com/articleView?id=pardot_landing_pages_multivariate.htm&type=5
 * http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/pardot_get_start.pdf
 * https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/pardot_salesforce_engage_implementation_guide.pdf
@@ -1408,6 +1409,7 @@ Format:2xx0xx000
 
 ## Configuration
 * https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000232553&type=1
 * https://help.salesforce.com/articleView?id=search_enhanced_lookup_enable.htm&type=5
 * https://help.salesforce.com/articleView?id=customize_search_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=000007225&type=1
