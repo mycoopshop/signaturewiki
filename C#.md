@@ -1,3 +1,9 @@
+https://www.npmjs.com/package/raz
+
+https://www.npmjs.com/package/manipula
+
+https://www.npmjs.com/package/linq-es2015
+
 https://docs.microsoft.com/en-us/windows/deployment/planning/compatibility-fixes-for-windows-8-windows-7-and-windows-vista
 
 https://cloudblogs.microsoft.com/microsoftsecure/2017/06/27/new-ransomware-old-techniques-petya-adds-worm-capabilities/
