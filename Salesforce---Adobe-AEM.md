@@ -718,6 +718,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://medium.com/slalom-technology/ant-vs-salesforce-dx-a-completed-guide-to-automated-deployments-using-salesforce-cli-ce2b1e2ff770
 
 ## Heroku Connect
+* https://www.salesforce.com/blog/2018/08/heroku-certifications-customer-data-security
 * https://developer.salesforce.com/dreamhouse/pio/
 * https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
 * https://devcenter.heroku.com/articles/heroku-connect-logs-errors
