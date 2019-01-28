@@ -731,6 +731,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
 
+## Platform Events
+* https://developer.salesforce.com/blogs/developer-relations/2017/05/first-impressions-platform-events-salesforce-enterprise-messaging-platform.html
+* https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-sample-app-part-2-salesforce-node-js-integration-platform-events.html
+
 ## External Services (Swagger/RAML)
 * https://help.salesforce.com/articleView?id=external_services.htm&type=5
 * https://help.salesforce.com/articleView?id=external_services_schema.htm&type=5
@@ -1228,7 +1233,6 @@ Format:2xx0xx000
 * https://developer.salesforce.com/docs/atlas.en-us.chatterapi.meta/chatterapi/connect_resources_topics_list.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter15/release-notes/rn_chatter_api_general.htm
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/js_api_calls_platform.htm
-* https://developer.salesforce.com/blogs/2017/11/pure-aloe-sample-app-part-2-integration-platform-events.html
 * https://developer.salesforce.com/blogs/developer-relations/2014/07/building-single-page-app-angularjs-salesforce-rest-api.html
 * https://developer.salesforce.com/page/Integrating_an_AngularJS_App_on_Heroku_with_Force.com
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/creating-hybrid-apps-with-the-salesforce-mobile-pack-for-backbone-js.html
@@ -1250,9 +1254,14 @@ Format:2xx0xx000
 ## Porting
 * https://developer.salesforce.com/page/Apex_Data_Loader
 
-## Webhooks
+## Slack
+* https://developer.salesforce.com/dreamhouse/slack/
 * https://get.slack.help/hc/en-us/articles/227838227-Salesforce-for-Slack
 * https://developer.salesforce.com/blogs/developer-relations/2016/05/slack-salesforce-integration.html
+
+## Webhooks
+* https://help.salesforce.com/articleView?id=iot_set_up_prereqs_marketing_cloud.htm&type=5
+* https://developer.salesforce.com/blogs/2018/03/integrating-hangouts-chat-salesforce.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/02/quick-tip-public-restful-web-services-on-force-com-sites.html
 * https://devcenter.heroku.com/articles/app-webhooks-schema
 
@@ -1691,7 +1700,6 @@ Format:2xx0xx000
 ## NPM
 * https://engineering.salesforce.com/open-sourcing-design-system-react-9be45b8bb127?gi=ea5741f2ccb
 * https://engineering.salesforce.com/open-sourcing-violet-a-voice-application-framework-744f7c660655
-* https://developer.salesforce.com/blogs/developer-relations/2017/07/northern-trail-sample-app-part-2-salesforce-node-js-integration-platform-events.html
 * https://developer.salesforce.com/blogs/2018/05/using-salesforce-cli-with-windows-subsystem-for-linux-in-10-easy-steps.html
 
 # Trailhead
