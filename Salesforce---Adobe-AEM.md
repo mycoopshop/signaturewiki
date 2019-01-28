@@ -644,6 +644,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2014/07/3-steps-to-turn-your-faqs-into-valuable-knowledge-base-articles.html
 
 ## Community
+* https://help.salesforce.com/articleView?id=external_identity_login_discovery_create_config_self.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/blogs/2018/06/integrate-external-content-into-communities-using-cms-connect-json.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
@@ -1411,6 +1412,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=customize_search_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=000007225&type=1
 * https://help.salesforce.com/articleView?id=users_licenses_overview.htm&type=5
+* https://help.salesforce.com/articleView?id=security_activation_about.htm&type=5
 * https://help.salesforce.com/articleView?id=admin_sessions.htm&type=5
 * https://developer.salesforce.com/page/Force.com_workbook
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/setup.pdf
