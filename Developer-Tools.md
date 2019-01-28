@@ -66,6 +66,8 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 
 ### Browser Development
 1. https://developers.google.com/web/tools/chrome-devtools/network-performance/reference
+1. https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage#clear-storage
+1. https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/
 1. https://developers.google.com/web/updates/2016/12/position-sticky
 1. https://developers.google.com/web/shows/rss.xml
 1. https://chromedevtools.github.io/devtools-protocol/
