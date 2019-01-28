@@ -4,6 +4,12 @@ https://www.dailymail.co.uk/home/rssMenu.html
 
 https://newsroom.courts.ca.gov/rss
 
+## Libraries
+
+https://www.npmjs.com/package/xth
+
+https://www.npmjs.com/package/xml-renderer
+
 ## Bookmarks
 * http://rssfeeds.packersnews.com/packersnews/home&x=1
 * https://www.mysportsfeeds.com/data-feeds/
