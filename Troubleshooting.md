@@ -1,3 +1,18 @@
+## Cookies
+
+* Use incognito mode instead of normal mode
+* Use [clear storage](https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage#clear-storage) in Application tab of the Chrome Devtools 
+* Check the console for errors
+
+## Expected Syntax
+
+* Use syntax highlighting
+
+* Comment out the block above the error
+
+* Replace anonymous functions with named functions
+
+## References
 https://stackoverflow.com/questions/14495040/tomcat-server-fails-to-start-the-server-and-application-in-sts
 
 https://docs.oracle.com/javase/tutorial/reflect/member/methodTrouble.html
