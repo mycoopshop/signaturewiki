@@ -4,6 +4,26 @@
 * https://www.cjr.org/tow_center_reports/guide_to_automated_journalism.php/
 * https://www.salesforce.com/blog/2016/09/artificial-intelligence-helps-small-businesses.html
 
+## Finite State Machine
+* https://borjaballe.github.io/other/phdthesis.pdf
+* https://dzone.com/articles/neural-networks-and-automata-theory
+* https://www.quora.com/Arent-Neural-Networks-just-State-Machines
+* https://papers.nips.cc/paper/757-fools-gold-extracting-finite-state-machines-from-recurrent-network-dynamics.pdf
+
+## Relational Data
+* https://machinelearningmastery.com/large-data-files-machine-learning/
+* https://towardsdatascience.com/why-does-ai-ml-considering-the-examples-of-chatbots-creation-20b1906274f8
+
+## Semantic Data
+* https://www.kdnuggets.com/2015/05/webdatacommons-data-web-scale-mining.html
+* https://lemire.me/blog/2014/12/02/when-bad-ideas-will-not-die-from-classical-ai-to-linked-data/
+
+## Recognition
+* https://gdpr.report/news/2017/08/23/deep-learning-not-ai-future/
+* https://rationalwiki.org/wiki/Machine_learning
+* https://www.oreilly.com/library/view/natural-language-annotation/9781449332693/ch04.html
+* https://www.quora.com/How-do-I-design-a-system-to-query-the-database-based-on-natural-language-input
+
 ## Prediction
 * https://dalibornasevic.com/posts/61-intro-to-machine-learning-in-ruby
 * http://blogs.perl.org/users/sergey_kolychev/2017/02/machine-learning-in-perl.html
