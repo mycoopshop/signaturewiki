@@ -116,6 +116,7 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 **References**
 
 * [Manifest File Format - Google Chrome](https://developer.chrome.com/extensions/manifest)
+* [chrome.storage - Google Chrome](https://developer.chrome.com/extensions/storage)
 * [Tutorial: Migrate to Manifest V2 - Google Chrome](https://developer.chrome.com/extensions/tut_migration_to_manifest_v2)
 * [chrome.declarativeWebRequest - Google Chrome](https://developer.chrome.com/extensions/declarativeWebRequest)
 * [Sample Extensions - Google Chrome](https://developer.chrome.com/extensions/samples#search:)
