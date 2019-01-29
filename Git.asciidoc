@@ -193,6 +193,33 @@ login myusername
 password mypassword
     
 
+## History
+
+https://www.theregister.co.uk/2005/04/14/torvalds_attacks_tridgell/
+
+https://www.aosabook.org/en/git.html
+
+https://spderosso.github.io/onward13.pdf
+
+https://news.slashdot.org/story/16/05/10/1840255/11-years-after-git-bitkeeper-is-open-sourced
+
+## Migration
+
+https://www.rath.org/why-you-should-give-mercurial-a-shot.html
+
+https://www.tshooter.com.br/en/2016/03/07/eight-reasons-to-prefer-git-to-invs-tfvc/
+
+https://lwn.net/Articles/574079/
+
+https://tech.blog.aknin.name/2010/05/14/switching-to-mercurial-taming-zsh/
+
+https://wilsonmar.github.io/tfs-vs-github/
+
+https://blogs.microsoft.co.il/leonj/2017/06/05/avoid-excessive-database-growth-for-git-tfs-users/
+
+https://thenewstack.io/microsoft-forged-scalable-git/
+
+http://help.manuscript.com/7984/mercurial-branches-versus-kiln-branches
 
 ## References
 https://www.linux.org/docs/man7/gitrevisions.html
