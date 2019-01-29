@@ -343,6 +343,11 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://help.salesforce.com/articleView?id=security_test_email_delivery.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_es_email_deliverability_in_china.htm&type=5
 
+## Attachments
+* https://help.salesforce.com/articleView?id=quotes_create_pdf_selected_template.htm&type=5
+* https://help.salesforce.com/articleView?id=quotes_limitations.htm&type=5
+* https://help.salesforce.com/articleView?id=quotes_create_pdf_selected_template.htm&type=5
+
 ## Feeds
 * https://success.salesforce.com/Answer_rss
 * https://appexchange.salesforce.com/services/xml/NewListings
