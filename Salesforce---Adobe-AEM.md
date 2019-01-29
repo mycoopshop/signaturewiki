@@ -267,7 +267,9 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://developer.salesforce.com/forums/?id=906F0000000BWZ0IAO
 
 ## Certification
- https://www.oreilly.com/library/view/salesforce-platform-app/9781785283697/
+* http://certification.salesforce.com/sitemap
+* https://www.oreilly.com/library/view/salesforce-platform-app/9781785283697/
+* http://certification.salesforce.com/OnlineProctoringGuide-WindowsOperatingSystem.pdf
 * http://certification.salesforce.com/OnlineProctoringGuide-MacintoshOperatingSystem.pdf
 * https://www.salesforce.com/dreamforce/certification/
 * http://certification.salesforce.com/certification-detail-print?conId=003G0000017EBHmIAO
@@ -652,6 +654,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/products/community-cloud/features/templates/
 
 ## Pardot
+* http://certification.salesforce.com/pardotoverview
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_landing_pages_multivariate.htm&type=5
 * http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
