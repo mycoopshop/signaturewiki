@@ -12,4 +12,6 @@
 
 * https://github.com/hhvm/xhp-lib
 
+* https://msdn.microsoft.com/en-us/library/windows/desktop/bb762494(v=vs.85).aspx
+
 * https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/utils/package.html
