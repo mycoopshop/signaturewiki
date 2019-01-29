@@ -181,6 +181,12 @@
 * https://fayettevillenc.gov/home/showdocument?id=7761
 * https://www.census.gov/history/pdf/2007econhistory.pdf
 
+# Volunteer Bias
+* https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Steven_Pruitt
+* https://en.wikipedia.org/wiki/User:Ser_Amantio_di_Nicolao
+* https://en.wikipedia.org/wiki/User:Ser_Amantio_di_Nicolao/sandbox
+* https://everipedia.org/wiki/lang_en/steven-pruitt/
+
 # Free Bias
 * https://en.wikipedia.org/wiki/Moka_exchange
 * https://en.wikipedia.org/wiki/Postcardware
