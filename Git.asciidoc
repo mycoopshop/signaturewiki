@@ -205,6 +205,8 @@ https://news.slashdot.org/story/16/05/10/1840255/11-years-after-git-bitkeeper-is
 
 ## Migration
 
+http://wiki.c2.com/?MercurialVersionControl
+
 https://www.rath.org/why-you-should-give-mercurial-a-shot.html
 
 https://www.tshooter.com.br/en/2016/03/07/eight-reasons-to-prefer-git-to-invs-tfvc/
