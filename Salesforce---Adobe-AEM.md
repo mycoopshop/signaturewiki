@@ -1097,6 +1097,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * http://www.dannicholson.co.uk/2018/06/working-with-conditional-attribute.html
 
 ## Lightning Web Components
+* https://developer.salesforce.com/docs/component-library/bundle/lightning-spinner/example
 * https://developer.salesforce.com/blogs/tag/lightning-web-components
 
 ## Background Utilities
