@@ -27,3 +27,8 @@
 * https://www.laserfiche.com/support/webhelp/Laserfiche/10/en-us/administration/Default.htm#../Subsystems/LFAdmin/Content/WebDAV_Configuration.htm
 * https://docs.vmware.com/en/VMware-AirWatch/9.3/AirWatch%20Content%20Gateway%20Guide%20for%20Windows%20v9_3.pdf
 * https://docs.aws.amazon.com/storagegateway/latest/userguide/Requirements.html
+
+## Streams to File Redirection
+* https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-6
+* https://ss64.com/nt/syntax-redirection.html
+* https://ss64.com/bash/syntax-redirection.html
