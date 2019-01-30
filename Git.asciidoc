@@ -63,9 +63,13 @@ Push new changes to the repo:
 
     git push
 
-One file commit
+Diff current remote to an older branch:
+
+    git diff FETCH_HEAD...feature/MAS-2782 --diff-filter=A
+
+One file copy from one commit to the local branch:    
     
-    git checkout [commit hash] -- /foo/bar
+    git show [commit hash] -- /foo/bar/baz.js > /foo/bar/baz.js
 
 Remove a file
 
