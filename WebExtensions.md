@@ -42,7 +42,8 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 ## Screen Capture
 
 * https://addons.mozilla.org/en-US/firefox/addon/canvas-capture/?src=search
-* https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe
+* Chrome Capture (https://chrome.google.com/webstore/detail/chrome-capture/ggaabchcecdbomdcnbahdfddfikjmphe)
+* https://turbofuture.com/computers/Screencast-Chromebook
 
 # Image Editor
 
