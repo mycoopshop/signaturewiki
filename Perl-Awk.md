@@ -1,3 +1,6 @@
+## mkdir for each line of a README
+     mkdir $(awk '{print $1}' Hub/README.md)
+
 ## Glob/Map/Grep
 * http://blogs.perl.org/users/sid_burn/2014/03/the-mapgrepsort-dead-end-street.html
 * http://www.softpanorama.org/Scripting/Perlorama/Functions/grep_and_map.shtml
