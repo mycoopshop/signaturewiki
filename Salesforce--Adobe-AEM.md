@@ -92,6 +92,7 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 ## MIME Types (vCard, Calendar, Attachments)
 * https://help.salesforce.com/articleView?id=code_inbound_email.htm&type=5
 * https://help.salesforce.com/articleView?id=000193434&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=code_email_services.htm&type=5
 
 ## Metadata Enumeration/Serialization
 * https://engineering.salesforce.com/metadata-software-the-way-you-want-it-2367b179558d
@@ -283,6 +284,15 @@ https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-codi
 * https://www.linkedin.com/pulse/difference-between-salesforce-administrator-developer-jenny-bamber/
 * https://www.safaribooksonline.com/library/view/learning-salesforce-lightning/9781787124677/
 * https://help.salesforce.com/articleView?id=pardot_admin_ampsea_parent.htm&type=5
+
+## My Domain
+* https://help.salesforce.com/articleView?id=domain_mgmt_naked_domains.htm&type=5
+* https://help.salesforce.com/articleView?id=domain_mgmt_add.htm&type=5
+* https://help.salesforce.com/articleView?id=siteforce_publish_offline.htm&type=5
+* https://help.salesforce.com/articleView?id=000228631&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000230069&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=000230809&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=siteforce_domains_map.htm&type=5
 
 ## Email / SMS
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
@@ -628,9 +638,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=mc_bp_goal_and_exit_best_practices.htm&type=5
 * https://aws.amazon.com/partners/success/salesforce-case-study/
 
-## GDPR Compliance
+## GDPR Compliance / Deletion
 * https://help.salesforce.com/articleView?id=data_portability_platform.htm&type=5
 * https://www.salesforceben.com/problem-emails-salesforce/
+* https://help.salesforce.com/articleView?id=code_debug_log_delete.htm&type=5
+* https://help.salesforce.com/articleView?id=partners_del.htm&type=5
 
 ## Customer Support / Service Cloud
 * https://help.salesforce.com/articleView?id=000003910&type=1
@@ -660,6 +672,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * http://certification.salesforce.com/pardotoverview
+* https://help.salesforce.com/articleView?id=data_deletion_pardot.htm&type=0
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_landing_pages_multivariate.htm&type=5
 * http://knowledge.ondmarc.com/pardot/pardot-spf-and-dkim-set-up
@@ -728,6 +741,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/Syncing_Salesforce_Org_Metadata_to_Github
 * https://gearset.com/assets/version-control-for-salesforce-whitepaper.pdf
 * https://medium.com/slalom-technology/ant-vs-salesforce-dx-a-completed-guide-to-automated-deployments-using-salesforce-cli-ce2b1e2ff770
+
+## Heroku Postgres
+* https://devcenter.heroku.com/articles/heroku-postgres-import-export#export
+* https://devcenter.heroku.com/articles/heroku-postgres-backups
 
 ## Heroku Connect
 * https://www.salesforce.com/blog/2018/08/heroku-certifications-customer-data-security
@@ -943,6 +960,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## VisualForce
 * https://help.salesforce.com/articleView?id=000194152&type=1
+* https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/pages_html_features_tags_html5_relaxed_tidying.htm
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/lightning-components-visualforce-lightning.html
 * https://developer.salesforce.com/blogs/tech-pubs/2013/06/updating-visualforce-chart-data.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/01/javascript-html5-css-visualforce.html
@@ -968,6 +986,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Permissions
 * https://help.salesforce.com/articleView?id=000198725&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=admin_loginrestrict.htm&type=5
+* https://help.salesforce.com/articleView?id=jigsaw_int_jigsaw_understanding_search.htm&type=5
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_pagelayouts_cheatsheet.pdf
 * https://help.salesforce.com/articleView?id=security_controlling_access_using_hierarchies.htm&type=5
 * https://help.salesforce.com/articleView?id=security_sharing_considerations.htm&type=5
@@ -1278,6 +1298,7 @@ Format:2xx0xx000
 
 ## Einstein
 * https://einstein.ai/terms-of-service
+* https://help.salesforce.com/articleView?id=aac_data_policy_delete_activity.htm&type=5#aac_data_policy_delete_activity
 * https://www.salesforce.com/blog/2017/08/ai-for-marketers
 * https://rctom.hbs.org/submission/salesforce-is-stealing-einsteins-thunder/
 * https://tutorials.botsfloor.com/creating-a-simple-chatbot-in-salesforce-lightning-using-api-ai-in-less-than-60-mins-4dd79777b246
@@ -1418,6 +1439,7 @@ Format:2xx0xx000
 
 ## Configuration
 * https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=users_deactivate_external_option.htm&type=5
 * https://help.salesforce.com/articleView?id=000232553&type=1
 * https://help.salesforce.com/articleView?id=search_enhanced_lookup_enable.htm&type=5
 * https://help.salesforce.com/articleView?id=customize_search_settings.htm&type=5
@@ -1706,6 +1728,9 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=000025298&language=en_US&type=1
 
 ## Migration
+* https://help.salesforce.com/articleView?id=000176208&language=en_US&type=1
+* https://help.salesforce.com/articleView?id=lcc_javascript_buttons_scan.htm&type=5
+* https://help.salesforce.com/articleView?id=000230650&language=en_US&type=1
 * https://developer.salesforce.com/page/An_Introduction_to_Builder
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
