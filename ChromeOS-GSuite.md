@@ -1,10 +1,10 @@
 The Chromium developer how-tos and Group Policy presentations outline all of these:
 
- * [Chrome Group Policy](http://www.scribd.com/doc/163766676)
- * [Getting Around the Chromium Source Code Directory Structure](http://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code)
- * [Chrome Windows Build](https://chromium.googlesource.com/chromium/reference_builds/chrome_win/+/master)
- * [Troublesome DLLS](https://code.google.com/p/chromium/codesearch#chromium/src/content/common/sandbox_win.cc&q=ktroublesome&sq=package:chromium&type=cs&l=43)
- * [Inappropriate DLL load addresses](https://code.google.com/p/chromium/issues/detail?id=321626)
+* [Chrome Group Policy](http://www.scribd.com/doc/163766676)
+* [Getting Around the Chromium Source Code Directory Structure](http://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code)
+* [Chrome Windows Build](https://chromium.googlesource.com/chromium/reference_builds/chrome_win/+/master)
+* [Troublesome DLLS](https://code.google.com/p/chromium/codesearch#chromium/src/content/common/sandbox_win.cc&q=ktroublesome&sq=package:chromium&type=cs&l=43)
+* [Inappropriate DLL load addresses](https://code.google.com/p/chromium/issues/detail?id=321626)
 * https://www.chromium.org/chromium-os/developer-guide/using-sdk-standalone
 * https://www.chromium.org/chromium-os/developing-apps-on-your-chromium-os-device
 * https://support.google.com/chromebook/answer/183101?hl=en
@@ -62,6 +62,7 @@ https://www.upwork.com/o/jobs/browse/skill/chrome-extension/?client_hires=0
 
 ## References
 * https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
+* https://www.chromebeat.com/search
 * https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
 * https://www.chromium.org/developers/telemetry/running-telemetry-on-chrome-os
 * https://www.chromium.org/chromium-os/tips-and-tricks-for-chromium-os-developers
