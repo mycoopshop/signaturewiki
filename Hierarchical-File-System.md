@@ -32,3 +32,7 @@
 * https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-6
 * https://ss64.com/nt/syntax-redirection.html
 * https://ss64.com/bash/syntax-redirection.html
+
+## Sequential Execution
+* https://bashitout.com/2013/05/18/Ampersands-on-the-command-line.html
+* https://docstore.mik.ua/orelly/unix3/upt/ch28_17.htm
