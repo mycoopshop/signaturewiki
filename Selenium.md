@@ -1,4 +1,5 @@
 * https://wiki.saucelabs.com/display/DOCS/Annotating+Tests+with+Selenium%27s+JavaScript+Executor
+* https://marmelab.com/blog/2016/04/19/e2e-testing-with-node-and-es6.html
 * https://www.swtestacademy.com/xpath-selenium/
 * https://appiumpro.com/editions/20
 * https://blog.mozilla.org/fxtesteng/2013/09/26/writing-reliable-locators-for-selenium-and-webdriver-tests/
