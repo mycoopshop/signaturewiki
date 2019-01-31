@@ -1,5 +1,9 @@
 Delete between quotes: d/' + enter
+
+Delete all blank lines: g/^$/d
+
 Delete without copying: _d + d or the number of lines
+
 Delete the first character from diff formatted code: :1,$ s/^[+]//g
 
 ## References
