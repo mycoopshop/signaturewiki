@@ -1,6 +1,8 @@
 Delete between quotes: d/' + enter
 Delete without copying: _d + d or the number of lines
+Delete the first character from diff formatted code: :1,$ s/^[+]//g
 
+## References
 * https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
 * https://vimconfig.com/
 * http://blog.dreasgrech.com/2010/06/vims-black-hole-register.html
