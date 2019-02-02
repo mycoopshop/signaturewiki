@@ -81,6 +81,7 @@ url:servlet ext:pdf site:salesforce.com
 ## REPL
 https://help.salesforce.com/articleView?id=code_dev_console_checkpoints_overlaying_soql.htm&type=5
 https://trailhead.salesforce.com/en/content/learn/projects/quick-start-apex-coding-for-admins/instantiate-and-invoke
+https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 
 ## OAuth/SAML
 * https://help.salesforce.com/articleView?id=000221207&type=1
