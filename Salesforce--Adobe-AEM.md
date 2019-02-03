@@ -44,10 +44,24 @@ url:servlet ext:pdf site:salesforce.com
 * https://resources.docs.salesforce.com/186/latest/en-us/sfdc/pdf/salesforce_winter14_release_notes.pdf
 * https://www.forcetalks.com/blog/automate-salesforce-data-import-export-using-data-loader-cli
 
+## Document Library
+* https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/salesforce_content_delivery_cheatsheet.pdf
+* https://success.salesforce.com/ideaView?id=0873A0000003SY2QAM
+* https://help.salesforce.com/articleView?id=collab_files_searching.htm&type=5
+* https://help.salesforce.com/articleView?id=docs_def.htm&type=5
+* https://help.salesforce.com/articleView?id=docs_home.htm&type=5
+
+## Flow
+* https://help.salesforce.com/articleView?id=flow_troubleshoot_email.htm&type=5
+* https://help.salesforce.com/articleView?id=flow_distribute_runtime.htm&type=5
+* https://help.salesforce.com/articleView?id=flow_build_extend_lc_screen.htm&type=5
+
 ## Admin
 * https://admin.salesforce.com/posts
 * https://admin.salesforce.com/lightning-champions
 * https://admin.salesforce.com/flowbuilder
+* https://help.salesforce.com/articleView?id=salesforcea_assign_license.htm&type=5
+* https://help.salesforce.com/articleView?id=notes_considerations.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/07/five-essentials-for-new-salesforce-platform-developers.html
 * https://success.salesforce.com/featuredGroupDetail?id=a1z3A000007SBrQQAW#a0L3000000RuJKwEAN 
 * https://developer.salesforce.com/events/webinars/
@@ -296,6 +310,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://help.salesforce.com/articleView?id=siteforce_domains_map.htm&type=5
 
 ## Email / SMS
+* https://help.salesforce.com/articleView?id=faq_campaigns.htm&type=5
 * https://developer.salesforce.com/page/An_Introduction_To_Email_Services_on_Force.com
 * https://help.salesforce.com/articleView?id=000006731&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=mc_overview_content_and_email_creation_tools.htm&type=5
@@ -613,6 +628,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Sales Cloud
 * https://www.salesforce.com/eu/products/sales-cloud/features/crm-email-connector/
 * https://help.salesforce.com/articleView?id=inbound_email_snapshots.htm&type=5
+* https://help.salesforce.com/articleView?id=campaigns_manage.htm&type=5
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/salesforce_leads_cheatsheet.pdf
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/sales_core.pdf
 * https://help.salesforce.com/articleView?id=path_create.htm
@@ -627,6 +643,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_tenant_specific_subdomains.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_xml_api.htm&type=5
 * https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/gtlWorkbook.htm
+* https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/base-asset-types.htm
 * https://help.salesforce.com/articleView?id=mc_es_ftp_instruction_guide.htm&type=5
 * https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/mc_content_creation.pdf
 * https://www.salesforce.com/blog/2015/03/rise-subject-line-designers.html
@@ -673,6 +690,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * http://certification.salesforce.com/pardotoverview
+* https://www.pardot.com/resources/resource-library/
 * https://help.salesforce.com/articleView?id=data_deletion_pardot.htm&type=0
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_landing_pages_multivariate.htm&type=5
@@ -758,6 +776,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://docs.workato.com/connectors/salesforce.html#using-real-time-triggers
 * https://azure.microsoft.com/en-us/resources/videos/salesforce-outbound-message-notification-trigger-in-logic-apps/
 * https://azure.microsoft.com/en-us/resources/templates/101-data-factory-salesforce-to-blob-copy/
+
+## UFA / 2-Factor Auth
+* https://help.salesforce.com/articleView?id=security_u2f_enable.htm&type=5
 
 ## Platform Events
 * https://developer.salesforce.com/blogs/developer-relations/2017/05/first-impressions-platform-events-salesforce-enterprise-messaging-platform.html
@@ -1300,6 +1321,7 @@ Format:2xx0xx000
 ## Einstein
 * https://einstein.ai/terms-of-service
 * https://help.salesforce.com/articleView?id=aac_data_policy_delete_activity.htm&type=5#aac_data_policy_delete_activity
+* https://help.salesforce.com/articleView?id=nba_perms_and_entitlements.htm&type=5
 * https://www.salesforce.com/blog/2017/08/ai-for-marketers
 * https://rctom.hbs.org/submission/salesforce-is-stealing-einsteins-thunder/
 * https://tutorials.botsfloor.com/creating-a-simple-chatbot-in-salesforce-lightning-using-api-ai-in-less-than-60-mins-4dd79777b246
@@ -1620,6 +1642,7 @@ Format:2xx0xx000
 ## WSDL
 * https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000250959&language=en_US&type=1
+* https://developer.salesforce.com/forums/?id=906F00000008vMRIAY
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
 * https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
 * http://mvnrepository.com/artifact/com.force.api/force-wsc
