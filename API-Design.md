@@ -95,6 +95,7 @@ If you do find you need to store transitory client data on the server, think abo
 
 
 http://help.micro.blog/2017/api-posting/
+https://usermanual.wiki/Pdf/API20Management20An20Architects20Guide20to20Developing20and20Managing20APIs20for20Your20Organization.46543576/html
 https://www.xml.com/articles/2017/06/03/simplifying-xml-microxml/
 http://ajaxian.com/archives/canvas-color-cycling
 http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
