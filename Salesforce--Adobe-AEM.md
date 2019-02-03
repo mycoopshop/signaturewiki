@@ -683,6 +683,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Community
 * https://help.salesforce.com/articleView?id=external_identity_login_discovery_create_config_self.htm&type=5
 * http://certification.salesforce.com/RG_CommunitiesArchitecture.pdf
+* https://www.salesforceben.com/community-cloud-certification-guide-tips/
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_example_search.htm
 * https://developer.salesforce.com/blogs/2018/06/integrate-external-content-into-communities-using-cms-connect-json.html
 * https://developer.salesforce.com/docs/atlas.en-us.communities_dev.meta/communities_dev/communities_dev_cms_personalization_connector.htm
