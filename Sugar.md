@@ -1,3 +1,4 @@
+* https://hueniverse.com/a-tale-of-prototype-poisoning-2610fa170061
 * https://hackernoon.com/curry-away-in-react-7c4ed110c65a
 * http://raganwald.com/2013/01/05/practical-applications-of-partial-application.html
 * http://raganwald.com/2015/04/03/left-variadic.html
