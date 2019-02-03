@@ -1,4 +1,5 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
+* https://api2cart.com/api-technology/choosing-oauth-type-api/
 * https://www.npmjs.com/package/react-native-oauth
 * https://www.npmjs.com/package/client-oauth2
 * https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
