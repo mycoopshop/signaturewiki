@@ -4,6 +4,19 @@ https://www.dailymail.co.uk/home/rssMenu.html
 
 https://newsroom.courts.ca.gov/rss
 
+https://www.w3.org/community/ontolex/wiki/Final_Model_Specification
+
+https://www.cs.ox.ac.uk/people/boris.motik/pubs/mh06problems-owl.pdf
+
+https://helpful.knobs-dials.com/index.php/Morpheme,_Syllable,_Lexeme,_Grapheme,_Phoneme,_Character,_Glyph
+
+https://en.wikipedia.org/wiki/Lemma_(psycholinguistics)
+
+https://www.mediawiki.org/wiki/Extension:WikibaseLexeme/RDF_mapping
+
+https://www.mpi.nl/world/materials/publications/levelt/Roelofs_A_Case_For_The_Lemma_Lexeme_Cognition_1998.pdf
+
+
 ## Libraries
 
 https://www.npmjs.com/package/xth
