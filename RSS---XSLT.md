@@ -4,6 +4,8 @@ https://www.dailymail.co.uk/home/rssMenu.html
 
 https://newsroom.courts.ca.gov/rss
 
+https://mmoon.org/sparql/
+
 https://www.w3.org/community/ontolex/wiki/Final_Model_Specification
 
 https://www.cs.ox.ac.uk/people/boris.motik/pubs/mh06problems-owl.pdf
