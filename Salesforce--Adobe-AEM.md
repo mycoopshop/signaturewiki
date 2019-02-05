@@ -73,6 +73,7 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/articleView?id=search_index_considerations.htm&type=5
 
 ## Auditing Tools / Heroku Apps
+* https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
 * https://admin.salesforce.com/salesforce-csi-uncovering-previously-built
 * https://sfswitch.herokuapp.com/
 * https://salesforce-elf.herokuapp.com/
@@ -1210,6 +1211,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Auditing
 * ext:pdf +above +below site:salesforce.com
+* https://www.salesforce.com/contents/data/data_governance_stewardship/?d=70130000000NTAQ&internal=true&nc=70130000000NTAL
+* https://www.salesforce.com/form/data/data_get_data_strong.jsp?d=70130000000NTA6&internal=true&nc=70130000000NTA1
+* https://trailhead.salesforce.com/content/learn/modules/data_quality/data_quality_improve_quality
+* https://admin.salesforce.com/messy-org-no-fear
 * https://github.com/salesforce/refocus/blob/master/view/admin/config/detail.js
 * https://www.salesforce.com/assets/pdf/misc/audit_charter.pdf
 * https://help.salesforce.com/articleView?id=security_overview_auditing.htm&type=5
@@ -1360,6 +1365,8 @@ Format:2xx0xx000
 * https://theneuralperspective.com/2016/12/20/highlights-and-tutorials-for-concepts-discussed-in-richard-socher-on-the-future-of-deep-learning/
 
 ## Analytics
+* https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
+* https://help.salesforce.com/articleView?id=000249567&type=1&language=en_US
 * https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data_format.pdf
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/bi_dev_guide_json.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_analytics_rest_api.pdf
