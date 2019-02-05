@@ -7,6 +7,7 @@
 1. Add the Access-Control-Allow-Credentials Response header with a value of `true`
 
 ## References
+1. http://blog.nelm.io/2011/11/cors-with-sencha-touch/
 1. https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/
 1. https://help.crossbrowsertesting.com/faqs/testing/invalid-host-header-error/
 1. https://medium.com/@BillFienberg/tunnels-and-proxies-and-headers-oh-my-5088e1ee11fa
