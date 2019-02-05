@@ -65,6 +65,7 @@ https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?h
 1. https://support.apple.com/en-us/HT204310
 
 ### Browser Development
+1. https://www.test-cors.org/
 1. https://developers.google.com/web/tools/chrome-devtools/network-performance/reference
 1. https://developers.google.com/web/tools/chrome-devtools/manage-data/local-storage#clear-storage
 1. https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/
