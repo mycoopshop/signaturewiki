@@ -39,6 +39,10 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 * Wildfire
 * Katalon Recorder
 
+## Bookmark Curation
+
+* SpruceMarks (https://chrome.google.com/webstore/detail/sprucemarks/fakeocdnmmmnokabaiflppclocckihoj/)
+
 ## Screen Capture
 
 * https://addons.mozilla.org/en-US/firefox/addon/canvas-capture/?src=search
