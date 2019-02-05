@@ -72,6 +72,22 @@ url:servlet ext:pdf site:salesforce.com
 * https://admin.salesforce.com/the-value-of-having-a-dedicated-salesforce-integration-user
 * https://help.salesforce.com/articleView?id=search_index_considerations.htm&type=5
 
+## Auditing Tools / Heroku Apps
+* https://admin.salesforce.com/salesforce-csi-uncovering-previously-built
+* https://sfswitch.herokuapp.com/
+* https://salesforce-elf.herokuapp.com/
+* https://json2apex.herokuapp.com/
+* https://sforgcompare.herokuapp.com/
+* https://orgdoctor.herokuapp.com/
+* https://openidconnect.herokuapp.com/
+* https://lightning-linter.herokuapp.com/
+* https://githubsfdeploy.herokuapp.com/
+* https://sfdatacompare.herokuapp.com/
+* https://salesforce-webhook-creator.herokuapp.com/
+* https://kbapps2.herokuapp.com/
+* https://soqlbuilder.herokuapp.com/
+* https://force-cli.herokuapp.com/
+
 ## Syntax
 * https://developer.salesforce.com/page/A_Brief_Overview_of_the_Apex_Language
 * https://resources.docs.salesforce.com/sfdc/pdf/dbcom_apex_language_reference.pdf?major=178
@@ -1091,6 +1107,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Lightning
 * https://help.salesforce.com/articleView?id=lightning_components_roadmap.htm
+* * https://admin.salesforce.com/lightning-experience-configuration-converter
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_videos.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_videos.htm
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_lc.htm
