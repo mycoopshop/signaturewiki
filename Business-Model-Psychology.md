@@ -433,5 +433,7 @@ http://wordnetweb.princeton.edu/perl/webwn?s=way&sub=Search+WordNet&o2=&o0=1&o8=
 
 http://wn-similarity.sourceforge.net
 
+https://colin.io/curation-is-creation/
+
 # Ad Bias
 https://medium.com/the-graph/rise-of-subscriptions-and-the-fall-of-advertising-d5e4d8800a49
