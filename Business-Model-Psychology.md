@@ -252,6 +252,7 @@
 * http://hamwaves.com/firefox/en/
 * https://www.crunchbase.com/organization/kobii-africa
 * https://www.crunchbase.com/organization/nearby-e42c
+* https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code
 
 # Loyalty Bias
 * http://www.affiliateprograms.com/video-game-affiliate-programs/
