@@ -1,4 +1,5 @@
 ## SQLite
+* https://www.twosixlabs.com/sqlite-as-a-shell-script/
 * https://kailaspatil.blogspot.com/2013/07/python-script-to-convert-json-file-into.html
 * https://www.phparch.com/2011/11/full-text-search-with-sqlite/
 * https://www.tutorialspoint.com/sqlite/sqlite_perl.htm
