@@ -230,6 +230,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * http://resources.docs.salesforce.com/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_ide2.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/api_meta.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/api_streaming.pdf
 * https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/platform_events.pdf
