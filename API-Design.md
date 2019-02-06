@@ -94,66 +94,68 @@ If you do find you need to store transitory client data on the server, think abo
 <li> - array <a> - linked list <html> - tree <table> - graph <object> - stack
 
 
-http://help.micro.blog/2017/api-posting/
-https://usermanual.wiki/Pdf/API20Management20An20Architects20Guide20to20Developing20and20Managing20APIs20for20Your20Organization.46543576/html
-https://www.xml.com/articles/2017/06/03/simplifying-xml-microxml/
-http://ajaxian.com/archives/canvas-color-cycling
-http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
-https://code.google.com/archive/p/canto-js/
-http://vertx.io/docs/
-http://ajaxian.com/archives/shim-uses-node-js-to-test-sites-on-multiple-browsers
-http://ajaxian.com/archives/a-simple-random-bit-on-var-selector
-http://ajaxian.com/archives/best-practices-for-test-revisited
-http://ajaxian.com/archives/jdrop-json-in-the-cloud
-http://ajaxian.com/archives/normal-mapped-lighting-for-photos-using-canvas
-https://www.iab.com/wp-content/uploads/2016/04/VAST4.0_Updated_April_2016.pdf
-https://www.codeproject.com/Articles/474905/Using-BizTalk
-http://www-01.ibm.com/support/docview.wss?uid=swg21633648
-https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/json_jsontransformationexample3.html
-https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/xquery_functions.html
-https://developer.ibm.com/answers/questions/379755/how-to-convert-json-to-soap-in-datapower.html
-https://toddysm.com/2017/02/02/are-enterprises-building-incomplete-cicd-pipelines/
-https://creately.com/diagram/example/i7c02ojz1/DevOps%20-%20Infrastructure%20Architecture
-http://rundeck.org/stories/john_desposito.html
-http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
-https://www.w3.org/wiki/Activity_Streams/Examples
-https://www.w3.org/TR/activitystreams-vocabulary/
-https://www.w3.org/TR/social-web-protocols/#bib-Micropub
-https://www.w3.org/TR/pwp-ucr/
-https://www.w3.org/TR/SVG2/Overview.html
-https://playbook.cio.gov/
-http://www.brising.com/slamdunk2.html
-https://www.microsoft.com/en-us/research/wp-content/uploads/2013/01/posix-emulation-submitted.pdf
-https://devcenter.heroku.com/articles/architecting-apps
-http://www.dtic.mil/docs/citations/ADA572590
-https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c
-https://blog.shaunfinglas.co.uk/2015/10/header-interfaces-vs-role-interfaces.html
-https://blog.heroku.com/react-refetch
-https://blog.heroku.com/deploying-react-with-zero-configuration
-http://willschenk.com/bot-design-patterns/
-https://www.storyblok.com
-https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-1/index.html
-https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-2/index.html
-https://www.ibm.com/developerworks/cloud/library/cl-lambda-functions-rapid-prototyping/index.html
-https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/index.html
-https://www.ibm.com/developerworks/web/library/wa-schemaorg1/index.html
-https://www.ibm.com/developerworks/opensource/library/wa-schemaorg2/index.html
-https://www.ibm.com/developerworks/opensource/library/wa-schemaorg3/index.html
-https://www.ibm.com/developerworks/opensource/library/wa-schemaorg4/index.html
-http://ediacademy.com/blog/walmart-edi-testing-2/
-https://cdn.corporate.walmart.com/5d/8d/897b4bb84a95bb05214bf897cee3/edi-getting-started-guide.pdf
-https://www.mediawiki.org/wiki/Manual:MediaWiki_architecture
-https://www.mediawiki.org/wiki/Wikibase/DataModel/JSON
-https://www.slideshare.net/balancedteam/lean-engineering-for-leanbalanced-teams-lessons-learned-and-still-learning-bringing-lean-to-paypal
-https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page
-https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith
-https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
-https://developer.mozilla.org/en-US/docs/Mozilla/IPDL/Tutorial
-https://www.mobilize.net/blog/vb6-to-microservices-is-it-even-a-thing
-https://www.marklogic.com/blog/data-integration-wizard-talks-microservices-containers-data-governance/
-https://www.marklogic.com/blog/microservices-persistence-benefits-risks/
-https://hal.archives-ouvertes.fr/hal-01783936/file/sparql-micro-services-poster.pdf
-https://www.slideshare.net/barthanssens/publishing-rdf-skos-with-microservices
-http://events.linkeddata.org/ldow2018/papers/LDOW2018_paper_1.pdf
-http://ceur-ws.org/Vol-1629/paper4.pdf
-https://www.gnu.org/software/emacs/emacs-paper.html
+## References
+1. https://blog.bengalbraith.com/2013/06/19/dont-make-second-class-apis/
+1. http://help.micro.blog/2017/api-posting/
+1. https://usermanual.wiki/Pdf/API20Management20An20Architects20Guide20to20Developing20and20Managing20APIs20for20Your20Organization.46543576/html
+1. https://www.xml.com/articles/2017/06/03/simplifying-xml-microxml/
+1. http://ajaxian.com/archives/canvas-color-cycling
+1. http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU
+1. https://code.google.com/archive/p/canto-js/
+1. http://vertx.io/docs/
+1. http://ajaxian.com/archives/shim-uses-node-js-to-test-sites-on-multiple-browsers
+1. http://ajaxian.com/archives/a-simple-random-bit-on-var-selector
+1. http://ajaxian.com/archives/best-practices-for-test-revisited
+1. http://ajaxian.com/archives/jdrop-json-in-the-cloud
+1. http://ajaxian.com/archives/normal-mapped-lighting-for-photos-using-canvas
+1. https://www.iab.com/wp-content/uploads/2016/04/VAST4.0_Updated_April_2016.pdf
+1. https://www.codeproject.com/Articles/474905/Using-BizTalk
+1. http://www-01.ibm.com/support/docview.wss?uid=swg21633648
+1. https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/json_jsontransformationexample3.html
+1. https://www.ibm.com/support/knowledgecenter/en/SS9H2Y_7.5.0/com.ibm.dp.doc/xquery_functions.html
+1. https://developer.ibm.com/answers/questions/379755/how-to-convert-json-to-soap-in-datapower.html
+1. https://toddysm.com/2017/02/02/are-enterprises-building-incomplete-cicd-pipelines/
+1. https://creately.com/diagram/example/i7c02ojz1/DevOps%20-%20Infrastructure%20Architecture
+1. http://rundeck.org/stories/john_desposito.html
+1. http://www-03.ibm.com/certify/assets/content/studyguides/stuc1000_005.pdf
+1. https://www.w3.org/wiki/Activity_Streams/Examples
+1. https://www.w3.org/TR/activitystreams-vocabulary/
+1. https://www.w3.org/TR/social-web-protocols/#bib-Micropub
+1. https://www.w3.org/TR/pwp-ucr/
+1. https://www.w3.org/TR/SVG2/Overview.html
+1. https://playbook.cio.gov/
+1. http://www.brising.com/slamdunk2.html
+1. https://www.microsoft.com/en-us/research/wp-content/uploads/2013/01/posix-emulation-submitted.pdf
+1. https://devcenter.heroku.com/articles/architecting-apps
+1. http://www.dtic.mil/docs/citations/ADA572590
+1. https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c
+1. https://blog.shaunfinglas.co.uk/2015/10/header-interfaces-vs-role-interfaces.html
+1. https://blog.heroku.com/react-refetch
+1. https://blog.heroku.com/deploying-react-with-zero-configuration
+1. http://willschenk.com/bot-design-patterns/
+1. https://www.storyblok.com
+1. https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-1/index.html
+1. https://www.ibm.com/developerworks/cloud/library/cl-lightweight-integration-2/index.html
+1. https://www.ibm.com/developerworks/cloud/library/cl-lambda-functions-rapid-prototyping/index.html
+1. https://www.ibm.com/developerworks/java/library/j-javaee8-json-binding-4/index.html
+1. https://www.ibm.com/developerworks/web/library/wa-schemaorg1/index.html
+1. https://www.ibm.com/developerworks/opensource/library/wa-schemaorg2/index.html
+1. https://www.ibm.com/developerworks/opensource/library/wa-schemaorg3/index.html
+1. https://www.ibm.com/developerworks/opensource/library/wa-schemaorg4/index.html
+1. http://ediacademy.com/blog/walmart-edi-testing-2/
+1. https://cdn.corporate.walmart.com/5d/8d/897b4bb84a95bb05214bf897cee3/edi-getting-started-guide.pdf
+1. https://www.mediawiki.org/wiki/Manual:MediaWiki_architecture
+1. https://www.mediawiki.org/wiki/Wikibase/DataModel/JSON
+1. https://www.slideshare.net/balancedteam/lean-engineering-for-leanbalanced-teams-lessons-learned-and-still-learning-bringing-lean-to-paypal
+1. https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page
+1. https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith
+1. https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
+1. https://developer.mozilla.org/en-US/docs/Mozilla/IPDL/Tutorial
+1. https://www.mobilize.net/blog/vb6-to-microservices-is-it-even-a-thing
+1. https://www.marklogic.com/blog/data-integration-wizard-talks-microservices-containers-data-governance/
+1. https://www.marklogic.com/blog/microservices-persistence-benefits-risks/
+1. https://hal.archives-ouvertes.fr/hal-01783936/file/sparql-micro-services-poster.pdf
+1. https://www.slideshare.net/barthanssens/publishing-rdf-skos-with-microservices
+1. http://events.linkeddata.org/ldow2018/papers/LDOW2018_paper_1.pdf
+1. http://ceur-ws.org/Vol-1629/paper4.pdf
+1. https://www.gnu.org/software/emacs/emacs-paper.html
