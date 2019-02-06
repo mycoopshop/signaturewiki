@@ -152,6 +152,7 @@
 * https://www.apnews.com/18b84bb032e048b3958467f1e744ca6c/AP-Explains:-Modern-media-magnify-impact-of-assassinations
 
 # Language Bias
+* https://en.wikipedia.org/wiki/Metalanguage
 * https://itunes.apple.com/us/app/id1273162445
 * https://play.google.com/store/apps/details?id=com.dictionary.paid
 * https://play.google.com/store/apps/details?id=com.zombodroid.MemeGeneratorFullGplay
