@@ -1,8 +1,12 @@
+## Webhooks
+
 WebHooks are an HTTP POST callback request sent to URL of a user's choice in response to some event occurring. For example:
 
 Event Subscription via URL => Timestamp Change Event => HTTP POST callback => Synchronization 
 
-## Publishing
+## WebSub
+
+Publish the feed to superfeedr
 
 The first time you fetch the feed, look for `<link>` element with `rel=hub` in it:
 
@@ -34,6 +38,7 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 
 ## References
 1. https://blog.superfeedr.com/howto-pubsubhubbub/
+1. https://nordicapis.com/webhooks-vs-websub-which-one-is-better-to-stream-your-events-in-real-time/
 1. https://www.programmableweb.com/news/what-are-webhooks-and-how-do-they-enable-real-time-web/2012/01/30
 1. https://www.programmableweb.com/news/what-pubsubhubbub-push-styled-api-and-how-does-it-work/analysis/2017/04/03
 1. https://stackoverflow.com/questions/36825042/consuming-rss-feed-with-aws-lambda-and-api-gateway
