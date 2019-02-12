@@ -1,5 +1,6 @@
 ## Disable Pocket activitystream
 browser.newtabpage.enabled - false
+browser.newtabpage.activity-stream.disableSnippets - true
 
 
 ## Firefox Extensions
