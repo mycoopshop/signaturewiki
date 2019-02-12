@@ -1,5 +1,10 @@
 title:firefox title:chrome +webextension site:github.com -title:issue
 
+## Source Debugging
+* Chrome Extension Source Viewer: https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
+* Chrome App and Extensions Developer Tool: https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
+* CRX Viewer: https://robwu.nl/crxviewer/
+
 ## Feeds
 * Mercury Reader
 
