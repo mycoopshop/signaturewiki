@@ -408,8 +408,12 @@ https://www.oasis-open.org/events/sites/oasis-open.org.events/files/Borderless_C
 # Jargon Bias
 https://gigaom.com/2018/04/20/when-is-a-startup-pitch-not-a-pitch-retrospective-thoughts-on-techpitch-4-5/
 
-# Mobile Bias
+# Local Mobile Bias
 https://medium.com/swlh/american-local-buying-selling-startups-will-soon-hit-the-monetization-wall-bd7f6ef349b7
+
+https://roaminghunger.com/food-trucks/ca/modesto/
+
+https://www.apnews.com/8fb8cb2076ef48cfb530ca285227aa4b
 
 https://news.crunchbase.com/news/the-startups-attempting-to-dismantle-craigslist/
 
