@@ -1,3 +1,4 @@
+## Deletion
 Delete between quotes: d/' + enter
 
 Delete all blank lines: g/^$/d
@@ -5,6 +6,9 @@ Delete all blank lines: g/^$/d
 Delete without copying: _d + d or the number of lines
 
 Delete the first character from diff formatted code: :1,$ s/^[+]//g
+
+## Insertion
+Insert p tags into blank lines: :1,$ s/^$/<p>\n/g
 
 ## References
 * https://media.readthedocs.org/pdf/vimguide/latest/vimguide.pdf
