@@ -10,6 +10,11 @@ Confluence
 1. https://docs.atlassian.com/atlassian-confluence/REST/6.6.0/
 1. https://docs.atlassian.com/atlassian-confluence/6.6.0/
 
+Bitbucket
+1. https://docs.atlassian.com/bitbucket-server/rest/5.16.0/bitbucket-rest.html
+1. https://confluence.atlassian.com/bitbucketserverkb/how-to-diff-arbitrary-commits-using-rest-api-790630308.html
+1. https://confluence.atlassian.com/bitbucketserverkb/how-to-report-on-permissions-by-using-rest-api-endpoints-858696596.html
+
 Security
 1. https://www.atlassian.com/trust/policies
 
