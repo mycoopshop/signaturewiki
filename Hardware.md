@@ -43,6 +43,10 @@ RJ45
 
 IP Camera
 https://www.codingepiphany.com/2015/02/10/easy-secure-home-ip-camera-access-with-your-own-vpn/
+https://medium.com/@jaredtoddpetersen/home-security-live-streaming-with-raspberry-pi-f9293efca7ba
+https://www.instructables.com/id/Raspberry-Pi-as-low-cost-HD-surveillance-camera/
+https://raspberrypi.stackexchange.com/questions/79361/i-want-to-webcam-stream-24-7-to-open-internet
+https://support.video.ibm.com/hc/en-us/articles/207852457-Raspberry-Pi-Streaming-video-to-Ustream
 https://www.privacydusk.com/other-privacy/review-spy-camera-watch-flylink-hd-1080p/
 https://www.reddit.com/r/PFSENSE/comments/7mo03i/finally_moved_ip_cameras_to_restricted_vlan_and/
 https://www.vueville.com/blog/how-we-built-our-diy-home-security-camera-system/
