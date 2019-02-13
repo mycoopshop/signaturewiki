@@ -59,10 +59,12 @@ Use different languages for each level, such as:
 * https://stackoverflow.com/questions/12288820/1113772
 * https://stackoverflow.com/questions/12710122/1113772
 
-https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd
-http://react.tips/how-to-use-react-component-lifecycle-methods/
-https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca
-https://reactjs.org/docs/integrating-with-other-libraries.html
-https://hackernoon.com/one-major-reason-vuejs-gt-react-4edcb400e383
-https://medium.com/engineering-housing/javascript-memory-profiling-for-backbone-and-react-5bffd5d6e6f
-http://2ality.com/2016/04/unhandled-rejections.html
+1. https://medium.com/of-all-things-tech-progress/understanding-mvc-architecture-with-react-6cd38e91fefd
+1. http://react.tips/how-to-use-react-component-lifecycle-methods/
+1. https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca
+1. https://reactjs.org/docs/integrating-with-other-libraries.html
+1. https://hackernoon.com/one-major-reason-vuejs-gt-react-4edcb400e383
+1. https://medium.com/engineering-housing/javascript-memory-profiling-for-backbone-and-react-5bffd5d6e6f
+1. http://2ality.com/2016/04/unhandled-rejections.html
+1. http://adripofjavascript.com/blog/drips/using-dispatch-tables-to-avoid-conditionals-in-javascript.html
+1. http://raganwald.com/2014/06/23/multiple-dispatch.html
