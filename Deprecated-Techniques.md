@@ -273,6 +273,10 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://github.com/fernandospr/spring-jetty-example/search?q=RequestMapping&unscoped_q=RequestMapping
 * http://www.mkyong.com/spring-mvc/spring-mvc-hello-world-example/
 * http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example-annotation/
+* https://www.slideshare.net/thymeleaf/spring-io-2012-natural-templating-in-spring-mvc-with-thymeleaf?qid=697bc3b6-6387-4b4b-b3cd-933be2316e4e&v=&b=&from_search=8
+* https://www.slideshare.net/hujak/javantura-v4-freemarker-in-spring-web-marin-kalapa?qid=27d3ee07-5ced-49f4-9148-c442341c7588&v=&b=&from_search=3
+* https://www.slideshare.net/jreijn/comparing-templateenginesjvm
+* https://www.slideshare.net/SpringCentral/presentations/4
 
 ## Configuration
 
