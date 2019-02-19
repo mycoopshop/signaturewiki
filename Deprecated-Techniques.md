@@ -72,6 +72,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://github.com/VBA-tools/VBA-Web/wiki/Url-Encoding
 * https://azlav.wordpress.com/2012/05/22/project-vba-and-azure-better-together/
 * https://posts.specterops.io/wsh-injection-a-case-study-fd35f79d29dd
+* https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/security-dialog-box
+* https://docs.microsoft.com/en-us/office/vba/outlook/how-to/security/security-behavior-of-the-outlook-object-model
 
 ## Project File Structure
 
