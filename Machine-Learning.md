@@ -4,6 +4,12 @@
 * https://www.cjr.org/tow_center_reports/guide_to_automated_journalism.php/
 * https://www.salesforce.com/blog/2016/09/artificial-intelligence-helps-small-businesses.html
 
+## Slackbots
+https://medium.com/slack-developer-blog/conversing-with-ai-on-slack-5af2561f98a5
+https://medium.com/@SAPCAI/a-natural-language-slackbot-19ca5b0fc64b
+https://uxplanet.org/design-lessons-from-building-an-ai-slackbot-for-uncle-brian-73f5a9b1fe89
+https://dzone.com/articles/build-a-scheduler-slackbot-in-30-minutes
+
 ## Finite State Machine
 * https://borjaballe.github.io/other/phdthesis.pdf
 * https://dzone.com/articles/neural-networks-and-automata-theory
