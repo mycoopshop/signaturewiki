@@ -284,6 +284,8 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://webpack.js.org/loaders/json-loader/
 
 ## Feature Detection
+* https://itnext.io/lazy-loading-polyfills-4b85c4951e73
+* https://github.com/babel/babel/issues/7402
 * https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 * https://css-tricks.com/polyfill-javascript-need/
 * https://www.npmjs.com/package/dynamic-polyfill
