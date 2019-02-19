@@ -149,3 +149,8 @@ https://redux.js.org/introduction/ecosystem
 * https://medium.com/@wilsotobianco/es6-template-literal-use-cases-e20458992fe
 * https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4
 * https://github.com/Microsoft/vscode/issues/51171
+* https://devblogs.microsoft.com/premier-developer/introduction-to-progressive-web-applications-pwa/
+* https://blogs.msdn.microsoft.com/onecode/tag/vue-js/
+* https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
+* https://blogs.msdn.microsoft.com/webdev/2017/11/28/improve-website-performance-by-optimizing-images/
+* https://msdn.microsoft.com/en-us/magazine/mt632272.aspx
