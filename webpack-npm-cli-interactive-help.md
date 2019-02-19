@@ -283,6 +283,11 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://webpack.js.org/plugins/provide-plugin/
 * https://webpack.js.org/loaders/json-loader/
 
+## Feature Detection
+* https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
+* https://css-tricks.com/polyfill-javascript-need/
+* https://www.npmjs.com/package/dynamic-polyfill
+
 ## Customization
 * https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/webpack.html
 * https://github.com/webpack-contrib/bundle-loader
