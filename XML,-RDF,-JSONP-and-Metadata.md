@@ -116,4 +116,10 @@
 
 * https://www.w3.org/MarkUp/htmlplus_paper/htmlplus.html
 
+## Code
+
 * https://codepunk.io/xml-xslt-and-mvc/
+
+* https://developer.android.com/reference/javax/xml/transform/TransformerFactory
+
+* https://developer.apple.com/documentation/foundation/xmldocument/1415843-object
