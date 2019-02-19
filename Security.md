@@ -43,6 +43,8 @@ https://www.troyhunt.com/security-insanity-how-we-keep-failing-at-the-basics/
 
 https://www.troyhunt.com/the-beginners-guide-to-breaking-website/
 
+https://davidwalsh.name/disable-autocorrect
+
 # Binary
 https://crypto.stackexchange.com/questions/63450/why-doesnt-steganography-increase-the-size-of-an-uncompressed-image
 
