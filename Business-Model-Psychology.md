@@ -397,6 +397,10 @@ http://www.latimes.com/business/la-fi-us-economy-20180501-story.html
 * http://www.au.af.mil/au/awc/awcgate/dia/educing_info.pdf
 * car+idling+illegal
 
+# Physical Bias
+* http://navylive.dodlive.mil/2010/07/09/making-fitness-fun/
+* https://www.health.mil/News/Articles/2019/01/28/New-Year-New-You
+
 # Information Bias
 http://www.dtic.mil/dtic/tr/fulltext/u2/a275133.pdf
 http://www.dtic.mil/dtic/tr/fulltext/u2/a430217.pdf
