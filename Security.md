@@ -1,3 +1,4 @@
+## References
 * https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities
 * http://www.dtic.mil/dtic/tr/fulltext/u2/1021683.pdf
 * https://developer.android.com/docs/quality-guidelines/core-app-quality
@@ -36,6 +37,11 @@
 * https://documentation.cpanel.net/display/CKB/OWASP+ModSecurity+CRS
 * https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-vila.pdf
 * https://www.sans.org/reading-room/whitepapers/forensics/forensic-primer-usenet-evidence-32829
+
+## Basics
+https://www.troyhunt.com/security-insanity-how-we-keep-failing-at-the-basics/
+
+https://www.troyhunt.com/the-beginners-guide-to-breaking-website/
 
 # Binary
 https://crypto.stackexchange.com/questions/63450/why-doesnt-steganography-increase-the-size-of-an-uncompressed-image
