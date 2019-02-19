@@ -287,6 +287,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/
 * https://css-tricks.com/polyfill-javascript-need/
 * https://www.npmjs.com/package/dynamic-polyfill
+* https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31
 
 ## Customization
 * https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/webpack.html
