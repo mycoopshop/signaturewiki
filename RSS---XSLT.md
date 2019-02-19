@@ -25,8 +25,11 @@ https://www.npmjs.com/package/xth
 
 https://www.npmjs.com/package/xml-renderer
 
+https://github.com/TheCraigHewitt/Seriously-Simple-Podcasting/blob/master/templates/feed-stylesheet.xsl
+
 ## Bookmarks
 * http://rssfeeds.packersnews.com/packersnews/home&x=1
+* https://feed.syntax.fm/rss
 * https://www.mysportsfeeds.com/data-feeds/
 * http://feeds.bbci.co.uk/news/rss.xml
 * https://rss.upi.com/news/news.rss
