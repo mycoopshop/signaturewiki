@@ -280,6 +280,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://www.slideshare.net/jreijn/comparing-templateenginesjvm
 * https://www.slideshare.net/SpringCentral/presentations/4
 * http://www.programming-free.com/2013/07/crud-operations-using-servlet-and.html
+* https://struts.apache.org/core-developers/freemarker-support.html
+* https://struts.apache.org/tag-developers/velocity.html
+* https://cwiki.apache.org/confluence/display/WW/FreeMarker
 
 ## Configuration
 
