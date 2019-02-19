@@ -11,3 +11,4 @@
 * https://beebom.com/yahoo-pipes-alternatives/
 * https://www.import.io/post/5-yahoo-pipes-alternatives-that-are-actually-better-than-pipes/
 * https://www.makeuseof.com/tag/ifttt-alternatives/
+* https://medium.com/@mbostock/why-you-should-use-d3-ae63c276e958?source=user_profile---------2------------------
