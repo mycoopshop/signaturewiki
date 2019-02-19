@@ -21,3 +21,8 @@
 * https://doc.lagout.org/operating%20system%20/linux/Assembly%20Language%20Step-by-Step%20-%20Programming%20with%20Linux%2C%203rd%20Edition.pdf
 * https://www.asc.ohio-state.edu/lewis.239/Gauge/abrash.pdf
 * http://cdtdoug.ca/2018/09/10/native-to-webview.html
+
+## Wasm
+
+* https://www.accusoft.com/blog/should-i-be-using-webassembly/
+* 
