@@ -47,6 +47,8 @@ https://davidwalsh.name/disable-autocorrect
 
 http://10rem.net/blog/2012/02/14/ux-anti-patterns-for-security-on-the-web-and-in-the-enterprise
 
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+
 # Binary
 https://crypto.stackexchange.com/questions/63450/why-doesnt-steganography-increase-the-size-of-an-uncompressed-image
 
