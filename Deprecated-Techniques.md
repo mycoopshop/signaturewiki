@@ -283,6 +283,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://struts.apache.org/core-developers/freemarker-support.html
 * https://struts.apache.org/tag-developers/velocity.html
 * https://cwiki.apache.org/confluence/display/WW/FreeMarker
+* https://blog.lanyonm.org/articles/2014/11/23/spring-4-sitemesh-java-config.html
 
 ## Configuration
 
