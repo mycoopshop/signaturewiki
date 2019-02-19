@@ -279,6 +279,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://www.slideshare.net/hujak/javantura-v4-freemarker-in-spring-web-marin-kalapa?qid=27d3ee07-5ced-49f4-9148-c442341c7588&v=&b=&from_search=3
 * https://www.slideshare.net/jreijn/comparing-templateenginesjvm
 * https://www.slideshare.net/SpringCentral/presentations/4
+* http://www.programming-free.com/2013/07/crud-operations-using-servlet-and.html
 
 ## Configuration
 
@@ -290,6 +291,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://superuser.com/questions/82053/setting-home-in-powershell
 * https://jira.spring.io/browse/SPR-13912
 * https://docs.spring.io/spring-python/1.2.x/sphinx/html/overview.html
+* https://github.com/spring-projects/spring-boot/commit/ee62633e33b44356f14060fd920130c66d8c9e14
 
 ## Documentation
 
