@@ -6,6 +6,10 @@ elk grove
 
 https://en.wikipedia.org/wiki/California_State_Route_33
 
+http://www.stancounty.com/er/hazmat/e-waste-recycle.shtm
+
+http://www.stanislauslibrary.org/stan_read_write.shtm
+
 https://data.huffingtonpost.com/
 
 https://www.ci.patterson.ca.us/AgendaCenter
