@@ -1,3 +1,9 @@
+Lookup the require/import statements for a specific dependency, check the options object, then find the undocumented options
+
+## NPM Module Config
+
+* https://github.com/webpack/webpack-dev-server/blob/v2.9.4/lib/Server.js
+
 ## Cookies
 
 * Use incognito mode instead of normal mode
