@@ -41,6 +41,17 @@ Perl Jenkins Redis
 * [Welcome to ElectricCommander](http://docs.electric-cloud.com/commander_doc/5_3/Mobile/Help/Advanced/Content/Welcome.htm)
 * http://electric-cloud.com/plugins/directory/p/jenkins/
 
+** Jenkins**
+* jenkins +cloudbees +512m -1gb +jvm
+* https://www.cloudbees.com/sites/default/files/2016-jenkins-world-soyouwanttobuildtheworldslargestjenkinscluster_final.pdf
+* https://go.cloudbees.com/docs/cloudbees-documentation/upgrade/cjt/system-requirements/
+* https://news.ycombinator.com/item?id=16634787
+* https://www.cloudbees.com/blog/probing-limits-jenkins
+* https://go.cloudbees.com/docs/cloudbees-documentation/admin-cje/troubleshooting/
+* https://support.cloudbees.com/hc/en-us/articles/204264000-Why-do-I-receive-java-lang-OutOfMemoryError-PermGen-space
+* https://support.cloudbees.com/hc/en-us/articles/209715698-How-to-add-Java-arguments-to-Jenkins-
+* https://stackoverflow.com/questions/50067372/where-to-set-dorg-jenkinsci-plugins-durabletask-bourneshellscript-heartbeat-che/50100551
+
 **Build Pipelines**
 * https://www.agiletestingframework.com/ultimate-devops-toolchain/
 * https://www.slideshare.net/perforce/perforce-on-tour-2015-optimising-the-developer-pipeline-deliver-faster-better
