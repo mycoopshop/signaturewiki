@@ -12,11 +12,15 @@
 * https://news.ycombinator.com/item?id=13814750
 * https://support.google.com/adwords/editor/answer/6332885?hl=en-GB
 * https://eggerapps.at/mdbviewer/docs/en/export-csv.html
+* https://www.jetbrains.com/help/clion/editing-csv-and-tsv-files.html
 
 ## Templates
 * https://www.osha.gov/injuryreporting/osha_ita_summary_data_csv_template.csv
 * https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data.pdf
-
+* https://dev.socrata.com/docs/formats/csv.html
+* https://www.resourcespace.com/knowledge-base/user/plugin-csv-upload
+* https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/csv2/csv2.htm
+* 
 ## Platforms
 * https://en.wikipedia.org/wiki/Pump.io
 * https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking#cite_note-55
