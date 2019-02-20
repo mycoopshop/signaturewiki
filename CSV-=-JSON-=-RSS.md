@@ -11,6 +11,7 @@
 * https://csvlint.com/
 * https://news.ycombinator.com/item?id=13814750
 * https://support.google.com/adwords/editor/answer/6332885?hl=en-GB
+* https://eggerapps.at/mdbviewer/docs/en/export-csv.html
 
 ## Templates
 * https://www.osha.gov/injuryreporting/osha_ita_summary_data_csv_template.csv
