@@ -408,12 +408,14 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 
 **Samples**
 * title:developer.force.com site:salesforce.com
-* developerforce salesforcelabs forcedotcom site:github.com
+* developerforce salesforcelabs forcedotcom salesforceux site:github.com
 * https://github.com/trending/apex
+* https://github.com/forcedotcom
 * https://github.com/trailheadapps
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
+* https://github.com/salesforce-ux
 * https://github.com/salesforceidentity
 * https://github.com/SalesforceFoundation
 * https://github.com/SFDO-Tooling
