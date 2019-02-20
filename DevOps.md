@@ -41,10 +41,11 @@ Perl Jenkins Redis
 * [Welcome to ElectricCommander](http://docs.electric-cloud.com/commander_doc/5_3/Mobile/Help/Advanced/Content/Welcome.htm)
 * http://electric-cloud.com/plugins/directory/p/jenkins/
 
-** Jenkins**
+== Jenkins
 * jenkins +cloudbees +512m -1gb +jvm
 * https://www.cloudbees.com/sites/default/files/2016-jenkins-world-soyouwanttobuildtheworldslargestjenkinscluster_final.pdf
 * https://go.cloudbees.com/docs/cloudbees-documentation/upgrade/cjt/system-requirements/
+* https://lankydanblog.com/2017/06/11/setting-up-jenkins-to-deploy-to-heroku/
 * https://news.ycombinator.com/item?id=16634787
 * https://www.cloudbees.com/blog/probing-limits-jenkins
 * https://go.cloudbees.com/docs/cloudbees-documentation/admin-cje/troubleshooting/
