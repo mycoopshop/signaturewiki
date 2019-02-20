@@ -223,6 +223,12 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://webpack.js.org/configuration/other-options/
 * https://codeclimate.com/github/webpack/webpack/lib/Stats.js/source
 * https://github.com/webpack/webpack/issues/5718
+* https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/
+* https://timber.io/blog/creating-a-real-world-cli-app-with-node/
+* https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
+* https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/
+* https://opensource.com/article/18/7/node-js-interactive-cli
+* https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/
 
 # Malware
 * https://news.ycombinator.com/item?id=16716264
