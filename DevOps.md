@@ -45,6 +45,7 @@ Perl Jenkins Redis
 * jenkins +cloudbees +512m -1gb +jvm
 * https://www.cloudbees.com/sites/default/files/2016-jenkins-world-soyouwanttobuildtheworldslargestjenkinscluster_final.pdf
 * https://stackoverflow.com/questions/46974251/deploying-docker-image-with-jenkins-on-heroku-container-registry
+* https://wilsonmar.github.io/jenkins-setup/
 * https://go.cloudbees.com/docs/cloudbees-documentation/upgrade/cjt/system-requirements/
 * https://lankydanblog.com/2017/06/11/setting-up-jenkins-to-deploy-to-heroku/
 * https://news.ycombinator.com/item?id=16634787
