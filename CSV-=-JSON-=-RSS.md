@@ -6,6 +6,16 @@
 * https://tools.ietf.org/id/draft-pbryan-zyp-json-ref-03.html
 * https://doc.owncloud.org/server/8.2/developer_manual/core/ocs-share-api.html
 
+## Tools
+* http://www.csvstudio.com/
+* https://csvlint.com/
+* https://news.ycombinator.com/item?id=13814750
+* https://support.google.com/adwords/editor/answer/6332885?hl=en-GB
+
+## Templates
+* https://www.osha.gov/injuryreporting/osha_ita_summary_data_csv_template.csv
+* https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data.pdf
+
 ## Platforms
 * https://en.wikipedia.org/wiki/Pump.io
 * https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking#cite_note-55
