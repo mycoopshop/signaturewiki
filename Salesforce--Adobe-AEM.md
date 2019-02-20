@@ -75,6 +75,7 @@ url:servlet ext:pdf site:salesforce.com
 ## Auditing Tools / Heroku Apps
 * https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
 * https://admin.salesforce.com/salesforce-csi-uncovering-previously-built
+* https://starter-kit-demo.herokuapp.com/
 * https://sfswitch.herokuapp.com/
 * https://salesforce-elf.herokuapp.com/
 * https://json2apex.herokuapp.com/
