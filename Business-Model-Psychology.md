@@ -140,6 +140,7 @@
 * https://www.salesforce.com/ca/solutions/industries/higher-ed/overview/
 * http://www.salesforce.org/highered/advancement-software/
 * http://www.salesforce.org/highered/recruiting/
+* https://aws.amazon.com/solutions/case-studies/nanowrimo/
 
 # Humanity Bias
 * https://www.naviance.com/solutions/middle-schools
