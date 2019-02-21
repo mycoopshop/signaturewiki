@@ -1675,6 +1675,8 @@ Format:2xx0xx000
 ## WSDL
 * https://help.salesforce.com/articleView?id=000004760&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=000250959&language=en_US&type=1
+* https://success.salesforce.com/issues_view?id=a1p3A000000BMJWQA4
+* https://success.salesforce.com/issues_view?id=a1p3A000000eatxQAA
 * https://developer.salesforce.com/forums/?id=906F00000008vMRIAY
 * https://developer.salesforce.com/docs/atlas.en-us.salesforce_developer_environment_tipsheet.meta/salesforce_developer_environment_tipsheet/salesforce_developer_environment_overview.htm
 * https://github.com/developerforce/Force.com-Toolkit-for-PHP/blob/master/soapclient/metadata.wsdl.xml
