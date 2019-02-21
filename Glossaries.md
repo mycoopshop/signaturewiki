@@ -1,4 +1,24 @@
+## APIs
+https://console.bluemix.net/docs/overview/glossary/glossary.html#glossary
+https://auth0.com/identity-glossary
+https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-glossary
+https://www.ibm.com/support/knowledgecenter/en/SSMNED_2018/com.ibm.apic.overview.doc/overview_apimgmt_glossary.html
+http://apiglossary.com/
+https://alexbilbie.com/guide-to-oauth-2-grants/
+https://www.oauth.com/oauth2-servers/differences-between-oauth-1-2/
+
+## DevOps
+1. https://kubernetes.io/docs/reference/glossary/?fundamental=true
+1. https://docs.docker.com/glossary/
+1. https://www.citrix.com/glossary/
+
+## Security
+1. https://www.enterprisegrc.com/news-events/fun-stuff-puzzles-reinforcers-inspiration/sec-glossary
+1. https://docs.secureauth.com/display/SI90/SecureAuth+IdP+9.x+Web+Admin+Glossary
+
+## Architectures
 1. https://docs.marklogic.com/guide/copyright/glossary
+1. https://social.technet.microsoft.com/wiki/contents/articles/20580.wiki-glossary-of-technology-acronyms.aspx
 1. https://www.adha.org/sites/default/files/7773_PR_Journalism_Glossary.pdf
 1. https://tools.ietf.org/html/rfc4949
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1732636/pdf/v058p00971.pdf
