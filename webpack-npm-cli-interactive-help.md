@@ -57,7 +57,13 @@ grunt.registerTask	                   apply-loader(https://github.com/mogelbrod/
 grunt.file.copy                            CopyWebpackPlugin; Use transform (https://github.com/webpack-contrib/copy-webpack-plugin/blob/master/README.md#transform)
 </pre>
 
-**Troubleshooting**
+**Cross-Browser Parity Testing**
+1. Run in IE11, Chrome, and Firefox
+1. Copy/Paste polyfills as an unminified script tag in index.html, then remove them one-by-one
+1. Find the corresponding npm polyfills, then replace the copy/paste code with the minified generated code
+1. Find the server.js source code and change its options to resolve server-side regressions
+ 
+**Cross-Project Parity Testing**
 1. Run the scaffold project A
 1. Run the real project B
 1. Compare the directory structure of project A to project B 
