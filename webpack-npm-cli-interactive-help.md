@@ -248,6 +248,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 
 # Plugin Dev
 * https://github.com/evcohen/accessibility-webpack-plugin
+* https://medium.com/@shellscape/webpacks-new-cli-hotness-d6a2063168a8
 
 # Dev Server
 * https://github.com/webpack/webpack-dev-server/issues/887
