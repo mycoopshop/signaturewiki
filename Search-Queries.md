@@ -74,6 +74,8 @@ wireless lan rf point-to-point ext:pdf domain:mil
 
 ## Play Store
 
++scratchoffs title:apps android ios -title:google title:scratch
+
 +review +game "an android exclusive" -ios -fortnite
 
 ## Chrome Webstore
