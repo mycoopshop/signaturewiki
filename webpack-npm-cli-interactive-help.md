@@ -190,6 +190,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 
 # Mocking
 * https://www.npmjs.com/package/mock-webpack-plugin
+* https://cdn.polyfill.io/v3/polyfill.js
 
 # HTML Email
 https://blog.edmdesigner.com/css-inliner-tools-in-email/
@@ -308,6 +309,8 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://css-tricks.com/polyfill-javascript-need/
 * https://www.npmjs.com/package/dynamic-polyfill
 * https://hackernoon.com/how-i-created-a-parallel-offline-extensible-browser-based-bundler-886db508cc31
+* https://stackoverflow.com/questions/44764647/create-multiple-webpack-bundles-for-different-targets-and-have-browser-choose-ba
+* https://stackoverflow.com/questions/42692827/how-to-load-webpack-bundles-async-but-execute-in-order
 
 ## Customization
 * https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/webpack.html
