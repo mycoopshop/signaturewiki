@@ -1,3 +1,5 @@
+Async is for messages that do not need a response for the program to continue(https://www.quora.com/What-are-the-differences-between-parallel-concurrent-and-asynchronous-programming)
+
 Parallel is for splitting calculations across multiple instances of a compiler or interpreter by spawning processes within a loop(https://rosettacode.org/wiki/Parallel_calculations#Racket, https://docs.oracle.com/cd/A97630_01/server.920/a96524/c20paral.htm, https://www.percona.com/blog/2014/01/07/increasing-slow-query-performance-with-parallel-query-execution/)
 
 Concurrent is for time sharing by not waiting for the result of one line of code while executing subsequent lines of code (https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/ThreadMigration/ThreadMigration.html, https://developer.apple.com/library/archive/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Glossary/Glossary.html)
