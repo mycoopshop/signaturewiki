@@ -1112,6 +1112,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Routing
 * https://developer.salesforce.com/blogs/2018/01/heres-need-know-new-url-format-lightning.html
 
+## Lightning Out
+* https://salesforce.stackexchange.com/questions/208894/unstyled-flows-in-lightning-out
+* https://success.salesforce.com/issues_view?id=a1p3A0000018ByPQAU&title=cache-miss-on-js-controller-tends-to-give-error-for-lightning-component-used-in-lightning-out
+* https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
+
+## Bug Bounty
+* https://engineering.salesforce.com/open-sourcing-autotriagebot-deced9933cd7
+
 ## Lightning
 * https://help.salesforce.com/articleView?id=lightning_components_roadmap.htm
 * * https://admin.salesforce.com/lightning-experience-configuration-converter
@@ -1135,7 +1143,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/developer-relations/2017/03/lightning-components-best-practices-caching-data-storable-actions.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://medium.com/salesforcesummaries/visualforce-in-lightning-experience-32d024e72d36
-* https://www.slideshare.net/andyinthecloud/salesforce-world-tour-2016-lightning-out-components-on-any-platform-62404418
 * https://www.codescience.com/blog/2017/ultimate-lightning-guide-defining-the-differences-in-salesforce-lightning
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/lightning-components-performance-best-practices.html
 * https://developer.salesforce.com/blogs/2018/07/10-tips-for-implementing-an-efficient-lightning-lookup-component.html
@@ -1609,7 +1616,6 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/developer-relations/2013/06/passing-objects-to-future-annotated-methods.html
 * https://developer.salesforce.com/blogs/engineering/2015/05/platform-cache.html
 * https://developer.salesforce.com/blogs/developer-relations/2015/02/apex-continuations-asynchronous-callouts-visualforce-pages.html
-* https://success.salesforce.com/issues_view?id=a1p3A0000018ByPQAU&title=cache-miss-on-js-controller-tends-to-give-error-for-lightning-component-used-in-lightning-out
 * https://releasenotes.docs.salesforce.com/en-us/winter18/release-notes/rn_apex.htm
 * https://help.salesforce.com/articleView?id=How-can-I-avoid-getting-lock-errors-in-my-organization-1327109108393&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2016/09/take-the-first-steps-ways-you-can-replace-javascript-buttons.html
