@@ -14,7 +14,6 @@
 * http://ccis2k.org/iajit/PDF/vol.9,no.6/3056-6.pdf
 * http://www.indiana.edu/~pcl/papers/hansencode2013.pdf
 * https://www.patreon.com/economicupdate
-* https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
 * https://www.insidesource.com/blog/youre-never-too-young-to-make-a-difference/
 * https://www.theregister.co.uk/2018/02/15/elop_and_the_fall_of_nokia_revisited/
 * https://www.recode.net/2018/4/2/17189624/spotify-daniel-ek-ipo-silicon-valley-wall-street-relationship
@@ -43,6 +42,10 @@
 * http://www.dla.mil/Portals/104/Documents/J8Finance/DLA%20WCF%20FY18%20AFR%20Master.pdf
 * https://www.airuniversity.af.edu/Portals/10/AUPress/Books/B_0029_MEILINGER_PATHS_OF_HEAVEN.pdf
 * https://dspace.mit.edu/bitstream/handle/1721.1/56570/15-912Spring-2005/NR/rdonlyres/Sloan-School-of-Management/15-912Spring-2005/2A031E19-78E3-4D5E-BE0A-F8B8183651B3/0/integratedenvrmt.pdf
+
+# Experimentation Bias
+* https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
+* https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education
 
 # Debt Bias
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
