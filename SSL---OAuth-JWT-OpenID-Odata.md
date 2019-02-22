@@ -1,5 +1,14 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
 * https://api2cart.com/api-technology/choosing-oauth-type-api/
+* https://benohead.com/oauth-2-0-openid-connect-explained/
+* https://developer.okta.com/docs/api/resources/oidc
+* https://javascriptplayground.com/node-and-google-oauth/
+* https://ping.force.com/Support/Topic-Detail/OAuth-Playground
+* https://oauth.net/2/grant-types/device-code/
+* https://www.pingidentity.com/content/developer/en/resources/oauth-2-0-developers-guide.html
+* https://www.ibm.com/support/knowledgecenter/en/SSMNED_2018/com.ibm.apic.apionprem.doc/oauth_concepts.html
+* https://dev.freeagent.com/docs/quick_start
+* https://medium.com/@turhan.oz/oauth2-and-google-oauth-playground-550757f9355f
 * https://www.npmjs.com/package/react-native-oauth
 * https://www.npmjs.com/package/client-oauth2
 * https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
