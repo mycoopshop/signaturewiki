@@ -35,6 +35,9 @@
 * https://www.kaggle.com/mrisdal/brand-new-to-kernels-start-here
 * salesforce appexchange nba nfl
 
+# Fellowships
+* https://foundation.mozilla.org/fellowships/
+
 # Resource Bias
 * https://academic.oup.com/jla/article/9/1/51/3572441
 * http://www.dla.mil/Portals/104/Documents/J8Finance/DLA%20WCF%20FY18%20AFR%20Master.pdf
