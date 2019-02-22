@@ -1247,6 +1247,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Investor Timeline
 * https://s1.q4cdn.com/454432842/files/doc_presentations/2016/2016-DF-Analyst-Day_FINAL_Website.pdf
 * https://investor.salesforce.com/about-us/investor/investor-resources/default.aspx
+* https://www.salesforceben.com/8-amazing-salesforce-facts-you-never-knew/
 * https://smallbusinesscrmcoach.com/crm-and-email-marketing-the-power-couple/
 * https://www.zdnet.com/article/contact-managers-and-crm-systems-are-incredibly-stupid/
 * http://www.oracle.com/us/corporate/analystreports/nucleus-crm-tech-value-matrix-4466326.pdf
