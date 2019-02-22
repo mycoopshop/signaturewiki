@@ -106,6 +106,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://codeburst.io/maybe-dont-globally-install-that-node-js-package-f1ea20f94a00
 * https://firstdoit.com/no-need-for-globals-using-npm-dependencies-in-npm-scripts-3dfb478908
 * https://blog.angularindepth.com/this-will-make-you-more-efficient-at-debugging-wepback-unspecified-build-errors-6392850caed9
+* https://dev.to/jhotterbeekx/getting-speed-back-my-webpack-debugging-journey-37a5
 * https://www.slideshare.net/trueter/how-to-make-your-webpack-builds-10x-faster
 * https://medium.com/@vasylstashuk/optimizing-webpack-build-performance-73f2cf0bb176
 * http://justjs.com/posts/npm-link-developing-your-own-npm-modules-without-tears
@@ -130,11 +131,16 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://stefanscherer.github.io/windows-docker-workshop/#1
 * https://github.com/TotallyInformation/node-red-contrib-uibuilder/wiki/Building-app-into-dist-folder-using-webpack
 * https://css-tricks.com/combine-webpack-gulp-4/
+* https://www.reddit.com/r/javascript/comments/8s3fmy/if_webpack_40_is_about_zero_config_then_why_is/
+* https://medium.com/@allycw/using-googles-closure-library-with-webpack-b944e2a4be3a
+* https://www.colbyfayock.com/2018/08/reliable-and-maintainable-google-analytics-in-webpack/
 * https://www.sitepoint.com/bundle-static-site-webpack/
 * https://vijayt.com/post/scaffolding-react-web-app-webpack-2/
 * http://ramkulkarni.com/blog/setting-up-webpack-babel-reactjs/
 
 # Migration
+* https://www.viget.com/articles/unpacking-the-mysteries-of-webpack-a-novices-journey/
+* https://medium.com/webpack/how-to-cope-with-broken-modules-in-webpack-4c0427fb23a
 * https://medium.com/@drgenejones/using-webpack-with-legacy-angular-spas-automating-imports-using-require-context-58e0e9cc6e9c#.sv9x4to9k
 * https://github.com/DavidWells/react-angular-webpack
 * https://medium.com/eventmobi/how-to-incrementally-switch-to-webpack-203a1b431f7a
