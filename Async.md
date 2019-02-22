@@ -3,6 +3,13 @@
 * https://codeburst.io/throttling-and-debouncing-in-javascript-646d076d0a44?gi=4117630fb481
 * https://medium.com/@TCAS3/debounce-deep-dive-javascript-es6-e6f8d983b7a1
 
+## Destructuring
+* http://2ality.com/2016/10/async-function-tips.html
+* https://alligator.io/js/async-functions/
+* https://ktutnik.github.io/destructuring-async-await/
+* https://stackoverflow.com/questions/35612428/call-async-await-functions-in-parallel
+* https://hacks.mozilla.org/2016/12/asyncawait-arrive-in-firefox/
+
 ## Refactoring
 * http://ericniebler.com/2017/08/17/ranges-coroutines-and-react-early-musings-on-the-future-of-async-in-c/
 * https://bytearcher.com/articles/not-everything-goes-to-worker-threads/
