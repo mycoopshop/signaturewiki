@@ -1068,6 +1068,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ### References
 * https://help.salesforce.com/articleView?id=000181277&type=1
+* https://help.salesforce.com/articleView?id=000006007&type=1
 * https://developer.salesforce.com/page/Architect_Core_Resources
 * https://developer.salesforce.com/page/Architecting_Force.com_Apps_A_Design_Primer
 * https://developer.salesforce.com/page/Paginating_Data_for_Force.com_Applications
@@ -1274,12 +1275,14 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=000004410&language=en_US&type=1
 * https://success.salesforce.com/ideaView?id=0873A000000TpuoQAC
+* https://success.salesforce.com/ideaView?id=08730000000Ko5FAAS
 * https://success.salesforce.com/issues_releases_view?release=212000000
 * https://success.salesforce.com/issues_releases_view?release=212010000
 * https://success.salesforce.com/issues_releases_view?release=210000000
 * https://success.salesforce.com/ideaView?id=0873A000000E3ZTQA0
 * https://success.salesforce.com/answers?id=90630000000gyh3AAA
 * https://success.salesforce.com/ideaView?id=08730000000ZEucAAG
+* https://success.salesforce.com/ideaview?id=08730000000BrApAAK
 * https://www.us-cert.gov/sites/default/files/publications/Cloud_Security_Guidance-.gov_Cloud_Security_Baseline.pdf
 
 ## Release Notes
