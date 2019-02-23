@@ -58,6 +58,8 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://appendto.com/2018/09/25-public-react-repos-apps-to-inspire-your-next-project-part-2/
 1. https://open.nytimes.com/the-future-of-meta-tag-management-for-modern-react-development-ec26a7dc9183?gi=a12af8fa545f
 1. https://elijahmanor.com/react-devtools-profiler/
+1. https://maksimivanov.com/posts/react-native-mobx-tutorial/
+1. https://engineering.huiseoul.com/7-tips-of-using-mobx-6ca8c35071dc
 1. https://appendto.com/2018/09/geocoding-with-google-sheets-importjson/
 1. http://www.deadcoderising.com/react-16-render-a-child-component-into-another-dom-node-using-portals/
 1. https://hackernoon.com/building-a-blockchain-dapp-using-truffle-react-next-js-and-mobx-part-2-847193b497e4
