@@ -4,6 +4,7 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 * Chrome Extension Source Viewer: https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
 * Chrome App and Extensions Developer Tool: https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
 * CRX Viewer: https://robwu.nl/crxviewer/
+* CRXcavator: https://duo.com/blog/crxcavator
 
 ## Feeds
 * Mercury Reader
