@@ -180,6 +180,10 @@ https://sites.google.com/site/pydatalog/
 
 https://jsfiddle.net/twophayse/ay6rkLwt/
 
+https://anyonecanlearntocode.com/blog_posts/why-vue-not-react-is-the-new-jquery
+
+https://www.quora.com/Why-did-jQuery-win
+
 # Types
 https://en.wikipedia.org/wiki/Rebol
 
