@@ -42,6 +42,10 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://github.com/airbnb/enzyme/issues/1468
 1. https://stackoverflow.com/questions/46169824/intercept-navigation-change-with-jest-js-or-how-to-override-and-restore-locatio
 
+## Codepen/JSFiddle
+* https://codepen.io/evgen/pen/NgpVMw
+* https://jsfiddle.net/mweststrate/wv3yopo0/
+
 ## Sample Projects
 1. https://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 1. https://appendto.com/2018/09/25-public-react-repos-apps-to-inspire-your-next-project-part-2/
