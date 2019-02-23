@@ -27,3 +27,17 @@ https://girliemac.com/stickies/
 https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee
 
 https://viblo.asia/p/simple-web-workers-workflow-with-webpack-3P0lPkobZox
+
+## Workers
+
+https://bugs.jquery.com/ticket/9889
+
+https://www.codeproject.com/Articles/168604/Combining-jQuery-Deferred-with-the-HTML5-Web-Worke
+
+https://asquera.de/blog/2018-10-01/webassembly-and-wasm-bindgen/
+
+https://www.clicktorelease.com/blog/optimise-svg-load-service-worker/
+
+https://www.html5rocks.com/en/tutorials/file/filesystem-sync/
+
+https://stackoverflow.com/questions/34057127/how-to-transfer-large-objects-using-postmessage-of-webworker
