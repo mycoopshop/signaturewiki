@@ -22,6 +22,13 @@ PropTypes are for validation, Enzyme is for emulation, Jest is for assertions
 1. https://www.npmjs.com/package/react-angular-component
 1. https://raw.githubusercontent.com/facebook/react/master/packages/react-is/src/__tests__/ReactIs-test.js
 
+## Docs
+1. https://github.com/mobxjs/mobx/wiki/Migrating-from-mobx-3-to-mobx-4
+1. https://github.com/mobxjs/mobx/blob/master/CHANGELOG.md
+1. https://github.com/facebook/jest/blob/master/CHANGELOG.md
+1. https://github.com/airbnb/enzyme/blob/master/CHANGELOG.md
+1. https://github.com/facebook/prop-types/blob/master/CHANGELOG.md
+
 ## Cheatsheets
 1. https://github.com/sapegin/jest-cheat-sheet
 1. https://medium.com/@paulanthonysalvatore/jest-my-summer-approaching-various-problems-with-jest-enzyme-fc1ad992aece
