@@ -59,3 +59,9 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 * https://github.com/chimurai/http-proxy-middleware#context-matching
 * https://gorillalogic.com/blog/webpack-and-cors/
 * https://daniel.haxx.se/blog/2016/11/26/https-proxy-with-curl/
+
+## Webhooks
+* https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671
+* https://www.adobe.io/apis/experienceplatform/events/documentation.html#!adobeio/adobeio-documentation/master/events/intro/webhook_docs_intro.md
+* https://perl6advent.wordpress.com/2016/12/01/consuming-github-webhooks/
+* https://help.cloudforge.com/hc/en-us/articles/215242683-Using-Web-Hooks
