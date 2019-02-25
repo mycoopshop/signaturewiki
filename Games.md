@@ -982,8 +982,11 @@ Zelda: A Link to the Past
 
 GBC
 Canon Fodder
-Metal Gear: Ghost Babel
-Tomb Raider Starring Lara Croft
+Woody Woodpecker
+Mega Man
+Lufia
+Donkey Kong County
+Wolverine's Rage
 The Legend of Zelda: Link's Awakening DX
 Shantae
 
