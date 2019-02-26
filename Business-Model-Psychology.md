@@ -347,6 +347,7 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * https://sites.google.com/site/naomiastral/ancient-kemet/the-pineal-gland---dmt---melanin-myth
 * https://hyperboreanhealth.com/mercury-fluoride-and-long-skulls-what-do-they-have-in-common/
 * https://blog.paleohacks.com/belly-boost-shot/
+* https://www.apnews.com/b4c7e8aace4d45bca6d4b2f6b2ee0ac0
 
 # Language Bias
 * https://archive.org/details/aliteraltransla00unkngoog
