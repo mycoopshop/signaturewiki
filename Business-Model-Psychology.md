@@ -148,12 +148,14 @@
 * http://www.salesforce.org/highered/recruiting/
 * https://aws.amazon.com/solutions/case-studies/nanowrimo/
 
+
 # Humanity Bias
 * https://www.naviance.com/solutions/middle-schools
 * https://www.fremontbank.com/about/core-standards
 * https://www.fremontbank.com/about/community-relations/fremont-bank-foundation/funding-focus
 
 # Historical Bias
+* https://www.apnews.com/1a64f4b2eed74402a5ae36c9a9bd6d6f
 * https://scholar.lib.vt.edu/ejournals/JOTS/v30/v30n4/pdf/johnson.pdf
 * http://xroads.virginia.edu/~MA03/faturoti/harlem/collage/washington.html
 * https://www.apnews.com/18b84bb032e048b3958467f1e744ca6c/AP-Explains:-Modern-media-magnify-impact-of-assassinations
