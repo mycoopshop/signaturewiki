@@ -16,6 +16,15 @@
 * https://leanpub.com/javascriptallongesix/read
 * http://richardartoul.github.io/javascript/2015/07/16/promises-generators.html
 * http://blog.tabforacause.org/post/115245771331/using-reactjs-and-application-cache-for-a-fast
+* https://hackernoon.com/async-await-generators-promises-51f1a6ceede2
+* http://davidmieloch.com/2017/07/15/async-await-promises-then-magic.html
+* https://hallski.org/blog/async-await-with-generators
+* https://itnext.io/javascript-asynchronous-method-comparison-callbacks-promises-async-await-generators-e689d579aba7
+
+## Testing
+* https://jestjs.io/docs/en/asynchronous
+* https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname
+* https://stackoverflow.com/questions/49073178/jest-spyon-method-that-return-a-promise
 
 ## Idioms and Gotchas
 * https://itnext.io/a-pragmatic-overview-of-async-hooks-api-in-node-js-e514b31460e9
