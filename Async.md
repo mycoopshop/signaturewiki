@@ -28,6 +28,11 @@
 * https://javascript.info/async-await
 * https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
 
+## Boilerplate
+* https://jonbellah.com/articles/async-await/
+* https://developers.google.com/web/ilt/pwa/working-with-promises
+* http://2ality.com/2016/03/promise-rejections-vs-exceptions.html
+
 ## Testing
 * https://jestjs.io/docs/en/asynchronous
 * https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname
