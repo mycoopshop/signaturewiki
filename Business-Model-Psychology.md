@@ -46,6 +46,7 @@
 # Experimentation Bias
 * https://9to5mac.com/2018/03/28/making-the-grade-why-apples-education-strategy-is-not-based-on-reality/
 * https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education
+* https://www.computerhistory.org/atchm/what-do-anniversaries-mean-internet-protocols-at-40/
 
 # Debt Bias
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
