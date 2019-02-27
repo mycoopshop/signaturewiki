@@ -20,6 +20,10 @@
 * https://www.ecma-international.org/ecma-262/8.0/#sec-%typedarray%.prototype.sort
 * https://www.ecma-international.org/ecma-262/8.0/#sec-array.prototype.sort
 
+## Lazy Loading
+* https://promisesaplus.com/
+* https://www.w3.org/TR/resource-priorities/
+
 ## Sound
 * http://musictechstudent.org/tech-beginnings/first-contact-with-music-tech/basics-of-sound/
 * https://music.stackexchange.com/questions/58739/drum-programming-and-tempo-bpm
