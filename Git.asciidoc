@@ -24,6 +24,12 @@ To switch branches, use git checkout with no options:
 
     git checkout foo
 
+To reset existing commits and create a new branch, switch to the master or current top-level branch:
+
+    git push
+    git checkout master
+    git checkout -b newbranch
+
 To check in, use the following process:
 
  
@@ -437,6 +443,8 @@ https://makandracards.com/makandra/2521-git-how-to-create-and-apply-patches
 https://www.tutorialspoint.com/git/git_patch_operation.htm
 
 https://www.lullabot.com/articles/git-best-practices-upgrading-the-patch-process
+
+https://www.usna.edu/Users/cs/aviv/classes/si485h/s17/submit.html
 
 https://cbx33.github.io/gitt/chap8-6.html
 
