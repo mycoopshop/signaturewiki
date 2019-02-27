@@ -21,6 +21,13 @@
 * https://hallski.org/blog/async-await-with-generators
 * https://itnext.io/javascript-asynchronous-method-comparison-callbacks-promises-async-await-generators-e689d579aba7
 
+## Flow Control
+* https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
+* https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
+* http://2ality.com/2014/10/es6-promises-api.html
+* https://javascript.info/async-await
+* https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
+
 ## Testing
 * https://jestjs.io/docs/en/asynchronous
 * https://jestjs.io/docs/en/jest-object#jestspyonobject-methodname
