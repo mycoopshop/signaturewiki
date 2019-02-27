@@ -22,6 +22,8 @@ Excellent verbal and written communication skills
 url:servlet ext:pdf site:salesforce.com
 * https://www.sundoginteractive.com/blog/salesforces-apex-runtime-design
 * https://engineering.salesforce.com/meet-the-all-stars-alex-dimitropoulos-2cfea6b73abb
+* https://help.salesforce.com/articleView?id=000268571&type=1&language=en_US
+* https://help.salesforce.com/articleView?id=000249086&type=1&language=en_US
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_apex_inherited_sharing.htm
 * https://help.salesforce.com/articleView?id=apex_hammer_execution_status.htm&type=0
 * https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000034eqiAAA
