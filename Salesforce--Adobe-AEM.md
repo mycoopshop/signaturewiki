@@ -1359,6 +1359,7 @@ Format:2xx0xx000
 * https://developer.salesforce.com/blogs/2018/03/integrating-hangouts-chat-salesforce.html
 * https://developer.salesforce.com/blogs/developer-relations/2012/02/quick-tip-public-restful-web-services-on-force-com-sites.html
 * https://devcenter.heroku.com/articles/app-webhooks-schema
+* https://github.com/quip/quip-api/tree/master/samples/webhooks
 
 ## Einstein
 * https://einstein.ai/terms-of-service
