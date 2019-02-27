@@ -16,6 +16,10 @@
 * https://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents
 * https://people.richland.edu/james/lecture/m116/functions/inverses.html
 
+## Sort
+* https://www.ecma-international.org/ecma-262/8.0/#sec-%typedarray%.prototype.sort
+* https://www.ecma-international.org/ecma-262/8.0/#sec-array.prototype.sort
+
 ## Sound
 * http://musictechstudent.org/tech-beginnings/first-contact-with-music-tech/basics-of-sound/
 * https://music.stackexchange.com/questions/58739/drum-programming-and-tempo-bpm
