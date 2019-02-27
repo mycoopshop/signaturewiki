@@ -139,7 +139,10 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2008/12/using-the-metadata-api-to-retrieve-picklist-values.html
 * https://developer.salesforce.com/forums/?id=9060G0000005UXVQA2
 
-## Omnichannel (OpenSearch, JSON-LD, MHTML, RFC822) 
+## Omnichannel (OpenSearch, JSON-LD, MHTML, RFC822, RFC6761)
+* https://www.sixteen-nine.net/2016/06/14/4-reasons-why-retail-should-adopt-omni-channel-digital-signage/
+* https://ecommercenews.eu/european-countries-approach-omni-channel-differently/
+* https://blog.feedeo.io/2017/05/09/5-inspiring-companies-doing-omni-channel-right/
 * https://www.salesforce.com/blog/2017/12/multi-channel-support
 * https://www.salesforce.com/blog/2018/08/customer-experience-personalization-state-marketing-report
 * https://www.salesforce.com/blog/2016/07/content-marketing-mistakes
@@ -402,6 +405,8 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 
 ## IoT
 * https://github.com/developerforce/Force.com-Toolkit-for-Jasper
+* https://help.salesforce.com/articleView?id=bi_setup_connected_app.htm&type=5
+* https://help.salesforce.com/articleView?id=000004958&language=en_US&type=1
 * https://developer.salesforce.com/blogs/developer-relations/2016/02/integrating-jasper-control-center-api-force-com.html
 * https://partners.salesforce.com/s/education/general/Salesforce_IoT
 * https://developer.salesforce.com/blogs/2018/05/the-making-of-the-robotics-ridge-at-trailheadx.html
@@ -1779,6 +1784,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=sso_tips.htm&type=5
 
 ## Packaging
+* https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
 * https://help.salesforce.com/articleView?id=design_your_app.htm&type=5
 * https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 * https://help.salesforce.com/articleView?id=packaging_component_attributes.htm&type=5
