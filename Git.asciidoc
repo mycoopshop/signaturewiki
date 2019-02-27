@@ -24,11 +24,13 @@ To switch branches, use git checkout with no options:
 
     git checkout foo
 
-To reset existing commits and create a new branch, switch to the master or current top-level branch:
+To reset existing commits and create a new branch, stash your local env, switch to the master or current top-level branch:
 
     git push
+    git stash 
     git checkout master
     git checkout -b newbranch
+    git stash apply
 
 To check in, use the following process:
 
