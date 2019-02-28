@@ -44,6 +44,10 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 1. https://stackoverflow.com/questions/36825042/consuming-rss-feed-with-aws-lambda-and-api-gateway
 1. https://developers.google.com/youtube/v3/guides/push_notifications
 1. https://github.com/pubsubhubbub/PubSubHubbub/wiki/RSS-Feeds
+1. https://4sysops.com/archives/sending-a-webhook-via-powershell/
+1. https://dzone.com/articles/setting-up-automation-for-webhooks-testing
+1. https://auth0.com/blog/introduction-to-progressive-web-apps-push-notifications-part-3/
+1. https://chrome.google.com/webstore/detail/send-to-webhook/hoglpfllfgiennflpdodjpaaecpfodpe?hl=en
 
 ## Proxies
 * https://www.cisco.com/c/en/us/td/docs/security/web_security/connector/connector2972/PACAP.html
