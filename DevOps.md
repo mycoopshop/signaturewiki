@@ -98,6 +98,10 @@ Perl Jenkins Redis
 * https://devopsheaven.com/sqlite/backup/restore/dump/databases/docker/2017/10/10/sqlite-backup-restore-docker.html
 * https://docs.docker.com/samples/library/httpd/
 * https://docs.docker.com/docker-for-windows/
+* http://modius.io/2016/01/02/docker-for-lucee-devs-p1/
+* https://labs.daemon.com.au/t/lucee-docker-file-breakdown-lucee-lucee51-nginx/291
+* https://medium.com/@elle.florio/the-svn-dockerization-84032e11d88d
+* https://blog.ispirata.com/clustering-elixir-erlang-applications-in-kubernetes-part-1-the-theory-ca658acbf101
 * https://www.infoworld.com/article/3234531/application-testing/testing-with-the-inmemory-provider-in-entity-framework-core.html
 * https://hub.docker.com/_/httpd
 * https://dzone.com/articles/creating-a-docker-container-host-on-windows-nano-s
@@ -110,6 +114,7 @@ Perl Jenkins Redis
 * https://medium.com/@n1_/docker-sqlite-3-33e84feb239a
 * https://www.infoq.com/articles/docker-containers
 * https://docs.docker.com/compose/compose-file/#compose-documentation
+* https://stackoverflow.com/questions/40099339/dockerize-asp-classic-on-iis
 * https://github.com/IcaliaLabs/guides/wiki/Creating-a-new-Rails-application-project-with-Docker
 * https://github.com/SouthGreenPlatform/tutorials/wiki/Docker-practical
 * https://insights.sei.cmu.edu/devops/2015/07/fabric-ansible-docker-and-chaos-monkey-the-devops-mid-year-review.html
