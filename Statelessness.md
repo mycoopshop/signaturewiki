@@ -1,3 +1,19 @@
+## DOM time based statelessness
+
+Unique CSS class names can be date based. For example: 
+
+    const ID = 'cls' + Date.now().toString();
+
+Query selectors can target the class name for DOM mutation. For example:
+
+    document.querySelector(ID).parentNode.setAttribute('class', 'hidden');
+
+The CSSOM can be updated to customize styling for the unique class name. For example:
+    
+    document.stylesheets[0].insertRule(ID + '{color: red}')
+
+## References
+* https://medium.com/dailyjs/high-performance-dynamic-styles-db28c873940
 * http://jamesknelson.com/state-react-1-stateless-react-app/
 * https://blog.cloudboost.io/react-functional-stateless-components-tutorial-example-fsc-147abc08f1?gi=726949919873
 * https://www.zsoltnagy.eu/container-components-and-stateless-functional-components-in-react/
