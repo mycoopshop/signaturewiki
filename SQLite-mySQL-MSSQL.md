@@ -1,4 +1,5 @@
 ## SQLite
+### Usage
 * https://www.twosixlabs.com/sqlite-as-a-shell-script/
 * https://kailaspatil.blogspot.com/2013/07/python-script-to-convert-json-file-into.html
 * https://www.phparch.com/2011/11/full-text-search-with-sqlite/
@@ -29,7 +30,7 @@
 * https://changelog.com/podcast/201
 * http://my-symbian.com/main/index.php?m=200804
 * https://blog.lizardwrangler.com/2008/02/27/the-sqlite-consortium/
-
+* https://sqlite.org/prosupport.html
 
 ## MySQL
 * https://jugad2.blogspot.com/2014/03/database-to-json-in-python.html
