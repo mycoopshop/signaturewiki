@@ -1,14 +1,14 @@
-## DOM time based statelessness
+## DOM based stateless toggling
 
-Unique CSS class names can be date based. For example: 
+1. Unique CSS class names can be date based. For example: 
 
     const ID = 'cls' + Date.now().toString();
 
-Query selectors can target the class name for DOM mutation. For example:
+2. Query selectors can target the class name for DOM mutation. For example:
 
-    document.querySelector(ID).parentNode.setAttribute('class', 'hidden');
+    document.querySelector(event.target.className).parentNode.setAttribute('class', 'hidden');
 
-The CSSOM can be updated to customize styling for the unique class name. For example:
+3. The CSSOM can be updated to customize styling for the unique class name. For example:
     
     document.stylesheets[0].insertRule(ID + '{color: red}')
 
