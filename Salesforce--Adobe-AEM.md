@@ -821,6 +821,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## External Services (Swagger/RAML)
 * https://help.salesforce.com/articleView?id=external_services.htm&type=5
 * https://help.salesforce.com/articleView?id=external_services_schema.htm&type=5
+* https://www.slideshare.net/developerforce/easy-nocode-integrations-with-external-services-and-visual-flow
+* https://trailhead.salesforce.com/en/content/learn/modules/external-services/define-a-schema-for-an-external-service
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_forcecom_ext_services.htm?edition=&impact=
 * https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
 * https://developer.salesforce.com/blogs/2018/04/connecting-to-swagger-backed-apis-with-clicks-or-code.html
