@@ -19,6 +19,16 @@
 * http://www.evanjones.ca/sqlite-for-data-analysis.html
 * https://plot.ly/python/big-data-analytics-with-pandas-and-sqlite/
 * https://pythonspot.com/sqlite-database-with-pandas/
+* https://www.sqlite.org/oldnews.html
+
+### Funding
+* http://eprints.whiterose.ac.uk/132551/8/p29_block.pdf
+* https://www.oracle.com/technetwork/topics/php/highperf-php-preso-405765.pdf
+* https://news.ycombinator.com/item?id=15648280
+* https://www.hwaci.com/sw/sqlite/cerod.html
+* https://changelog.com/podcast/201
+* http://my-symbian.com/main/index.php?m=200804
+* https://blog.lizardwrangler.com/2008/02/27/the-sqlite-consortium/
 
 
 ## MySQL
