@@ -77,7 +77,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://github.com/webpack/webpack/tree/master/examples
 
 **References**
-
+* https://github.com/webpack/webpack-dev-server/issues?utf8=%E2%9C%93&q=is%3Aissue+disablehostcheck+windows
 * https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
 * http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
 * https://blog.scottlogic.com/2018/02/13/npm-shrikwrap-merges-and-conflicts.html
