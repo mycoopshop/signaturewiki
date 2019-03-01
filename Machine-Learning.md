@@ -6,6 +6,9 @@
 
 ## NLP
 * https://www.npmjs.com/package/search-index
+* https://davidwalsh.name/open-search
+* http://2ality.com/2013/06/chrome-omnibox-search.html
+* https://docs.servicenow.com/bundle/london-platform-administration/page/integrate/inbound-other-web-services/task/t_BuildSearchProviderForInstance.html
 * https://towardsdatascience.com/predicting-logics-lyrics-with-machine-learning-9e42aff63730
 * https://www.newscientist.com/article/2115684-machine-learning-lets-computer-create-melodies-to-fit-any-lyrics/
 * https://medium.com/@yashka.troy/alphabet-array-solving-anagrams-fc5e1ac68431
