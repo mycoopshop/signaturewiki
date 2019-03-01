@@ -39,6 +39,9 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 ## References
 1. https://blog.superfeedr.com/howto-pubsubhubbub/
 1. https://codex.wordpress.org/Update_Services
+1. https://zapier.com/apps/rss/integrations/webhook/1746/send-a-webhook-when-an-rss-feed-is-updated
+1. https://webrender.net/2017/11/23/automate-github-pages-ifttt-glitch.html
+1. https://github.com/adlnet/ADL_LRS/wiki/Webhooks
 1. https://nordicapis.com/webhooks-vs-websub-which-one-is-better-to-stream-your-events-in-real-time/
 1. https://www.programmableweb.com/news/what-are-webhooks-and-how-do-they-enable-real-time-web/2012/01/30
 1. https://www.programmableweb.com/news/what-pubsubhubbub-push-styled-api-and-how-does-it-work/analysis/2017/04/03
