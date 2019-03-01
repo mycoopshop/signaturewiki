@@ -981,7 +981,7 @@ Spider-Man 3
 Zelda: A Link to the Past
 
 GBC
-Canon Fodder
+Cannon Fodder
 Woody Woodpecker
 Mega Man
 Lufia
