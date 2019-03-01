@@ -1,5 +1,11 @@
 * https://icannwiki.org/Category:TLD
 
+* https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
+
+* https://www.w3.org/TR/wot-binding-templates/
+
+* https://www.w3.org/TR/app-uri/
+
 * https://en.wikipedia.org/wiki/XProc
 
 * https://en.wikipedia.org/wiki/Cuneiform_(programming_language)
