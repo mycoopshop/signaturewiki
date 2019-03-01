@@ -234,6 +234,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce1_guide.pdf
 * http://resources.docs.salesforce.com/sfdc/pdf/salesforce_vpm_implementation_guide.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce1_url_schemes.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_ide2.pdf
 * https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_iot_api.pdf
 * https://resources.docs.salesforce.com/sfdc/pdf/api_meta.pdf
