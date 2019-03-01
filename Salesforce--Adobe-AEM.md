@@ -1825,6 +1825,7 @@ Format:2xx0xx000
 * https://force.desk.com/customer/portal/articles/2659738-how-to-get-a-password-for-my-trailhead-playground?b_id=13478
 * https://force.desk.com/customer/en/portal/topics/1063710-trailhead-challenges/articles?b_id=13478
 * https://partners.salesforce.com/s/education/general/Admin_Training
+* https://salesforce.stackexchange.com/questions/213736/api-access-to-trailhead-data
 
 # Non-Profit / Education
 * https://tech.ucsf.edu/salesforce-ucsf-build-simple-crms-fast
