@@ -25,4 +25,8 @@
 ## Wasm
 
 * https://www.accusoft.com/blog/should-i-be-using-webassembly/
-* 
+* https://www.barcoderesource.com/WebAssembly_wasm.shtml
+* https://www.codepool.biz/javascript-barcode-sdk-native-webassembly.html
+* http://tesseract.projectnaptha.com/
+* https://venturebeat.com/2018/10/09/dropboxs-autoocr-can-index-text-from-pdfs-and-images/
+* https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html?index=..%2F..index#0
