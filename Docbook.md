@@ -4,3 +4,6 @@
 1. http://www.sagehill.net/docbookxsl/
 1. https://docbook.org/docs/howto/howto.html
 1. https://github.com/docbook/wiki/wiki/DocBookCssStylesheets
+1. http://www.sagehill.net/docbookxsl/GenerateIndex.html
+1. https://www.infomanagementcenter.com/publications/best-practices-newsletter/2009-best-practices-newsletter/indexing-effectively-in-dita/
+1. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.131.2069&rep=rep1&type=pdf
