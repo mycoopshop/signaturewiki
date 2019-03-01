@@ -11,7 +11,6 @@
 * https://dev.freeagent.com/docs/quick_start
 * https://medium.com/@turhan.oz/oauth2-and-google-oauth-playground-550757f9355f
 * https://www.npmjs.com/package/react-native-oauth
-* https://www.npmjs.com/package/client-oauth2
 * https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
 * https://www.uml-diagrams.org/google-sign-on-uml-activity-diagram-example.html
 * https://www.joyofdata.de/blog/talking-to-twitters-rest-api-v1-1-with-r/
