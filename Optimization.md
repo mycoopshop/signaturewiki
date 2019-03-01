@@ -10,7 +10,11 @@ https://www.sitepoint.com/non-blocking-async-defer/
 
 https://chrome.google.com/webstore/detail/clacks-overhead-gnu-terry/lnndfmobdoobjfcalkmfojmanbeoegab?hl=en
 
+## Web Workers
+
 https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d
+
+http://proceedings.esri.com/library/userconf/devsummit18/papers/dev-int-097.pdf
 
 ## Build Tooling Code Reuse
 
