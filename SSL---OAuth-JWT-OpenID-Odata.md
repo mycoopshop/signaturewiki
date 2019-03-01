@@ -1,4 +1,5 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
+* https://www.npmjs.com/package/client-oauth2
 * https://api2cart.com/api-technology/choosing-oauth-type-api/
 * https://benohead.com/oauth-2-0-openid-connect-explained/
 * https://developer.okta.com/docs/api/resources/oidc
