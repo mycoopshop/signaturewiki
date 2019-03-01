@@ -237,6 +237,8 @@
 * https://www.truthdig.com/articles/james-cones-gospel-of-the-penniless-jobless-marginalized-and-despised/
 * https://money.stackexchange.com/questions/2301/what-are-the-best-software-tools-for-personal-finance/4503#4503
 * https://money.stackexchange.com/questions/45877/why-use-accounting-software-like-quickbooks-instead-of-excel-spreadsheets/46059#46059
+* https://addons.mozilla.org/en-US/firefox/addon/seo-website-analysis/
+* https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
@@ -345,6 +347,7 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf
 
 # Health Bias
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180298/
 * https://cosmicktraveler.wordpress.com/2017/10/15/calcite-crystals-in-the-pineal-gland/
 * https://sites.google.com/site/naomiastral/ancient-kemet/the-pineal-gland---dmt---melanin-myth
 * https://hyperboreanhealth.com/mercury-fluoride-and-long-skulls-what-do-they-have-in-common/
