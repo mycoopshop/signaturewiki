@@ -30,7 +30,14 @@ https://en.wikipedia.org/wiki/Schwartzian_transform
 https://culturedperl.com/perl-5-xml-validation-with-dtd-and-xsd-ec2d90f7c434
 https://docs.servicenow.com/bundle/london-application-development/page/integrate/perl/task/t_InstallThePerlAPI.html
 
+## Plain Text
+* https://metacpan.org/pod/File::Path
+* https://metacpan.org/pod/patch
+* https://metacpan.org/pod/File::Slurp
+
 ## CPAN
+* http://www.rcbowen.com/imho/perl/modules.html
+* http://alumni.soe.ucsc.edu/~you/notes/perl-module-install.html
 * https://mojolicious.org/perldoc/CPAN
 * https://supermarket.chef.io/cookbooks/perl
 * https://www.perlmonks.org/?node_id=128077
