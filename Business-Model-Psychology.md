@@ -342,6 +342,7 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 * https://ore.exeter.ac.uk/repository/bitstream/handle/10871/30176/BernthalHookerA.pdf?sequence=4
 * http://dream-prophecy.blogspot.com/2009/04/ancient-astronomy-of-bible.html
 * http://www.academia.edu/7147034/The_Totemic_Analogy_in_Bible_Symbolism
+* http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf
 
 # Health Bias
 * https://cosmicktraveler.wordpress.com/2017/10/15/calcite-crystals-in-the-pineal-gland/
