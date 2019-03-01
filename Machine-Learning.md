@@ -1,9 +1,42 @@
 > In new research accepted for publication in Chaos, they showed that improved predictions of chaotic systems like the Kuramoto-Sivashinsky equation become possible by hybridizing the data-driven, machine-learning approach and traditional model-based prediction. Ott sees this as a more likely avenue for improving weather prediction and similar efforts, since we don’t always have complete high-resolution data or perfect physical models. “What we should do is use the good knowledge that we have where we have it,” he said, “and if we have ignorance we should use the machine learning to fill in the gaps where the ignorance resides.”
 
+## Techniques
+* https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+* https://www.linkedin.com/pulse/naive-bayes-classifier-foundation-machine-learning-chase-perkins
+
+## NLP
+* https://towardsdatascience.com/predicting-logics-lyrics-with-machine-learning-9e42aff63730
+* https://www.newscientist.com/article/2115684-machine-learning-lets-computer-create-melodies-to-fit-any-lyrics/
+* https://medium.com/@yashka.troy/alphabet-array-solving-anagrams-fc5e1ac68431
+* https://www.scirp.org/journal/PaperInformation.aspx?PaperID=20943
+* https://tmthyjames.github.io/2018/february/Predicting-Musical-Genres/
+* https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3813&context=etd
+* http://www.lwebzem.com/cgi-bin/courses/course_view.cgi?c=naive_bayes_classification_course.cgi
+
 ## NLG
+* title:machine title:learning title:lyrics -ext:pdf
+* https://github.com/llSourcell/Rap_Lyric_Generator/blob/master/MarkovRap.py
 * https://www.cjr.org/tow_center_reports/guide_to_automated_journalism.php/
 * https://www.salesforce.com/blog/2016/09/artificial-intelligence-helps-small-businesses.html
+* https://pdfs.semanticscholar.org/08ed/cd794d534450f46ba5969f3e4098a0b4c744.pdf
+* https://www.import.io/post/neural-nets-how-regular-expressions-brought-about-deep-learning/
 
+## Datasets
+* https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+* https://archive.ics.uci.edu/ml/datasets/letter+recognition
+* https://medium.com/@saframpton/our-lossy-alphabet-a59516e8c3fb
+* https://github.com/angular/code.angularjs.org/blob/master/1.4.9/docs/js/search-data.json
+
+## Classifiers
+* https://pdfs.semanticscholar.org/ccba/c9c9cda72b27bfda0d780be86da744b6ce7c.pdf
+* https://www.supermarketguru.com/articles/the-first-of-its-kind-study-shows-ai-tool-can-improve-best-practices-in-managing-nut-allergies/
+
+## Dictionaries
+* https://www.tutorialspoint.com/adobe_robohelp/adobe_robohelp_creating_indexes_keywords.htm
+
+## Chatbots
+* https://easydita.com/a-chatbot-maturity-model/
+* 
 ## Slackbots
 https://medium.com/slack-developer-blog/conversing-with-ai-on-slack-5af2561f98a5
 https://medium.com/@SAPCAI/a-natural-language-slackbot-19ca5b0fc64b
