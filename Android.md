@@ -10,6 +10,8 @@ https://developer.chrome.com/multidevice/android/intents
 
 https://developer.android.com/guide/components/intents-common
 
+https://moz.com/blog/how-to-get-your-app-content-indexed-by-google
+
 https://techcrunch.com/2016/03/05/mit-spin-out-thunkable-hopes-its-drag-and-drop-app-builder-can-be-a-money-spinner-too/
 
 https://www.edsurge.com/news/2018-06-05-thunkable-launches-cross-platform-app-maker-that-lets-kids-drag-drop-and-build
