@@ -239,6 +239,7 @@
 * https://money.stackexchange.com/questions/45877/why-use-accounting-software-like-quickbooks-instead-of-excel-spreadsheets/46059#46059
 * https://addons.mozilla.org/en-US/firefox/addon/seo-website-analysis/
 * https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/
+* http://www.browsium.com/catalyst/kb/
 
 # Obscurity Bias
 * http://brinker.mediaroom.com/ChilisDataIncident
