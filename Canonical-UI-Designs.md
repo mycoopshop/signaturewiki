@@ -26,6 +26,8 @@ Questionnaire: https://www.homeadvisor.com/task.Kitchen-Remodel.40131.html
 
 Liquid: https://www.zeldman.com/2017/11/19/dao-responsive-liquid/
 
+Fixed: https://medium.com/@malcolmcollin/look-mom-no-storyboard-1e721101c29f
+
 **References**
 
 * https://www.safaribooksonline.com/library/view/designing-web-interfaces/9780596155353/#toc-start
