@@ -1861,6 +1861,7 @@ Format:2xx0xx000
 What does "decoupled" mean?
 Content authoring and editorial functionality is separate from front-end development capabilities. Content is stored within a shared repository that both IT and marketing teams can access.
 
+* https://solutionpartners.adobe.com/content/dam/spp_assets/public/public_4/Continuous_Integration_for_AEM.pdf
 * https://helpx.adobe.com/experience-manager/6-2/sites/developing/using/ht-projects-maven.html
 * https://helpx.adobe.com/experience-manager/using/querying-experience-manager-data-using1.html
 * https://helpx.adobe.com/experience-manager/using/oak-login.html
