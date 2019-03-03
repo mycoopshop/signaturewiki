@@ -55,6 +55,9 @@ https://www.ncbi.nlm.nih.gov/books/NBK25553/
 ### Acid Reflux
 https://www.ncbi.nlm.nih.gov/pubmed/11591558
 
+### Arhythmia
+https://wonder.cdc.gov/wonder/prevguid/p0000016/p0000016.asp
+
 ### Long term ineffectiveness
 https://www.ncbi.nlm.nih.gov/pubmed/18774166
 
