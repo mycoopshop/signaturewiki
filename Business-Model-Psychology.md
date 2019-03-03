@@ -400,11 +400,14 @@ https://www.roberthalf.com/blog/job-market/22-best-technology-job-boards-you-nee
 xkcd t-shirts
 
 # Enterprise Bias
-http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
-https://www.apnews.com/87a08b347f8d42a2a59d721a4d407bfa/Cybersecurity-education-growing-in-Nevada-as-risks-increase
-https://cloud.gov/quickstart/
-https://alistapart.com/article/web-developer-representation-in-w3c
-https://www.quirksmode.org/blog/archives/2018/09/fronteers_consi_1.html
+* http://www.oa.pa.gov/Policies/Documents/itp_sft009.pdf
+* https://www.apnews.com/87a08b347f8d42a2a59d721a4d407bfa/Cybersecurity-education-growing-in-Nevada-as-risks-increase
+* https://cloud.gov/quickstart/
+* https://alistapart.com/article/web-developer-representation-in-w3c
+* https://www.quirksmode.org/blog/archives/2018/09/fronteers_consi_1.html
+
+# Partner Bias
+https://support.roku.com/article/208756538-how-do-i-use-the-movie-store-by-fandango-
 
 # Credential Bias
 https://www.marketwatch.com/story/shark-robert-herjavec-college-could-be-a-big-waste-of-your-kids-time-2019-01-03
