@@ -1,4 +1,8 @@
-## Cromolyn sodium (Intal)
+## Non-steroidal
+
+Cromolyn sodium (Intal)
+
+Immunotherapy
 
 ## beta(2)-adrenergic
 
