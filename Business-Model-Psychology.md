@@ -79,6 +79,7 @@
 
 # Nintendo
 * https://seekingalpha.com/article/4230230-nintendo-intellectual-property-goldmine
+* https://www.apnews.com/a9c4bf2a147244eab9e6de7984e185e7
 * https://repositorio.iscte-iul.pt/bitstream/10071/9081/1/Thesis%20Cl%C3%A1udio%20Almeida.pdf
 * https://studenttheses.cbs.dk/bitstream/handle/10417/5079/matteo_musso.pdf?sequence=1
 * https://www.solactive.com/wp-content/uploads/2016/08/GAME-Index.pdf
