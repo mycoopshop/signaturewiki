@@ -76,7 +76,15 @@
 # Gamification
 * https://scratch.mit.edu/projects/202338438/#editor
 * https://help.tenderapp.com/kb/reports/advanced-csv-use
+
+# Nintendo
 * https://seekingalpha.com/article/4230230-nintendo-intellectual-property-goldmine
+* https://repositorio.iscte-iul.pt/bitstream/10071/9081/1/Thesis%20Cl%C3%A1udio%20Almeida.pdf
+* https://studenttheses.cbs.dk/bitstream/handle/10417/5079/matteo_musso.pdf?sequence=1
+* https://www.solactive.com/wp-content/uploads/2016/08/GAME-Index.pdf
+* https://ca.rbcwealthmanagement.com/delegate/services/file/456575/content
+* https://pressfrom.info/us/news/science-and-technology/-240100-nintendo-delays-mario-kart-tour-to-summer-2019.html
+* https://www.japantimes.co.jp/?post_type=news&p=1734560&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
 
 # JavaScript Developer job
 * https://www.infoq.com/profile/Charles-Humble
