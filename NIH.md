@@ -4,6 +4,12 @@ Cromolyn sodium (Intal)
 
 Immunotherapy
 
+## steroidal
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3615935/
+
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021433s015lbl.pdf
+
 ## beta(2)-adrenergic
 
 ### School Guidelines
@@ -24,6 +30,23 @@ https://www.aafa.org/asthma-triggers-causes/
 
 ### Toxicity
 https://www.ncbi.nlm.nih.gov/pubmed/12100764
+
+https://www.ncbi.nlm.nih.gov/pubmed/7937293
+
+https://www.ncbi.nlm.nih.gov/pubmed/8067892
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3862915/
+
+https://livertox.nlm.nih.gov/Beta2AdrenergicAgonists.htm
+
+https://guides.nnlm.gov/tutorial/livertox
+
+https://www.ncbi.nlm.nih.gov/pubmed/8071181
+
+### Lactose
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187530/
+
 
 ### Clinical dilemma
 https://www.ncbi.nlm.nih.gov/books/NBK25553/
