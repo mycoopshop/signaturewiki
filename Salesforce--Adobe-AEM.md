@@ -43,6 +43,9 @@ url:servlet ext:pdf site:salesforce.com
 
 ## DTD
 * https://github.com/salesforce/grammaticus/wiki/Entity-Definition
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_data_loader.pdf
+* https://developer.salesforce.com/page/Using_Data_Loader_from_the_command_line
+* https://developer.salesforce.com/page/Stylesheets_and_S-Controls_Best_Practice_Guide
 * https://resources.docs.salesforce.com/186/latest/en-us/sfdc/pdf/salesforce_winter14_release_notes.pdf
 * https://www.forcetalks.com/blog/automate-salesforce-data-import-export-using-data-loader-cli
 
@@ -1209,6 +1212,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Internationalization / Localization
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
+* https://help.salesforce.com/articleView?id=supported_data_types.htm&type=5
 * http://resources.docs.salesforce.com/204/12/en-us/sfdc/pdf/salesforce_workbench_export_import_cheatsheet.pdf
 * https://www.salesforce.com/blog/2017/04/how-to-localize-your-content-marketing
 * https://www.salesforce.com/blog/2014/09/5-tips-engaging-international-audiences-gp.html
@@ -1285,6 +1289,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Audio/Video
 * https://developer.salesforce.com/dreamforce/2016-recap
+* http://salesforce.vidyard.com/watch/ARIjWm2qrDkJVJxEhReFug
 * https://www.youtube.com/watch?v=Yc5FrviQqO8
 * https://success.salesforce.com/sessions?eventId=a1Q3000000qQOd9EAG#/
 * https://success.salesforce.com/ev_sitetos
@@ -1459,6 +1464,7 @@ Format:2xx0xx000
 * https://github.com/forcedotcom/SalesforceMobileSDK-Samples
 * https://help.salesforce.com/articleView?id=salesforce_app_security.htm&type=5
 * https://help.salesforce.com/articleView?id=000192840&type=1
+* https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_mobile_s1_otherfeat_plist.htm
 * https://resources.docs.salesforce.com/servicesdk/214/0/en-us/pdf/service_sdk_android.pdf
 * https://help.salesforce.com/articleView?id=Salesforce-Mobile-SDK-Support&language=en_US&type=1
 * https://forcedotcom.github.io/SalesforceMobileSDK-Android/constant-values.html
