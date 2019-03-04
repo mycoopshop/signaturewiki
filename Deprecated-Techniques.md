@@ -256,6 +256,10 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 ## Schema
 * XML DTDs: https://www.jcp.org/dtd/
 * ObjectDB: https://en.wikipedia.org/wiki/ObjectDB
+* https://rkeithhill.wordpress.com/2006/08/08/xml-pretty-print-in-powershell/
+* http://www.nivot.org/blog/post/2013/05/07/PowerShell-Masochistic-Assembly-Patching-for-Guts-and-Glory
+* https://www.xmlfiles.com/dtd/dtd-validation/
+* https://support.microsoft.com/en-us/help/315533/how-to-validate-an-xml-document-by-using-dtd-xdr-or-xsd-in-visual-basi
 
 ## Path Finding
 * https://docs.oracle.com/javase/8/docs/technotes/tools/findingclasses.html
