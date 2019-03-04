@@ -296,9 +296,12 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://babeljs.io/docs/en/next/babel-plugin-transform-classes.html
 
 
-# Internals
+# Internal Defaults
 * https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets
 * https://webpack.js.org/configuration/node/
+* https://github.com/webpack/webpack-dev-server/blob/master/test/Validation.test.js
+* https://github.com/webpack/webpack/blob/master/lib/WebpackOptionsDefaulter.js
+* https://github.com/webpack/webpack/blob/master/schemas/WebpackOptions.json
 
 ## Subsetting
 * https://webpack.js.org/plugins/copy-webpack-plugin/
