@@ -163,6 +163,12 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://www.npmjs.com/package/svg-url-loader
 * https://www.npmjs.com/package/freemarker-parser
 
+# Middleware Security
+* https://sdk.gooddata.com/gooddata-ui/docs/4.1.1/ht_configure_webpack_proxy.html
+* https://superuser.com/questions/937013/override-localhost-ip-adress-in-windows-8-1/1367482#1367482
+* https://medium.com/@anandshende1994/webpack-proxy-3ab759c022db
+* https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a
+
 ## Environment Variables
 * https://github.com/webpack/webpack/issues/7268
 * https://stackoverflow.com/questions/49893669/how-can-i-access-runtime-environment-variables-from-a-webpack-compiled-script-th
