@@ -41,3 +41,7 @@
 1. http://codebetter.com/matthewpodwysocki/2010/09/08/getting-started-with-node-js-on-windows/
 1. http://knowledge.santanu.net/install-and-working-with-nodejs-on-windows-pc-and-openshift/
 1. https://medium.com/@baphemot/understanding-cors-18ad6b478e2b
+1. https://cdnjs.com/libraries/backbone.js/tutorials/cross-domain-sessions
+1. https://expressjs.com/en/guide/behind-proxies.html
+1. https://flaviocopes.com/express-cors/
+1. https://www.express-gateway.io/
