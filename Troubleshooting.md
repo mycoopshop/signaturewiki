@@ -18,6 +18,13 @@ Lookup the require/import statements for a specific dependency, check the option
 
 * Replace anonymous functions with named functions
 
+## Defensive Programming
+
+
+All implementations of RAID, redundant array of independent disks, except RAID 0, are examples of a fault-tolerant storage device that uses data redundancy.
+
+String validation needs to be pattern based. For example, if a program attempts to reject accessing the file "/etc/passwd", a cracker might pass another variant of this file name, like "/etc/./passwd". Canonicalization libraries can be employed to avoid bugs due to non-canonical input.
+
 ## References
 https://stackoverflow.com/questions/14495040/tomcat-server-fails-to-start-the-server-and-application-in-sts
 
