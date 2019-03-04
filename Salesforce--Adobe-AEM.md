@@ -108,6 +108,7 @@ url:servlet ext:pdf site:salesforce.com
 * https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/expr_source.htm
 * https://www.developerforce.com/guides/Visualforce_in_Practice.pdf
 * https://developer.salesforce.com/page/Apex_Wiki
+* https://developer.salesforce.com/page/Apex_Code:_The_Basics
 * https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml
 * [TextMate Grammar: apex.tmLanguage.yml](https://github.com/forcedotcom/apex-tmLanguage/blob/master/src/apex.tmLanguage.yml)
 * [Atom IDE Grammar: apex.cson](https://github.com/vazexqi/atom-ide-apex/blob/master/grammars/apex.cson)
@@ -655,8 +656,6 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.w3.org/TR/soap12-part0/
 * https://www.w3.org/TR/wsdl/wsdl20-z.html
 
-## 
-## APEXDOC
 
 ## Sales Cloud
 * https://www.salesforce.com/eu/products/sales-cloud/features/crm-email-connector/
@@ -707,7 +706,8 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/page/SnapinsMobile
 
 ## Knowledge Base
-* https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/lightning_knowledge_guide.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/lightning_knowledge_guide.pdf
+* https://resources.docs.salesforce.com/sfdc/pdf/salesforce_knowledge_implementation_guide.pdf
 * https://help.salesforce.com/articleView?id=knowledge_article_importer_02csv.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_settings.htm&type=5
 * https://help.salesforce.com/articleView?id=knowledge_admin_tricks_examples_videos.htm&type=5
