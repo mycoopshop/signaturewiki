@@ -9,14 +9,16 @@
 ## Example
 
 ### Request Headers
-Host: example.com
-Origin: https://localhost:8081
-Referer: https://localhost:8081
+
+    Host: example.com
+    Origin: https://localhost:8081
+    Referer: https://localhost:8081
 
 ### Response Headers
-Access-Control-Allow-Credentials: true
-Access-Control-Allow-Origin: localhost:8081
-Vary: Origin,Accept-Encoding,User-Agent
+
+    Access-Control-Allow-Credentials: true
+    Access-Control-Allow-Origin: localhost:8081
+    Vary: Origin,Accept-Encoding,User-Agent
 
 ## References
 1. http://blog.nelm.io/2011/11/cors-with-sencha-touch/
