@@ -111,6 +111,7 @@
 * https://en.wikipedia.org/wiki/Maria_Mitchell
 * https://en.wikipedia.org/wiki/Lillian_Wald
 * https://en.wikipedia.org/wiki/Crates_of_Thebes
+* https://en.wikipedia.org/wiki/Jeff_Adachi
 * Alan Naiman: https://www.apnews.com/7116c179308a4e8eb2a83693e4f3750a
 * http://www.historylink.org/File/7526
 * https://en.wikipedia.org/wiki/Larry_Pressler
