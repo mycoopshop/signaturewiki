@@ -1,3 +1,7 @@
+## Smallpox Vaccinations causes eczema vaccinatum
+
+https://www.niaid.nih.gov/diseases-conditions/eczema-complications
+
 ## Non-steroidal
 
 Cromolyn sodium (Intal)
