@@ -41,6 +41,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://help.salesforce.com/articleView?id=Feature-Retirement-Philosophy&language=en_US&type=1
 * https://www-01.ibm.com/support/docview.wss?uid=swg27045455&aid=5
 * http://www.decosta.com/Nomad/library/nsp.html
+* https://cwiki.apache.org/confluence/display/FLEX/Simulating+AS3+language+features+in+JavaScript+using+AMD+and+ES5
 
 ## C#
 * https://www.xmlfiles.com/articles/xsl-transformations-in-net-2-0/
@@ -298,6 +299,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 * https://docs.oracle.com/javase/7/docs/technotes/tools/windows/classpath.html
 * https://maven.apache.org/examples/injecting-properties-via-settings.html
+* https://maven.apache.org/guides/mini/guide-encryption.html
 * https://www.ibm.com/developerworks/library/j-classpath-windows/
 * https://www.computerperformance.co.uk/powershell/powershell_env_path.htm
 * https://blogs.technet.microsoft.com/heyscriptingguy/2011/07/23/use-powershell-to-modify-your-environmental-path/
