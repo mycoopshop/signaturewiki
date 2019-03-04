@@ -43,6 +43,8 @@ https://guides.nnlm.gov/tutorial/livertox
 
 https://www.ncbi.nlm.nih.gov/pubmed/8071181
 
+https://clinicaltrials.gov/ct2/show/results/NCT00434993?term=albuterol+lung+injury&rank=1&view=results
+
 ### Lactose
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4187530/
