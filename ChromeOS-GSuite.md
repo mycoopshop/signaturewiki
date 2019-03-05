@@ -101,3 +101,10 @@ https://medium.com/@dihuta/install-nodejs-on-chromebook-c17677874d81
 https://www.reddit.com/r/chromeos/comments/70nv9u/whats_the_besteasiest_way_to_run_git_on_a/
 https://andropenoffice.blogspot.com/search/label/HOWTO
 https://datatracker.ietf.org/wg/doh/about/
+
+## Edtech
+* https://www.stancoe.org/technology-and-learning-resources/educational-technology-center-etc/events/g-suite-amplified-admin
+* https://events.edtechteam.com/stanislaus2018/98848
+* https://www.stancoe.org/etc
+* https://www.stancoe.org/division/educational-options/valley-charter-high-school
+* https://www.stancoe.org/division/scoe-cybersecurity
