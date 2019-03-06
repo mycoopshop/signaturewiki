@@ -433,6 +433,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://github.com/salesforceidentity
 * https://github.com/SalesforceFoundation
 * https://github.com/SFDO-Tooling
+* https://github.com/wilsonmar/Salesforce
 * https://github.com/mulesoft?utf8=%E2%9C%93&q=&type=&language=css
 
 **Tutorials**
@@ -773,6 +774,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## CLI
 * https://developer.salesforce.com/search/?/#stq=dwnld
 * https://developer.salesforce.com/page/Tools
+* https://wilsonmar.github.io/salesforce-dx/
+* https://www.jitendrazaa.com/blog/salesforce/getting-started-with-salesforce-dx-salesforce-developer-experience/
+* http://nickworth.com/tag/salesforce/
 * https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html
 * https://developer.salesforce.com/blogs/2018/04/developing-plugins-for-the-salesforce-cli.html
 * https://developer.salesforce.com/blogs/2017/09/invoking-apex-continuations-lightning-components.html
