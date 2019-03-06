@@ -1,4 +1,5 @@
 * https://edgecoders.com/you-dont-need-a-fancy-framework-to-use-graphql-with-react-b47b436626fb
+* https://jss.sitecore.com/docs/fundamentals/architecture
 * http://xahlee.info/w/steve_yegge_google_platforms_rant.html
 * https://mherman.org/blog/designing-a-restful-api-with-node-and-postgres/
 * https://scotch.io/tutorials/super-simple-graphql-with-node
