@@ -63,6 +63,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 1. Find the corresponding npm polyfills, then replace the copy/paste code with the minified generated code
 1. Find the server.js source code and change its options to resolve server-side regressions
  
+
 **Cross-Project Parity Testing**
 1. Run the scaffold project A
 1. Run the real project B
@@ -257,6 +258,8 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://medium.com/@shellscape/webpacks-new-cli-hotness-d6a2063168a8
 
 # Dev Server
+* https://github.com/webpack/webpack-dev-server/blob/master/lib/Server.js#L696
+* https://github.com/webpack/webpack-dev-server/blob/master/lib/options.json
 * https://github.com/webpack/webpack-dev-server/issues/887
 * https://news.ycombinator.com/item?id=12406310
 * https://medium.com/0xcc/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability-8189e85b486b
