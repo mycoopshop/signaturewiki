@@ -4,6 +4,8 @@ https://www.dailymail.co.uk/home/rssMenu.html
 
 https://newsroom.courts.ca.gov/rss
 
+https://www.w3.org/TR/mediaont-10/
+
 https://mmoon.org/sparql/
 
 https://www.w3.org/community/ontolex/wiki/Final_Model_Specification
