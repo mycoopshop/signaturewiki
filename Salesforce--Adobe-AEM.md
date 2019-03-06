@@ -804,6 +804,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://devcenter.heroku.com/articles/heroku-postgres-import-export#export
 * https://devcenter.heroku.com/articles/heroku-postgres-backups
 * https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
+* https://www.postgresql.org/docs/9.5/sql-notify.html
 
 ## Heroku Connect
 * https://www.salesforce.com/blog/2018/08/heroku-certifications-customer-data-security
