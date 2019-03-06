@@ -66,6 +66,7 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 * https://stackoverflow.com/questions/50321034/how-do-enable-root-proxying-in-webpack-dev-server
 * https://github.com/chimurai/http-proxy-middleware#context-matching
 * https://gorillalogic.com/blog/webpack-and-cors/
+* https://expressjs.com/en/resources/middleware/cors.html
 * https://daniel.haxx.se/blog/2016/11/26/https-proxy-with-curl/
 
 ## Webhooks
