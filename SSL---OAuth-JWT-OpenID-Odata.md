@@ -1,4 +1,10 @@
 * https://developer.yahoo.com/oauth2/guide/flows_authcode/
+* https://www.oauth.com/oauth2-servers/map-oauth-2-0-specs/
+* https://security.stackexchange.com/questions/127071/odd-history-of-oauth-2-device-flow
+* https://www.hindawi.com/journals/misy/2018/6020461/
+* https://docs.blackberry.com/content/dam/docs-blackberry-com/release-pdfs/en/blackberry-access/latest/BlackBerry-Access-Administration-Guide-2.11.pdf
+* https://docs.iot.blackberry.com/guides/authentication/
+* https://openid.bitbucket.io/draft-native-application-agent-core-01.html
 * https://www.npmjs.com/package/client-oauth2
 * https://api2cart.com/api-technology/choosing-oauth-type-api/
 * https://benohead.com/oauth-2-0-openid-connect-explained/
