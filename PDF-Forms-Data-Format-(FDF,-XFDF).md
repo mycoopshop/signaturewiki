@@ -1,4 +1,16 @@
 * https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf
+* https://www.iso.org/obp/ui/#iso:std:iso:19444:-1:ed-1:v1:en
+* https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/5186AcroJS.pdf
+* https://acrobatusers.com/tutorials/how-save-pdf-acrobat-javascript
+* https://helpx.adobe.com/acrobat/kb/acrobat-forms-form-data-web.html
+* https://forums.adobe.com/thread/2151445
+* https://acrobatusers.com/tutorials/dynamically-setting-submit-e-mail-address
+* https://acrobatusers.com/tutorials/print/submitting-data
+* https://www.w3.org/TR/WCAG20-TECHS/PDF15.html
+* http://php.net/manual/en/book.fdf.php
+* http://www.pdfill.com/pdf_action.html
+* https://talkingpdf.org/pdf-forms-more-than-fields-alone/
+* http://khkonsulting.com/2017/08/connect-database-pdf-form-time-without-soap/
 * https://developer.salesforce.com/blogs/isv/2008/12/use-visualforce-and-apex-to-populate-pdf-forms.html
 * https://wiki.scribus.net/canvas/Adding_Hyperlinks_to_your_Scribus_PDF_document
 * https://training.fema.gov/devres/docs/508/pdf%20authoring%20document.pdf
@@ -9,3 +21,5 @@
 * https://helpx.adobe.com/acrobat/kb/acrobat-forms-form-data-web.html
 * https://www.adobe.com/devnet/acrobat/security.html
 * https://www.dst.defence.gov.au/sites/default/files/publications/documents/DSTO-TR-2730.pdf
+* https://github.com/mozilla/pdf.js/issues/7613
+* https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=PDF
