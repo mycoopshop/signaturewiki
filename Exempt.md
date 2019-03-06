@@ -14,6 +14,7 @@ https://www.ftb.ca.gov/Archive/Law/fedchanges/14FedTax.pdf
 https://www.ftb.ca.gov/forms/misc/3500.pdf
 https://www.ftb.ca.gov/forms/2017/17_100bk.pdf
 https://www.ci.east-palo-alto.ca.us/DocumentCenter/View/2823
+https://digitalasset.intuit.com/DOCUMENT/A5FP7N8Ic/2018-unsupported-calcs-L1FQfTTgn-1.pdf
 
 https://taxpayeradvocate.irs.gov/
 https://www.irs.gov/taxpayer-advocate
