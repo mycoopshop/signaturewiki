@@ -6,6 +6,12 @@
 * https://www.tf.uni-kiel.de/matwis/amat/iss/
 * https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
 
+## Exception Hierarchy
+* https://cs.nju.edu.cn/changxu/2_seminar/papers/Paper_24.pdf
+* https://www.hillside.net/plop/2018/papers/13.6.pdf
+* http://www.softwaresummit.com/2004/speakers/SteltingExceptionHandling.pdf
+* https://hal.inria.fr/hal-01093908/document
+* https://www.javamex.com/tutorials/exceptions/exceptions_hierarchy.shtml
 
 ## Enterprise Architecture
 * https://msdn.microsoft.com/en-us/library/ms525913
