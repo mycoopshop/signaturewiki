@@ -807,6 +807,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.postgresql.org/docs/9.5/sql-notify.html
 
 ## Heroku Connect
+* https://www.sparkpost.com/blog/forwarding-inbound-email-with-heroku/
 * https://www.salesforce.com/blog/2018/08/heroku-certifications-customer-data-security
 * https://developer.salesforce.com/dreamhouse/pio/
 * https://aws.amazon.com/blogs/apn/simplify-your-customer-engagement-with-aws-and-salesforce-heroku/
