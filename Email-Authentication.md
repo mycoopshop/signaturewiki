@@ -3,3 +3,7 @@
 * http://dkim.org/deploy/
 * https://www.cisco.com/c/dam/en/us/products/collateral/security/esa-spf-dkim-dmarc.pdf
 * https://blogs.msdn.microsoft.com/crm/2018/11/05/dynamics-365-for-marketing-set-up-dkim-for-your-sending-domain-to-keep-up-with-recent-office-365-changes/
+* https://support.google.com/domains/answer/3251241?hl=en
+* https://empathysites.com/keep-email-and-web-hosting-separate/
+* https://www.sparkpost.com/blog/forwarding-inbound-email-with-heroku/
+* https://www.iplocation.net/email-delivery-problems
