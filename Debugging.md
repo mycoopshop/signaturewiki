@@ -1,7 +1,15 @@
+Lookup Method Names in code search:
 sectDiv
 newserializedata 
 fnOnCancel
 fnOnSave
+
+Lookup Error strings in Github issues:
+https://github.com/webpack/webpack-dev-server/issues/964
+https://github.com/webpack/webpack-dev-server/issues/147
+https://github.com/webpack/webpack-dev-server/issues/1604
+https://github.com/webpack/webpack-dev-server/issues/547
+https://stackoverflow.com/questions/39632038/cannot-run-webpack-dev-server-inside-docker
 
 Check:
 Are if/else symmetric
