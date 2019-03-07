@@ -805,6 +805,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://devcenter.heroku.com/articles/heroku-postgres-backups
 * https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
 * https://www.postgresql.org/docs/9.5/sql-notify.html
+* https://devcenter.heroku.com/articles/java-support
 
 ## Heroku Connect
 * https://www.sparkpost.com/blog/forwarding-inbound-email-with-heroku/
