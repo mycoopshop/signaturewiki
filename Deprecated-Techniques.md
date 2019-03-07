@@ -318,6 +318,14 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://docs.spring.io/spring-python/1.2.x/sphinx/html/overview.html
 * https://github.com/spring-projects/spring-boot/commit/ee62633e33b44356f14060fd920130c66d8c9e14
 
+## Bad Default Environment Variables
+* https://github.com/eclipse/openj9-docs/issues/131
+* https://www.oracle.com/technetwork/java/jdk50-ts-guide-149808.pdf
+* https://docs.oracle.com/javase/7/docs/webnotes/tsg/TSG-VM/html/envvars.html
+* http://svn.apache.org/repos/asf/jmeter/tags/v2_3_3_RC2/docs/usermanual/get-started.html
+* https://bugs.eclipse.org/bugs/show_bug.cgi?id=321390
+* https://ant.apache.org/manual/Tasks/java.html
+
 ## Documentation
 
 * Deprecation: https://www.drupal.org/core/deprecation
