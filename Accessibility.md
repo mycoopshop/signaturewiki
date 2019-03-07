@@ -38,6 +38,8 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 
 * https://pdfaccessibilityblog.wordpress.com
 
+* https://help.eclipse.org/luna/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Fconcepts%2Faccessibility%2Faccessmain.htm
+
 * https://medium.com/@andreasmcd/creating-an-accessible-tab-component-with-react-24ed30fde86a
 
 * https://simplyaccessible.com/article/react-a11y/
