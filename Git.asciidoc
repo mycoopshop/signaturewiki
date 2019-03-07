@@ -116,6 +116,16 @@ Auto Conflict Resolution
 
     git checkout origin/feature/baseline --ours -- ApplicationMockData.js
 
+Auto reset and merge to rollback to a commit
+
+    git pull origin baseline
+
+    git reset HEAD 12345
+
+    git checkout -b rebaseline
+
+    git merge -s ours origin/feature/baseline
+
 # Select the files and changes you want during each prompt
 
     Apply this hunk to index and worktree [y,n,q,a,d,/,e,?]?
