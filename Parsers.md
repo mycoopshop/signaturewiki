@@ -1,3 +1,4 @@
+* https://javaproperties.readthedocs.io/en/stable/
 * https://nolanlawson.github.io/jison-debugger/
 * https://esprima.readthedocs.io/en/latest/syntactic-analysis.html
 * https://jsonfeed.org
