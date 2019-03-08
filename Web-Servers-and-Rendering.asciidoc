@@ -60,6 +60,14 @@
 . http://mikeheavers.com/tutorials/pretty_up_ugly_apache_default_directory_listings/
 . https://css-tricks.com/styling-a-server-generated-file-directory/
 . https://httpd.apache.org/docs/current/expr.html
+https://httpd.apache.org/docs/trunk/mod/mod_request.html
+https://httpd.apache.org/docs/trunk/mod/mod_reflector.html
+https://httpd.apache.org/docs/trunk/mod/mod_substitute.html
+https://httpd.apache.org/docs/trunk/mod/mod_ext_filter.html
+https://httpd.apache.org/docs/trunk/mod/mod_sed.html
+https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/IBM%20HTTP%20Server%20Upgrading%20to%20Apache%202.4
+https://softwareengineering.stackexchange.com/questions/99894/why-doesnt-http-have-post-redirect/99966#99966
+https://stackoverflow.com/questions/10586779/redirectmatch-changes-post-to-get
 . https://docs.microsoft.com/en-us/iis/configuration/https://docs.microsoft.com/en-us/iis/configuration/
 . https://www.nginx.com/resources/wiki/start/topics/tutorials/config_pitfalls/
 . https://xebialabs.com/the-ultimate-devops-tool-chest/open-source/
