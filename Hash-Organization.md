@@ -92,3 +92,5 @@ to produce an object literal:
 * [HTMLTableRowElement](http://html5index.org/DOM%20-%20HTMLTableRowElement.html)
 
 * [HTMLTableCellElement](http://html5index.org/DOM%20-%20HTMLTableCellElement.html)
+
+* [Keyed Collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
