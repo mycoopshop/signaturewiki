@@ -33,6 +33,9 @@
 * https://www.kaggle.com/docs/kernels
 * https://www.kaggle.com/mrisdal/brand-new-to-kernels-start-here
 * salesforce appexchange nba nfl
+* https://www.quora.com/challenges
+* https://www.datascienceweekly.org/articles/5-reasons-kaggle-projects-won-t-help-your-data-science-resume
+* https://www.drivendata.org/
 
 # Fellowships
 * https://foundation.mozilla.org/fellowships/
