@@ -2,6 +2,8 @@
 
 https://www.quora.com/How-can-I-easily-create-an-Android-app-for-free-without-coding-and-Java-skills
 
+https://f-droid.org/en/packages/email.schaal.ocreader/
+
 https://gurubox.org/2018/10/29/how-can-i-create-a-free-android-apps-without-coding-skills/
 
 https://developer.android.com/reference/android/R.styleable#lfields
