@@ -320,6 +320,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 ## Bad Default Environment Variables
 * https://github.com/eclipse/openj9-docs/issues/131
+* https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/envvars002.html
+* https://stackoverflow.com/questions/17294382/how-to-add-more-than-one-parameter-to-java-tool-options
 * https://www.oracle.com/technetwork/java/jdk50-ts-guide-149808.pdf
 * https://docs.oracle.com/javase/7/docs/webnotes/tsg/TSG-VM/html/envvars.html
 * http://svn.apache.org/repos/asf/jmeter/tags/v2_3_3_RC2/docs/usermanual/get-started.html
