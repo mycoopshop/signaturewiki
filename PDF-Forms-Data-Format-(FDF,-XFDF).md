@@ -1,4 +1,5 @@
 * https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf
+* https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html#main-pars_table_0
 * https://www.iso.org/obp/ui/#iso:std:iso:19444:-1:ed-1:v1:en
 * https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/5186AcroJS.pdf
 * https://acrobatusers.com/tutorials/how-save-pdf-acrobat-javascript
