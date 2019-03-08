@@ -325,6 +325,10 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * http://svn.apache.org/repos/asf/jmeter/tags/v2_3_3_RC2/docs/usermanual/get-started.html
 * https://bugs.eclipse.org/bugs/show_bug.cgi?id=321390
 * https://ant.apache.org/manual/Tasks/java.html
+* https://www.dynatrace.com/support/doc/appmon/installation/application-integration/java-applets/
+* https://saucelabs.com/resources/articles/how-to-configure-webdriver-selenium-for-java-in-eclipse-on-windows
+* https://www.ibm.com/blogs/bluemix/2014/07/debugging-java-applications-running-bluemix/
+* https://cwiki.apache.org/confluence/display/IMPALA/Impala+Debugging+Tips
 
 ## Documentation
 
