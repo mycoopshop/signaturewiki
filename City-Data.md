@@ -59,3 +59,5 @@ https://www.larpd.org/summer-nature-camp
 https://www.merryhillschool.com/preschools/modesto/roseburg-ave/programs/summer-camp/
 
 https://www.merryhillschool.com/elementary/san-jose/north-capitol-ave/camps/summer-camp/
+
+https://www.contentmenthealth.com/best-of-stanislaus-2018/
