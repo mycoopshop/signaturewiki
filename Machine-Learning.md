@@ -31,6 +31,9 @@
 * https://pdfs.semanticscholar.org/08ed/cd794d534450f46ba5969f3e4098a0b4c744.pdf
 * https://www.import.io/post/neural-nets-how-regular-expressions-brought-about-deep-learning/
 
+## Codegen
+* https://www.codeproject.com/Articles/1156694/A-Look-into-the-Future-Source-Code-Generation-by-t
+
 ## Datasets
 * https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 * https://archive.ics.uci.edu/ml/datasets/letter+recognition
@@ -70,6 +73,7 @@ https://dzone.com/articles/build-a-scheduler-slackbot-in-30-minutes
 
 ## Recognition
 * https://gdpr.report/news/2017/08/23/deep-learning-not-ai-future/
+* https://www.codeproject.com/Articles/1273113/Apple-tron-an-AI-for-farmers
 * https://rationalwiki.org/wiki/Machine_learning
 * https://www.oreilly.com/library/view/natural-language-annotation/9781449332693/ch04.html
 * https://www.quora.com/How-do-I-design-a-system-to-query-the-database-based-on-natural-language-input
