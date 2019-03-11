@@ -5,6 +5,8 @@
 * https://www.robinwieruch.de/machine-learning-javascript-web-developers/
 * https://www.codeproject.com/Articles/1275031/Why-Real-Neurons-Learn-Faster
 * https://www.quora.com/Is-there-a-way-to-use-Machine-Learning-to-predict-the-outcome-of-a-coin-toss
+* https://medium.com/@davidllorente/nlg-technologies-artificial-intelligence-vs-rule-base-approach-cf8e9992461e
+* https://medium.com/@davidllorente/automatic-natural-language-generation-the-new-normal-cd36ed8976de
 
 ## Techniques
 * https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
@@ -31,6 +33,7 @@
 * https://www.salesforce.com/blog/2016/09/artificial-intelligence-helps-small-businesses.html
 * https://pdfs.semanticscholar.org/08ed/cd794d534450f46ba5969f3e4098a0b4c744.pdf
 * https://www.import.io/post/neural-nets-how-regular-expressions-brought-about-deep-learning/
+* http://www.agence-nationale-recherche.fr/Project-ANR-14-CE24-0033
 
 ## Codegen
 * https://www.codeproject.com/Articles/1156694/A-Look-into-the-Future-Source-Code-Generation-by-t
