@@ -8,6 +8,7 @@
 ## Techniques
 * https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 * https://www.linkedin.com/pulse/naive-bayes-classifier-foundation-machine-learning-chase-perkins
+* https://statweb.stanford.edu/~susan/papers/headswithJ.pdf
 
 ## NLP
 * https://www.npmjs.com/package/search-index
