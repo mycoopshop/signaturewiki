@@ -11,6 +11,10 @@
 * https://auth0.com/blog/face-off-virtual-dom-vs-incremental-dom-vs-glimmer/
 * https://www.slideshare.net/polyvore/mturk-machine-learning-8417481
 
+## AI
+* https://codeincomplete.com/posts/javascript-pong/part5/
+* https://www.quora.com/How-do-I-improve-my-paddle-pong-AI
+
 ## Logarithm
 * http://mathworld.wolfram.com/Logarithm.html
 * https://math.stackexchange.com/questions/956776/whats-the-inverse-operation-of-exponents
