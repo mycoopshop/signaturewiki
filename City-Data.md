@@ -51,3 +51,11 @@ https://go.frontier.com/availability/ca/modesto
 https://en.wikipedia.org/wiki/FiOS_from_Frontier
 
 https://go.frontier.com/media-streaming-devices
+
+## Camp
+
+https://www.larpd.org/summer-nature-camp
+
+https://www.merryhillschool.com/preschools/modesto/roseburg-ave/programs/summer-camp/
+
+https://www.merryhillschool.com/elementary/san-jose/north-capitol-ave/camps/summer-camp/
