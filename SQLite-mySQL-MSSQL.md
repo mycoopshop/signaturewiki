@@ -70,6 +70,10 @@ https://www.brianstorti.com/replication/
 http://www.cattell.net/datastores/Datastores.pdf
 http://www.cs.sjsu.edu/faculty/kim/nosql/contents/presentation/slides/ScalableSQLandNoSQLDataStores.pdf
 
+## Pandas
+* https://blog.thedataincubator.com/2018/05/sqlite-vs-pandas-performance-benchmarks/
+* https://qoppac.blogspot.com/2014/10/using-sqllite3-to-store-static-and-time.html
+
 ## Serverless
 * https://www.sqlite.org/serverless.html
 * https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
