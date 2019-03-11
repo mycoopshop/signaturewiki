@@ -10,6 +10,11 @@ Finally, insert a background-image rule for the body element at the end of the s
 
     stylesheet.insertRule("body { background-image: url('http://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico'); }", end);
 
+## Animation
+* https://codepen.io/kh-mamun/pen/PWgzJe
+* https://rosettacode.org/wiki/Animate_a_pendulum#JavaScript
+
+## References
 * http://csslint.net/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 * https://robots.thoughtbot.com/css-animation-for-beginners
