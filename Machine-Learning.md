@@ -2,6 +2,8 @@
 
 ## Concepts
 * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+* https://www.robinwieruch.de/machine-learning-javascript-web-developers/
+* https://www.quora.com/Is-there-a-way-to-use-Machine-Learning-to-predict-the-outcome-of-a-coin-toss
 
 ## Techniques
 * https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
