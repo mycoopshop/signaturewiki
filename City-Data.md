@@ -52,6 +52,12 @@ https://en.wikipedia.org/wiki/FiOS_from_Frontier
 
 https://go.frontier.com/media-streaming-devices
 
+## Classes
+
+https://www.modbee.com/living/article163832113.html
+
+https://www.modestoacademy.com/calendar.aspx?start_date=05%2f01%2f19&location=
+
 ## Camp
 
 https://www.larpd.org/summer-nature-camp
@@ -59,5 +65,9 @@ https://www.larpd.org/summer-nature-camp
 https://www.merryhillschool.com/preschools/modesto/roseburg-ave/programs/summer-camp/
 
 https://www.merryhillschool.com/elementary/san-jose/north-capitol-ave/camps/summer-camp/
+
+https://apm.activecommunities.com/ceresparksrecreationfacilities/Activity_Search?txtActivitySearch=camp&applyFiltersDefaultValue=true&cat=Activities
+
+http://www.stocktonca.gov/government/departments/communityServices/programs/dayCamp.html
 
 https://www.contentmenthealth.com/best-of-stanislaus-2018/
