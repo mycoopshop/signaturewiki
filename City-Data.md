@@ -60,6 +60,8 @@ https://www.modestoacademy.com/calendar.aspx?start_date=05%2f01%2f19&location=
 
 http://stanislausconnections.org/connections%20MAR%2019.pdf
 
+https://register.communitypass.net/reg/facility_list.cfm?a=1468
+
 ## Camp
 
 https://www.larpd.org/summer-nature-camp
