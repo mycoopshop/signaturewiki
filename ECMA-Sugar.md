@@ -37,3 +37,4 @@
 * Destructuring: http://2ality.com/2016/10/rest-spread-properties.html
 * Iteration: http://2ality.com/2016/10/asynchronous-iteration.html
 * Proper Tail-Calls: https://www.linkedin.com/pulse/tail-call-optimizations-es6-michael-clark
+* Require=>Import: https://www.npmjs.com/package/replace-require-with-import
