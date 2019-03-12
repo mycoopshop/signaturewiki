@@ -73,6 +73,7 @@ https://stackoverflow.com/questions/10586779/redirectmatch-changes-post-to-get
 . https://xebialabs.com/the-ultimate-devops-tool-chest/open-source/
 . https://xebialabs.com/periodic-table-of-devops-tools/
 . https://support.globaldots.com/hc/en-us/articles/115003996705-Akamai-Pragma-Headers-overview
+. https://blog.akamaideveloper.com/blog/2018/10/10/create-issue-and-validate-oauth-20-tokens-api-gateway
 . https://github.com/webpack/webpack-dev-server/issues/533
 . https://medium.com/@RichHewlett/preventing-browser-caching-using-http-headers-52610e1327e8
 . https://blogs.msdn.microsoft.com/azureossds/2015/04/23/converting-apache-htaccess-rules-to-iis-web-config-using-iis-manager-for-azure-websites/
