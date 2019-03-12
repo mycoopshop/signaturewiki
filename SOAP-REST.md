@@ -2,6 +2,8 @@ https://aws.amazon.com/blogs/compute/redirection-in-a-serverless-api-with-aws-la
 
 http://developer.ebay.com/devzone/finding/concepts/MakingACall.html
 
+https://www.oreilly.com/ideas/how-a-restful-api-server-reacts-to-requests
+
 http://webreference.com/authoring/web_service/index-2.html
 
 https://www.nativescript.org/blog/handle-xml-response-from-soap-service-in-nativescript
