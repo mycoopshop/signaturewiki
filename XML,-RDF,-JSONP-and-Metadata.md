@@ -16,6 +16,8 @@
 
 * https://dev.socrata.com/docs/cors-and-jsonp.html
 
+* https://wiki.harvard.edu/confluence/display/LibraryStaffDoc/LibraryCloud+Item+API
+
 * https://plainjs.com/javascript/ajax/jsonp-ajax-requests-50/
 
 * https://chroniclingamerica.loc.gov/about/api/
