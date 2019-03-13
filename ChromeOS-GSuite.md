@@ -63,6 +63,7 @@ https://www.upwork.com/o/jobs/browse/skill/chrome-extension/?client_hires=0
 ## References
 * https://www.google.com/search?q=offline+androidget+in-app-purchases+site:chrome.google.com&ei=IoKqW7CEI4_W5gL6iomQBw&start=150&sa=N&biw=1280&bih=588
 * https://developers.google.com/appmaker/getting-started/faq#am_access
+* https://developers.google.com/apps-script/guides/content
 * https://developers.google.com/apps-script/api/
 * https://www.chromebeat.com/search
 * https://dev.chromium.org/chromium-os/developer-information-for-chrome-os-devices/workaround-for-battery-discharge-in-dev-mode
