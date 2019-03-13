@@ -18,6 +18,7 @@
 	SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" }
     }
     ORDER BY ?alexarank
+
 # URL
     https://query.wikidata.org/#%23%20Demonstrates%20filtering%20for%20value%20greater%20than%20a%20real%20number%0ASELECT%20DISTINCT%20%3Falexarank%20%3Fwebsite%20%3FwebsiteLabel%20%3Fsitelink%20%0AWHERE%0A%7B%0A%09%3Fwebsite%20wdt%3AP1661%20%3Falexarank.%0A%20%20%20%20OPTIONAL%7B%20%3Fwebsite%20wdt%3AP856%20%3Fsitelink%20%7D%0A%09FILTER%20%28%3Falexarank%20<%20200%29%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20"%5BAUTO_LANGUAGE%5D%2Cen"%20%7D%0A%7D%0AORDER%20BY%20%3Falexarank
 
@@ -41,6 +42,7 @@
 * https://en.wikibooks.org/wiki/SPARQL/WIKIDATA_Qualifiers,_References_and_Ranks
 * http://index-of.co.uk/Artificial-Intelligence/Morgan.Kaufmann.Semantic.Web.for.the.Working.Ontologist.May.2008.pdf
 * http://download.oracle.com/otndocs/tech/semantic_web/pdf/semtech_datamining_v8.pdf
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44818.pdf
 * https://franz.com/agraph/support/documentation/current/sparql-reference.html
 * https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-nuts-bolts/
 * https://www.cambridgesemantics.com/blog/semantic-university/learn-sparql/sparql-vs-sql/
