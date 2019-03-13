@@ -1,4 +1,4 @@
-Machines: http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html
+Quotes: http://www.nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html
 
 Help: https://www.craigslist.org/about/help/user_accounts?lang=en&cc=us
 
@@ -13,6 +13,8 @@ Docs: http://www.gnu.org/
 Visualization: http://json.org/
 
 Forums: https://www.unix.com/
+
+Mailing Lists: https://www.biglist.com/lists/lists.mulberrytech.com/xsl-list/archives/index.shtml
 
 Archive: https://code.google.com/archive/
 
