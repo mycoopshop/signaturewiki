@@ -481,3 +481,5 @@ https://www.reddit.com/r/PHP/comments/9m6csh/what_is_the_absolute_worst_and_stil
 https://www.reddit.com/r/programming/comments/71btyi/perforce_vs_svn_vs_git_vs_hg_for_gamedev/
 
 https://softwareengineering.stackexchange.com/questions/35413/should-i-understand-svn-before-i-jump-to-git
+
+https://devblogs.microsoft.com/devops/supercharging-the-git-commit-graph-ii-file-format/
