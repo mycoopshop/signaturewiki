@@ -21,6 +21,7 @@
 * https://www.resourcespace.com/knowledge-base/user/plugin-csv-upload
 * https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/csv2/csv2.htm
 * 
+
 ## Platforms
 * https://en.wikipedia.org/wiki/Pump.io
 * https://en.wikipedia.org/wiki/Comparison_of_software_and_protocols_for_distributed_social_networking#cite_note-55
@@ -34,6 +35,7 @@
 * https://sitestory.dk/excel_vba/csv-file-import.htm
 * https://softeng.oicr.on.ca/robert_tisma/2017/07/19/writing-csv-files/
 * https://hexdocs.pm/csv/CSV.html
+* http://www.zachhunter.com/2010/11/download-json-to-csv-using-javascript/comment-page-1/
 
 ## Tutorials
 * tsv title:csv -domain:uk -domain:edu -domain:ch -domain:au -domain:jp -domain:ie -domain:br -domain:it -domain:me -domain:info -domain:net -domain:io -domain:org -domain:com
