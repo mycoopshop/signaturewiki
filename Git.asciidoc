@@ -470,6 +470,8 @@ https://git-scm.com/docs/gitignore
 
 https://www.atlassian.com/git/tutorials/using-branches/merge-strategy
 
+https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch11.html
+
 ## Worst Parts
 
 https://unspecified.wordpress.com/2010/03/26/why-git-aint-better-than-x/
