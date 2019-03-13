@@ -8,6 +8,12 @@ Autocomplete: https://sites.google.com/a/chromium.org/dev/user-experience/omnibo
 
 Blog: https://developer.amazon.com/blogs/appstore/tag/Appstore
 
+Docs: http://www.gnu.org/
+
+Forums: https://www.unix.com/
+
+Archive: https://code.google.com/archive/
+
 Gallery: https://www.google.com/search?q=flux+redux&tbm=isch
 
 Tables: https://en.wikipedia.org/wiki/Comparison_of_programming_languages
