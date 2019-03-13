@@ -5,6 +5,7 @@ There is the Sigil ePub editor, the ePub edition of the BlueGriffon editor, and 
  * [ePubCheck](https://github.com/IDPF/epubcheck)
  * [App-XML-DocBook-Builder](http://search.cpan.org/dist/App-XML-DocBook-Builder/)
  * [DocBook stylesheets for ePub3 output](http://sourceforge.net/projects/docbook/files/epub3/)
+ * [NLM-to-ePub3 File Conversion](https://www.ncbi.nlm.nih.gov/books/NBK159966/)
 
 And here are a couple of tutorials:
 
