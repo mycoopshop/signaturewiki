@@ -20,6 +20,8 @@
 * https://support.accessdata.com/hc/en-us/articles/215345267-Testing-CMIS-repository-connections-with-OpenCMIS-Workbench
 * https://documentation.opencms.org/opencms-documentation/more-opencms-features/mounting-the-vfs/cmis/
 * https://docs.oasis-open.org/cmis/CMIS/v1.1/os/schema/
+* https://code.google.com/archive/p/pubflex/
+* https://code.google.com/archive/p/cmis-phplib/
 * http://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html
 * https://stackoverflow.com/questions/49557340/whats-the-difference-between-apache-jackrabbit-and-jackrabbit-oak
 * https://robferguson.org/blog/2017/03/23/getting-started-with-apache-sling/
