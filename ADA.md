@@ -8,6 +8,8 @@ https://www.ada.gov/cguide.htm
 
 ## VPAT
 * http://www.oracle.com/us/corporate/accessibility/vpats/vpats-archive-162972.html
+* https://able.ibm.com/request/
+* https://www.ibm.com/blogs/age-and-ability/2018/01/25/revised-section-508-standards-now-effect/
 * https://sales.jetbrains.com/hc/en-gb/articles/115000637784-Do-you-have-Voluntary-Product-Accessibility-Templates-VPATs-
 * https://docs.servicenow.com/bundle/madrid-release-notes/page/administer/accessibility-508-compliance/reference/r_VPAT.html?cshalt=yes
 * http://www.oracle.com/us/corporate/accessibility/templates/t2-5949.html
@@ -15,3 +17,6 @@ https://www.ada.gov/cguide.htm
 * https://www.google.com/intl/en_us/mail/help/accessibility.html
 * https://support.google.com/accessibility/answer/2821355?hl=en
 * https://www.google.com/accessibility/customers-partners/
+* https://www.mediawiki.org/wiki/VPAT_for_MediaWiki
+* https://www.adobe.com/accessibility/compliance/adobe-dreamweaver-cc-2017-acr.html
+* https://www.adobe.com/accessibility/compliance/shockwave-11-5-section-508-vpat.html
