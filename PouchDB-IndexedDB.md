@@ -41,3 +41,7 @@ https://www.clicktorelease.com/blog/optimise-svg-load-service-worker/
 https://www.html5rocks.com/en/tutorials/file/filesystem-sync/
 
 https://stackoverflow.com/questions/34057127/how-to-transfer-large-objects-using-postmessage-of-webworker
+
+https://strongloop.com/strongblog/serving-a-progressive-web-app-from-loopback/
+
+https://developer.ibm.com/clouddataservices/2016/02/26/running-pouchdb-in-a-web-worker/
