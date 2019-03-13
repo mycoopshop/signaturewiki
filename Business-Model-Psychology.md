@@ -51,6 +51,10 @@
 * https://www.theverge.com/2018/3/29/17173362/apple-swift-playgrounds-xcode-cliff-ipad-learn-to-code-education
 * https://www.computerhistory.org/atchm/what-do-anniversaries-mean-internet-protocols-at-40/
 
+# Bug Bias
+* https://bugbounty.linecorp.com/en/
+* https://readme.readme.io/docs/bug-bounty-program
+
 # Debt Bias
 * https://www.consumerfinance.gov/about-us/newsroom/cfpb-spotlights-concerns-with-medical-debt-collection-and-reporting/
 * https://files.consumerfinance.gov/f/201412_cfpb_reports_consumer-credit-medical-and-non-medical-collections.pdf
