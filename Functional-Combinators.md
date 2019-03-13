@@ -17,3 +17,10 @@ If M is PQ, that is the term is λx.PQ, you want to "push" x inside both parts o
 * https://en.wikipedia.org/wiki/Parser_combinator
 * https://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
 * https://www.quantstart.com/articles/Function-Objects-Functors-in-C-Part-1
+
+## Identity Function
+https://www.oreilly.com/library/view/functional-javascript/9781449360757/ch04.html
+https://medium.com/@kaw2k/a-map-to-success-functors-in-javascript-6eb6638ce966
+http://raganwald.com/2015/02/13/functional-quantum-electrodynamics.html
+https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b
+https://blog.bigbinary.com/2018/03/20/practical-usage-of-identity-function.html
