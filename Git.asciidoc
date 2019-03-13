@@ -108,7 +108,7 @@ Interactive Patch of Selected Files or Commits
 
     git checkout -b myDevIntgrMerge #new branch
 
-    git checkout -p origin/dev-intgr -- src/main/webapp/WEB\-INF/views/site10/ #pick branch and subdirectories
+    git checkout -p origin/dev-intgr -- src/ #pick branch and subdirectories
 
 Auto Conflict Resolution
 
