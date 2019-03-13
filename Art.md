@@ -11,6 +11,9 @@
 * https://medium.com/@93/chi-modu-fed003924f9
 * https://en.wikipedia.org/wiki/Joel_Augustus_Rogers
 
+## Icons
+* https://en.wikipedia.org/wiki/Elly_Mayday
+
 # Philosophies
 * https://en.wikipedia.org/wiki/Stalking_horse
 * https://en.wikipedia.org/wiki/Psychological_manipulation
