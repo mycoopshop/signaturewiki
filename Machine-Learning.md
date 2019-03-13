@@ -7,10 +7,14 @@
 * https://www.quora.com/Is-there-a-way-to-use-Machine-Learning-to-predict-the-outcome-of-a-coin-toss
 * https://medium.com/@davidllorente/nlg-technologies-artificial-intelligence-vs-rule-base-approach-cf8e9992461e
 * https://medium.com/@davidllorente/automatic-natural-language-generation-the-new-normal-cd36ed8976de
+* https://blog.wolfram.com/2010/11/30/how-to-win-at-coin-flipping/
+* https://medium.com/@mikeharrisNY/the-heist-is-the-coin-toss-77ee4d870037
 
 ## Techniques
+* https://rosettacode.org/wiki/Rock-paper-scissors
 * https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 * https://www.linkedin.com/pulse/naive-bayes-classifier-foundation-machine-learning-chase-perkins
+* https://www.reddit.com/r/askscience/comments/3zghfk/mathematics_probability_question_do_we_treat_coin/
 * https://statweb.stanford.edu/~susan/papers/headswithJ.pdf
 
 ## NLP
