@@ -34,3 +34,9 @@ https://curiosity.com/topics/the-butterfly-effect-is-why-its-impossible-to-predi
 https://history.aip.org/climate/chaos.htm
 https://www.popsci.com/is-climate-too-complex-to-model-or-predict
 http://www.marcandangel.com/2014/01/29/10-painfully-obvious-truths-everyone-forgets-too-soon/
+
+## Names
+elisheba keziah mahlah
+
+## Place Names
+Penuel Aishel Tyre
