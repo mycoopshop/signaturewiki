@@ -1,5 +1,7 @@
 * https://en.wikipedia.org/wiki/Common_Crawl#cite_note-semanticweb_1-7
 
+* https://bob.ippoli.to/archives/2005/12/05/remote-json-jsonp/
+
 * https://github.com/brentsimmons/JSONFeed/issues/49
 
 * http://docs.datalad.org/en/latest/metadata.html
