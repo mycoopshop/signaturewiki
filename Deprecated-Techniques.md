@@ -5,6 +5,8 @@
 * http://www.peachpit.com/
 * https://www.tf.uni-kiel.de/matwis/amat/iss/
 * https://www.brunildo.org/test/
+* https://msdn.microsoft.com/en-us/ie/ms530764(v=vs.94)
+* http://estelleweyl.com/portfolio/
 * https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
 
 ## Exception Hierarchy
