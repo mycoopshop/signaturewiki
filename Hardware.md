@@ -19,6 +19,7 @@ FOB
 1. https://www.dw.com/en/opinion-when-it-comes-to-data-protection-we-have-to-do-better/a-46962525
 
 XP Hard Drive
+
 1. https://askleo.com/four-options-for-xp-die-hards/
 1. https://askleo.com/why_cant_i_connect_with_a_169254xx_ip_address/
 
@@ -34,6 +35,7 @@ RFID
 1. http://eie.uonbi.ac.ke/sites/default/files/cae/engineering/eie/INTELLIGENT%20KEY%20FINDER.pdf
 
 RJ45
+
 1. https://en.wikipedia.org/wiki/HomePlug
 1. https://lifehacker.com/how-to-wire-your-house-with-cat5-or-cat6-ethernet-cable-480020760
 1. https://www.wikihow.com/Install-an-Ethernet-Jack-in-a-Wall
@@ -42,23 +44,47 @@ RJ45
 1. https://en.wikipedia.org/wiki/Structured_cabling#Standards
 
 IP Camera
-https://www.codingepiphany.com/2015/02/10/easy-secure-home-ip-camera-access-with-your-own-vpn/
-https://medium.com/@jaredtoddpetersen/home-security-live-streaming-with-raspberry-pi-f9293efca7ba
-https://www.instructables.com/id/Raspberry-Pi-as-low-cost-HD-surveillance-camera/
-https://raspberrypi.stackexchange.com/questions/79361/i-want-to-webcam-stream-24-7-to-open-internet
-https://support.video.ibm.com/hc/en-us/articles/207852457-Raspberry-Pi-Streaming-video-to-Ustream
-https://www.privacydusk.com/other-privacy/review-spy-camera-watch-flylink-hd-1080p/
-https://www.reddit.com/r/PFSENSE/comments/7mo03i/finally_moved_ip_cameras_to_restricted_vlan_and/
-https://www.vueville.com/blog/how-we-built-our-diy-home-security-camera-system/
-https://dzone.com/articles/easyiot-cloud-and-camera
+
+1. https://www.codingepiphany.com/2015/02/10/easy-secure-home-ip-camera-access-with-your-own-vpn/
+1. https://medium.com/@jaredtoddpetersen/home-security-live-streaming-with-raspberry-pi-f9293efca7ba
+1. https://www.instructables.com/id/Raspberry-Pi-as-low-cost-HD-surveillance-camera/
+1. https://raspberrypi.stackexchange.com/questions/79361/i-want-to-webcam-stream-24-7-to-open-internet
+1. https://support.video.ibm.com/hc/en-us/articles/207852457-Raspberry-Pi-Streaming-video-to-Ustream
+1. https://www.privacydusk.com/other-privacy/review-spy-camera-watch-flylink-hd-1080p/
+1. https://www.reddit.com/r/PFSENSE/comments/7mo03i/finally_moved_ip_cameras_to_restricted_vlan_and/
+1. https://www.vueville.com/blog/how-we-built-our-diy-home-security-camera-system/
+1. https://dzone.com/articles/easyiot-cloud-and-camera
 
 Antennae
 
 1. https://www.fcc.gov/media/engineering/dtvmaps
 1. https://nocable.org/compare-long-range-outdoor-antenna-reviews
 
+Fuses
+
+1. http://techinfo.honda.com/rjanisis/pubs/OM/AH/AAC0606OM/enu/AC0606OM.PDF
+1. https://cdn.dealereprocess.net/cdn/servicemanuals/honda/2006-accord.pdf
+
+Spill-Proof Laptops (Toughbooks)
+
+1. https://honda.snapon.com/HondaAcura/ItemList.aspx?groupId=1303
+
+Car Radio
+
+1. https://www.smailhonda.com/Get-Honda-Radio-Codes-.html
+1. https://www.siriusxm.ca/wp-content/uploads/2014/02/EN-XM-QuickStartGuide-Snap.pdf
+1. http://www.city-data.com/forum/honda-acura/1899602-2007-honda-accord-radio-cd-player.html
+1. https://www.quora.com/How-do-you-reset-a-Honda-Accord-radio-that-says-Error-E
+1. https://www.wikihow.com/Install-a-Basic-Aftermarket-Car-Stereo
+1. https://www.instructables.com/id/How-to-Install-an-Aftermarket-Radio-in-a-1999-2004/
+
+Satellite Dish
+1. https://www.wikihow.com/Install-and-Set-Up-Free-to-Air-Satellite-TV-Program-Receiver-System
+1. https://puntodepartida.com/en/guides/point_and_install_satellite_dish/
+
 Hotspot
 1. https://turbofuture.com/computers/Use-a-4g-Hotspot-for-Internet-in-Your-Home-Network
+1. https://community.jisc.ac.uk/system/files/222/How%20to%20correctly%20mount%20wireless%20Access%20Points.pdf
 1. http://www.tomshardware.com/answers/id-2221584/connect-mobile-hotspot-router-ethernet-connections.html
 1. https://www.reddit.com/r/NintendoSwitch/comments/6dggxe/using_your_android_smartphone_as_a_wifi_repeater/
 1. https://www.makeuseof.com/tag/usb-tethering-fix-laptops-bad-wifi-connection/
