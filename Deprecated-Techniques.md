@@ -232,6 +232,8 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://wiki.eclipse.org/Evolving_Java-based_APIs
 * https://wiki.eclipse.org/Eclipse_Doc_Style_Guide
 * http://rdf4j.eclipse.org/
+* https://github.com/Komodo/KomodoEdit/pull/2656
+* https://github.com/Komodo/KomodoEdit/issues/3127
 
 ## Build Automation
 * https://www.mkyong.com/ant/ant-spring-mvc-and-war-file-example/
