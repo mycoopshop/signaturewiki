@@ -2,7 +2,11 @@
 
 https://www.quora.com/How-can-I-easily-create-an-Android-app-for-free-without-coding-and-Java-skills
 
-https://f-droid.org/en/packages/email.schaal.ocreader/
+https://www.tutorialspoint.com/android/android_resources.htm
+
+https://code.tutsplus.com/tutorials/how-to-localize-an-android-application--cms-22154
+
+https://www.c-sharpcorner.com/UploadFile/0e8478/supporting-different-languages-layouts-in-an-android-appli/
 
 https://gurubox.org/2018/10/29/how-can-i-create-a-free-android-apps-without-coding-skills/
 
@@ -23,8 +27,6 @@ https://www.wikihow.tech/Use-Google-Translate-Android-App-As-OCR
 http://appinventor.mit.edu/explore/ai2/setup.html
 
 http://www.android-ide.com/tutorial_androidapp.html
-
-https://play.google.com/store/apps/details?id=com.duapps.recorder
 
 https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 
@@ -55,3 +57,5 @@ https://www.gamespace.com/category/all-games/android/
 https://www.reddit.com/r/patientgamers/comments/4qjdcn/what_older_games_have_great_ports_on_mobile/
 
 https://en.wikipedia.org/wiki/List_of_Android_games
+
+https://f-droid.org/en/packages/email.schaal.ocreader/
