@@ -1220,6 +1220,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Internationalization / Localization
 * https://developer.salesforce.com/blogs/isv/2015/07/internationalization-options-in-angularjs-and-salesforce-part-1-localization.html
 * https://help.salesforce.com/articleView?id=translation_file_description.htm&type=0
+* https://help.salesforce.com/articleView?id=workbench_overview.htm&type=0
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_using_multiple_currencies.pdf
 * https://help.salesforce.com/articleView?id=supported_data_types.htm&type=5
 * http://resources.docs.salesforce.com/204/12/en-us/sfdc/pdf/salesforce_workbench_export_import_cheatsheet.pdf
