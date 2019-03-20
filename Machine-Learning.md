@@ -17,7 +17,14 @@
 * https://www.reddit.com/r/askscience/comments/3zghfk/mathematics_probability_question_do_we_treat_coin/
 * https://statweb.stanford.edu/~susan/papers/headswithJ.pdf
 
+## Relational Data Interoperability
+* http://www.kde.cs.tsukuba.ac.jp/~masa/papers/thesis.pdf
+* http://cmj4.web.rice.edu/mat_vec.pdf
+* https://core.ac.uk/download/pdf/34329967.pdf
+* https://towardsdatascience.com/set-theory-basic-notation-da93c3d48090
+
 ## NLP
+* https://luckytoilet.wordpress.com/2018/01/01/real-world-applications-of-automaton-theory/
 * https://www.npmjs.com/package/search-index
 * https://davidwalsh.name/open-search
 * http://2ality.com/2013/06/chrome-omnibox-search.html
