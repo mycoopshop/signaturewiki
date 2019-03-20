@@ -12,6 +12,7 @@ E-Reader
 Universal Remote
 
 1. https://electronics.stackexchange.com/questions/404238/how-do-universal-ir-remote-codes-work
+1. https://www.appsapk.com/ir-universal-remote/
 
 FOB
 
@@ -33,6 +34,8 @@ RFID
 
 1. https://www.pretzellogix.net/2015/08/15/the-best-bluetooth-rfid-finder-for-iphone-android-smartphone/
 1. http://eie.uonbi.ac.ke/sites/default/files/cae/engineering/eie/INTELLIGENT%20KEY%20FINDER.pdf
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988747/
+1. http://www.ahg.com/business-mobile-apps-blog/mobile-asset-tracking-technologies.html
 
 RJ45
 
