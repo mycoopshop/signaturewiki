@@ -44,6 +44,7 @@ Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs
 * http://krasimirtsonev.com/blog/article/react-js-in-design-patterns
 * http://vuetips.com/global-event-bus
 * https://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html
+* https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02
 * https://reactjs.org/docs/uncontrolled-components.html 
 * https://daveceddia.com/angular-directives-mapped-to-react/
 * https://docs.microsoft.com/en-us/sharepoint/dev/general-development/build-reusable-components-for-sharepoint
