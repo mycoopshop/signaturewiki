@@ -5,6 +5,8 @@ JIRA
 1. https://community.atlassian.com/t5/Jira-articles/Becoming-a-JIRA-Search-Ninja-History-searches-in-JIRA/ba-p/461943
 1. https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-24
 1. https://docs.atlassian.com/software/jira/docs/api/7.6.1/constant-values.html
+1. https://confluence.atlassian.com/jirasoftwarecloud/advanced-searching-764478330.html
+1. https://jira.atlassian.com/browse/JRASERVER-60724
 
 Confluence
 1. https://docs.atlassian.com/atlassian-confluence/REST/6.6.0/
