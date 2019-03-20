@@ -13,6 +13,9 @@ Online Compilers
 1. https://ideone.com/samples
 1. https://codesandbox.io/
 
+Online Build Tools
+1. https://webpack-config-generator.app/4x/
+
 
 Copy/Paste
 1. HAR files
