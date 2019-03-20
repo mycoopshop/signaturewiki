@@ -35,6 +35,7 @@
 * https://github.com/facebook/draft-js/issues/325
 * https://github.com/facebook/react/issues/11387
 * https://github.com/facebook/react/issues/3964
+* https://github.com/facebook/react/issues/12500
 
 ## Animation
 * https://codepen.io/mosson/pen/zGENPx
