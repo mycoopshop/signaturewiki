@@ -334,7 +334,10 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://www.npmjs.com/package/xml-loader
 * https://www.npmjs.com/package/csv-loader
 * https://webpack.js.org/guides/progressive-web-application/#adding-workbox
+* https://webpack.js.org/guides/output-management/#the-manifest
 * https://survivejs.com/webpack/extending/loaders/
+* https://survivejs.com/webpack/optimizing/separating-manifest/
+* https://adrien.harnay.me/2017-09-12-you-might-(not)-need-a-server-side-rendering-framework/
 * https://codepen.io/reverland/post/exploring-webpack
 
 ## Snippets
