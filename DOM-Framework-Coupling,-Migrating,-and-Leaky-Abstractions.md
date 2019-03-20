@@ -38,6 +38,10 @@
 * https://github.com/facebook/react/issues/3964
 * https://github.com/facebook/react/issues/12500
 
+## MobX
+* https://stackoverflow.com/questions/45700250/objects-are-not-valid-as-a-react-child-found-object-with-keys
+* https://stackoverflow.com/questions/40897966/objects-are-not-valid-as-a-react-child-in-internet-explorer-11-for-react-15-4-1
+
 ## Animation
 * https://codepen.io/mosson/pen/zGENPx
 * https://medium.com/@bjorn.holdt/react-animations-101-css-transitions-9c1050c2bc9d
