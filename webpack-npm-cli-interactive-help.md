@@ -281,6 +281,8 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://webpack.js.org/configuration/watch/
 * https://blog.benestudio.co/remove-console-log-statements-from-production-javascript-apps-7376adc89c7a
 * https://github.com/webpack/webpack/issues/6586
+* https://medium.com/@ottoki/adventures-with-webpack-manifest-and-commonschunkplugin-c89631fc87fb
+* https://medium.com/@johntucker_48673/webpack-unraveling-commonschunkplugin-99b6a5fa5808
 
 # Deployment
 * https://devcenter.heroku.com/articles/nodejs-support
