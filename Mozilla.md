@@ -10,6 +10,10 @@ https://medium.com/@zorzini/mozillas-light-weight-web-design-tools-5cc983f715c3
 
 https://addons.mozilla.org/en-US/firefox/addon/404-bookmarks/
 
+https://addons.mozilla.org/en-US/firefox/addon/salesforce-inspector/?src=search
+
+https://legacycollector.org/firefox-addons/
+
 ## Mozilla APIs
 https://wiki.mozilla.org/Firefox/Activity_Stream
 
