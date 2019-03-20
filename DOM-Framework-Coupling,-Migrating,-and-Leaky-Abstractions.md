@@ -29,6 +29,7 @@
 * http://www.ericfeminella.com/blog/2014/01/19/quick-tip-backbone-collection-validation/
 
 ## React
+* https://github.com/facebook/react/issues/8379
 * https://reactjs.org/docs/design-principles.html
 * https://reactjs.org/docs/accessibility.html
 * https://medium.com/@viacheslavlushchinskiy/breaking-out-of-the-matrix-with-react-portals-and-mutation-observer-b35b8d977235
