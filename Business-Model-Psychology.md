@@ -1,3 +1,7 @@
+>Open-source maintainers should totally leverage this opportunity to make their projects sustainable. Sell your backports. Enterprises want them.
+
+>>I work at one such large org. We would pay good money for a 5 year support contract for a fixed version of a framework getting backported security (and maybe a few feature) updates.
+
 * https://www.computerworld.com/article/2485087/emerging-technology-case-study-3-heavyweights-give-gamification-a-go.html?page=2
 * https://medium.com/aws-enterprise-collection/6-strategies-for-migrating-applications-to-the-cloud-eb4e85c412b4
 * https://yourstory.com/2014/03/ultimate-master-list-revenue-models-web-mobile-companies/
