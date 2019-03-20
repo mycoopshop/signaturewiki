@@ -283,6 +283,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://github.com/webpack/webpack/issues/6586
 * https://medium.com/@ottoki/adventures-with-webpack-manifest-and-commonschunkplugin-c89631fc87fb
 * https://medium.com/@johntucker_48673/webpack-unraveling-commonschunkplugin-99b6a5fa5808
+* https://developers.google.com/web/fundamentals/performance/webpack/use-long-term-caching
 
 # Deployment
 * https://devcenter.heroku.com/articles/nodejs-support
