@@ -178,6 +178,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://help.salesforce.com/articleView?id=approval_process_viewer_req.htm&type=5
 * https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_technical_requirements.pdf
 * https://www.salesforce.com/content/dam/web/en_us/www/documents/platform/salesforce-only-in-lightning-features.pdf
+* https://help.salesforce.com/articleView?id=getstart_browser_aloha.htm&type=5
 
 ## Math
 * https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html
