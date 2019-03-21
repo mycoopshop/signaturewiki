@@ -17,6 +17,8 @@ function addPointOrVector(a, b) {
 
 ## References
 
+https://www.tonymarston.net/php-mysql/singletons-are-not-evil.html
+
 https://www.keithcirkel.co.uk/proposal-operator-overloading/
 
 https://derickbailey.com/2016/03/09/creating-a-true-singleton-in-node-js-with-es6-symbols/
