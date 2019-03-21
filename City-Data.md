@@ -1,9 +1,3 @@
-brentwood 
-oakley 
-vacaville 
-chico 
-elk grove
-
 https://en.wikipedia.org/wiki/California_State_Route_33
 
 http://www.stancounty.com/er/hazmat/e-waste-recycle.shtm
@@ -61,6 +55,12 @@ https://www.modestoacademy.com/calendar.aspx?start_date=05%2f01%2f19&location=
 http://stanislausconnections.org/connections%20MAR%2019.pdf
 
 https://register.communitypass.net/reg/facility_list.cfm?a=1468
+
+## Services
+
+https://www.yelp.com/biz/mccoy-tires-modesto-2?rh_type=service_attribute&rh_ident=brake
+
+https://www.yelp.com/biz/oil-changers-livermore
 
 ## Camp
 
