@@ -85,6 +85,21 @@ Satellite Dish
 1. https://www.wikihow.com/Install-and-Set-Up-Free-to-Air-Satellite-TV-Program-Receiver-System
 1. https://puntodepartida.com/en/guides/point_and_install_satellite_dish/
 
+Cisco
+https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/antennas/installing/cg_antenna_install_guide/Installation.pdf
+https://www.cisco.com/c/dam/en/us/td/docs/video/access_edge/RF_Electronics/Cisco-1_2GHz-GainMaker-System-Amplifier-Installation-and-Operation-Guide.pdf
+https://www.cisco.com/c/en/us/td/docs/wireless/antenna/installation/guide/ant2544v4m-r.pdf
+https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/antennas/installing/cg_antenna_install_guide.pdf
+https://www.cisco.com/c/dam/en/us/td/docs/wireless/bridge/1400/deployment/guide/1400deploymentguide.pdf
+https://www.cisco.com/c/en/us/td/docs/wireless/antenna/installation/guide/ant2413p2m-n.html
+https://www.cisco.com/c/dam/en/us/td/docs/video/at_home/Cable_Modems/3800_Series/4025083_A.pdf
+https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/antennas/installing-combined/industrial-routers-and-industrial-wireless-antenna-guide/AIR-ANT2413P2M-N.html
+https://www.cisco.com/c/en/us/td/docs/routers/asr1000/install/guide/asr1routers/asr-1000-series-hig/asr-hig-site.html
+https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/antennas/installing-combined/industrial-routers-and-industrial-wireless-antenna-guide/AIR-ANT2544V4M-R.pdf
+https://www.cisco.com/c/dam/en_us/training-events/netacad/demos/CCNA2v3Demo/index/glossary/CCNA_v30_glossary.pdf
+https://www.cisco.com/c/en/us/td/docs/wireless/access_point/1560/installation/guide/1560hig/1560_axa.pdf
+https://www.cisco.com/c/dam/en/us/td/docs/video/access_edge/Optoelectronics/Prisma_D_PON/4028196_D.pdf
+
 Hotspot
 1. https://turbofuture.com/computers/Use-a-4g-Hotspot-for-Internet-in-Your-Home-Network
 1. https://community.jisc.ac.uk/system/files/222/How%20to%20correctly%20mount%20wireless%20Access%20Points.pdf
