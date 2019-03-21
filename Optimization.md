@@ -1,4 +1,55 @@
+## Code
+<pre>
+       function init()
+       {
+            performance.mark("startTask1");
+            doTask1(); // Some developer code
+            performance.mark("endTask1");
+
+            performance.mark("startTask2");
+            doTask2(); // Some developer code
+            performance.mark("endTask2");
+
+            measurePerf();
+       }
+
+       function measurePerf()
+       {
+           var perfEntries = performance.getEntriesByType("mark");
+           for (var i = 0; i < perfEntries.length; i++)
+           {
+                 if (window.console) console.log("Name: "        + perfEntries[i].name      +
+                                                 " Entry Type: " + perfEntries[i].entryType +
+                                                 " Start Time: " + perfEntries[i].startTime +
+                                                 " Duration: "   + perfEntries[i].duration  + "\n");
+           }
+       }
+</pre>
+
+<pre>
+       function loadResources()
+       {
+          var image1 = new Image();
+          image1.onload = resourceTiming;
+          image1.src = 'http://www.w3.org/Icons/w3c_main.png';
+       }
+
+       function resourceTiming()
+       {
+           var resourceList = window.performance.getEntriesByType("resource");
+           for (i = 0; i < resourceList.length; i++)
+           {
+              if (resourceList[i].initiatorType == "img")
+              {
+                 alert("End to end resource fetch: "+ resourceList[i].responseEnd - resourceList[i].startTime);
+              }
+           }
+       }
+</pre>
+
 ## Specs
+
+https://w3c.github.io/perf-timing-primer/
 
 https://mimesniff.spec.whatwg.org
 
