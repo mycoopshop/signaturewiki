@@ -14,6 +14,8 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 
 * [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
 
+* [Screen Readers](https://dequeuniversity.com/screenreaders/)
+
 * [Windows Automation API SDK Tools – Microsoft Windows UI Automation Blog](https://blogs.msdn.microsoft.com/winuiautomation/2009/06/03/windows-automation-api-sdk-tools/)
 
 * [Orion/Accessibility - Eclipsepedia](https://wiki.eclipse.org/Orion/Accessibility)
