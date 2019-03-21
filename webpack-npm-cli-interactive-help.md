@@ -78,6 +78,8 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://github.com/webpack/webpack/tree/master/examples
 
 **References**
+* https://webpack.js.org/migrate/3
+* https://developers.google.com/web/fundamentals/performance/webpack/use-long-term-caching
 * https://github.com/webpack/webpack-dev-server/issues?utf8=%E2%9C%93&q=is%3Aissue+disablehostcheck+windows
 * https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/
 * http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
@@ -102,6 +104,7 @@ grunt.file.copy                            CopyWebpackPlugin; Use transform (htt
 * https://auth0.com/blog/webpack-4-release-what-is-new/
 * https://legacy.gitbook.com/book/wohugb/webpack/details
 * https://what-problem-does-it-solve.com/webpack/production.html
+* https://medium.com/@jaketripp/cool-things-with-webpack-9a8019bdbd4a
 * https://engineering.wingify.com/posts/migrating-towards-yarn-webpack/
 * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9
 * https://codeburst.io/maybe-dont-globally-install-that-node-js-package-f1ea20f94a00
