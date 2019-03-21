@@ -39,6 +39,12 @@
 * https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/data-sheet/servicenow-dpa-with-sccs.pdf
 * https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/analyst-report/analyst-status-quo-creates-security-risk.pdf
 
+## Design by Committee 
+* https://news.ycombinator.com/item?id=11708840
+* https://webkit.org/blog/7536/jsc-loves-es6/
+* https://node.green/nightly.html
+* https://www.reddit.com/r/learnjavascript/comments/3abeqm/recursion_in_es6/
+
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
 
