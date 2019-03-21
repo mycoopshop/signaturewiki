@@ -1005,6 +1005,9 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://codepen.io/sanooj/pen/WQMGbV.html
 * https://github.com/stomita/sformula
 * https://github.com/jsforce/jsforce/blob/master/test/package/JSforceTestSuite/workflows/Account.workflow
+* https://jsforce.github.io/blog/posts/20170629-salesforce-dx-with-jsforce.html
+* https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
+* https://jsforce.github.io/blog/posts/20140126-deploy-package-using-jsforce-and-gulpjs.html
 
 ## ESAPI
 * https://developer.salesforce.com/page/Testing_CRUD_and_FLS_Enforcement
@@ -1344,8 +1347,6 @@ Format:2xx0xx000
 * https://developer.salesforce.com/page/Salesforce_APIs
 * https://berlin2017.codemotionworld.com/wp-content/uploads/2017/11/The-Power-of-Salesforce-APIs.pdf
 * https://developer.salesforce.com/blogs/tech-pubs/2017/01/simplify-your-api-code-with-new-composite-resources.html
-* https://developer.salesforce.com/blogs/developer-relations/2016/12/forcejs-2-modern-javascript-library-salesforce-rest-apis.html
-* https://jsforce.github.io/blog/posts/20140126-deploy-package-using-jsforce-and-gulpjs.html
 * https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_api_objects_new.htm
 * https://wordpress.org/plugins/salesforce-wordpress-to-lead/
 * https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit/
