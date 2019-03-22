@@ -1570,6 +1570,10 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=000230820&language=en_US&type=1
 * http://www.wadewegner.com/2017/09/deploy-to-salesforce-dx/
 * https://help.salesforce.com/articleView?id=code_tools_ant_using.htm&type=5
+* https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-1.html
+* https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-2.html
+* https://developer.salesforce.com/blogs/2018/06/working-with-modular-development-and-unlocked-packages-part-3.html
+* https://developer.salesforce.com/blogs/developer-relations/2017/07/migrating-existing-projects-salesforce-dx.html
 * https://deploy-to-sfdx.com/
 
 ## Cost Structure
