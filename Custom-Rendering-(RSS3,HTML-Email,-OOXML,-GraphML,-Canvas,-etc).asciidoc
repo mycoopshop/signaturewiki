@@ -1,0 +1,6 @@
+https://blog.atulr.com/react-custom-renderer-1/
+https://medium.com/@agent_hunt/hello-world-custom-react-renderer-9a95b7cd04bc
+https://medium.com/@agent_hunt/hello-world-custom-react-renderer-9a95b7cd04bc
+https://alligator.io/vuejs/custom-component-renderers/
+https://bl.ocks.org/nitaku/08ea8fb868ce5bd7661f90fca1881faf
+https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a
