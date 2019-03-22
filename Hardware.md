@@ -85,6 +85,12 @@ Satellite Dish
 1. https://www.wikihow.com/Install-and-Set-Up-Free-to-Air-Satellite-TV-Program-Receiver-System
 1. https://puntodepartida.com/en/guides/point_and_install_satellite_dish/
 
+Fishing/Sealing Walls
+* http://www.patchhomeinspections.com/Electricians_Tricks_Of_The_Trade.pdf
+* https://www.energystar.gov/ia/partners/publications/pubdocs/DIY_Guide_May_2008.pdf
+* https://www.huduser.gov/portal/publications/moisture.pdf
+* https://www.practical-home-theater-guide.com/support-files/home-theater-wiring-guide-crutchfield.pdf
+
 Cisco
 * https://www.cisco.com/c/en/us/td/docs/routers/connectedgrid/antennas/installing/cg_antenna_install_guide/Installation.pdf
 * https://www.cisco.com/c/dam/en/us/td/docs/video/access_edge/RF_Electronics/Cisco-1_2GHz-GainMaker-System-Amplifier-Installation-and-Operation-Guide.pdf
