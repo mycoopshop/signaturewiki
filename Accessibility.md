@@ -103,3 +103,5 @@ https://help.surveymonkey.com/servlet/servlet.FileDownload?file=01530000003DuoA
 https://www.btaa.org/docs/default-source/library/accessibility-reports/gale-ecco-9_11_2017.pdf?sfvrsn=348a4cf3_5
 
 https://www.btaa.org/docs/default-source/library/accessibility-reports/btaa-pubmed-accessibilityreview.pdf?sfvrsn=be5b4af3_4
+
+https://medium.com/@WebReflection/web-standards-are-dead-long-life-web-standards-7420548709bd?source=---------3------------------
