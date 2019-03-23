@@ -293,6 +293,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 
 **Risks**
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
+* https://help.salesforce.com/articleView?id=000274941&language=en_US&type=1
 * https://github.com/salesforce/vulnreport/blob/master/vulntypeExamples/salesforce.xml
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
@@ -318,6 +319,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * http://certification.salesforce.com/OnlineProctoringGuide-WindowsOperatingSystem.pdf
 * http://certification.salesforce.com/OnlineProctoringGuide-MacintoshOperatingSystem.pdf
 * https://www.salesforce.com/dreamforce/certification/
+* https://success.salesforce.com/ideaView?id=08730000000DltWAAS
 * http://certification.salesforce.com/certification-detail-print?conId=003G0000017EBHmIAO
 * https://trailhead.salesforce.com/credentials/developeroverview
 * https://trailhead.salesforce.com/help?article=Link-Your-Trailhead-and-Webassessor-Accounts
@@ -952,6 +954,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2018/12/salesforce-equality-annual-update.html
 
 ## Partner Relationship Management
+* https://www.salesforce.com/content/dam/web/en_us/www/documents/accelerators/accelerator-library.pdf
 * https://trailhead.salesforce.com/en/content/learn/modules/partner-relationship-management
 * https://trailhead.salesforce.com/en/content/learn/modules/sf_partner_community
 * https://trailhead.salesforce.com/en/content/learn/modules/consulting_partner_basics/
@@ -1414,6 +1417,7 @@ Format:2xx0xx000
 * https://theneuralperspective.com/2016/12/20/highlights-and-tutorials-for-concepts-discussed-in-richard-socher-on-the-future-of-deep-learning/
 
 ## Analytics
+* https://www.salesforce.com/blog/2018/06/einstein-analytics-templates.html
 * https://help.salesforce.com/articleView?id=approval_history_reports.htm&type=5
 * https://help.salesforce.com/articleView?id=000249567&type=1&language=en_US
 * https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data_format.pdf
@@ -1859,6 +1863,20 @@ Format:2xx0xx000
 * https://aggieservice.ucdavis.edu/s/article/How-to-Access-the-Knowledge-Base
 * http://academic-alliance.salesforce.com/
 * https://www.salesforce.org/salesforces-academic-alliance/
+
+# Change Management
+https://www.salesforce.com/content/dam/web/en_us/www/documents/datasheets/ds-uas.pdf
+https://help.salesforce.com/servlet/servlet.FileDownload?file=015300000037bACAAY
+https://developer.salesforce.com/blogs/developer-relations/2014/12/salesforce1-enterprise-environment-management.html
+https://help.salesforce.com/articleView?id=push_scheduling_upgrades.htm&type=5
+https://engineering.salesforce.com/how-the-salesforce-technology-products-organization-runs-on-salesforce-725b11a0a638
+https://www.salesforce.com/blog/2018/04/tips-for-launching-implementations.html
+https://www.salesforce.com/blog/2017/05/how-to-successfully-transform-business.html
+https://www.salesforce.com/blog/2017/05/confronting-the-danger-of-legacy-attitudes.html
+https://www.salesforce.com/blog/2018/03/citizen-development-untold-perks-damian-ofarrill.html
+https://engineering.salesforce.com/autodesks-best-practices-for-continuous-innovation-with-salesforce-4f2971715a5e
+https://www.salesforce.com/au/blog/2018/10/technology-change-management--5-steps-to-success.html
+https://www.salesforce.com/blog/2017/07/scaling-sales-team-3-to-300.html
 
 # Adobe 
 ## Headless Architecture
