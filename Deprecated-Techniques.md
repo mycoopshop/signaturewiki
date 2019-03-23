@@ -16,6 +16,10 @@
 * https://hal.inria.fr/hal-01093908/document
 * https://www.javamex.com/tutorials/exceptions/exceptions_hierarchy.shtml
 
+## Dependency Injection
+* https://spicefactory.github.io/manual/toc.htm
+* https://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+
 ## Enterprise Architecture
 * https://msdn.microsoft.com/en-us/library/ms525913
 * https://www.torsten-horn.de/techdocs/jee-spring-mvc.htm
