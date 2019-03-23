@@ -67,3 +67,4 @@ https://www.oauth.com/oauth2-servers/differences-between-oauth-1-2/
 1. http://cfe.cboe.com/market-data/historical-data-archive
 1. https://www.cboe.com/LearnCenter/pdf/understandingindexoptions.pdf
 1. https://legaldictionary.net/blue-sky-laws/
+1. https://www.seclaw.com/secpub/
