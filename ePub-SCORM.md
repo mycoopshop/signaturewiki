@@ -17,6 +17,9 @@ And here are a couple of tutorials:
 ## ePub Generation Tools
 * https://www.xml.com/news/2018-08-xmlmind-ebook-compiler-v13/
 
+## ePub Specifications
+* http://www.idpf.org/epub/linking/cfi/epub-cfi.html
+
 ## SCORM
 * https://www.elearninglearning.com/flash-to-html5-conversion/scorm/
 * https://community.articulate.com/discussions/building-better-courses/reverse-engineering-scorm-packages-for-editing
