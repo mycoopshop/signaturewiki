@@ -112,6 +112,7 @@
 
 # Obscure Bias
 * https://www.upi.com/Odd_News/2018/10/01/Machine-uses-intricate-chain-reaction-to-dispense-lemonade/9171538418382/
+* https://www.avvo.com/legal-answers/someone-threw-a-glass-bottle-at-my-car--from-his-c-233630.html
 
 # Biography Bias
 * https://www.thoughtco.com/biography-of-alexandre-dumas-4165382
