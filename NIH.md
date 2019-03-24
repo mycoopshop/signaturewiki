@@ -1,3 +1,15 @@
+Singulair / Montelukast
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2662939/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4853504/
+
+https://www.mdedge.com/pulmonary-health-hub/article/63494/asthma/singulair-induced-anaphylaxis
+
+https://asthma.net/living/update-singulair-and-that-black-box-warning/
+
+https://www.asthmacenter.com/get-relief/skin.html
+
 ## Smallpox Vaccinations causes eczema vaccinatum
 
 https://www.niaid.nih.gov/diseases-conditions/eczema-complications
