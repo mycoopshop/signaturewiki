@@ -1,3 +1,8 @@
+* https://glwach.amedd.army.mil/hipaa/documents/HIPAA_Glossary.pdf
+* https://www.health.mil/News/Articles/2018/07/01/Patient-Safety-in-Action-Prescribing-High-Reliability-in-Pharmacies
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5171496/
+* https://validator.pragmaticdata.com/validator-lite/validator/spl-form/
+* https://apps.dtic.mil/dtic/tr/fulltext/u2/a411363.pdf
 * https://www.federalregister.gov/documents/2012/09/04/2012-20982/health-information-technology-standards-implementation-specifications-and-certification-criteria-for#p-942
 * https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=cvxvis
 * https://www2a.cdc.gov/vaccines/iis/iisstandards/vaccines.asp?rpt=vg
