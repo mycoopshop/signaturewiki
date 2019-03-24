@@ -206,5 +206,10 @@ https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/fl/data/Data
 https://www.adobe.com/devnet/flex/quickstarts/using_data_providers.html
 https://jacksondunstan.com/articles/2439
 
+# Game Creation
+* [ActionScript for basic gaming](http://www.brandbyjosh.com/mediasite/p5_actionscript_gaming.pdf)
+* [Real World Flash Game Development](https://doc.lagout.org/programmation/Actionscript%20-%20Flash%20-%20Flex%20-%20Air/Real-World%20Flash%20Game%20Development%202e%20-%20Griffith%20-%20Focal%20%282012%29.pdf)
+* [Facilitating the Education of Game Development](https://www.gamasutra.com/features/20060510/20051104-final-thesis-nacke.pdf)
+
 # Events
 http://backbonejs.org/#Events-stopListening
