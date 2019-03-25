@@ -1541,6 +1541,11 @@ Format:2xx0xx000
 * https://www.codeproject.com/Tips/1000517/Integrating-Salesforce-com-over-REST-API-using-IBM
 * https://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio
 
+## XSS
+* https://help.salesforce.com/articleView?id=review_and_certification.htm&type=5
+* https://help.salesforce.com/articleView?id=mc_es_microsite_landing_page_security_best_practices.htm&type=5
+* https://help.salesforce.com/articleView?id=000268571&language=en_US&type=1
+
 ## Configuration
 * https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=users_deactivate_external_option.htm&type=5
