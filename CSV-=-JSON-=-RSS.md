@@ -1,6 +1,8 @@
 ## Specifications
 * https://www.w3.org/TR/csv2json/
 * http://w3c.github.io/csvw/tests/
+* https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/OldStylePlists/OldStylePLists.html
+* https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
 * https://tools.ietf.org/html/rfc6901
 * https://tools.ietf.org/html/rfc6902
 * https://tools.ietf.org/id/draft-pbryan-zyp-json-ref-03.html
