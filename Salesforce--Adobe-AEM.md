@@ -183,6 +183,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 ## Math
 * https://developer.salesforce.com/blogs/developer-relations/2013/07/selecting-random-numbers-and-records-on-the-force-com-platform-part-1.html
 * https://www.salesforce.com/blog/2012/04/include-keyboard-interactions-in-your-design-specifications.html
+* https://www.skuid.com/blog/ibm-re-establishing-design-centered-company/
 
 ## Best Practices
 * http://www.dreamhouseapp.io
@@ -1164,6 +1165,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/blogs/2018/06/using-path-in-your-custom-lightning-component.html
 * https://developer.salesforce.com/blogs/2018/05/summer18-lightning-base-components-for-editing-data.html
 * https://developer.salesforce.com/blogs/2018/04/lightning-container-component-building-components-with-react-angular-and-other-libraries.html
+* https://docs.skuid.com/latest/en/skuid/salesforce/event-handling-lightning.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/08/winter-coming-lightning.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-developers-whats-new-lightning.html
 * https://developer.salesforce.com/blogs/developer-relations/2017/05/build-lightning-file-uploader-component.html
@@ -1740,7 +1742,9 @@ Format:2xx0xx000
 
 ## OData
 * https://developer.salesforce.com/blogs/developer-relations/2015/05/introducing-lightning-anydb-connector-data-democracy-fueled-salesforce-lightning-connect.html
+* https://www.skuid.com/blog/skuid-co-creator-principal-software-engineer-hosts-reddit-expert-ama/
 * https://success.salesforce.com/issues_view?id=a1p3A0000008gA2QAI&title=unable-to-retrieve-results-from-a-query-when-using-count-on-an-external-object-in-json-format
+* https://www.skuid.com/blog/skuid-so-simple-a-third-grader-built-an-app/
 * https://help.salesforce.com/articleView?id=odata_type_mapping_v2.htm&type=5
 * https://help.salesforce.com/articleView?id=platform_connect_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=security_pe_considerations_apps.htm&type=5
@@ -1848,6 +1852,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=lcc_javascript_buttons_scan.htm&type=5
 * https://help.salesforce.com/articleView?id=000230650&language=en_US&type=1
 * https://developer.salesforce.com/page/An_Introduction_to_Builder
+* https://www.skuid.com/blog/drive-innovation-by-design/
 * https://trailhead.salesforce.com/projects/migrate-a-classic-app-to-lightning-experience-with-declarative-tools/steps/set-up-your-salesforce-org
 * https://trailhead.salesforce.com/en/modules/lex_migration_introduction/units/lex_migration_introduction_rightforme
 
