@@ -75,6 +75,8 @@ Spill-Proof Laptops (Toughbooks)
 AM Tuner
 1. https://cdn-learn.adafruit.com/downloads/pdf/am-radio-morse-code-paddle.pdf
 1. http://www.fmtunerinfo.com/amtuners.html
+1. https://electronics.stackexchange.com/questions/268432/how-does-a-radio-receive-an-am-wave-with-an-improper-antenna-size
+1. https://itstillruns.com/splice-car-radio-antenna-6304651.html
 
 Car Radio
 
