@@ -62,6 +62,8 @@ url:servlet ext:pdf site:salesforce.com
 * https://help.salesforce.com/articleView?id=flow_build_extend_lc_screen.htm&type=5
 
 ## Admin
+* https://www.suretysystems.com/insights/salesforce-lightning-object-creator/
+* https://www.forbes.com/sites/jasonbloomberg/2018/07/30/low-codeno-code-hpapaas-heres-what-everybody-is-missing/
 * https://admin.salesforce.com/posts
 * https://admin.salesforce.com/lightning-champions
 * https://admin.salesforce.com/flowbuilder
