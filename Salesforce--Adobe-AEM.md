@@ -167,6 +167,10 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 ## Feature Parity
 * title:not title:lightning site:help.salesforce.com
 * https://releasenotes.docs.salesforce.com/en-us/summer18/release-notes/rn_files_replacing_flash.htm
+* https://www.jitendrazaa.com/blog/salesforce/using-salesforcedx-sfdx-with-non-scratch-orgs/
+* https://github.com/afawcett/dependencies-cli/wiki/How-to-untangle-an-Org-into-Packages
+* https://forcedotcom.github.io/salesforcedx-vscode/articles/getting-started/migrate-from-forcecom-ide
+* https://www.codescience.com/blog/2018/auto-generate-package-xml
 * https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/vf_dev_best_practices_slds_lightningstylesheets.htm
 * https://resources.docs.salesforce.com/sfdc/pdf/lex.pdf
 * https://trailhead.salesforce.com/en/content/learn/modules/workflow_migration/workflow_migration_intro
@@ -781,6 +785,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.salesforce.com/search/?/#stq=dwnld
 * https://developer.salesforce.com/page/Tools
 * https://wilsonmar.github.io/salesforce-dx/
+* http://matheusgoncalves.com/salesforce-dx-useful-cli-commands/
 * https://www.jitendrazaa.com/blog/salesforce/getting-started-with-salesforce-dx-salesforce-developer-experience/
 * http://nickworth.com/tag/salesforce/
 * https://developer.salesforce.com/blogs/2018/05/create-your-first-salesforce-cli-plugin.html
