@@ -274,6 +274,7 @@
 * https://thebiglead.com/2018/06/01/nba-finals-officials-lebron-james-curry-cavaliers-warriors/
 
 # Profile Bias
+* https://en.wikipedia.org/wiki/Purchase_funnel
 * http://claudiawagner.info/publications/cscw_bias_olm.pdf
 * https://www.marieclaire.co.za/hot-topics/artist-ayana-v-jackson-on-portraiture-identity-and-curating-a-show
 * https://soundcloud.com/spelmanmuseum/ayana-v-jackson
