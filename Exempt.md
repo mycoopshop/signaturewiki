@@ -16,6 +16,9 @@ https://www.ftb.ca.gov/forms/2017/17_100bk.pdf
 https://www.ci.east-palo-alto.ca.us/DocumentCenter/View/2823
 https://digitalasset.intuit.com/DOCUMENT/A5FP7N8Ic/2018-unsupported-calcs-L1FQfTTgn-1.pdf
 
+https://taxmap.irs.gov/taxmap/pub17/p17-088.htm#TXMP1e9514a7
+https://taxmap.irs.gov/taxmap/pubs/p590a-009.htm#TXMP6f46768b
+
 https://taxpayeradvocate.irs.gov/
 https://www.irs.gov/taxpayer-advocate
 
