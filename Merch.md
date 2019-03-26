@@ -1,0 +1,1 @@
+https://www.skechers.com/en-us/style/4442/verdict/bol
