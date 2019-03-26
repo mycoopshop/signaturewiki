@@ -14,7 +14,21 @@ Finally, insert a background-image rule for the body element at the end of the s
 * https://codepen.io/kh-mamun/pen/PWgzJe
 * https://rosettacode.org/wiki/Animate_a_pendulum#JavaScript
 
+## Set Theory
+* https://css-tricks.com/logic-in-media-queries/
+* https://www.w3.org/TR/mediaqueries-4/#evaluating
+* https://www.sitepoint.com/css-selectors-level-4-the-path-to-css4/
+
+## Real-Time Editing
+* https://blog.frankmtaylor.com/2012/01/23/html5-contenteditable-and-css/
+* https://css-tricks.com/show-and-edit-style-element/
+* https://css-tricks.com/examples/EditableInvoice/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/:read-write
+
 ## References
+* https://dxr.mozilla.org/mozilla-release/source/layout/style/res/html.css
+* https://svn.webkit.org/repository/webkit/trunk/Source/WebCore/css/html.css
+* https://src.chromium.org/viewvc/blink/trunk/Source/core/css/html.css
 * http://csslint.net/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 * https://robots.thoughtbot.com/css-animation-for-beginners
