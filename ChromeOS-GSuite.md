@@ -1,5 +1,6 @@
 The Chromium developer how-tos and Group Policy presentations outline all of these:
 
+# File System
 * [Chrome Group Policy](http://www.scribd.com/doc/163766676)
 * [Getting Around the Chromium Source Code Directory Structure](http://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code)
 * [Chrome Windows Build](https://chromium.googlesource.com/chromium/reference_builds/chrome_win/+/master)
@@ -11,9 +12,16 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
 * https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices
 * http://kaleb.horns.by/comp/os/chrome/ssh-keys/
 
-Preferences JS
+# C202
+* https://www.ifixit.com/Wiki/Asus_Chromebook_C202_Troubleshooting
+
+# Pixel C
+* https://en.wikipedia.org/wiki/Pixel_C
+
+# Preferences JS
 * https://support.google.com/chrome/a/answer/187948?hl=en
 * https://www.chromium.org/developers/design-documents/first-run-customizations
+
 
 Here's a partial rundown:
 
