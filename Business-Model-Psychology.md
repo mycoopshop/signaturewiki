@@ -296,6 +296,9 @@
 * https://www.crunchbase.com/organization/nearby-e42c
 * https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code
 
+# DIY Bias
+* https://www.simplemost.com/natural-ways-to-kill-and-prevent-weeds/
+
 # Loyalty Bias
 * http://www.affiliateprograms.com/video-game-affiliate-programs/
 * https://cse.google.com/cse/
