@@ -1,3 +1,11 @@
+Common Data
+vCard
+iCal
+creativecommons
+schema.org
+csv/tsv
+
+
 HTML5 Interactive Elements
     `<menu>` element 
     jpeg-xr
@@ -26,6 +34,8 @@ Exception Handler &#x9; React &#x9;&#x9; componentDidCatch &#x9; https://reactjs
 </pre>
 
 ## REFERENCES
+* http://www.ibiblio.org/hhalpin/homepage/notes/vcardtable.html
+* https://www.w3.org/2011/rdfa-context/rdfa-1.1
 * https://itnext.io/a-wicked-custom-elements-alternative-6d1504b5857f?source=user_profile---------2------------------&gi=a1ec46e1619f
 * http://devdocs.io/requirejs/
 * http://grml.in/learn/
