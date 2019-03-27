@@ -22,6 +22,9 @@
 * https://itnext.io/javascript-asynchronous-method-comparison-callbacks-promises-async-await-generators-e689d579aba7
 
 ## Flow Control
+* https://davidwalsh.name/promises-results
+* https://nmaggioni.xyz/2016/10/13/Avoiding-Promise-all-fail-fast-behavior/
+* https://stackoverflow.com/questions/50284005/handle-chained-promise-errors-in-async-await
 * https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
 * https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/
 * http://2ality.com/2014/10/es6-promises-api.html
