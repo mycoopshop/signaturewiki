@@ -6,6 +6,8 @@ Lazy consuming is streaming
 * https://medium.com/walkme-engineering/how-and-when-not-to-use-webpack-for-lazy-loading-bef9d37c42c1
 * https://blogs.oracle.com/geertjan/reactjs-and-oracle-jet-part-1
 * https://blogs.oracle.com/geertjan/reactjs-and-oracle-jet-part-2
+* https://dev.to/brsjsk/lazy-loading-modules-with-webpack-4emg
+* https://stackoverflow.com/questions/54318485/dynamic-import-named-export-using-webpack
 * https://remarkablemark.org/blog/2016/09/24/react-requirejs-amd/
 * https://blogs.oracle.com/geertjan/beyond-mobile-app-vs-mobile-browser
 * https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
