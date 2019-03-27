@@ -10,6 +10,7 @@
 ## OGs
 * https://medium.com/@93/chi-modu-fed003924f9
 * https://en.wikipedia.org/wiki/Joel_Augustus_Rogers
+* https://en.wikipedia.org/wiki/Gabriel_Okara
 
 ## Icons
 * https://en.wikipedia.org/wiki/Elly_Mayday
