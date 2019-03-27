@@ -12,6 +12,12 @@
 
 * https://www.sitepoint.com/expressions-javascript/
 
+* https://www.tutorialspoint.com/javaregex/javaregex_characters.htm
+
+* https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions
+
+* https://www.perl.com/pub/2004/01/16/regexps.html/
+ 
 * https://medium.freecodecamp.org/client-side-web-scraping-with-javascript-using-jquery-and-regex-5b57a271cb86
 
 * http://nshipster.com/nsregularexpression/
