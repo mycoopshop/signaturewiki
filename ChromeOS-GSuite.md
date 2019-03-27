@@ -14,6 +14,8 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
 
 # C202
 * https://www.ifixit.com/Wiki/Asus_Chromebook_C202_Troubleshooting
+* https://www.ifixit.com/Document/2289/.pdf
+* https://www.ifixit.com/Teardown/Asus+Chromebook+C202+Teardown/57992
 
 # Pixel C
 * https://en.wikipedia.org/wiki/Pixel_C
