@@ -23,6 +23,8 @@
 
 ## Flow Control
 * https://davidwalsh.name/promises-results
+* https://theoestudio.com/async-await-chaining/
+* https://stackoverflow.com/questions/50284005/handle-chained-promise-errors-in-async-await
 * https://nmaggioni.xyz/2016/10/13/Avoiding-Promise-all-fail-fast-behavior/
 * https://stackoverflow.com/questions/50284005/handle-chained-promise-errors-in-async-await
 * https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
