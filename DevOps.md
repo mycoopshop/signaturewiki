@@ -136,6 +136,7 @@ Perl Jenkins Redis
 **Free CI/CD**
 * https://about.gitlab.com/product/continuous-integration/
 * https://devcenter.heroku.com/articles/troubleshooting-node-deploys
+* https://hackernoon.com/ci-cd-continuous-integration-tools-delivery-react-web-travis-github-example-tutorial-javascript-vue-db8afe9f9a81?gi=145f00f44599
 
 **Functions as a Service**
 * https://medium.com/adobetech/2017-will-be-the-year-of-the-cgi-bin-err-serverless-f5d99671bc99
