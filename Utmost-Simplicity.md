@@ -215,3 +215,7 @@ https://jacksondunstan.com/articles/2439
 http://backbonejs.org/#Events-stopListening
 
 https://medium.com/@interdigitizer/the-tricky-part-of-creating-an-mvc-with-jquery-4cc6ff88fe64
+
+https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-react-component-5604830beb7f
+
+https://medium.com/@pitipatdop/little-neat-trick-to-capture-click-outside-with-react-hook-ba77c37c7e82
