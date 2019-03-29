@@ -133,6 +133,10 @@ Perl Jenkins Redis
 * http://www.oracle.com/technetwork/middleware/weblogic/overview/weblogic-server-docker-containers-2491959.pdf
 * https://www.oracle.com/technetwork/middleware/tuxedo/overview/tuxedo-docker-containers-v1-2966620.pdf
 
+**Free CI/CD**
+* https://about.gitlab.com/product/continuous-integration/
+* https://devcenter.heroku.com/articles/troubleshooting-node-deploys
+
 **Functions as a Service**
 * https://medium.com/adobetech/2017-will-be-the-year-of-the-cgi-bin-err-serverless-f5d99671bc99
 * https://www.darkreading.com/cloud/appsec-in-the-world-of-serverless/a/d-id/1332078
