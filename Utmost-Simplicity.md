@@ -213,3 +213,5 @@ https://jacksondunstan.com/articles/2439
 
 # Events
 http://backbonejs.org/#Events-stopListening
+
+https://medium.com/@interdigitizer/the-tricky-part-of-creating-an-mvc-with-jquery-4cc6ff88fe64
