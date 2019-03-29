@@ -738,6 +738,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## Pardot
 * http://certification.salesforce.com/pardotoverview
 * https://www.pardot.com/resources/resource-library/
+* https://stackoverflow.com/questions/47047487/simulate-a-jsonp-response-with-javascript-urls
 * https://help.salesforce.com/articleView?id=data_deletion_pardot.htm&type=0
 * https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_pardot_data_sync.htm
 * https://help.salesforce.com/articleView?id=pardot_landing_pages_multivariate.htm&type=5
@@ -1641,6 +1642,8 @@ Format:2xx0xx000
 * https://www.xml.com/pub/a/2003/09/17/stax.html
 
 ## JSONP
+* https://opfocus.com/json-deserialization-techniques-in-salesforce/
+* http://peterknolle.com/accessing-apex-rest-from-site-com/
 * https://help.salesforce.com/articleView?id=000264418&language=en_US&type=1
 * https://help.salesforce.com/articleView?id=remoteaccess_using_openid.htm&type=5
 * https://help.salesforce.com/articleView?id=remoteaccess_revoke_token.htm&type=5
