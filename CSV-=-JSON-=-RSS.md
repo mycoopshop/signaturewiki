@@ -17,6 +17,7 @@
 * https://www.jetbrains.com/help/clion/editing-csv-and-tsv-files.html
 
 ## Templates
+* https://www.biglist.com/cgi-bin/wilma/wilma_glimpse/xsl-list@lists.mulberrytech.com?query=csv&Search=Search&errors=0&maxfiles=50&maxlines=10&.cgifields=lineonly&.cgifields=filelist&.cgifields=case&.cgifields=partial&.cgifields=restricttofiles
 * https://www.osha.gov/injuryreporting/osha_ita_summary_data_csv_template.csv
 * https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data.pdf
 * https://dev.socrata.com/docs/formats/csv.html
