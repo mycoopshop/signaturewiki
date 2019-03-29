@@ -16,6 +16,14 @@
 1. WPAD
 1. XML Processing Instruction
 
+## Simplest Stylesheets
+* https://www.w3.org/StyleSheets/base.css
+
+## Simplest HTML
+* http://dinosaur.compilertools.net/flex/manpage.html
+* https://www.x.org/releases/X11R7.5/doc/man/man1/xman.1.html
+* https://www.example.com
+
 ## Simplest Specification
 Hypertext Application Language (HAL) 
 * http://stateless.co/hal_specification.html
