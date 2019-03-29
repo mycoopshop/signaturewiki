@@ -15,6 +15,10 @@ https://www.androwish.org/index.html/raw/3de97eab9a70cc0cc00e4085c0e16f07379f72c
 
 https://www.cisco.com/c/en/us/td/docs/interfaces_modules/services_modules/ace/v3-00_A2/configuration/slb/guide/slbgd/script.pdf
 
+== UX
+
+https://www.activestate.com/blog/enthusiastic-tcl-users/
+
 == Hello World
 
 https://en.wikibooks.org/wiki/Tcl_Programming/Examples
