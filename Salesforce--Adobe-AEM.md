@@ -302,6 +302,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2017/04/salesforce-data-security-model-explained-visually.html
 * https://help.salesforce.com/articleView?id=000274941&language=en_US&type=1
 * https://github.com/salesforce/vulnreport/blob/master/vulntypeExamples/salesforce.xml
+* https://privacyscore.org/site/17398/json/
 * https://developer.salesforce.com/blogs/developer-relations/2012/11/real-time-push-notifications-from-force-com-to-heroku-using-websockets.html
 * https://help.salesforce.com/articleView?id=fields_validation_considerations.htm&type=5
 * https://help.salesforce.com/articleView?id=console_lex_limitations.htm&type=5
