@@ -74,34 +74,36 @@ Microsoft Windows SDK includes all the tools necessary for MSAA and/or UI Automa
 
 * https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/elements/accessibility
 
-https://www1.nyc.gov/assets/doitt/downloads/pdf/nyc-web-accessibility-report.pdf
+* https://www.archives.gov/files/global-pages/accessibility.html
 
-https://www.wccusd.net/cms/lib/CA01001466/Centricity/Domain/2414/Accessibility%20Webinar%20Deck.pdf
+* https://www1.nyc.gov/assets/doitt/downloads/pdf/nyc-web-accessibility-report.pdf
 
-https://core.ac.uk/download/pdf/157730417.pdf
+* https://www.wccusd.net/cms/lib/CA01001466/Centricity/Domain/2414/Accessibility%20Webinar%20Deck.pdf
 
-https://www.uottawa.ca/respect/sites/www.uottawa.ca.respect/files/fss-fixing-accessibility-errors-in-pdfs.pdf
+* https://core.ac.uk/download/pdf/157730417.pdf
 
-https://blog.sourcerer.io/building-web-accessibility-in-2019-b4bf16ef5754
+* https://www.uottawa.ca/respect/sites/www.uottawa.ca.respect/files/fss-fixing-accessibility-errors-in-pdfs.pdf
 
-https://www.doe.in.gov/sites/default/files/assessment/accessibility-and-accommodations-guidance-1819-07-25-18-final.pdf
+* https://blog.sourcerer.io/building-web-accessibility-in-2019-b4bf16ef5754
 
-https://knowbility.org/assets/accessu/2018/presentations/Moore-Michael-Accessibility_Testing_for_the_Rest_of_Us.pdf
+* https://www.doe.in.gov/sites/default/files/assessment/accessibility-and-accommodations-guidance-1819-07-25-18-final.pdf
 
-https://ictaccessibilitytesting.org/docs/Proceedings%20of%20the%202018%20ICT%20Accessibility%20Testing%20Symposium.pdf
+* https://knowbility.org/assets/accessu/2018/presentations/Moore-Michael-Accessibility_Testing_for_the_Rest_of_Us.pdf
 
-https://www.w3.org/2018/03/wot-f2f/slides/TPG_AccessibilityUseCases.pdf
+* https://ictaccessibilitytesting.org/docs/Proceedings%20of%20the%202018%20ICT%20Accessibility%20Testing%20Symposium.pdf
 
-https://www.d2l.com/wp-content/uploads/2018/10/D2L-Brightspace-CORE-10.8.x-VPAT%C2%AE2.2-August-2018-1.pdf
+* https://www.w3.org/2018/03/wot-f2f/slides/TPG_AccessibilityUseCases.pdf
 
-https://www.d2l.com/wp-content/uploads/2018/10/D2L-Brightspace-CORE-10.8.x-WCAG-2.0-Checklist-August-2018-1.pdf
+* https://www.d2l.com/wp-content/uploads/2018/10/D2L-Brightspace-CORE-10.8.x-VPAT%C2%AE2.2-August-2018-1.pdf
 
-https://arxiv.org/ftp/arxiv/papers/1808/1808.09885.pdf
+* https://www.d2l.com/wp-content/uploads/2018/10/D2L-Brightspace-CORE-10.8.x-WCAG-2.0-Checklist-August-2018-1.pdf
 
-https://help.surveymonkey.com/servlet/servlet.FileDownload?file=01530000003DuoA
+* https://arxiv.org/ftp/arxiv/papers/1808/1808.09885.pdf
 
-https://www.btaa.org/docs/default-source/library/accessibility-reports/gale-ecco-9_11_2017.pdf?sfvrsn=348a4cf3_5
+* https://help.surveymonkey.com/servlet/servlet.FileDownload?file=01530000003DuoA
 
-https://www.btaa.org/docs/default-source/library/accessibility-reports/btaa-pubmed-accessibilityreview.pdf?sfvrsn=be5b4af3_4
+* https://www.btaa.org/docs/default-source/library/accessibility-reports/gale-ecco-9_11_2017.pdf?sfvrsn=348a4cf3_5
 
-https://medium.com/@WebReflection/web-standards-are-dead-long-life-web-standards-7420548709bd?source=---------3------------------
+* https://www.btaa.org/docs/default-source/library/accessibility-reports/btaa-pubmed-accessibilityreview.pdf?sfvrsn=be5b4af3_4
+
+* https://medium.com/@WebReflection/web-standards-are-dead-long-life-web-standards-7420548709bd?source=---------3------------------
