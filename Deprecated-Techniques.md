@@ -160,6 +160,9 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
 * http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
 
+## Data Mining
+* https://softwareengineering.stackexchange.com/questions/167175/whats-the-normal-way-machine-learning-algorithms-are-integrated-into-normal-pro/167211#167211
+
 ## Tooling
 
 * https://medium.com/@igniteram/e2e-testing-with-protractor-cucumber-using-typescript-564575814e4a
