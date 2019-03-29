@@ -71,6 +71,8 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 
 * Animated GIF Capture
 
+* RecordRTC (https://chrome.google.com/webstore/detail/recordrtc/ndcljioonkecdnaaihodjgiliohngojp)
+
 ## IDE
 
 * https://softwarerecs.stackexchange.com/questions/16613/chrome-new-tab-page-to-beautify-and-check-code/50338#50338
