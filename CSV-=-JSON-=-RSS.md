@@ -1,5 +1,6 @@
 ## Specifications
 * https://www.w3.org/TR/csv2json/
+* https://www.w3.org/TR/xml-link-style/
 * http://w3c.github.io/csvw/tests/
 * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/OldStylePlists/OldStylePLists.html
 * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
