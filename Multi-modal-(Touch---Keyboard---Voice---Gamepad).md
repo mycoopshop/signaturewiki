@@ -3,7 +3,7 @@ Internet Explorer 10+, Edge, Safari, and Chrome remove the delay on elements tha
 You can find out more in these articles: 
 
 **References**
-
+* https://defkey.com/what-means/ctrl-o
 * https://en.wikipedia.org/wiki/PenPoint_OS
 * https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API
 * http://images.designworldonline.com.s3.amazonaws.com/CADhistory/Sketchpad_A_Man-Machine_Graphical_Communication_System_Jan63.pdf
