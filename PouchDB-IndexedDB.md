@@ -34,6 +34,8 @@ https://bugs.jquery.com/ticket/9889
 
 https://www.codeproject.com/Articles/168604/Combining-jQuery-Deferred-with-the-HTML5-Web-Worke
 
+https://googlechrome.github.io/samples/service-worker/fallback-response/
+
 https://asquera.de/blog/2018-10-01/webassembly-and-wasm-bindgen/
 
 https://www.clicktorelease.com/blog/optimise-svg-load-service-worker/
