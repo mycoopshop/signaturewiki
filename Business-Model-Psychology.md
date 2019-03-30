@@ -229,6 +229,7 @@
 * https://help.salesforce.com/articleView?id=data_sandbox_environments.htm&type=5
 
 # Premium Bias
+* https://www.diigo.com/premium
 * https://www.makeuseof.com/tag/reasons-vimeo-instead-youtube/
 * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.820.9789&rep=rep1&type=pdf
 
