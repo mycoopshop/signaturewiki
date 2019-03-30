@@ -70,6 +70,7 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 * https://daniel.haxx.se/blog/2016/11/26/https-proxy-with-curl/
 
 ## Webhooks
+* https://dzone.com/articles/how-we-captured-ajax-api-requests-from-arbitrary-w
 * https://dev.twitch.tv/docs/api/webhooks-reference/
 * https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D/%7Brepo_slug%7D/hooks#webhooksResource-POSTawebhook
 * https://cordova.apache.org/docs/en/latest/guide/appdev/hooks/
