@@ -6,6 +6,12 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 * CRX Viewer: https://robwu.nl/crxviewer/
 * CRXcavator: https://duo.com/blog/crxcavator
 
+## AJAX Debugging
+* https://dzone.com/articles/how-we-captured-ajax-api-requests-from-arbitrary-w
+
+## Web Scraping
+* Parseur: https://chrome.google.com/webstore/detail/parseur/nehphjhcffmoaajeoeehlohbndahlolm
+
 ## Feeds
 * Mercury Reader
 
