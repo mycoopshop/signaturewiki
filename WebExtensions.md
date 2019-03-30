@@ -12,6 +12,9 @@ title:firefox title:chrome +webextension site:github.com -title:issue
 ## Web Scraping
 * Parseur: https://chrome.google.com/webstore/detail/parseur/nehphjhcffmoaajeoeehlohbndahlolm
 
+## Github
+* Github Notifier: https://chrome.google.com/webstore/detail/github-notifier/hoapibhhppbolnldjengllkcdbpbbgih?hl=en
+
 ## Feeds
 * Mercury Reader
 
