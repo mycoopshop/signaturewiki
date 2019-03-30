@@ -59,6 +59,12 @@
 * https://pdfs.semanticscholar.org/ccba/c9c9cda72b27bfda0d780be86da744b6ce7c.pdf
 * https://www.supermarketguru.com/articles/the-first-of-its-kind-study-shows-ai-tool-can-improve-best-practices-in-managing-nut-allergies/
 
+## Fantasy Basketball
+* https://basketball.fantasysports.yahoo.com/nba/167497/
+
+## Fantasy Football
+* https://archive.fantasysports.yahoo.com/nfl/2016/560404/
+
 ## Dictionaries
 * https://www.tutorialspoint.com/adobe_robohelp/adobe_robohelp_creating_indexes_keywords.htm
 
