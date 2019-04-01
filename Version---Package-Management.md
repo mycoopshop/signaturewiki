@@ -52,6 +52,12 @@
 * https://medium.com/afosto/how-to-setup-a-bootstrap-project-like-bootstrap-does-it-3825a726b09a
 * https://www.talkingdotnet.com/add-bootstrap-4-to-angular-6-application/
 
+
+**NPM/Yarn**
+* https://www.keycdn.com/blog/npm-vs-yarn
+* https://news.ycombinator.com/item?id=17181624
+* https://www.alexkras.com/understanding-differences-between-npm-yarn-and-pnpm/
+
 **JSON Config Files**
 * https://stackoverflow.com/questions/43619644/i-am-getting-an-invalid-host-header-message-when-running-my-react-app-in-a-we
 * https://developer.ibm.com/recipes/tutorials/nodered-exception-handling-framework/
