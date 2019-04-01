@@ -19,6 +19,8 @@ Bitbucket
 1. https://confluence.atlassian.com/bitbucketserverkb/how-to-diff-arbitrary-commits-using-rest-api-790630308.html
 1. https://confluence.atlassian.com/bitbucketserverkb/how-to-report-on-permissions-by-using-rest-api-endpoints-858696596.html
 1. https://community.atlassian.com/t5/Bitbucket-questions/Where-to-find-the-url-for-an-RSS-feed-of-commits/qaq-p/832308
+1. https://community.atlassian.com/t5/Bitbucket-questions/Post-Webhook-REST-API/qaq-p/731952
+1. https://docs.atlassian.com/bitbucket-server/rest/5.8.0/bitbucket-rest.html?_ga=2.78030548.1586964311.1554121058-2105203457.1554121058#idm46057173007120
 
 Security
 1. https://www.atlassian.com/trust/policies
