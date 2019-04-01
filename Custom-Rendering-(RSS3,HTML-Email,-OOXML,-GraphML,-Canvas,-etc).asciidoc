@@ -6,6 +6,11 @@
 . https://bl.ocks.org/nitaku/08ea8fb868ce5bd7661f90fca1881faf
 . https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a
 
+## Media RSS
+* https://www.bing.com/webmaster/help/media-rss-mrss-video-feed-specification-350cfabf
+* https://creator.amazon.com/documentation/ac/mrss.html
+* https://github.com/rokudev/SDK-Development-Guide/blob/master/parsing-feed.md
+
 ## HTML Screencaps
 . https://www.w3.org/TR/mediacapture-fromelement/
 . https://developers.google.com/web/updates/2016/10/capture-stream
