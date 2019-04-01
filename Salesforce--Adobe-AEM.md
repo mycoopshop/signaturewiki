@@ -857,6 +857,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://developer.mulesoft.com/download-mule-esb-runtime
 * https://github.com/mulesoft/mule
 * https://blogs.mulesoft.com/tag/odata/
+* http://www.h-online.com/developer/features/Free-integration-frameworks-on-the-Java-platform-1672712.html%3Fpage=2
 * https://docs.mulesoft.com/mule-runtime/3.6/cmis-connector
 * https://www.youtube.com/watch?v=U_Oy_rD6aPs
 * https://www.youtube.com/watch?v=7C3-Nf-2dS8
