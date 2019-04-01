@@ -71,6 +71,10 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 
 ## Webhooks
 * https://stacygohyunsi.github.io/
+* https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652?gi=b9d73f3d5484
+* https://devcenter.heroku.com/articles/webhook-dyno-events
+* https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+* https://chatbotslife.com/creating-a-nodejs-based-webhook-for-intelligent-bots-a91ecbe33402
 * https://dzone.com/articles/how-we-captured-ajax-api-requests-from-arbitrary-w
 * https://dev.twitch.tv/docs/api/webhooks-reference/
 * https://developer.atlassian.com/bitbucket/api/2/reference/resource/repositories/%7Busername%7D/%7Brepo_slug%7D/hooks#webhooksResource-POSTawebhook
