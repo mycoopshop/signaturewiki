@@ -57,6 +57,7 @@
 * https://www.periscopedata.com/blog/how-to-format-numbers-as-currency-in-postgres-mysql-and-redshift
 
 ## Abstraction
+* https://modern-sql.com/blog/2017-06/whats-new-in-sql-2016
 * http://media.datadirect.com/download/docs/ddxquery/allddxq/reference/wwhelp/wwhimpl/common/html/wwhelp.htm?context=reference&file=database_support3.html
 * https://www.xaprb.com/blog/2006/08/13/four-types-of-database-abstraction-layers/
 * http://www.postgresonline.com/journal/archives/21-SQL-Math-Idiosyncracies.html
