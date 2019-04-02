@@ -285,6 +285,14 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://developer.salesforce.com/blogs/developer-relations/2013/05/object-type-comparison-using-apex.html
 * https://help.salesforce.com/articleView?id=000005995&language=en_US&type=1 (Record ID Prefixes)
 
+## Process Builder + Webhooks
+* https://developer.salesforce.com/blogs/2018/03/integrating-hangouts-chat-salesforce.html
+* http://coenraets.org/blog/2016/01/slack-salesforce-integration/
+* https://developer.salesforce.com/blogs/developer-relations/2012/02/quick-tip-public-restful-web-services-on-force-com-sites.html
+* https://help.salesforce.com/articleView?id=iot_set_up_prereqs_marketing_cloud.htm&type=5
+* https://devcenter.heroku.com/articles/app-webhooks-schema
+* https://github.com/quip/quip-api/tree/master/samples/webhooks
+
 ## Defects
 * https://hackerone.com/salesforce
 * https://success.salesforce.com/issues_view?id=a1p30000000T0tvAAC&title=when-performing-several-soql-queries-from-different-apex-classes-no-such-column-lastvieweddate-on-entity-entity-name-is-thrown
@@ -1400,13 +1408,6 @@ Format:2xx0xx000
 * https://developer.salesforce.com/dreamhouse/slack/
 * https://get.slack.help/hc/en-us/articles/227838227-Salesforce-for-Slack
 * https://developer.salesforce.com/blogs/developer-relations/2016/05/slack-salesforce-integration.html
-
-## Webhooks
-* https://help.salesforce.com/articleView?id=iot_set_up_prereqs_marketing_cloud.htm&type=5
-* https://developer.salesforce.com/blogs/2018/03/integrating-hangouts-chat-salesforce.html
-* https://developer.salesforce.com/blogs/developer-relations/2012/02/quick-tip-public-restful-web-services-on-force-com-sites.html
-* https://devcenter.heroku.com/articles/app-webhooks-schema
-* https://github.com/quip/quip-api/tree/master/samples/webhooks
 
 ## Einstein
 * https://einstein.ai/terms-of-service
