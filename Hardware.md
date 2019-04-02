@@ -87,6 +87,9 @@ Car Radio
 1. https://www.wikihow.com/Install-a-Basic-Aftermarket-Car-Stereo
 1. https://www.instructables.com/id/How-to-Install-an-Aftermarket-Radio-in-a-1999-2004/
 
+Water Proofing
+1. https://www.health.ny.gov/publications/7064.pdf
+
 Satellite Dish
 1. https://www.wikihow.com/Install-and-Set-Up-Free-to-Air-Satellite-TV-Program-Receiver-System
 1. https://puntodepartida.com/en/guides/point_and_install_satellite_dish/
