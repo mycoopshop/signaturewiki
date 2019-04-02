@@ -38,3 +38,5 @@
 * Iteration: http://2ality.com/2016/10/asynchronous-iteration.html
 * Proper Tail-Calls: https://www.linkedin.com/pulse/tail-call-optimizations-es6-michael-clark
 * Require=>Import: https://www.npmjs.com/package/replace-require-with-import
+* RegExp Lookbehind Assertions: https://www.bram.us/2018/01/30/whats-new-in-ecmascript2018/
+* Template Literal Revision: https://js.checkio.org/blog/ecmascript-2018/
