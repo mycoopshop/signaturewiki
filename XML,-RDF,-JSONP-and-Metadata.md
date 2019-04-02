@@ -4,6 +4,8 @@
 
 * https://github.com/brentsimmons/JSONFeed/issues/49
 
+* https://www.w3.org/community/rdfjs/2018/04/23/rdf-js-the-new-rdf-and-linked-data-javascript-library/
+
 * http://docs.datalad.org/en/latest/metadata.html
 
 * https://github.com/w3c/respec/issues/1503
