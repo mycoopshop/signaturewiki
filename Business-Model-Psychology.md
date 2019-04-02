@@ -256,6 +256,7 @@
 * https://www.oecd.org/finance/financial-education/48211690.pdf
 
 # Poverty Bias
+* https://2018.jsconf.us/speakers/caroline-dikibo/
 * http://social-bite.co.uk/profits-projects/
 * https://www.merriam-webster.com/dictionary/collateral
 
@@ -314,6 +315,7 @@
 * https://en.wikipedia.org/wiki/Hudson%27s_Bay_Company
 * https://en.wikipedia.org/wiki/Brooks_Brothers
 * https://en.wikipedia.org/wiki/Parallels_Workstation
+* https://www.engpaper.com/javascript-2018.htm
 
 # Ignorance Bias
 * https://support.apple.com/itunes-gift-card-scams
