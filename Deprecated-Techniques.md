@@ -8,6 +8,9 @@
 * https://msdn.microsoft.com/en-us/ie/ms530764(v=vs.94)
 * http://estelleweyl.com/portfolio/
 * https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
+* https://old.lwn.net/archives/
+* https://www.jibbering.com/faq/
+* https://simpl.info/websql/
 
 ## Exception Hierarchy
 * https://cs.nju.edu.cn/changxu/2_seminar/papers/Paper_24.pdf
