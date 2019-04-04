@@ -719,7 +719,10 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://help.salesforce.com/articleView?id=code_debug_log_delete.htm&type=5
 * https://help.salesforce.com/articleView?id=partners_del.htm&type=5
 
-## Customer Support / Service Cloud
+## Customer Support / Desk.com / Service Cloud
+* https://support.desk.com/customer/en/portal/articles/2927444-desk-to-service-cloud-product-update-faqs?b_id=16915
+* https://support.desk.com/customer/portal/articles/2928031-desk-to-service-cloud-trial-workbook?b_id=16915
+* https://support.desk.com/customer/portal/articles/2922045-implementing-service-cloud-with-a-salesforce-partner-frequently-asked-questions?b_id=16915
 * https://help.salesforce.com/articleView?id=000003910&type=1
 * https://help.salesforce.com/articleView?id=support_channels.htm&type=5
 * https://help.salesforce.com/articleView?id=quick_text_setting_up.htm&type=5
@@ -750,6 +753,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 
 ## Pardot
 * http://certification.salesforce.com/pardotoverview
+* http://pages.mail.salesforce.com/gettingstarted/pardot/
 * https://www.pardot.com/resources/resource-library/
 * https://stackoverflow.com/questions/47047487/simulate-a-jsonp-response-with-javascript-urls
 * https://help.salesforce.com/articleView?id=data_deletion_pardot.htm&type=0
