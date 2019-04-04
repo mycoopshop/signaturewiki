@@ -161,6 +161,8 @@ Perl Jenkins Redis
 
 **References**
 
+* [The Relationship between devops and continuous delivery](https://go.forrester.com/blogs/11-09-09-the_relationship_between_dev_ops_and_continuous_delivery_a_conversation_with_jez_humble_of_thought/)
+
 * [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 * [DNS | Node.js Documentation](https://nodejs.org/api/dns.html)
@@ -231,7 +233,6 @@ Perl Jenkins Redis
 * http://maven.apache.org/ref/3.0.4/maven-model-builder/super-pom.html
 * https://help.sonatype.com/display/NXRM3/Repository+Manager+2+to+3+Feature+Equivalency
 http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art005
-
 http://javasampleapproach.com/tool/maven/maven-introduction-part-4-maven-build-lifecycle
 https://www.ibm.com/developerworks/java/tutorials/j-mavenv2/
 https://cloud.google.com/appengine/docs/standard/java/tools/maven
