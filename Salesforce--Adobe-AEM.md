@@ -691,6 +691,11 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://success.salesforce.com/issues_view?id=a1p300000008YmVAAU&title=performance-edition-orgs-showing-as-base-edition-in-lma
 
 ## Marketing Cloud
+* https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes/blob/e046cf96acb7ef74fa818e6d5b2696bbeef0cb2c/getting-started-with-ampscript-developer-notes.md
+* https://ampscript.guide/transformxml/
+* https://salesforce.stackexchange.com/questions/121360/xml-and-xsl-using-transformxmlxml-xsl
+* https://salesforce.stackexchange.com/questions/190430/xslt-error-using-transformxml-function
+* http://pages.mail.salesforce.com/gettingstarted/home/?tab=marketing
 * https://www.salesforce.com/products/marketing-cloud/resources/email-marketing-best-practices/
 * https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_tenant_specific_subdomains.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_rn_october_2018_platform_xml_api.htm&type=5
