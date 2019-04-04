@@ -742,6 +742,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 * https://www.salesforce.com/blog/2014/07/3-steps-to-turn-your-faqs-into-valuable-knowledge-base-articles.html
 
 ## Community
+* https://help.salesforce.com/articleView?id=siteforce_overview.htm&type=5
 * https://help.salesforce.com/articleView?id=external_identity_login_discovery_create_config_self.htm&type=5
 * http://certification.salesforce.com/RG_CommunitiesArchitecture.pdf
 * https://www.salesforceben.com/community-cloud-certification-guide-tips/
