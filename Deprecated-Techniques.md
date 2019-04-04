@@ -12,6 +12,8 @@
 * https://lists.w3.org/Archives/Public/www-style/
 * https://www.jibbering.com/faq/
 * https://simpl.info/websql/
+* http://exslt.org/
+* http://xulfr.org/wiki/E4X
 
 ## Exception Hierarchy
 * https://cs.nju.edu.cn/changxu/2_seminar/papers/Paper_24.pdf
