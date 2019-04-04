@@ -9,6 +9,7 @@
 * http://estelleweyl.com/portfolio/
 * https://www.smashingmagazine.com/2018/05/using-the-web-with-javascript-turned-off/
 * https://old.lwn.net/archives/
+* https://lists.w3.org/Archives/Public/www-style/
 * https://www.jibbering.com/faq/
 * https://simpl.info/websql/
 
