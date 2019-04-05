@@ -10,6 +10,17 @@
 * http://search.cpan.org/dist/perl-5.27.1/ext/File-Glob/Glob.pm
 * https://research.swtch.com/glob
 
+## Manual Module Installation from CPAN
+* https://developer.teradata.com/blog/odbcteam/2016/02/perl-with-teradata-odbc
+* http://imagemagick.sourceforge.net/http/www/perl.html
+* https://dl.acm.org/citation.cfm?id=517258
+* http://perl-begin.org/tutorials/perl-for-newbies/part4/
+* https://docs.oracle.com/cd/E64107_01/bigData.Doc/install_deploy_bdd/src/tins_preinstall_mail_address_perl_module.html
+* https://www.ibm.com/developerworks/community/blogs/Dougclectica/entry/perl_modules_and_aix5?lang=en
+* https://community.opmantek.com/display/NMIS/Installing+Perl+Libraries+with+and+without+CPAN
+* https://www.thegeekstuff.com/2008/09/how-to-install-perl-modules-manually-and-using-cpan-command/
+* https://stackoverflow.com/questions/251705/how-can-i-use-a-new-perl-module-without-install-permissions
+
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
 
