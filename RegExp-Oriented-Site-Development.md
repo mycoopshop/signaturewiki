@@ -14,6 +14,8 @@
 
 * https://www.tutorialspoint.com/javaregex/javaregex_characters.htm
 
+* https://shred.zone/cilla/page/380/little-java-regex-cookbook.html
+
 * https://docs.microsoft.com/en-us/dotnet/standard/base-types/character-escapes-in-regular-expressions
 
 * https://www.perl.com/pub/2004/01/16/regexps.html/
