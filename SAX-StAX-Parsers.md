@@ -4,6 +4,7 @@
 * http://developer.samsung.com/technical-doc/view.do?v=T000000094
 * http://tutorials.jenkov.com/java-xml/sax-vs-stax.html
 * https://www.xml.com/pub/a/2003/09/17/stax.html
+* https://stackoverflow.com/questions/39611755/xslt-to-generate-element-cardinalities
 * https://www.ibm.com/developerworks/xml/library/x-tipstx2/
 * https://www.ibm.com/developerworks/library/x-stax1/
 * https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/SJSXP2.html
