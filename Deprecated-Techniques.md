@@ -54,6 +54,7 @@
 * https://webkit.org/blog/7536/jsc-loves-es6/
 * https://node.green/nightly.html
 * https://www.reddit.com/r/learnjavascript/comments/3abeqm/recursion_in_es6/
+* https://media.datadirect.com/download/docs/xmlconverters/java/javadoc/com/ddtek/xmlconverter/SchemaGenerator.html
 
 ## Email
 https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-or-web-application
