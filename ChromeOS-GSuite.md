@@ -66,6 +66,9 @@ https://sites.google.com/site/scriptsexamples/tools-for-google-sites/responsive-
 
 https://ctrlq.org/dev/google-apps-script
 
+https://webapps.stackexchange.com/questions/33263/force-users-to-update-password-every-3-months-for-google-apps
+
+
 ## Marketplace
 
 https://www.upwork.com/o/jobs/browse/skill/chrome-extension/?client_hires=0
