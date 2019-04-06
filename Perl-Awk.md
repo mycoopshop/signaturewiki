@@ -20,6 +20,11 @@
 * https://community.opmantek.com/display/NMIS/Installing+Perl+Libraries+with+and+without+CPAN
 * https://www.thegeekstuff.com/2008/09/how-to-install-perl-modules-manually-and-using-cpan-command/
 * https://stackoverflow.com/questions/251705/how-can-i-use-a-new-perl-module-without-install-permissions
+* http://archive.oreilly.com/oreillyschool/courses/Perl4/Perl4-05.html
+* https://perldoc.perl.org/5.16.1/Module/Build/Cookbook.html
+* http://blogs.perl.org/users/marc_sebastian_jakobs/2009/11/how-to-install-perl-modules-from-cpan-in-the-unix-user-space.html
+* https://learn.perl.org/faq/perlfaq8.html
+* http://pdl.perl.org/PDLdocs/FAQ.html
 
 ## Find/Replace
 perl -pi -e 's/you/me/g' file
