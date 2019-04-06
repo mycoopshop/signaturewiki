@@ -16,3 +16,8 @@ https://support.roku.com/article/223122087--service-interruption-roku-services-o
 https://openconnect.netflix.com/en/network-configuration/
 https://forums.roku.com/viewtopic.php?t=40892
 https://superuser.com/questions/1167683/what-do-these-alg-setting-on-my-router-mean-and-what-is-alg
+https://wholesale.frontier.com/docs/default-source/wholesaledocs/interstate-service-guide-and-pricelist-no-11.pdf?sfvrsn=17dcbe9d_20
+https://frontier.com/~/media/corporate/terms/frontier-services-agreement.ashx
+https://frontier.com/~/media/corporate/terms/general-terms-residential.ashx?la=en
+https://frontier.com/~/media/corporate/terms/hsi-residential-internet-service-052017.ashx
+https://frontier.com/~/media/corporate/terms/general-terms-business.ashx?la=en
