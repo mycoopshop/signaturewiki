@@ -24,6 +24,7 @@
 * https://www.x.org/releases/X11R7.5/doc/man/man1/xman.1.html
 * https://www.example.com
 * http://www.mobileread.mobi/
+* http://wiki.c2.com/
 
 ## Simplest Specification
 Hypertext Application Language (HAL) 
