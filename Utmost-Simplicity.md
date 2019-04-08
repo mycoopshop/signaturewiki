@@ -23,6 +23,7 @@
 * http://dinosaur.compilertools.net/flex/manpage.html
 * https://www.x.org/releases/X11R7.5/doc/man/man1/xman.1.html
 * https://www.example.com
+* http://www.mobileread.mobi/
 
 ## Simplest Specification
 Hypertext Application Language (HAL) 
