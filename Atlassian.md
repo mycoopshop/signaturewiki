@@ -8,6 +8,9 @@ JIRA
 1. https://confluence.atlassian.com/jirasoftwarecloud/advanced-searching-764478330.html
 1. https://jira.atlassian.com/browse/JRASERVER-60724
 
+Tempo
+1. http://mutexoy.blogspot.com/2018/06/the-worst-api-ever-tempo-timesheets.html
+
 Confluence
 1. https://docs.atlassian.com/atlassian-confluence/REST/6.6.0/
 1. https://docs.atlassian.com/atlassian-confluence/6.6.0/
