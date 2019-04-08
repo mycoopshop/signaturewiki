@@ -17,5 +17,10 @@
 . https://stackoverflow.com/questions/14595541/capture-div-into-image-using-html2canvas
 . https://gist.github.com/PaulKinlan/def79b32a6cfec88f7b61e531523c743
 
+## HTML Animation
+. https://stackoverflow.com/questions/49119264/javascript-canvas-animation-stick-figure-movement
+. https://upload.wikimedia.org/wikipedia/commons/f/fd/Animated_pendulum.svg
+. https://bl.ocks.org/vasturiano/17fd83953443cb6b4b76fecac5779797
+
 ## HTML Gaming
 http://d3tetris.herokuapp.com/
