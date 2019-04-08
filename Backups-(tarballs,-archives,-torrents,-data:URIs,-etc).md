@@ -12,4 +12,6 @@ https://www.wired.com/story/gawker-archives-freedom-of-press-foundation-toast-la
 
 https://www.wired.com/2015/10/cyphon-wired-archive-migration/
 
+https://news.ycombinator.com/item?id=17433173
+
 https://www.w3.org/MarkUp/Wilbur/
