@@ -45,3 +45,4 @@
 1. https://expressjs.com/en/guide/behind-proxies.html
 1. https://flaviocopes.com/express-cors/
 1. https://www.express-gateway.io/
+1. https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/
