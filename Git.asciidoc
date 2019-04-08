@@ -151,10 +151,13 @@ Then push to the remote using:
 
     git push --set-upstream origin myDevIntgrMerge #push merge
 
-Merge without accepting any commits
+Merge to stable from unstable without accepting any commits
 
-    git merge origin/feature/INVPROD-2898-release -s recursive -X ours
+    git merge origin/feature/INVPROD-2898-release -s ours
 
+Merge to unstable from stable without auto resolving conflicts
+
+    git merge origin/integration -s recursive -X ours
  
 
 Test for Bitbucket Conflicts Locally
