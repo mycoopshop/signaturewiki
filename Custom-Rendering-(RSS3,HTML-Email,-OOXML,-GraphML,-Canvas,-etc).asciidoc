@@ -23,6 +23,7 @@
 . https://bl.ocks.org/vasturiano/17fd83953443cb6b4b76fecac5779797
 . http://javascriptkit.com/dhtmltutors/css3-animation-swing.shtml
 . https://codepen.io/kh-mamun/pen/PWgzJe
+. https://cssanimation.rocks/clocks/
 
 ## HTML Gaming
 http://d3tetris.herokuapp.com/
