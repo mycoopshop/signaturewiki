@@ -16,3 +16,8 @@
 * https://blogs.technet.microsoft.com/heyscriptingguy/2013/01/04/understanding-and-using-powershell-profiles/
 * https://technet.microsoft.com/en-us/library/bb613488(v=vs.85).aspx
 * https://ss64.com/ps/syntax-run.html
+
+## msysgit Git Bash
+https://danlimerick.wordpress.com/2011/07/11/git-for-windows-tip-setting-home-and-the-startup-directory/
+
+http://blog.dbain.com/2012/02/using-msysgit-and-connect-on-windows-to.html
