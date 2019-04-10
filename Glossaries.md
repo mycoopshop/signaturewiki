@@ -9,6 +9,7 @@
 1. https://www.oauth.com/oauth2-servers/differences-between-oauth-1-2/
 
 ## DevOps
+1. http://www.drdobbs.com/cpp/computer-programming-and-precise-termino/208808373
 1. https://kubernetes.io/docs/reference/glossary/?fundamental=true
 1. https://docs.docker.com/glossary/
 1. https://www.citrix.com/glossary/
