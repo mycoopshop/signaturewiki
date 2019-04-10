@@ -1,4 +1,5 @@
 * https://ss64.com/nt/syntax-variables.html
+* http://www.drdobbs.com/architecture-and-design/object-file-formats/184410191
 * https://en.wikibooks.org/wiki/Guide_to_Unix/Explanations/Filesystems_and_Swap
 * https://www.microsoft.com/en-us/wdsi/help/folder-variables
 * https://msdn.microsoft.com/en-us/library/windows/desktop/dd378457(v=vs.85).aspx
