@@ -1,4 +1,4 @@
-== Operator Overloading Getter 
+==Operator Overloading Getter 
 <pre>
 function addPointOrVector(a, b) {
     if (a instanceof Point) a = new Vector([a])
@@ -22,9 +22,27 @@ https://www.tonymarston.net/php-mysql/singletons-are-not-evil.html
 
 https://www.keithcirkel.co.uk/proposal-operator-overloading/
 
+http://amzn.github.io/ion-docs/guides/cookbook.html
+
+https://www.sitepoint.com/symbol-gc-ruby-2-2/
+
 https://derickbailey.com/2016/03/09/creating-a-true-singleton-in-node-js-with-es6-symbols/
 
 https://dmitripavlutin.com/detailed-overview-of-well-known-symbols/
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Functions
+
+https://www.perlmonks.org/?node_id=94007
+
+http://www.cs.virginia.edu/~cs415/scottcd/3a_impsc.pdf
+
+https://docs.oracle.com/cd/E19205-01/819-5257/bladt/
+
+http://support.sas.com/documentation/cdl/en/mcrolref/61885/HTML/default/viewer.htm#a001072111.htm
+
+http://bearcave.com/software/java/java_symtab.html
+
+http://incrtcl.sourceforge.net/itcl/namesp.html
 
 https://lucasfcosta.com/2016/12/01/Meta-Programming-in-JavaScript-Part-Four.html
 
