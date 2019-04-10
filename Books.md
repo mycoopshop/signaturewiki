@@ -66,4 +66,8 @@ https://www.amazon.com/dp/2884790217/
 
 https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)
 
+https://en.wikipedia.org/wiki/Critical_Path_(book)
+
+https://en.wikipedia.org/wiki/Science,_technology_and_society
+
 https://en.wikipedia.org/wiki/Working_with_the_Hands
