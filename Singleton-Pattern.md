@@ -1,4 +1,5 @@
-==Operator Overloading Getter 
+## Operator Overloading Getter 
+
 <pre>
 function addPointOrVector(a, b) {
     if (a instanceof Point) a = new Vector([a])
@@ -85,3 +86,5 @@ https://developer.android.com/reference/android/icu/text/SymbolTable
 https://xml.apache.org/xindice/dev/guide-internals.html
 
 https://www.codeproject.com/Articles/1032231/What-is-the-Symbol-Table-and-What-is-the-Global-Of
+
+https://psb.stanford.edu/psb-online/proceedings/psb97/dalke.pdf
