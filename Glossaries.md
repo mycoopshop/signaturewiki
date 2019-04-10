@@ -1,11 +1,12 @@
 ## APIs
-https://console.bluemix.net/docs/overview/glossary/glossary.html#glossary
-https://auth0.com/identity-glossary
-https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-glossary
-https://www.ibm.com/support/knowledgecenter/en/SSMNED_2018/com.ibm.apic.overview.doc/overview_apimgmt_glossary.html
-http://apiglossary.com/
-https://alexbilbie.com/guide-to-oauth-2-grants/
-https://www.oauth.com/oauth2-servers/differences-between-oauth-1-2/
+1. https://docs.perl6.org/language/glossary
+1. https://console.bluemix.net/docs/overview/glossary/glossary.html#glossary
+1. https://auth0.com/identity-glossary
+1. https://docs.microsoft.com/en-us/azure/active-directory/develop/developer-glossary
+1. https://www.ibm.com/support/knowledgecenter/en/SSMNED_2018/com.ibm.apic.overview.doc/overview_apimgmt_glossary.html
+1. http://apiglossary.com/
+1. https://alexbilbie.com/guide-to-oauth-2-grants/
+1. https://www.oauth.com/oauth2-servers/differences-between-oauth-1-2/
 
 ## DevOps
 1. https://kubernetes.io/docs/reference/glossary/?fundamental=true
