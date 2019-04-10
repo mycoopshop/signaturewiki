@@ -42,4 +42,12 @@ https://www.nytimes.com/2013/09/30/education/jean-anyon-dies-at-72-wrote-ghetto-
 
 https://en.wikipedia.org/wiki/Self-Taught
 
-https://www.kidzlovesoccer.com/selection.php?pid=70884&t=Class
+https://phys.org/news/2018-06-non-coding-dna-genitals-youre-born.html
+
+Scientists reveal first image ever made of a black hole https://www.apnews.com/05d573dd29924452a491431922d22e61
+
+https://www.sciencedaily.com/releases/2010/01/100107143909.htm
+
+https://www.quantumgravityresearch.org/golden-ratio-in-nature-overview
+
+https://apps.dtic.mil/dtic/tr/fulltext/u2/a165185.pdf
