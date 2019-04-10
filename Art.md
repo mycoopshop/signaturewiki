@@ -42,6 +42,7 @@
 * https://en.wikipedia.org/wiki/Rapsody
 * https://en.wikipedia.org/wiki/4eva_Is_a_Mighty_Long_Time
 * https://en.wikipedia.org/wiki/Jeet_Kune_Do
+* https://en.wikipedia.org/wiki/Defendu
 * https://publications.nigms.nih.gov/insidethecell/chapter4.html
 * https://newrepublic.com/article/113176/science-loneliness-how-isolation-can-kill-you
 * https://www.poets.org/poetsorg/poet/sonia-sanchez
