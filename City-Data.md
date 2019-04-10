@@ -50,6 +50,8 @@ https://go.frontier.com/media-streaming-devices
 
 https://www.modbee.com/living/article163832113.html
 
+https://www.kidzlovesoccer.com/selection.php?pid=70884&t=Class
+
 https://www.modestoacademy.com/calendar.aspx?start_date=05%2f01%2f19&location=
 
 http://stanislausconnections.org/connections%20MAR%2019.pdf
