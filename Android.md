@@ -2,6 +2,8 @@
 
 https://www.quora.com/How-can-I-easily-create-an-Android-app-for-free-without-coding-and-Java-skills
 
+https://hackernoon.com/making-the-most-of-flutter-from-basics-to-customization-433171581d01?gi=6af18eb8bee7
+
 https://www.tutorialspoint.com/android/android_resources.htm
 
 https://code.tutsplus.com/tutorials/how-to-localize-an-android-application--cms-22154
