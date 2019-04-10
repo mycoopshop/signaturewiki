@@ -4,6 +4,8 @@ https://en.wikipedia.org/wiki/Unicode_equivalence
 
 https://www.w3.org/International/questions/qa-html-encoding-declarations
 
+https://www.codeproject.com/Articles/8090/MS-Word-style-Symbol-Dialog
+
 https://stackoverflow.com/questions/8169278/firefox-and-utf-16-encoding
 
 https://lists.w3.org/Archives/Public/public-html/2010Jul/0193.html
