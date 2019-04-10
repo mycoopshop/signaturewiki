@@ -1,4 +1,7 @@
 # FAQs
+
+https://www3.rocketsoftware.com/rocketd3/support/documentation/d3nt/91/refman/tcl/tcl_commands.htm
+
 https://wiki.tcl-lang.org/page/What+is+Tcl
 
 https://www.magicsplat.com/articles/oo.html
@@ -48,3 +51,5 @@ https://en.wikibooks.org/wiki/Tcl_Programming/regexp
 https://github.com/ActiveState/code/blob/master/recipes/Tcl/65433_Parsing_comma_separated_values/recipe-65433.tcl
 
 https://www.activestate.com/blog/concurreny-tcl-weaving-threads/
+
+https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html
