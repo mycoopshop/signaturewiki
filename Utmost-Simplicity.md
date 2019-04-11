@@ -33,6 +33,7 @@ Hypertext Application Language (HAL)
 
 ## Simplest Event Model
 * https://homepages.cwi.nl/~steven/xsltforms/
+* https://homepages.cwi.nl/~steven/forms/examples/xmlcom/clock/clock4b.xhtml
 
 ## Simplest Domain Specific Language (DSL)
 
