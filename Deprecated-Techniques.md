@@ -107,6 +107,21 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/security-dialog-box
 * https://docs.microsoft.com/en-us/office/vba/outlook/how-to/security/security-behavior-of-the-outlook-object-model
 
+## AutoIt/AutoHotKey
+* https://www.autoitscript.com/wiki/Associative_Arrays
+
+## Solaris/Linux Library Linking
+* https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
+* http://www.linker-aliens.org/blogs/ali/entry/ancillary_objects_separate_debug_elf/
+* https://github.com/tuhdo/os01/files/776266/Operating_System_From_0_to_1.pdf
+* https://perf.wiki.kernel.org/index.php/Tutorial
+* https://www.macieira.org/blog/2012/01/sorry-state-of-dynamic-libraries-on-linux/
+* https://blogs.oracle.com/solaris/gnu-hash-elf-sections-v2
+* http://blog.k3170makan.com/2018/10/introduction-to-elf-format-part-vi_18.html
+
+## Ada
+* http://docs.adacore.com/live/wave/binutils-stable/html/as/as.html
+
 ## Project File Structure
 
 * https://cwiki.apache.org/confluence/display/MAVENOLD/Repository+Layout+-+Final
