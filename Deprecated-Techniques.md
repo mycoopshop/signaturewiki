@@ -91,6 +91,11 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://bitbucket.org/DanRoberts/vbscripttranslator
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
+* http://gambaswiki.org/wiki/doc/object-model
+* http://www.cocolab.com/parse_vbasic.html
+* http://lambda-the-ultimate.org/node/295
+* https://www.htmlgoodies.com/beyond/asp/vbs-ref/article.php/3458611/Key-Differences-Between-VB-and-VB-Script.htm
+* https://www.mobilize.net/hubfs/Downloads/ROI%20of%20Eradicating%20VB6.pdf
 * https://www.example-code.com/vb6/sharepoint_online_authentication.asp
 * https://msdn.microsoft.com/en-us/library/aa730836(v=vs.80).aspx
 * http://depressedpress.com/2014/04/05/accessing-sharepoint-lists-with-visual-basic-for-applications/
