@@ -1,4 +1,4 @@
-The language parser is a singleton, overloading or overriding the global or local symbols with delegation, decoration, or memoization is a temporary extension to the language itself.
+The language parser is a singleton controller, the symbol table is a singleton model, the language runtime is a singleton view. So overloading or overriding the global or local symbols with delegation, decoration, or memoization is a temporary extension to the language itself.
 
 ## Operator Overloading Getter 
 
