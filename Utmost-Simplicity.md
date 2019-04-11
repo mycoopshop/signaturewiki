@@ -31,6 +31,9 @@ Hypertext Application Language (HAL)
 * http://stateless.co/hal_specification.html
 * https://www.slideshare.net/kiphampton/magpie-13369038
 
+## Simplest Event Model
+* https://homepages.cwi.nl/~steven/xsltforms/
+
 ## Simplest Domain Specific Language (DSL)
 
 <pre>
