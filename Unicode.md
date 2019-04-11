@@ -1,5 +1,7 @@
 https://www.w3.org/International/articles/definitions-characters/
 
+http://www.unicode-symbol.com/block/Braille.html
+
 https://en.wikipedia.org/wiki/Unicode_equivalence
 
 https://www.w3.org/International/questions/qa-html-encoding-declarations
