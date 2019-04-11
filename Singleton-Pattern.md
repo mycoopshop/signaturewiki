@@ -1,3 +1,5 @@
+The language parser is a singleton, overloading or overriding the global or local symbols with delegation, decoration, or memoization is a temporary extension to the language itself.
+
 ## Operator Overloading Getter 
 
 <pre>
