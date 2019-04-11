@@ -88,3 +88,11 @@ https://xml.apache.org/xindice/dev/guide-internals.html
 https://www.codeproject.com/Articles/1032231/What-is-the-Symbol-Table-and-What-is-the-Global-Of
 
 https://psb.stanford.edu/psb-online/proceedings/psb97/dalke.pdf
+
+https://rosettacode.org/wiki/Move-to-front_algorithm
+
+https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Symbols.html
+
+http://types.bu.edu/Espresso/report/Espresso.html
+
+https://ruslanspivak.com/lsbasi-part13/
