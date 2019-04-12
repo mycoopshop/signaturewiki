@@ -29,6 +29,7 @@
 ## Enterprise Architecture
 * https://msdn.microsoft.com/en-us/library/ms525913
 * https://www.torsten-horn.de/techdocs/jee-spring-mvc.htm
+* https://manning-content.s3.amazonaws.com/download/9/fa540da-3ce5-4964-ba56-ecf6c72b68c9/Sample-Ch07.pdf
 * http://www.ijettcs.org/Volume2Issue2/IJETTCS-2013-04-10-091.pdf
 * https://media.techtarget.com/tss/static/articles/content/AgileJavaDev/SpringMVC.pdf
 * https://www.springbyexample.org/static/1.03/pdf/SpringByExample.pdf
@@ -188,10 +189,11 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 ## Templating
 
 * https://www.baeldung.com/apache-velocity
+* https://docs.spring.io/spring/docs/3.2.x/spring-framework-reference/html/expressions.html
 * https://community.liferay.com/blogs/-/blogs/custom-velocity-tools-and-liferay-6-0
 * https://extensions.xwiki.org/xwiki/bin/view/Extension/Velocity%20Module
 * https://docs.atlassian.com/software/jira/docs/api/7.6.1/com/atlassian/jira/util/velocity/
-* http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/
+* http://www.sergiy.ca/how-to-create-custom-tools-for-apache-velocity/ 
 
 ## Data Mining
 * https://softwareengineering.stackexchange.com/questions/167175/whats-the-normal-way-machine-learning-algorithms-are-integrated-into-normal-pro/167211#167211
