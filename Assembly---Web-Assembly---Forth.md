@@ -1,4 +1,4 @@
-* https://rosettacode.org/wiki/Terminal_control/Ringing_the_terminal_bell
+* https://rosettacode.org/wiki/Loops/Infinite#ARM_Assembly
 * https://www.theiphonewiki.com/wiki/MobileDevice_Library
 * http://cggallant.blogspot.com/2018/01/webassembly-caching-when-using.html
 * https://en.wikipedia.org/wiki/Fork_bomb
