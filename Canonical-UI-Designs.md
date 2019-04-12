@@ -40,6 +40,8 @@ Fixed: https://medium.com/@malcolmcollin/look-mom-no-storyboard-1e721101c29f
 
 **References**
 
+* https://en.wikipedia.org/wiki/Glade_Interface_Designer
+
 * https://www.safaribooksonline.com/library/view/designing-web-interfaces/9780596155353/#toc-start
 
 * https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
