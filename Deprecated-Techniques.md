@@ -89,6 +89,11 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 ## VB/ASP
 * https://docs.microsoft.com/en-us/previous-versions/office/developer/server-technologies/aa286483(v=msdn.10)
 * https://docs.microsoft.com/en-us/previous-versions//t0aew7h6(v=vs.85)
+* https://docs.microsoft.com/en-us/previous-versions/aa730836(v=vs.80)
+* https://www.codeproject.com/Articles/20125/Using-SOAP-With-Classic-ASP-VBScript
+* https://www.codeproject.com/Articles/19359/Web-Service-Proxy-generator-using-XSLT-targeting-V
+* https://gallery.technet.microsoft.com/scriptcenter/deed3efb-1e11-4e7e-8bfd-96a981de5c35
+* https://blogs.msdn.microsoft.com/jpsanders/2007/06/14/how-to-send-soap-call-using-msxml-replace-stk/
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://bitbucket.org/DanRoberts/vbscripttranslator
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
