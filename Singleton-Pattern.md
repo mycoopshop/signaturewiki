@@ -98,3 +98,9 @@ https://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/doc/Symbols.html
 http://types.bu.edu/Espresso/report/Espresso.html
 
 https://ruslanspivak.com/lsbasi-part13/
+
+https://wiki.visual-prolog.com/index.php?title=Language_Reference/Built-in_entities
+
+https://picolisp.com/wiki/?symbolnamespaces
+
+https://www.theiphonewiki.com/wiki/MobileDevice_Library
