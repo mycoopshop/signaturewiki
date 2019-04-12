@@ -88,6 +88,7 @@ https://help.dreamhost.com/hc/en-us/articles/215035988-How-to-spoof-in-your-CMS-
 
 ## VB/ASP
 * https://docs.microsoft.com/en-us/previous-versions/office/developer/server-technologies/aa286483(v=msdn.10)
+* https://docs.microsoft.com/en-us/previous-versions//t0aew7h6(v=vs.85)
 * http://oakleafblog.blogspot.com/2006/04/almost-lifetime-of-basic.html
 * https://bitbucket.org/DanRoberts/vbscripttranslator
 * https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/examples/concept/c_Insert.html
