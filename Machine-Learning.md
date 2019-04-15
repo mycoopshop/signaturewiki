@@ -9,6 +9,7 @@
 * https://medium.com/@davidllorente/automatic-natural-language-generation-the-new-normal-cd36ed8976de
 * https://blog.wolfram.com/2010/11/30/how-to-win-at-coin-flipping/
 * https://medium.com/@mikeharrisNY/the-heist-is-the-coin-toss-77ee4d870037
+* https://docs.aws.amazon.com/silk/latest/developerguide/machine-learning.html
 
 ## Techniques
 * https://rosettacode.org/wiki/Rock-paper-scissors
