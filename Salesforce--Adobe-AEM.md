@@ -1054,6 +1054,7 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## DML Data Deduplication
 * https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce_data_quality_duplicate_prevention.pdf
 * https://douglascayers.com/2016/03/20/salesforce-easy-ways-to-export-data-as-csv/
+* https://salesforce.stackexchange.com/questions/27686/how-can-i-convert-a-15-char-id-value-into-an-18-char-id-value/157419#157419
 
 ## Remoting
 * https://developer.salesforce.com/blogs/developer-relations/2011/02/quick-look-into-javascript-remoting.html
@@ -1570,6 +1571,7 @@ Format:2xx0xx000
 * https://help.salesforce.com/articleView?id=review_and_certification.htm&type=5
 * https://help.salesforce.com/articleView?id=mc_es_microsite_landing_page_security_best_practices.htm&type=5
 * https://help.salesforce.com/articleView?id=000268571&language=en_US&type=1
+* https://salesforce.stackexchange.com/questions/139988/escape-xml-function-in-visualforce/213076#213076
 
 ## Configuration
 * https://help.salesforce.com/articleView?id=Changing-the-System-Administrator-for-my-Salesforce-account&language=en_US&type=1
