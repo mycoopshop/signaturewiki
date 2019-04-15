@@ -165,3 +165,4 @@ https://redux.js.org/introduction/ecosystem
 * https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices/
 * https://blogs.msdn.microsoft.com/webdev/2017/11/28/improve-website-performance-by-optimizing-images/
 * https://msdn.microsoft.com/en-us/magazine/mt632272.aspx
+* http://odinodin.no/2015-07-14-react-hover/
