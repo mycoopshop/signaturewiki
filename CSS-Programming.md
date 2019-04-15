@@ -24,6 +24,7 @@ Finally, insert a background-image rule for the body element at the end of the s
 * https://css-tricks.com/show-and-edit-style-element/
 * https://css-tricks.com/examples/EditableInvoice/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/:read-write
+* https://webdesignerwall.com/tutorials/you-might-be-tempted-to-use-these-css-tricks-but-should-you
 
 ## References
 * https://dxr.mozilla.org/mozilla-release/source/layout/style/res/html.css
