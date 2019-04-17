@@ -4,3 +4,5 @@
 * https://support.microsoft.com/en-us/help/290842/you-receive-a-smtp-relay-blocks-error-message-when-you-send-e-mail-mes
 * https://docs.campaign.adobe.com/doc/AC/en/DLV_Deliverability_management_Technical_recommendations.html
 * https://www.adobe.com/devnet/air/quick_start_as/quickstarts/qs_using_uris.html
+* https://tools.ietf.org/html/rfc8089
+* https://en.wikipedia.org/wiki/About_URI_scheme
