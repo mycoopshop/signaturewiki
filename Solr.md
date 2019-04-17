@@ -18,3 +18,13 @@ var searchengine =
 ]
 };
 </pre>
+
+
+## References
+https://wiki.apache.org/solr/UnicodeCollation
+
+https://opensourceconnections.com/blog/2017/02/20/solr-utf8/
+
+https://lucene.apache.org/solr/guide/6_6/tokenizers.html
+
+https://lucene.apache.org/solr/guide/6_6/filter-descriptions.html
