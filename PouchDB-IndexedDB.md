@@ -1,5 +1,11 @@
 https://github.com/w3c/web-platform-tests/tree/master/IndexedDB
 
+https://www.uio.no/studier/emner/matnat/ifi/INF5750/h14/lecture-presentations/inf5750---lecture-6.b---html5-offline-data.pdf
+
+https://blogs.msdn.microsoft.com/ie/2011/09/27/building-offline-experiences-with-html5-appcache-and-indexeddb/
+
+https://developer.amazon.com/blogs/home/tag/HTML5
+
 https://developers.google.com/web/ilt/pwa/working-with-indexeddb
 
 https://www.pwastats.com/tags/indexeddb
