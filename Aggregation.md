@@ -1,6 +1,14 @@
 https://content.iospress.com/articles/information-services-and-use/isu859
 
+http://www.xmlnews.org/docs/meta-spec.html
+
 https://www.newslookup.com/
+
+https://www.broadcastradio.com/myriad-news
+
+https://www.marketnews.com/syndication
+
+https://www.actusnews.com/en/actusnews/how-broadcasting-works
 
 http://gameslikefinder.com/games-like-directory/
 
