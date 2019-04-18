@@ -201,6 +201,10 @@ https://sites.google.com/site/pydatalog/
 
 https://jsfiddle.net/twophayse/ay6rkLwt/
 
+https://developer.apple.com/library/archive/samplecode/TicTacToe/Introduction/Intro.html#//apple_ref/doc/uid/DTS40010309
+
+# Query Architecture 
+
 https://anyonecanlearntocode.com/blog_posts/why-vue-not-react-is-the-new-jquery
 
 https://www.quora.com/Why-did-jQuery-win
