@@ -19,6 +19,11 @@
 ## Simplest Stylesheets
 * https://www.w3.org/StyleSheets/base.css
 
+## Simplest REPLs
+* https://jsfiddle.net/twophayse/ay6rkLwt/
+* https://metacpan.org/release/Devel-REPL/source/lib/Devel/REPL.pm
+* https://rosettacode.org/wiki/Interactive_programming#Tcl
+
 ## Simplest HTML
 * http://dinosaur.compilertools.net/flex/manpage.html
 * https://www.x.org/releases/X11R7.5/doc/man/man1/xman.1.html
