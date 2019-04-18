@@ -36,6 +36,14 @@ https://www.popsci.com/is-climate-too-complex-to-model-or-predict
 http://www.marcandangel.com/2014/01/29/10-painfully-obvious-truths-everyone-forgets-too-soon/
 https://en.wikipedia.org/wiki/Amplituhedron
 
+## Malta
+
+https://en.wikipedia.org/wiki/Maltese_language
+
+https://en.wikipedia.org/wiki/Euphemius_(Sicily)
+
+https://en.wikipedia.org/wiki/Science_and_technology_in_the_Ottoman_Empire
+
 ## Names
 elisheba keziah mahlah
 
