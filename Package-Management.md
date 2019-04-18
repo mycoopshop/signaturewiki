@@ -1,4 +1,5 @@
 * https://devopedia.org/package-manager
+* https://jfearn.fedorapeople.org/en-US/RPM/4/html/RPM_Guide/ch-advanced-packaging.html
 * https://metacpan.org/pod/CPAN
 * https://medium.com/codefx-weekly/java-9-maven-compile-errors-module-names-kill-switches-73411c511750
 * http://neurocline.github.io/papers/survey-of-programming-language-packaging-systems.html
