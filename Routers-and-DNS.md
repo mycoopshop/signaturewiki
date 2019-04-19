@@ -90,3 +90,13 @@ https://frontier.com/helpcenter/categories/categories/internet/get-rid-of-proble
 
 http://shouldiblockicmp.com/
 33001
+
+## Bridging
+https://www.getcujo.com/wp-content/uploads/2016/04/CUJO_Manual_Instructions.pdf
+
+http://www.aptivate.org/uploads/filer_public/e6/91/e69134af-8c33-4d0c-8b80-aa5674fe38cb/bwmo-print.pdf
+
+https://www.tp-link.com/us/support/faq/
+
+https://community.spiceworks.com/how_to/1014-how-to-convert-a-wireless-router-into-an-access-point
+
