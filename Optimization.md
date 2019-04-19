@@ -69,6 +69,8 @@ http://proceedings.esri.com/library/userconf/devsummit18/papers/dev-int-097.pdf
 
 ## Build Tooling Code Reuse
 
+https://www.npmjs.com/package/microbundle
+
 https://snugug.com/musings/unit-testing-gulp-tasks/
 
 https://webpack.js.org/configuration/configuration-languages/#babel-and-jsx
