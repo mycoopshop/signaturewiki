@@ -1,7 +1,6 @@
 ## Linux
 * And Yet It Moves 
 * Cave Story 
-* Minecraft 
 * Portal 
 * Shogo: Mobile Armor Division 
 * Sid Meier's Alpha Centauri 
@@ -10,9 +9,7 @@
 * X3: Reunion
 * Darwinia
 * Civilization: Call to Power
-* Darwinia
 * Freeciv
-* Minecraft
 * Metro: Last Light
 * Psychonauts
 * Trauma
@@ -817,11 +814,16 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Dynasty Warriors: Gundam 3
 * Samurai Heroes
 * Lord of the Rings: War in the North
+* Middle-earth: Shadow of Mordor
 * Ratchet and Clank: All 4 One
 * Armored Core V
 * Tomb Raider Collection
 * inFamous Collection
 * Diablo III
+* Assassin's Creed Ezio Trilogy
+* BioShock Infinite: The Complete Edition
+* Grand Theft Auto IV Complete Edition
+* EA Sports Active 2.0 Bundle
 * Atelier Shallie: Alchemists of the Dusk Sea
 * Under Night In-Birth Exe:Late
 * The Legend of Heroes: Trails of Cold Steel
@@ -838,6 +840,8 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Dragon's Crown
 * Rayman Legends & Rayman Origins
 * Call of Duty: Black Ops Collection 1-3
+* Tales of Zestiria
+* Tales of Xillia 2 
 * Kingdom Hearts HD 2.5 ReMIX
 * Final Fantasy X / X-2 HD Remaster
 * Retro City Rampage DX 
