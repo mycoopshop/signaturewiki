@@ -818,6 +818,7 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Ratchet and Clank: All 4 One
 * Armored Core V
 * Tomb Raider Collection
+* The Disgaea Triple Play Collection
 * inFamous Collection
 * Diablo III
 * Assassin's Creed Ezio Trilogy
@@ -826,6 +827,11 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * EA Sports Active 2.0 Bundle
 * Atelier Shallie: Alchemists of the Dusk Sea
 * Under Night In-Birth Exe:Late
+* MX GP 14 
+* L.A. Noire
+* Mortal Kombat vs. DC Universe
+* Fallout New Vegas: Ultimate Edition
+* White Knight Chronicles II
 * The Legend of Heroes: Trails of Cold Steel
 * Portal 2
 * Grand Theft Auto: San Andreas
@@ -841,7 +847,10 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Rayman Legends & Rayman Origins
 * Call of Duty: Black Ops Collection 1-3
 * Tales of Zestiria
+* Tales of Xillia
 * Tales of Xillia 2 
+* Time and Eternity
+* Atelier Escha & Logy: Alchemists of the Dusk Sky
 * Kingdom Hearts HD 2.5 ReMIX
 * Final Fantasy X / X-2 HD Remaster
 * Retro City Rampage DX 
