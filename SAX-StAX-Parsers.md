@@ -1,4 +1,9 @@
 * http://www.oracle.com/technetwork/java/javase/tech/stax-1-0-150030.pdf
+* https://blogs.mulesoft.com/dev/mule-dev/fending-off-xxe-attacks/
+* https://stackoverflow.com/questions/22031739/xmlstreamreader-skips-elements
+* https://www.heatonresearch.com/2017/03/03/python-basic-wikipedia-parsing.html
+* https://www.programmergate.com/how-to-read-xml-using-stax-parser/
+* https://tuxdna.wordpress.com/2014/02/03/a-simple-scala-parser-to-parse-44gb-wikipedia-xml-dump/
 * http://www.xmlpull.org/history/
 * https://www.extreme.indiana.edu/xgws/papers/xml_push_pull/node3.html
 * http://developer.samsung.com/technical-doc/view.do?v=T000000094
