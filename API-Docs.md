@@ -8,6 +8,7 @@
 
 # References
 * https://github.com/zloirock/core-js
+* http://www.drdobbs.com/tools/testing-complex-software-automatically/240169188
 * https://developer.valvesoftware.com/wiki/Steam_Web_API
 * https://github.com/dotnet/standard/blob/master/docs/faq.md#why-is-jsonnet-not-part-of-net-standard
 * https://stackoverflow.com/questions/43354897/what-is-the-importance-of-default-exports-in-reactjs
