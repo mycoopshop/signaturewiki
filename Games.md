@@ -796,6 +796,7 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 ### Greatest Hits
 * Dishonored Game of the Year Edition
 * Watch Dogs
+* Fight Night Round 3
 * Fight Night Round 4
 * Tomb Raider Greatest Hits
 * Uncharted 1&2 Dual Pack
@@ -885,7 +886,8 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Yakuza 5
 * King's Quest: The Complete Collection
 * Final Fight: Double Impact
-
+* Bit.Trip Presents...Runner2: Future Legend of Rhythm Alien
+* Guacameelee
 
 PC
 ===
