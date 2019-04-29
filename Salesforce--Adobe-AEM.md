@@ -14,6 +14,7 @@ Excellent verbal and written communication skills
 
 **Job**
 * https://www.upwork.com/o/jobs/browse/?q=visualforce
+* https://www.upwork.com/o/jobs/browse/t/0/skill/salesforce-com/?client_hires=0&duration_v3=months&sort=recency&workload=as_needed
 * https://www.reddit.com/r/salesforce/comments/9nby0z/cant_use_mason_frank_to_find_job_is_there_a_trick/
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-faq.html
 * https://www.pacific.edu/about-pacific/administrationoffices/office-of-the-provost/about-the-office-of-the-provost/crm-services/crm-training-materials.html
