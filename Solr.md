@@ -28,3 +28,11 @@ https://opensourceconnections.com/blog/2017/02/20/solr-utf8/
 https://lucene.apache.org/solr/guide/6_6/tokenizers.html
 
 https://lucene.apache.org/solr/guide/6_6/filter-descriptions.html
+
+https://home.apache.org/~hossman/apachecon2008us/ootb/apache-solr-out-of-the-box.pdf
+
+http://assets.en.oreilly.com/1/event/61/Solr%20Application%20Development%20Tutorial%20Presentation.pdf
+
+https://archive.apachecon.com/eu2007/materials/solr-talk.pdf
+
+http://archive.apachecon.com/eu2012/presentations/06-Tuesday/PR-Lucene/aceu-2012-solr-4-the-NoSQL-database.pdf
