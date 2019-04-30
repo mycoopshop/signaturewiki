@@ -849,7 +849,10 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Call of Duty: Black Ops Collection 1-3
 * Tales of Zestiria
 * Tales of Xillia
-* Tales of Xillia 2 
+* Tales of Xillia 2
+* Tales of Xillia 1 & 2 Collection
+* Hitman HD Trilogy
+* Hitman Absolution
 * Time and Eternity
 * Atelier Escha & Logy: Alchemists of the Dusk Sky
 * Kingdom Hearts HD 2.5 ReMIX
