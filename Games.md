@@ -818,6 +818,7 @@ https://en.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles
 * Middle-earth: Shadow of Mordor
 * Ratchet and Clank: All 4 One
 * Armored Core V
+* Inversion
 * Tomb Raider Collection
 * The Disgaea Triple Play Collection
 * inFamous Collection
