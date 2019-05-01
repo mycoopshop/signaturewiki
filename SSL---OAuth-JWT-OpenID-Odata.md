@@ -9,6 +9,7 @@
 * https://api2cart.com/api-technology/choosing-oauth-type-api/
 * https://benohead.com/oauth-2-0-openid-connect-explained/
 * https://developer.okta.com/docs/api/resources/oidc
+* https://api.stackexchange.com/docs/render-question
 * https://javascriptplayground.com/node-and-google-oauth/
 * https://ping.force.com/Support/Topic-Detail/OAuth-Playground
 * https://oauth.net/2/grant-types/device-code/
