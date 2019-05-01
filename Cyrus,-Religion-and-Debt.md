@@ -24,6 +24,7 @@ http://www.ifes.org/sites/default/files/seher_a_new_dawn_breaks_oct_2016.pdf
 http://uselesstree.typepad.com/useless_tree/2008/10/the-tao-of-debt.html
 https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=1254&context=soss_research
 https://theorthodoxlife.wordpress.com/2014/01/27/the-lord-of-quantum-mechanics-and-teleportation/
+https://www.apnews.com/721ff3e714e44d63aa8d9cff861517de
 https://medium.com/sant-mat-meditation-and-spirituality/evidence-that-jesus-and-the-original-aramaic-christians-were-vegetarians-b8784ac42506
 https://www.forbes.com/sites/startswithabang/2018/02/13/chaos-theory-the-butterfly-effect-and-the-computer-glitch-that-started-it-all/
 https://plato.stanford.edu/entries/chaos/
