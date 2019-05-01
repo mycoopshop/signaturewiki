@@ -735,4 +735,10 @@ https://github.com/zloirock/core-js#commonjs
 
 https://github.com/JeffreyWay/laravel-mix/issues/436
 
+https://medium.com/@JoshuaKerievsky/preconditions-for-agility-41199e89d298?source=---------0---------------------
+
+https://medium.com/@johnpcutler/of-course-psychological-safety-but-how-21adb8d97ba7?source=---------2---------------------
+
+https://www.clever-cloud.com/blog/features/2018/02/13/issues-helper/
+
 https://reactpatterns.com/
