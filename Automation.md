@@ -5,6 +5,16 @@ http://www.catonmat.net/blog/introduction-to-perl-one-liners/
 
 http://tuxgraphics.org/~guido/scripts/awk-one-liner.html
 
+## Powershell
+
+http://ramblingcookiemonster.github.io/PSSlack/
+
+## VBScript
+
+https://stackoverflow.com/questions/28637817/call-slack-api-via-vbscript-rule-in-outlook
+
+https://www.reddit.com/r/vba/comments/6tz0yz/slack_vba_api/
+
 ## Reference
 
 * http://docs.activestate.com/activeperl/5.10/Windows/WindowsScriptHost.html#elemjob
