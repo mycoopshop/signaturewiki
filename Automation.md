@@ -15,6 +15,8 @@ https://stackoverflow.com/questions/28637817/call-slack-api-via-vbscript-rule-in
 
 https://www.reddit.com/r/vba/comments/6tz0yz/slack_vba_api/
 
+https://stackoverflow.com/questions/28637817/call-slack-api-via-vbscript-rule-in-outlook
+
 ## Reference
 
 * http://docs.activestate.com/activeperl/5.10/Windows/WindowsScriptHost.html#elemjob
