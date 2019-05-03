@@ -25,6 +25,8 @@ https://www.tonymarston.net/php-mysql/singletons-are-not-evil.html
 
 https://www.keithcirkel.co.uk/proposal-operator-overloading/
 
+http://2ality.com/2016/01/classes-inner-names.html#the-inner-names-of-classes
+
 http://amzn.github.io/ion-docs/guides/cookbook.html
 
 https://www.sitepoint.com/symbol-gc-ruby-2-2/
