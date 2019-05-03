@@ -1,8 +1,12 @@
 Common Data
 vCard
+
 iCal
+
 creativecommons
+
 schema.org
+
 csv/tsv
 
 
@@ -166,3 +170,4 @@ https://redux.js.org/introduction/ecosystem
 * https://blogs.msdn.microsoft.com/webdev/2017/11/28/improve-website-performance-by-optimizing-images/
 * https://msdn.microsoft.com/en-us/magazine/mt632272.aspx
 * http://odinodin.no/2015-07-14-react-hover/
+* https://www.balisage.net/Proceedings/vol21/html/Thompson01/BalisageVol21-Thompson01.html
