@@ -52,6 +52,7 @@
 * https://x-team.com/blog/react-vue-component-integration/
 
 ## JavaScript Migration
+* http://2ality.com/2012/08/property-definition-assignment.html
 * https://medium.com/unbabel-dev/progressively-migrating-from-angularjs-to-vue-js-at-unbabel-581eb4ae022d
 * http://jasonsteinshouer.com/javascript/2016/11/03/vuejs-migration.html
 * https://medium.com/js-dojo/switching-from-react-to-vue-js-badf34565a2d
