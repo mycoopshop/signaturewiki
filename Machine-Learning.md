@@ -10,6 +10,7 @@
 * https://blog.wolfram.com/2010/11/30/how-to-win-at-coin-flipping/
 * https://medium.com/@mikeharrisNY/the-heist-is-the-coin-toss-77ee4d870037
 * https://docs.aws.amazon.com/silk/latest/developerguide/machine-learning.html
+* https://www.codeproject.com/Articles/4414/A-Proposed-Model-for-Simulating-Human-Artificial-I
 
 ## Techniques
 * https://rosettacode.org/wiki/Rock-paper-scissors
@@ -17,6 +18,7 @@
 * https://www.linkedin.com/pulse/naive-bayes-classifier-foundation-machine-learning-chase-perkins
 * https://www.reddit.com/r/askscience/comments/3zghfk/mathematics_probability_question_do_we_treat_coin/
 * https://statweb.stanford.edu/~susan/papers/headswithJ.pdf
+* https://www.kaggle.com/yusukesaito0141/bigqueryml-is-all-you-need
 
 ## Relational Data Interoperability
 * http://www.kde.cs.tsukuba.ac.jp/~masa/papers/thesis.pdf
@@ -71,7 +73,8 @@
 
 ## Chatbots
 * https://easydita.com/a-chatbot-maturity-model/
-* 
+* https://www.sam-solutions.com/blog/java-is-it-the-best-language-for-artificial-intelligence/
+
 ## Slackbots
 https://medium.com/slack-developer-blog/conversing-with-ai-on-slack-5af2561f98a5
 https://medium.com/@SAPCAI/a-natural-language-slackbot-19ca5b0fc64b
