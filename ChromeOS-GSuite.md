@@ -16,9 +16,21 @@ The Chromium developer how-tos and Group Policy presentations outline all of the
 * https://www.ifixit.com/Wiki/Asus_Chromebook_C202_Troubleshooting
 * https://www.ifixit.com/Document/2289/.pdf
 * https://www.ifixit.com/Teardown/Asus+Chromebook+C202+Teardown/57992
+* https://chromium.googlesource.com/chromiumos/platform/factory/+/HEAD/setup/NETBOOT.md
 
 # Pixel C
 * https://en.wikipedia.org/wiki/Pixel_C
+
+# DHCP
+https://support.google.com/a/answer/2634553?hl=en
+
+https://support.google.com/wifi/answer/6274660?hl=en
+
+https://support.google.com/wifi/answer/6274503#when
+
+https://www.reddit.com/r/chromeos/comments/9rv9vk/smb_sharing_on_chrome_os_ive_been_waiting_for_this/
+
+https://bugs.chromium.org/p/chromium/issues/detail?id=377990
 
 # Preferences JS
 * https://support.google.com/chrome/a/answer/187948?hl=en
