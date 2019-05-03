@@ -1,4 +1,6 @@
 * http://www.oracle.com/technetwork/java/javase/tech/stax-1-0-150030.pdf
+* http://www.javased.com/index.php?api=javax.xml.stream.XMLStreamReader
+* http://www.java2s.com/Tutorials/Java/Java_XML/0300__Java_StAX_Intro.htm
 * https://blogs.mulesoft.com/dev/mule-dev/fending-off-xxe-attacks/
 * https://stackoverflow.com/questions/22031739/xmlstreamreader-skips-elements
 * https://www.heatonresearch.com/2017/03/03/python-basic-wikipedia-parsing.html
@@ -23,3 +25,4 @@
 * https://github.com/azeemigi/kernel/blob/master/dependencies/axis2/1.6.1-wso2v8/modules/adb-codegen/src/org/apache/axis2/schema/template/ADBBeanTemplate-bean.xsl
 * https://github.com/venkateshyadva/sfdc-Eyereturn/blob/master/sample/codepkg/classes/AWS_XMLDom.cls
 * https://eujournal.org/index.php/esj/article/viewFile/8056/7762
+* 
