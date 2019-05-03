@@ -1,6 +1,6 @@
 ## Webhooks
 
-WebHooks are HTTP POSTs bound to a callback request sent to URL of a user's choice in response to some event occurring. For example:
+WebHooks are HTTP POSTs bound to a URL which will fire a callback to respond to requests sent to it to facilitate server-sent events ala an XML push parser. For example:
 
 Event Subscription via URL => Timestamp Change Event => HTTP POST callback => Synchronization 
 
@@ -42,6 +42,7 @@ The subscription request is a POST HTTP request. You can issue it using a comman
 1. https://zapier.com/apps/rss/integrations/webhook/1746/send-a-webhook-when-an-rss-feed-is-updated
 1. https://webrender.net/2017/11/23/automate-github-pages-ifttt-glitch.html
 1. https://github.com/adlnet/ADL_LRS/wiki/Webhooks
+1. https://www.codemag.com/Article/1705031/Office-365-Connectors-and-WebHooks-Part-1
 1. https://nordicapis.com/webhooks-vs-websub-which-one-is-better-to-stream-your-events-in-real-time/
 1. https://www.programmableweb.com/news/what-are-webhooks-and-how-do-they-enable-real-time-web/2012/01/30
 1. https://www.programmableweb.com/news/what-pubsubhubbub-push-styled-api-and-how-does-it-work/analysis/2017/04/03
