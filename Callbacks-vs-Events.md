@@ -173,3 +173,4 @@ For this particular example, a timer will work fine. This is just an example to 
 * https://firefox-source-docs.mozilla.org/toolkit/content/toolkit_widgets/ua_widget.html
 * https://yahooeng.tumblr.com/post/122162710056/easier-instrumentation-with-react-i13n
 * https://github.com/Microsoft/TypeScript/issues/1224
+* https://www.easy-bits.com/blog/send-data-two-iframes
