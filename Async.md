@@ -23,6 +23,7 @@
 
 ## Flow Control
 * https://davidwalsh.name/promises-results
+* http://2ality.com/2017/08/promise-callback-data-flow.html
 * https://theoestudio.com/async-await-chaining/
 * https://stackoverflow.com/questions/50284005/handle-chained-promise-errors-in-async-await
 * https://nmaggioni.xyz/2016/10/13/Avoiding-Promise-all-fail-fast-behavior/
