@@ -25,6 +25,9 @@ And here are a couple of tutorials:
 * https://community.articulate.com/discussions/building-better-courses/reverse-engineering-scorm-packages-for-editing
 * https://scorm.com/scorm-explained/technical-scorm/
 
+## TinCan / xAPI
+* https://xapi.com/share-statements-between-courses/
+
 ## PhoneGap
 
 * https://cordova.apache.org/docs/en/latest/guide/appdev/security/
