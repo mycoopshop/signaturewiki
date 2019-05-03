@@ -2,6 +2,12 @@ achsah keturah kezia jael
 
 https://www.lessonplanet.com/search?keywords=tupac
 
+https://en.wikipedia.org/wiki/Supreme_Understanding
+https://en.wikipedia.org/wiki/Samuel_M._Nabrit
+https://en.wikipedia.org/wiki/George_J._Hazel
+https://en.wikipedia.org/wiki/George_J._Hazel
+http://nathanielturner.com/helpsavechickenbones.htm
+https://biography.jrank.org/pages/2892/Abele-Julian-Francis.html
 https://techbridgegirls.org/index.php?id=231
 
 https://en.wikipedia.org/wiki/Etymology_of_California
