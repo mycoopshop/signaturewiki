@@ -80,9 +80,12 @@ https://sites.google.com/site/scriptsexamples/tools-for-google-sites/responsive-
 
 https://ctrlq.org/dev/google-apps-script
 
+https://www.gamasutra.com/blogs/ChristopherPfeiffer/20170418/296193/Using_Google_Action_Script_to_create_highly_collaborative_dev_tools.php
+
 https://webapps.stackexchange.com/questions/33263/force-users-to-update-password-every-3-months-for-google-apps
 
 https://webapps.stackexchange.com/questions/26795/automated-solution-to-delete-certain-gmail-messages-older-than-n-days
+
 
 ## Marketplace
 
