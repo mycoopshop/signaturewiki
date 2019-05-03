@@ -25,3 +25,5 @@ Limit code to declarative and interrogative array methods:
 * https://github.com/facebook/jest/pull/3668
 
 * https://github.com/facebook/jest/issues/4362
+
+* http://www.saxonica.com/papers/xmlprague-2019mhk.pdf
