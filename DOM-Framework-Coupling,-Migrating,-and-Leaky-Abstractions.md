@@ -11,6 +11,11 @@
 * https://github.com/uikit/uikit/blob/master/src/js/util/fastdom.js
 * https://github.com/uikit/uikit/blob/master/src/js/util/player.js
 
+# Flash to Haxe
+https://www.gamasutra.com/blogs/DougPearson/20171212/311570/Post_Mortem_The_Death_of_Flash_and_Rewriting_14_Million_Lines_of_Code.php
+
+https://www.gamasutra.com/blogs/AlexNichiporchik/20140312/212884/5_things_learned_Flash_to_Unity_port_of_No_Time_To_Explain.php
+
 ## Server-Side Rendering
 * https://strongloop.com/strongblog/template-systems-in-node/
 * https://www.npmjs.com/package/jsoniq
