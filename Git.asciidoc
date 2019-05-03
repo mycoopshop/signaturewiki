@@ -253,7 +253,13 @@ https://www.linux.org/docs/man7/gitrevisions.html
 
 http://people.irisa.fr/Anthony.Baire/git/git-advanced-handout.pdf
 
+https://github.com/git/git/blob/master/Documentation/git-checkout.txt
+
 https://www.kernel.org/pub/software/scm/git/docs/git-checkout.html
+
+https://stackoverflow.com/questions/30778200/git-cli-commands-for-stage-unstage-hunks-lines-like-sourcetree
+
+https://stackoverflow.com/questions/22297284/create-a-git-diff-of-a-file-from-sourcetree
 
 https://www.python.org/dev/peps/pep-0103/
 
