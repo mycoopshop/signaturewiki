@@ -106,6 +106,24 @@ https://support.google.com/wifi/answer/6277579
 
 https://support.apple.com/en-au/HT202068
 
+https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/network-wireless.html
+
+https://www.cisco.com/c/en/us/support/docs/wireless-mobility/80211/200527-Fundamentals-of-802-11-Wireless-Sniffing.html
+
+https://tools.ietf.org/id/draft-perkins-intarea-multicast-ieee802-03.html
+
+https://tools.ietf.org/id/draft-ietf-mboned-ieee802-mcast-problems-01.html
+
+https://dri.es/files/wlan-faq.html
+
+https://link.springer.com/content/pdf/bbm%3A978-1-4020-5397-9%2F1.pdf
+
+http://ftp1.digi.com/support/documentation/0190170_b.pdf
+
+https://mentor.ieee.org/802.15/dcn/12/15-12-0600-00-0l2r-l2r-november-2012-tutorial.pdf
+
+https://arxiv.org/pdf/1601.00028.pdf
+
 http://www.nyu.edu/classes/jcf/CSCI-GA.2262-001_fa13/slides/session5/WirelessAndMobileNetworks.pdf
 
 https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/Building-Home-Network-72409.pdf
@@ -117,3 +135,13 @@ http://ridl.cfd.rit.edu/products/manuals/IPCam/IP%20CAM%20%20UM.pdf
 https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf
 
 https://docs.oracle.com/cd/E52521_01/doc.420/910-5411-001_rev_c.pdf
+
+https://ruckus-www.s3.amazonaws.com/pdf/wp/wp-how-interworking-works.pdf
+
+http://www.sanog.org/resources/sanog17/sanog17-wifi-wimax-tanim.pdf
+
+https://www.silabs.com/documents/login/presentations/WiFi-technology.pdf
+
+https://www.gsma.com/newsroom/wp-content/uploads/TS.22_v5.0.pdf
+
+https://www.savvius.com/networking-glossary/wireless_lan_overview/wlan_packets/
