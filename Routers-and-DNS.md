@@ -100,3 +100,20 @@ https://www.tp-link.com/us/support/faq/
 
 https://community.spiceworks.com/how_to/1014-how-to-convert-a-wireless-router-into-an-access-point
 
+https://support.google.com/wifi/answer/6277579
+
+## Principles
+
+https://support.apple.com/en-au/HT202068
+
+http://www.nyu.edu/classes/jcf/CSCI-GA.2262-001_fa13/slides/session5/WirelessAndMobileNetworks.pdf
+
+https://web.stanford.edu/dept/its/support/techtraining/techbriefing-media/Building-Home-Network-72409.pdf
+
+https://www.methodist.edu/sites/default/files/ctools/CompTIA_Network_N10-005.pdf
+
+http://ridl.cfd.rit.edu/products/manuals/IPCam/IP%20CAM%20%20UM.pdf
+
+https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf
+
+https://docs.oracle.com/cd/E52521_01/doc.420/910-5411-001_rev_c.pdf
