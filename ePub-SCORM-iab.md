@@ -29,6 +29,9 @@ And here are a couple of tutorials:
 ## TinCan / xAPI
 * https://xapi.com/share-statements-between-courses/
 
+## iab
+* https://iabtechlab.com/ads-txt/
+
 ## PhoneGap
 
 * https://cordova.apache.org/docs/en/latest/guide/appdev/security/
