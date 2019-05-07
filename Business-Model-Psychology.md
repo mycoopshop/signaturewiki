@@ -2,6 +2,9 @@
 
 >>I work at one such large org. We would pay good money for a 5 year support contract for a fixed version of a framework getting backported security (and maybe a few feature) updates.
 
+* https://www.apnews.com/BusinessWire/d5d005bb970341028eb9c5cf1e6ce59b
+* https://www.apnews.com/c18886af6ba7432db5a27f0d9fef1e15
+* https://synchchaos.com/essay-from-ayokunle-adeleye-13/
 * https://www.computerworld.com/article/2485087/emerging-technology-case-study-3-heavyweights-give-gamification-a-go.html?page=2
 * https://medium.com/aws-enterprise-collection/6-strategies-for-migrating-applications-to-the-cloud-eb4e85c412b4
 * https://yourstory.com/2014/03/ultimate-master-list-revenue-models-web-mobile-companies/
