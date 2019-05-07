@@ -1,5 +1,10 @@
 title:firefox title:chrome +webextension site:github.com -title:issue
 
+## Extension Developer Extension
+* https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Chrome_incompatibilities
+* https://bugs.chromium.org/p/chromium/issues/detail?id=813285
+* https://bugs.chromium.org/p/chromium/issues/detail?id=798169
+
 ## Source Debugging
 * Chrome Extension Source Viewer: https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
 * Chrome App and Extensions Developer Tool: https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc
