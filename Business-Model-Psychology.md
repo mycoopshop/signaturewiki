@@ -259,6 +259,7 @@
 * https://2018.jsconf.us/speakers/caroline-dikibo/
 * http://social-bite.co.uk/profits-projects/
 * https://www.merriam-webster.com/dictionary/collateral
+* https://www.apnews.com/4a56a88ce7704b268d1d27586d9fafd3
 
 # Data Bias
 * https://www.rhymedb.com/word/glove
