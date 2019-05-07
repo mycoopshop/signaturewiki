@@ -238,6 +238,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 * https://github.com/defunctzombie/package-browser-field-spec
 * https://github.com/webpack/webpack/issues/520
 * https://github.com/webpack/webpack/tree/master/schemas
+* https://github.com/webpack/webpack-dev-server/issues/1713
 
 # Benchmarking
 * https://webpack.js.org/api/stats/
@@ -263,6 +264,7 @@ https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-emai
 # Dev Server
 * https://github.com/webpack/webpack-dev-server/blob/master/lib/Server.js#L696
 * https://github.com/webpack/webpack-dev-server/blob/master/lib/options.json
+* https://github.com/webpack/webpack-dev-server/blob/master/test/Validation.test.js
 * https://github.com/webpack/webpack-dev-server/issues/887
 * https://news.ycombinator.com/item?id=12406310
 * https://medium.com/0xcc/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability-8189e85b486b
