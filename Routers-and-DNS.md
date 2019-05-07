@@ -144,4 +144,6 @@ https://www.silabs.com/documents/login/presentations/WiFi-technology.pdf
 
 https://www.gsma.com/newsroom/wp-content/uploads/TS.22_v5.0.pdf
 
+https://www.arris.com/globalassets/resources/white-papers/arris_quest_4k_video_over_wi-fi_wp.pdf
+
 https://www.savvius.com/networking-glossary/wireless_lan_overview/wlan_packets/
