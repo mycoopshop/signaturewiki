@@ -1,5 +1,6 @@
 ## References
 * https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities
+* https://www.mozilla.org/en-US/about/policy/lean-data/build-security/
 * http://www.dtic.mil/dtic/tr/fulltext/u2/1021683.pdf
 * https://developer.android.com/docs/quality-guidelines/core-app-quality
 * https://developer.android.com/guide/components/intents-filters#Types
