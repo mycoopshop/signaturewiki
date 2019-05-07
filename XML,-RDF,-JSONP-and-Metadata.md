@@ -128,6 +128,21 @@
 
 * https://www.w3.org/MarkUp/htmlplus_paper/htmlplus.html
 
+## XML History
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC130066/
+
+http://wiki.hl7.org/index.php?title=JSON_based_ITS
+
+https://www.loc.gov/preservation/digital/formats/fdd/fdd000465.shtml
+
+https://www.w3.org/2012/08/history-of-the-web/origins.htm
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1761852/
+
+http://faculty.trinity.edu/rjensen/XBRLandOLAP.htm
+
+
 ## Code
 
 * https://codepunk.io/xml-xslt-and-mvc/
