@@ -65,6 +65,7 @@ url:servlet ext:pdf site:salesforce.com
 ## Admin
 * https://www.suretysystems.com/insights/salesforce-lightning-object-creator/
 * https://www.forbes.com/sites/jasonbloomberg/2018/07/30/low-codeno-code-hpapaas-heres-what-everybody-is-missing/
+* https://admin.salesforce.com/salesforce-admin-podcast
 * https://admin.salesforce.com/posts
 * https://admin.salesforce.com/lightning-champions
 * https://admin.salesforce.com/flowbuilder
@@ -690,6 +691,12 @@ https://help.salesforce.com/articleView?id=bi_security_datasets_predicate_consid
 ## License Management
 * https://resources.docs.salesforce.com/sfdc/pdf/salesforce_lma_guide.pdf
 * https://success.salesforce.com/issues_view?id=a1p300000008YmVAAU&title=performance-edition-orgs-showing-as-base-edition-in-lma
+
+## Commerce Cloud
+* https://github.com/singhdamodar3/sfra
+* https://files.mtstatic.com/site_8190/31064/0?Expires=1557348203&Signature=Bz67y6q4LF36fjIj4I3~i6KfavSYLSbEWQavUU~Q~-hdmHtYC0fdFFkPh8IusxcgfIppI89njv5a9rDDSa3-njGBk-9f~4ak9C~g5wcP8uwmZIrKadrKwjGJjPy6W9-M6AkhCiADTgOO6KkqZaCdk9C7zXdDrgZ8HtPY8Z3uVqY_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA
+* https://documentation.b2c.commercecloud.salesforce.com/DOC4/index.jsp?topic=%2Fcom.demandware.dochelp%2FSFRA%2FSFRASetup.html
+* https://www.bluewolf.com/bluewolf-now/what-know-about-storefront-reference-architecture
 
 ## Marketing Cloud
 * https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Developer-Edition-Recipes/blob/e046cf96acb7ef74fa818e6d5b2696bbeef0cb2c/getting-started-with-ampscript-developer-notes.md
