@@ -449,6 +449,7 @@ https://help.salesforce.com/articleView?id=collab_files_connect_share.htm&type=5
 * https://github.com/dreamhouseapp
 * https://github.com/developerforce/LEXComponentsBundle
 * https://github.com/developerforce/LightningContainerExamples
+* https://github.com/SalesforceCommerceCloud/
 * https://github.com/quip/quip-api
 * https://github.com/salesforce-ux
 * https://github.com/salesforceidentity
