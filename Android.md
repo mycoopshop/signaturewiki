@@ -32,6 +32,8 @@ http://www.android-ide.com/tutorial_androidapp.html
 
 https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications
 
+https://en.wikipedia.org/wiki/Carrier_IQ
+
 http://barbra-coco.dyndns.org/student/Gradle%20in%20Action.pdf
 
 http://www.vogella.com/tutorials/Gradle/article.html
