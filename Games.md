@@ -929,7 +929,6 @@ Disney's Atlantis: The Lost Empire ( UPC: 711719463627 )
 Colony Wars 3: Red Sun ( UPC: 031719268443 )
 Einhander ( UPC: 711719424321 )
 Silhouette Mirage ( UPC: 735366007287 )
-Street Fighter Alpha 3 ( UPC: 013388210442 )
 Guilty Gear ( UPC: 730865520145 )
 Incredible Crisis ( UPC: 091493054281 )
 Carnage Heart ( UPC: 711719460428 )
@@ -965,9 +964,7 @@ Persona 4 ( UPC: 730865530304 )
 Persona 3: FES ( UPC: 730865530267 )
 Persona 3 ( UPC: 730865530212 )
 Valkyrie Profile 2: Silmeria ( UPC: 662248906102 )
-Madden 12 ( UPC: 014633196870 )
 Dokapon Kingdom ( UPC: 730865530281 )
-Sakura Wars
 Mister Mosquito
 Warship Gunner 2
 Aliens vs Predator: Extinction
@@ -975,10 +972,7 @@ Road Trip
 Gadget Racers
 Heavenly Guardian
 Haunting Ground
-NiGHTS into Dreams
 Blood Will Tell
-Kung-Fu Panda
-NBA 2K12
 WWE All Stars
 
 
